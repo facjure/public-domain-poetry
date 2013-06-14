@@ -1,3 +1,0 @@
-PIL
-lxml
-https://github.com/mikemaccana/python-docx/archive/master.zip
