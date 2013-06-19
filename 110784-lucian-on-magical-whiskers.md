@@ -1,4 +1,4 @@
-title: Lucian on Magical Whiskers
+## Lucian on Magical Whiskers
 
 
 If by growing a goatee you hope to come upon wisdom, 
