@@ -1,3 +1,5 @@
 # Poems
 
-Our curated poems available on the public domain.
+Curated poems from the public domain. 
+
+Written in markdown.
