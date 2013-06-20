@@ -1,5 +1,3 @@
 # Poems
 
-Curated poems from the public domain. 
-
-Written in markdown.
+Curated poems from the public domain. Written in markdown.
