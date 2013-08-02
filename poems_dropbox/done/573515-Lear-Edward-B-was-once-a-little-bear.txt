@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: b from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+b
+
+B was once a little bear,
+Beary,
+Wary,
+Hairy,
+Beary,
+Taky cary,
+Little bear!

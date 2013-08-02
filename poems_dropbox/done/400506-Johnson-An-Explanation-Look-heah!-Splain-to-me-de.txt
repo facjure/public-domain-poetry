@@ -1,0 +1,24 @@
+---
+author: James Weldon Johnson
+gender: male
+title: An Explanation 
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - lyric
+ - meditative
+ - love
+ - african american poetry
+ - brother
+---
+
+Look heah! 'Splain to me de reason
+Why you said to Squire Lee,
+Der wuz twelve ole chicken thieves
+In dis heah town, includin' me.
+Ef he tole you dat, my brudder,
+He said sump'n dat warn't true;
+W'at I said wuz dis, dat der wuz
+Twelve, widout includin' you.
+Oh!...!—

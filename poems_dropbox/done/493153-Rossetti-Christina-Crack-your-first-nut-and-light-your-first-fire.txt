@@ -1,0 +1,26 @@
+---
+author: Christina Rossetti
+gender: female
+title: October
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - October
+ - fire
+ - dance
+---
+October
+
+Crack your first nut and light your first fire,
+  Roast your first chestnut crisp on the bar;
+Make the logs sparkle, stir the blaze higher;
+  Logs are cheery as sun or as star,
+  Logs we can find wherever we are.
+
+Spring one soft day will open the leaves,
+  Spring one bright day will lure back the flowers;
+Never fancy my whistling wind grieves,
+  Never fancy I've tears in my showers;
+  Dance, nights and days! and dance on, my hours!

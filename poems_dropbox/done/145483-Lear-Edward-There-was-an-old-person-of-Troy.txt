@@ -1,0 +1,25 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Person of Troy"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - old
+ - Troy
+ - funny
+ - strange
+ - alcohol
+ - moon
+ - light
+ - Turkey
+---
+
+There was an Old Person of Troy,
+Whose drink was warm brandy and soy,
+Which he took with a spoon, by the light of the moon,
+In sight of the city of Troy.
+

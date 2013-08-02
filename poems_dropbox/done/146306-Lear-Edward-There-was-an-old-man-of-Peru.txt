@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man of Peru"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - old
+ - Peru
+ - funny
+ - strange
+ - marriage
+ - wife
+---
+
+There was an Old Man of Peru,
+Who watched his wife making a stew;
+But once, by mistake, in a stove she did bake
+That unfortunate Man of Peru.

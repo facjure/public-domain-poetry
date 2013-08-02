@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: "There was a Young Lady whose chin"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - strange
+ - harp 
+ - music
+---
+
+There was a Young Lady whose chin
+Resembled the point of a pin;
+So she had it made sharp, and purchased a harp,
+And played several tunes with her chin.

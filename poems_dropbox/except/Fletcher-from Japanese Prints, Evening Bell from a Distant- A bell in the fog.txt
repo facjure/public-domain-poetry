@@ -1,0 +1,21 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Evening Bell from a Distant Temple
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - twilight
+ - gold
+---
+
+A bell in the fog
+Creeps out echoing faintly
+The pale broad flashes
+Of vibrating twilight,
+Faded gold.

@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: D from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter D
+
+D was a dove,
+Who lived in a wood,
+With such pretty soft wings,
+And so gentle and good!
+
+d!
+Dear little Dove!

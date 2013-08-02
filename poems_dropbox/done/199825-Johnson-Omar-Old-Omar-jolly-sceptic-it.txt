@@ -1,0 +1,19 @@
+---
+author: James Weldon Johnson
+gender: male
+title: Omar
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - lyric
+ - meditative
+ - mystical
+ - african american poetry
+ - summer
+---
+
+Old Omar, jolly sceptic, it may be
+That, after all, you found the magic key
+To life and all its mystery, and I
+Must own you have almost persuaded me.

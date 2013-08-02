@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: K from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter K
+
+K was a kingfisher:
+Quickly he flew,
+So bright and so pretty!—
+Green, purple, and blue.
+
+k!
+Kingfisher, blue!

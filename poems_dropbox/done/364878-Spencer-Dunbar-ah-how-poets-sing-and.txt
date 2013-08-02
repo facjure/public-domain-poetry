@@ -1,0 +1,31 @@
+---
+title: Dunbar
+author: Anne Spencer
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: female
+type: 
+tags:
+ - Harlem Renaissance
+ - lyric
+ - death
+ - heaven
+ - tradition
+ - poets
+ - classics
+ - Romantics
+ - beauty
+ - life
+ - fate
+ 
+---
+
+DUNBAR
+
+Ah, how poets sing and die!	
+Make one song and Heaven takes it;	
+Have one heart and Beauty breaks it;	
+Chatterton, Shelley, Keats and I—	
+Ah, how poets sing and die!

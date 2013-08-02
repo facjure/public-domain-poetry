@@ -1,0 +1,34 @@
+---
+author: Charles Baudelaire
+gender: male
+title: To a Passerby
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - sonnet
+ - love
+ - feet
+ - city
+---
+
+Around me thundered the deafening noise of the street,
+In mourning apparel, portraying majestic distress,
+With queenly fingers, just lifting the hem of her dress,
+A stately woman passed by with hurrying feet.
+
+Agile and noble, with limbs of perfect poise,
+Damn, how I drank, thrilled through like a Being insane,
+In her look, a dark sky, from where springs forth the hurricane,
+There lay but the sweetness that charms, and the joy that destroys.
+
+A flash—then the night.... loveliness fugitive!
+Whose glance has so suddenly caused me again to live,
+Will I not see you again until this life is over!
+
+Elsewhere, far away ... too late, perhaps never more,
+For I know not where you fly, nor you, where I go,
+Soul that I would have loved, and that you know!

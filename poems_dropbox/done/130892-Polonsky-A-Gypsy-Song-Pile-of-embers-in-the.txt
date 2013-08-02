@@ -1,0 +1,37 @@
+---
+author: Yakov Polonsky
+gender: male
+title: A Gypsy Song
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th Century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - love
+ - darkness
+ - flight
+ - kisses
+---
+
+Pile of embers in the darkness,
+  Sparks expire as they fly—
+Night conceals us from the passing,
+  On the bridge we'll say good-by!
+At the parting, shawl of crimson
+  Cross my shoulders thou shalt lace,
+At an end the days swift passing,
+  Met within this shaded place.
+In the morning, with first splendor,
+  All my life compelled to rove—
+I shall leave with other gipsies
+  Seeking happiness and love.
+How does fate foretell my future?
+  Who, to-morrow by my side,
+Over my heart will loose with kisses
+  Knots by thy dear hand fast tied?
+Flash of embers in the darkness,
+  Sparks expire as they fly—
+Night conceals us from the passing,
+  On the bridge we'll kiss good-by!

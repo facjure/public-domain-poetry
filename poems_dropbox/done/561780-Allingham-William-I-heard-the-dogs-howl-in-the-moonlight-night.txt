@@ -1,0 +1,24 @@
+---
+author: William Allingham
+gender: male
+title: A Dream
+curator: Ata
+year: 19th century
+country: Ireland
+tags:
+ - dream
+ - dogs
+ - window
+ - dark imagery
+ - night
+ - death
+ - zombies
+ - moonlight
+ - howl
+---
+A Dream
+ 
+I heard the dogs howl in the moonlight night.
+I went to the window to see the sight:
+All the dead that ever I knew
+Going one by one and two by two.

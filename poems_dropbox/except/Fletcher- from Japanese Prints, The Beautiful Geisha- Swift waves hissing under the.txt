@@ -1,0 +1,25 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Beautiful Geisha
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - moonlight
+ - boats
+---
+
+Swift waves hissing
+Under the moonlight;
+Tarnished silver.
+Swaying boats
+Under the moonlight,
+Gold lacquered prows.
+Is it a vision
+Under the moonlight?
+No, it is only
+A beautiful geisha swaying down the street.

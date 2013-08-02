@@ -1,0 +1,29 @@
+---
+author: Mother Goose
+gender:
+title: Just Like Me 
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - children poetry
+ - lyric
+ - funny
+ - house
+ - monkey
+---
+
+"I went up one pair of stairs."
+    "Just like me."
+
+"I went up two pairs of stairs."
+    "Just like me."
+
+"I went into a room."
+    "Just like me."
+
+"I looked out of a window."
+    "Just like me."
+
+"And there I saw a monkey."
+    "Just like me."

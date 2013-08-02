@@ -1,0 +1,20 @@
+---
+author: Wilfrid Wilson Gibson
+gender: male
+title: The Blind Rower
+curator: Ata
+year: 19th/20th century
+country: England
+tags:
+ - supernatural
+ - ghosts
+ - dead
+ - water
+ - dark imagery
+---
+The Blind Rower
+
+Some say they saw the dead man steer—
+The dead man steer the blind man home—
+Though, when they found him dead,
+His hand was cold as lead.

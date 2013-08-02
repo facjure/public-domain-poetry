@@ -1,0 +1,39 @@
+---
+author: Christina Rossetti
+gender: female
+title: A Song
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - weeping
+ - crying
+ - sun
+ - stream
+ - May
+ - moon
+ - green 
+ - fish
+ - memory
+ - sea
+ - music
+ - stream
+ - song
+---
+A Song
+
+She sat and sang alway
+  By the green margin of a stream,
+Watching the fishes leap and play
+  Beneath the glad sunbeam.
+
+I sat and wept alway
+  Beneath the moon's most shadowy beam,
+Watching the blossoms of the May
+  Weep leaves into the stream.
+
+I wept for memory;
+  She sang for hope that is so fair:
+My tears were swallowed by the sea;
+  Her songs died on the air.

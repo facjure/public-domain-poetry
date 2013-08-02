@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender:
+title: Lucy Locket
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - children poetry
+ - lyric
+ - funny
+ - friendship
+---
+
+LUCY LOCKET
+
+Lucy Locket lost her pocket,
+Kitty Fisher found it;
+Nothing in it, nothing in it,
+But the binding round it.

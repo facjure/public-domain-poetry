@@ -1,0 +1,40 @@
+
+---
+title: Stanzas 6 and 7 from Part 1 of The Ballad of Reading Gaol
+author: Oscar Wilde
+curator: NCR
+country: England
+year: 1896
+book: The Ballad of Reading Gaol	
+gender: male
+type: Ballad
+tags:
+ - prison
+ - crime
+ - murder
+ - punishment
+ - lust
+ - dead
+ - love
+ - death
+ - killing
+ - cowardice
+ - bravery
+ 
+---
+
+Stanzas 6 and 7 from Part 1 of THE BALLAD OF READING GAOL
+
+               I only knew what hunted thought
+                 Quickened his step, and why
+               He looked upon the garish day
+                 With such a wistful eye;
+               The man had killed the thing he loved
+                 And so he had to die.
+
+               Yet each man kills the thing he loves
+                 By each let this be heard,
+               Some do it with a bitter look,
+                 Some with a flattering word,
+               The coward does it with a kiss,
+                 The brave man with a sword!

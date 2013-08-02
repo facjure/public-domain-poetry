@@ -1,0 +1,26 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Old Love and the New
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - love
+ - evening
+---
+
+Beware, for the dying vine can hold
+The strongest oak.
+Only by cutting at the root
+Can love be altered.
+Late in the night
+A rosy glimmer yet defies the darkness.
+But the evening is growing late,
+The blinds are being lowered;
+She who held your heart and charmed you
+Is only a rosy glimmer of flame remembered.

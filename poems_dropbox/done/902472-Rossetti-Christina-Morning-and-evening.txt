@@ -1,0 +1,48 @@
+---
+author: Christina Rossetti
+gender: female
+title: from Goblin Market
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - fruit
+ - goblin
+ - supernatural
+ - summer
+ - eye
+ - lyric
+---
+from Goblin Market
+
+Morning and evening
+Maids heard the goblins cry:
+"Come buy our orchard fruits,
+Come buy, come buy:
+Apples and quinces,
+Lemons and oranges,
+Plump unpecked cherries,
+Melons and raspberries,
+Bloom-down-cheeked peaches,
+Swart-headed mulberries,
+Wild free-born cranberries,
+Crab-apples, dewberries,
+Pine-apples, blackberries,
+Apricots, strawberries;--
+All ripe together
+In summer weather,--
+Morns that pass by,
+Fair eves that fly;
+Come buy, come buy:
+Our grapes fresh from the vine,
+Pomegranates full and fine,
+Dates and sharp bullaces,
+Rare pears and greengages,
+Damsons and bilberries,
+Taste them and try:
+Currants and gooseberries,
+Bright-fire-like barberries,
+Figs to fill your mouth,
+Citrons from the South,
+Sweet to tongue and sound to eye;
+Come buy, come buy."

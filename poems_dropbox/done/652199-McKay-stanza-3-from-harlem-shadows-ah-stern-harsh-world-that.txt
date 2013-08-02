@@ -1,0 +1,37 @@
+---
+title: Stanza 3 from Harlem Shadows
+author: Claude McKay
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type: Rhymed Stanza
+tags:
+ - Harlem Renaissance
+ - youth
+ - night
+ - desire
+ - lust
+ - form
+ - hunger
+ - search
+ - sex
+ - street
+ - dark
+ - race
+ - brown
+ - poverty
+ - dishonor
+ - disgrace
+ 
+---
+
+Stanza 3 from HARLEM SHADOWS 
+
+Ah, stern harsh world, that in the wretched way	
+  Of poverty, dishonor and disgrace,	
+Has pushed the timid little feet of clay.	        
+  The sacred brown feet of my fallen race!	
+Ah, heart of me, the weary, weary feet	
+  In Harlem wandering from street to street.

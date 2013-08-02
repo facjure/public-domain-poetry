@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: P from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter P
+
+
+P was a little Pig,
+Went out to take a walk;
+Papa he said, "If Piggy dead,
+He'd all turn into Pork!"

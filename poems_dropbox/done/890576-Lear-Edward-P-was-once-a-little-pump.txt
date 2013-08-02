@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: p from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+p
+
+P was once a little pump,
+Pumpy,
+Slumpy,
+Flumpy,
+Pumpy,
+Dumpy, thumpy,
+Little pump!

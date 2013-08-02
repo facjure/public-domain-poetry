@@ -1,0 +1,19 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Lovers Embracing
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - love
+ - sunlight
+---
+
+Force and yielding meet together:
+An attack is half repulsed.
+Shafts of broken sunlight dissolving
+Convolutions of torpid cloud.

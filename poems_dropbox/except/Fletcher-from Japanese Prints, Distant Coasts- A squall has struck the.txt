@@ -1,0 +1,22 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Distant Coasts 
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - sky
+ - nature
+ - sea
+---
+
+A squall has struck the sea afar off.
+You can feel it quiver
+Over the paper parasol
+With which she shields her face;
+In the drawn-together skirts of her robes,
+As she turns to meet it.

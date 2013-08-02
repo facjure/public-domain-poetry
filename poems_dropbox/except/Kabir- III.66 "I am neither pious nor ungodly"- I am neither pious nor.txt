@@ -1,0 +1,22 @@
+---
+author: Kabir
+gender: male
+title: *from* III.66 "I am neither pious nor ungodly..."
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ - spiritual
+ - meditative
+ - mystical
+ - beauty
+---
+
+I am neither pious nor ungodly, I live neither by law nor by sense,
+I am neither a speaker nor hearer, I am neither a servant nor master, I am neither bond nor free,
+I am neither detached nor attached.
+I am far from none: I am near to none.
+I will go neither to hell nor to heaven.
+I do all works; yet I am apart from all works.
+Few comprehend my meaning: he who can comprehend it, he sits unmoved.
+Kabir seeks neither to establish nor to destroy.

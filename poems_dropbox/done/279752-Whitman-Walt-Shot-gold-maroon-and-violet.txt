@@ -1,0 +1,32 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - violet
+ - maroon
+ - gold
+ - silver
+ - nature
+ - sunset
+ - fawn
+ - sky
+ - north
+ - south
+ - shadow
+ - meditative
+ - pastoral
+
+---
+
+A Prairie Sunset
+
+Shot gold, maroon and violet, dazzling silver, emerald, fawn,
+The earth's whole amplitude and Nature's multiform power consign'd for once to colors;
+The light, the general air possess'd by them—colors till now unknown,
+No limit, confine—not the Western sky alone—the high meridian—
+North, South, all,
+Pure luminous color fighting the silent shadows to the last.

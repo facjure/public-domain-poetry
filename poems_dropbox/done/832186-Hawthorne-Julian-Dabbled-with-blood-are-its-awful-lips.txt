@@ -1,0 +1,26 @@
+---
+author: Julian Hawthorne 
+gender: male
+title: Were-wolf
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - supernatural
+ - lyrics
+ - wolf
+ - werewolf 
+ - ghost
+ - goblin
+ - dark imagery
+ - horror
+ - sea
+---
+Were-wolf
+
+Dabbled with blood are its awful lips
+Grinning in horrible glee.
+The wolves that follow with scurrying feet
+Sniffing that goblin scent, at once
+Scatter in terror, while it slips
+Away, to the shore of the frozen sea.

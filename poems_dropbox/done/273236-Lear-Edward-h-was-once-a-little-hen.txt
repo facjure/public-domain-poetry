@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: h from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+h
+
+H was once a little hen,
+Henny,
+Chenny,
+Tenny,
+Henny.
+Eggsy-any,
+Little hen?

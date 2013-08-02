@@ -1,0 +1,23 @@
+---
+author: David Mallet 
+gender: male
+title: The Banshee
+curator: Ata
+year: 18th century
+country: Scotland
+tags:
+ - supernatural
+ - dark imagery
+ - worm
+ - sister
+ - night
+ - cold
+ - horror
+ - strange
+---
+William and Margaret
+
+The hungry worm my sister is,
+The winding sheet I wear.
+And cold and weary lasts our night,
+Till that last morn appear.

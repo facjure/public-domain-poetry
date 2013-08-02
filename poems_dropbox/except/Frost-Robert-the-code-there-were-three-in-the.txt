@@ -1,0 +1,32 @@
+
+---
+title: Stanza 1 from The Code
+author: Robert Frost
+curator: NCR
+country: USA
+year: 1915	
+book: North of Boston
+gender: male
+type: free verse
+tags:
+ - water
+ - pastoral
+ - eye
+ - sun
+ - dark
+ - clouds
+ - labor
+ - farmer
+ - farm
+ 
+--- 
+
+THERE were three in the meadow by the brook	
+Gathering up windrows, piling cocks of hay,	
+With an eye always lifted toward the west	
+Where an irregular sun-bordered cloud	
+Darkly advanced with a perpetual dagger	        5
+Flickering across its bosom. Suddenly	
+One helper, thrusting pitchfork in the ground,	
+Marched himself off the field and home. One stayed.	
+The town-bred farmer failed to understand.

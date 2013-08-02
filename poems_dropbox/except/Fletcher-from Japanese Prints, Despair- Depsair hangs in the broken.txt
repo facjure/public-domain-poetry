@@ -1,0 +1,23 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Despair 
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - flower
+ - red
+ - time
+ - snow
+---
+
+Despair hangs in the broken folds of my garments;
+It clogs my footsteps,
+Like snow in the cherry bloom.
+In my heart is the sorrow
+Of years like red leaves buried in snow.

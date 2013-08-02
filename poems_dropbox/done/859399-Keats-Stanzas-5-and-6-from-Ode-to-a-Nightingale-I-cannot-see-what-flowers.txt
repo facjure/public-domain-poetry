@@ -1,0 +1,55 @@
+---
+title: Stanzas 5 and 6 from Ode to a Nightingale
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type: 
+tags:
+ - birds
+ - flowers 
+ - blindness
+ - darkness
+ - seasons
+ - trees
+ - May
+ - nature
+ - pastoral
+ - shadows
+ - summer
+ - green
+ - death
+ - soul
+ - suicide
+ - listening
+ - intoxication
+ - wine
+ - ecstasy
+ - travel
+ - transformation
+
+---
+
+I cannot see what flowers are at my feet,
+    Nor what soft incense hangs upon the boughs,
+  But, in embalmed darkness, guess each sweet
+    Wherewith the seasonable month endows
+  The grass, the thicket, and the fruit-tree wild;
+    White hawthorn, and the pastoral eglantine;
+      Fast fading violets cover'd up in leaves;
+          And mid-May's eldest child,
+    The coming musk-rose, full of dewy wine,
+      The murmurous haunt of flies on summer eves.             
+
+  Darkling I listen; and, for many a time
+    I have been half in love with easeful Death,
+  Call'd him soft names in many a mused rhyme,
+    To take into the air my quiet breath;
+  Now more than ever seems it rich to die,
+    To cease upon the midnight with no pain,
+      While thou art pouring forth thy soul abroad
+          In such an ecstasy!
+    Still wouldst thou sing, and I have ears in vain--
+      To thy high requiem become a sod.      

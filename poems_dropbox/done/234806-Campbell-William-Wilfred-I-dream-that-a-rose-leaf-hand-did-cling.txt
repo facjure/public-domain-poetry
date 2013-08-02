@@ -1,0 +1,22 @@
+---
+author: William Wilfred Campbell
+gender: male
+title: The Mother
+curator: Ata
+year: 19th/20th century
+country: Canada
+tags:
+ - supernatural
+ - death
+ - mother
+ - spring
+ - rose
+ - leaf
+ - hand
+ - dream
+ - nightmare
+---
+The Mother
+ 
+I dreamed that a rose-leaf hand did cling;
+Oh, you cannot bury a mother in spring!

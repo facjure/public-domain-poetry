@@ -1,0 +1,22 @@
+---
+author: Nikolai Nekrassow
+gender: male
+title: You Songs of Mine
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - soul
+ - sea
+ - love
+---
+
+You songs of mine! Of universal sorrows
+  A living witness you;
+Born of the passion of the soul, bewailing
+  Tempestuous and free,
+The hard heart of humanity assailing
+  As does her cliffs the sea!

@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: l from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+l
+
+L was once a little lark,
+Larky,
+Marky,
+Harky,
+Larky,
+In the parky,
+Little lark!

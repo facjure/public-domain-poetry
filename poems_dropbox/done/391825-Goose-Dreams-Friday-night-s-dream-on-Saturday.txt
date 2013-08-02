@@ -1,0 +1,15 @@
+---
+author: Mother Goose
+gender: 
+title: Dreams
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - lyric
+ - dreams
+ - children poetry
+---
+
+Friday night's dream, on Saturday told,
+Is sure to come true, be it never so old.

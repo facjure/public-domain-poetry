@@ -1,0 +1,19 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, A Thought
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - fire
+ - soul
+---
+
+A piece of paper ready to toss in the fire,
+Blackened, scrawled with fragments of an incomplete song:
+My soul.

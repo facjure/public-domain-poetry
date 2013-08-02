@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: z from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+z
+
+Z was once a piece of zinc,
+Tinky,
+Winky,
+Blinky,
+Tinky,
+Tinkly minky,
+Piece of zinc!

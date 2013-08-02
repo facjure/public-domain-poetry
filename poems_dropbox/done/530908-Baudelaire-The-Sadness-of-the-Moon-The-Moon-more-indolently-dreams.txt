@@ -1,0 +1,35 @@
+---
+author: Charles Baudelaire
+gender: male
+title: The Sadness of the Moon
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - sonnet
+ - life
+ - hope
+ - moon
+ - night 
+---
+
+The Moon more indolently dreams tonight
+Than a fair woman on her couch at rest.
+Caressing, with a hand distraught and light,
+Before she sleeps, the contour of her breast.
+
+Upon her silken avalanche of down,
+Dying she breathes a long and swooning sigh;
+And watches the white visions past her flown,
+Which rise like blossoms to the azure sky.
+
+And when, at times, wrapped in her languor deep,
+Earthward she lets a furtive tear-drop flow,
+Some pious poet, enemy of sleep,
+
+Takes in his hollow hand the tear of snow
+Whence gleams of iris and of opal start,
+And hides it from the Sun, deep in his heart.

@@ -1,0 +1,24 @@
+---
+author: Mother Goose
+gender:
+title: There was a man of our town
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - fairy tale
+ - children poetry
+ - lyric
+ - man
+ - eyes
+ - strange
+---
+
+There was a man of our town,
+And he was wondrous wise,
+He jumped into a bramble bush,
+And scratched out both his eyes:
+But when he saw his eyes were out,
+With all his might and main,
+He jumped into another bush,
+And scratched 'em in again.

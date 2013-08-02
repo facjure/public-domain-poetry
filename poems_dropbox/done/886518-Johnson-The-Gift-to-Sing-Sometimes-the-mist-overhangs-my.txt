@@ -1,0 +1,30 @@
+---
+author: James Weldon Johnson
+gender: male
+title: The Gift to Sing
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - lyric
+ - meditative
+ - music
+ - african american poetry
+ - heart
+---
+
+Sometimes the mist overhangs my path,
+And blackening clouds about me cling;
+But, I have a magic way
+To turn the gloom to cheerful day—
+I softly sing.
+And if the way grows darker still,
+Shadowed by Sorrow's somber wing,
+With glad defiance in my throat,
+I pierce the darkness with a note,
+And sing, and sing.
+I brood not over the broken past,
+Nor dread whatever time may bring;
+No nights are dark, no days are long,
+While in my heart there swells a song,
+And I can sing.

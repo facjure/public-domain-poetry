@@ -1,0 +1,24 @@
+---
+author: Pushkin
+gender: male
+title: I Loved You
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 18th/19th century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - love
+ - time
+ - fire
+---
+
+I loved you; and maybe until this moment
+Within my breast is smoldering still the fire!
+But I would spare your pain the least renewal,
+Nothing will again wake up the old desire!
+I loved you with a silent desperation—
+Now timid, now with jealousy brought low,
+I loved devoutly,—with such deep devotion—
+May God grant another love you so!

@@ -1,0 +1,22 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - politics
+ - man
+ - nature
+ - America
+ - democracy 
+ - history
+---
+
+This Dust Was Once the Man
+
+This dust was once the man,
+Gentle, plain, just and resolute, under whose cautious hand,
+Against the foulest crime in history known in any land or age,
+Was saved the Union of these States.

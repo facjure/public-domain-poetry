@@ -1,0 +1,26 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Wind and Chrysanthemum
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - flower
+ - green 
+ - orange
+ - wind
+ - nature
+---
+
+Chrysanthemums bending
+Before the wind.
+Chrysanthemums wavering
+In the black choked grasses.
+The wind frowns at them,
+He tears off a green and orange stalk of broken chrysanthemum.
+The chrysanthemums spread their flattered heads,
+And scurry off before the wind.

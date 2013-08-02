@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: f from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+f
+
+F was once a little fish,
+Fishy,
+Wishy,
+Squishy,
+Fishy,
+In a dishy,
+Little fish!

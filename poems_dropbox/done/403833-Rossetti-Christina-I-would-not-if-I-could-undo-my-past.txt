@@ -1,0 +1,31 @@
+---
+author: Christina Rossetti
+gender: female
+title: They Desire a Better Country
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - life
+ - music
+ - memory
+ - self
+ - meditative
+---
+They Desire a Better Country
+
+I would not if I could undo my past,
+  Tho' for its sake my future is a blank;
+  My past for which I have myself to thank,
+For all its faults and follies first and last.
+I would not cast anew the lot once cast,
+  Or launch a second ship for one that sank,
+  Or drug with sweets the bitterness I drank,
+Or break by feasting my perpetual fast.
+I would not if I could: for much more dear
+  Is one remembrance than a hundred joys,
+    More than a thousand hopes in jubilee;
+  Dearer the music of one tearful voice
+    That unforgotten calls and calls to me,
+"Follow me here, rise up, and follow here."

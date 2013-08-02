@@ -1,0 +1,24 @@
+---
+author: Mark Twain
+gender: male
+title: Poets as Policemen
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - police
+ - poets
+ - ars poetic
+ - speech
+ - satire
+ - politics
+ - commentary
+---
+POETS AS POLICEMEN
+
+Mr. Clemens was one of the speakers at the Lotos Club dinner to Governor Odell, March 24, 1900.  The police problem was referred to at length.
+
+	Let us abolish policemen who carry clubs and revolvers, and put in a squad of poets armed to the teeth with poems on Spring and Love. I would be very glad to serve as commissioner, not because I think I am especially qualified, but because I am too tired to work and would like to take a rest.
+	Howells would go well as my deputy. He is tired too, and needs a rest badly.
+	I would start in at once to elevate, purify, and depopulate the red-light district. I would assign the most soulful poets to that district, all heavily armed with their poems. Take Chauncey Depew as a sample. I would station them on the corners after they had rounded up all the depraved people of the district so they could not escape, and then have them read from their poems to the poor unfortunates. The plan would be very effective in causing an emigration of the depraved element.
+

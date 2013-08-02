@@ -1,0 +1,27 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - love
+ - East 
+ - West
+ - Pennsylvania
+ - Canada
+ - America
+ - friendship
+ - inspiration
+ - peace
+---
+
+To the East and to the West
+
+To the East and to the West,
+To the man of the Seaside State and of Pennsylvania,
+To the Kanadian of the north, to the Southerner I love,
+These with perfect trust to depict you as myself, the germs are in all men,
+I believe the main purport of these States is to found a superb friendship, exalted, previously unknown,
+Because I perceive it waits, and has been always waiting, latent in all men.

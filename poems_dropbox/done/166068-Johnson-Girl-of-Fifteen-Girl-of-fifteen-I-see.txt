@@ -1,0 +1,33 @@
+---
+author: James Weldon Johnson
+gender: male
+title: Girl of Fifteen
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - lyric
+ - meditative
+ - love
+ - lust
+ - summer
+ - aging
+ - african american poetry
+---
+
+Girl of fifteen,
+I see you each morning from my window
+As you pass on your way to school.
+I do more than see, I watch you.
+I secretly draw the curtain aside.
+And my heart leaps through my eyes
+And follows you down the street;
+Leaving me behind, half-hid
+And totally ashamed.
+What holds me back,
+Half-hid behind the curtains and totally ashamed,
+But my forty years beyond your fifteen?
+Girl of fifteen, as you pass
+There passes, too, a lightning flash of time
+In which you lift those forty summers off my head,
+And take those forty winters out of my heart.

@@ -1,0 +1,40 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Magnetic Horror
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - sonnet
+ - strange
+ - destiny
+ - night
+ - sky
+ - Ovid
+ - Roman
+ - streams
+ - hell 
+ - dreams
+---
+
+"Beneath this sky, so livid and strange,
+Tormented like your destiny,
+What thoughts within your spirit range
+Themselves?— libertine reply."
+
+—With vain desires, for ever torn
+Towards the uncertain, and the vast,
+And all the same, like Ovid—I'll not mourn—
+Who from his Roman Heaven was cast.
+
+Heavens, turbulent as the streams,
+In you I mirror forth my pride!
+Your clouds, which clad in mourning, glide,
+
+Are the hearses of my dreams,
+And in your illusion lies the hell,
+Wherein my heart delights to dwell.

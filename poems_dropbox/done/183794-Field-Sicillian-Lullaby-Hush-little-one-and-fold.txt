@@ -1,0 +1,37 @@
+---
+author: Eugene Field 
+gender: male
+title: Sicillian Lullaby
+curator: Ata
+year: 19th Century
+country: America
+tags:
+ - lyric
+ - modern
+ - sky
+ - child
+ - sleep
+ - dreams
+ - love
+ - angels
+ - Christ
+---
+
+Hush, little one, and fold your hands;
+  The sun has set, the moon is high;
+The sea is singing to the sands,
+  And wakeful posies are beguiled
+By many a fairy lullaby:
+  Hush, little child, my little child!
+Dream, little one, and in your dreams
+  Float upward from this lowly place,—
+Float out on mellow, misty streams
+  To lands where bid Mary mild,
+And let her kiss your little face,
+  You little child, my little child!
+Sleep, little one, and take your rest,
+  With angels bending over you,—
+Sleep sweetly on that Father's breast
+  Whom our dear Christ has reconciled;
+But stay not there,—come back to me,
+  O little child, my little child!

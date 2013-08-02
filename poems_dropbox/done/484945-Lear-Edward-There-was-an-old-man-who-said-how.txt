@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man who said, How"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - strange
+ - cow
+---
+
+There was an Old Man who said, "How
+Shall I flee from this horrible Cow?
+I will sit on this stile, and continue to smile,
+Which may soften the heart of that Cow."
+

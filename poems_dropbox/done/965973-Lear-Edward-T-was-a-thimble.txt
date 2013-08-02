@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: T from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter T
+
+T was a thimble,
+Of silver so bright!
+When placed on the finger,
+It fitted so tight!
+
+t!
+Nice little thimble!

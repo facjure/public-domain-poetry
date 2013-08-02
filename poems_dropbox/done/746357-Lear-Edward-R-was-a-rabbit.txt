@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - rabbit
+ - flowers
+ - children poetry
+---
+
+R was a rabbit,
+Who had a bad habit
+Of eating the flowers
+In gardens and bowers.
+
+r
+Naughty fat rabbit!

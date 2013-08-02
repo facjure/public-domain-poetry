@@ -1,0 +1,24 @@
+---
+author: Theodor Plestcheeff
+gender: male
+title: At Last
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th/20th Century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - love
+ - happiness
+ - sadness
+---
+
+No word,—not even a sigh, my darling!
+  Together now the silence keeping;
+In truth as over some grave stone leaning
+  The silent willows low are weeping,
+And drooping over it so are reading—
+  I read in your tired heart at last,
+That days of happiness existed,
+  And that this happiness is past.

@@ -1,0 +1,28 @@
+---
+author: William Morris
+gender: male
+title: The Tune of Seven Towers
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - supernatural
+ - dark imagery
+ - ghost
+ - walking
+ - white
+ - moonlight
+ - flowers
+ - cold
+ - horror
+ - strange
+ - lyric
+---
+The Tune of Seven Towers
+
+No one walks there now;
+Except in the white moonlight
+The white ghosts walk in a row,
+If one could see it, an awful sight.
+"Listen!" said Fair Yolande of the flowers,
+"This is the tune of Seven Towers."

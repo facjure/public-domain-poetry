@@ -1,0 +1,30 @@
+
+---
+title: Stanza 1 from Canto 1 of Don Juan
+author: Lord Byron
+curator: NCR
+country: England
+year: 19th Century	
+gender: male
+type: [Iambic Pentameter, ottava rima]
+tags:
+ - hero
+ - epoch
+ - era
+ - wish
+ - redemption
+ - apostasy
+ - calumny
+ - archetype
+ - truth
+ 
+---
+
+I WANT a hero: an uncommon want,
+      When every year and month sends forth a new one,
+    Till, after cloying the gazettes with cant,
+      The age discovers he is not the true one;
+    Of such as these I should not care to vaunt,
+      I'll therefore take our ancient friend Don Juan--
+    We all have seen him, in the pantomime,[15]
+    Sent to the Devil somewhat ere his time.

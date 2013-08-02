@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: N from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter N
+
+N was a nut
+So smooth and so brown!
+And when it was ripe,
+It fell tumble-dum-down.
+
+n!
+Nice little Nut!

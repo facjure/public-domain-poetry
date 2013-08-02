@@ -1,0 +1,23 @@
+---
+author: Eugene Field 
+gender: male
+title: *from* Madge Ye Hoyden
+curator: Ata
+year: 19th Century
+country: America
+tags:
+ - lyric
+ - modern
+ - devil
+ - mother
+ - children
+ - death
+---
+
+Whiles Robin lay within his bed,
+  A divell came and whispered lowe,—
+"Giff you will doe my will," he said,
+  "None more of sickness you shall knowe!"
+Ye which gave joy to Robin's soul—
+  Saies Robin: "Divell, be it soe,
+an that you make me whoale!"

@@ -1,0 +1,24 @@
+---
+author: Mother Goose
+gender:
+title: TWEEDLE-DUM AND TWEEDLE-DEE
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - children poetry
+ - lyric
+ - funny
+---
+
+TWEEDLE-DUM AND TWEEDLE-DEE
+
+Tweedle-dum and Tweedle-dee
+    Resolved to have a battle,
+For Tweedle-dum said Tweedle-dee
+    Had spoiled his nice new rattle.
+
+Just then flew by a monstrous crow,
+    As big as a tar barrel,
+Which frightened both the heroes so,
+    They quite forgot their quarrel.

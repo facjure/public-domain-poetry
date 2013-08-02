@@ -1,0 +1,19 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Young Daimyo
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - flower
+ - kiss
+---
+
+When he first came out to meet me,
+He had just been girt with the two swords;
+And I found he was far more interested in the glitter of their hilts,
+And did not even compare my kiss to a cherry-blossom.

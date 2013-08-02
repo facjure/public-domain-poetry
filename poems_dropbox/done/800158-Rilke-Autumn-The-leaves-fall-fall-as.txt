@@ -1,0 +1,26 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: Autumn
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ - lyric
+ - meditative
+ - night
+ - stars
+---
+
+The leaves fall, fall as from far,
+Like distant gardens withered in the heavens;
+They fall with slow and lingering descent.
+
+And in the nights the heavy Earth, too, falls
+From out the stars into the Solitude.
+
+All fall. This hand of mine must fall
+And! the other one:—it is the law.
+But there is One who holds this falling
+Infinitely softly in His hands.

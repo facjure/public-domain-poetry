@@ -1,0 +1,20 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Fop
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - butterfly
+ - sky 
+---
+
+His heart is like a wind
+Torn between cloud and butterfly;
+Whether he will roll passively to one,
+Or chase endlessly the other.

@@ -1,0 +1,19 @@
+---
+author: Semyon Nadson 
+gender: male
+title: To the Muse
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th Century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - beauty
+ - pain
+---
+
+Take from your brow the laurel—cast it forth!
+  May it in dust lie beneath your feet;
+The blood-flecked thorn crown hurl away—
+  As witness of your pain alone is met!

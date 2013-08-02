@@ -1,0 +1,24 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Traitor
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - twilight
+ - nature
+---
+
+I saw him pass at twilight;
+He was a dark cloud traveling
+Over palace roofs
+With one claw drooping.
+In his face were written ages
+Of patient treachery
+And the knowledge of his hour.
+One dainty thrust, no more
+Than this, he needs.

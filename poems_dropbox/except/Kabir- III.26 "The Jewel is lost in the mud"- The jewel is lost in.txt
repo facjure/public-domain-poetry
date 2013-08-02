@@ -1,0 +1,19 @@
+---
+author: Kabir
+gender: male
+title: *from* III.26 "The jewel is lost in the mud..."
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ - spiritual
+ - meditative
+ - mystical
+ - heart
+ - funny
+ - jewel
+ - nature
+---
+
+The jewel is lost in the mud, and all are seeking for it; some look for it in the east, and some in the west; some in the water and some amongst stones. But the servant Kabir has appraised it at its true value, and has wrapped it with care in the end of the mantle of his heart.
+

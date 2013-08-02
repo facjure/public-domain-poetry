@@ -1,0 +1,30 @@
+---
+author: William Wordsworth
+gender: male
+title: The Rainbow ( a fragment)
+curator: Ata
+year: 18th/19th century
+country: England
+tags:
+ - love
+ - nature
+ - rainbow
+ - child
+ - father
+ - life
+ - humanity
+ - aging
+ - joy
+ - children poetry
+---
+
+
+My heart leaps up when I behold
+A rainbow in the sky;
+So was it when my life began,
+So is it now I am a man,
+So be it when I shall grow old,
+Or let me die!
+The child is father of the man;
+And I could wish my days to be
+Bound each to each by natural piety.

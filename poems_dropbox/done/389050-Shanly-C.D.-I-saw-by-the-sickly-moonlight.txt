@@ -1,0 +1,21 @@
+---
+author: C.D. Shanly
+gender: male
+title: The Walker of the Snow
+curator: Ata
+year: 19th century
+country: Canada
+tags:
+ - supernatural
+ - snow
+ - walking
+ - moonlight
+ - ghost
+ - lyric
+---
+The Walker of the Snow
+
+. . . I saw by the sickly moonlight
+As I followed, bending low,
+That the walking of the stranger
+Left no footmarks on the snow.

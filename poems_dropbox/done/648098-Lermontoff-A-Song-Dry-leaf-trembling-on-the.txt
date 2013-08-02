@@ -1,0 +1,29 @@
+---
+author: Mikhail Lermontoff
+gender: male
+title: A Song
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - heart
+ - desire
+---
+
+Dry leaf trembling on the branches
+  Before the blast,
+Poor heart quaking in the bosom
+  For regret you hast;
+What matter if the wind then,
+  Withered leaf from blooming linden
+Should scatter wide?
+  Would for this the twig or branches
+    Have wailing sighed?
+And should the lad his fate upbraid,
+  Although he ignominious fade—
+And in an alien country die?
+  Will for him the beauteous maid
+    Complaining cry?

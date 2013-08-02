@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: s from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+s
+
+S was once a little shrimp,
+Shrimpy,
+Nimpy,
+Flimpy,
+Shrimpy.
+Jumpy, jimpy,
+Little shrimp!

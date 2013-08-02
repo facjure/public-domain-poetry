@@ -1,5 +1,7 @@
 # Poems
 
-Curated poems from the public domain. 
+Curated poems from the public domain.
 
-Written in markdown.
+Written in markdown + yaml.
+
+

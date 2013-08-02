@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - duck
+ - children poetry
+---
+
+
+D was a duck
+With spots on his back,
+Who lived in the water,
+And always said "Quack!"
+
+d
+Dear little duck!

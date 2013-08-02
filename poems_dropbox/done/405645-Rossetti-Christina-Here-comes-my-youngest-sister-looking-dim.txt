@@ -1,0 +1,19 @@
+---
+author: Christina Rossetti
+gender: female
+title: October
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - October
+ - sister
+ - November
+---
+October
+
+Here comes my youngest sister, looking dim
+And grim,
+With dismal ways.
+What cheer, November?

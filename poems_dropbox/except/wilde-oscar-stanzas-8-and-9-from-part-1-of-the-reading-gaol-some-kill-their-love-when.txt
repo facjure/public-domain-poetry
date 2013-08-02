@@ -1,0 +1,42 @@
+
+---
+title: Stanza 8 and 9 from Part 1 of The Ballad of Reading Gaol
+author: Oscar Wilde
+curator: NCR
+country: England
+year: 1896
+book: The Ballad of Reading Gaol	
+gender: male
+type: Ballad
+tags:
+ - prison
+ - crime
+ - murder
+ - punishment
+ - lust
+ - youth
+ - age
+ - love
+ - death
+ - cold
+ - tears
+ - money
+ - immortality
+ 
+---
+
+Stanzas 8 and 9 from Part 1 of THE BALLAD OF READING GAOL
+
+              Some kill their love when they are young,
+                 And some when they are old;
+               Some strangle with the hands of Lust,
+                 Some with the hands of Gold:
+               The kindest use a knife, because
+                 The dead so soon grow cold.
+
+               Some love too little, some too long,
+                 Some sell, and others buy;
+               Some do the deed with many tears,
+                 And some without a sigh:
+               For each man kills the thing he loves,
+                 Yet each man does not die.

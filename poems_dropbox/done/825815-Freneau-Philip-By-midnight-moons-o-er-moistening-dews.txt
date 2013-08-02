@@ -1,0 +1,22 @@
+---
+author: Philip Freneau 
+gender: male
+title: The Indian Burying-Ground
+curator: Ata
+year: 18th/19th century
+country: America
+tags:
+ - supernatural
+ - hunter
+ - death
+ - midnight
+ - moon
+ - deer
+ - nature
+---
+The Indian Burying-Ground
+
+By midnight moons, o'er moistening dews,
+In habit for the chase arrayed,
+The hunter still the deer pursues,
+The hunter and the deer—a shade.

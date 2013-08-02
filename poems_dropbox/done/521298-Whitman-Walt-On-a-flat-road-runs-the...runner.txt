@@ -1,0 +1,18 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - running
+ - life
+ - inspiration
+---
+The Runner
+
+On a flat road runs the well-train'd runner,
+He is lean and sinewy with muscular legs,
+He is thinly clothed, he leans forward as he runs,
+With lightly closed fists and arms partially rais'd.

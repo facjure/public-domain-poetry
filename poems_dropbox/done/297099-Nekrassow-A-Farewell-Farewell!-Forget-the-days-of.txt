@@ -1,0 +1,24 @@
+---
+author: Nikolai Nekrassow
+gender: male
+title: A Farewell
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - love
+ - crying
+ - sadness
+---
+
+Farewell! Forget the days of trial,
+Of grudge, ill humor, misery—
+Tempests of heart and floods of weeping,
+And the revengeful jealousy.
+But the days whereon the sun rose
+To light love's wonder, and begot
+In us the power of aspiration,—
+bless them and forget them not!

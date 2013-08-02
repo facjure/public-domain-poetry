@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: U from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter U
+
+U was an upper-coat,
+Woolly and warm,
+To wear over all
+In the snow or the storm.
+
+u!
+What a nice upper-coat!

@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - orange
+ - fruit
+ - children poetry
+---
+
+O was an orange
+So yellow and round:
+When it fell off the tree,
+It fell down to the ground.
+
+o
+Down to the ground!

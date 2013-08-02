@@ -1,0 +1,29 @@
+---
+author: Mikhail Lermontoff
+gender: male
+title: I am not Byron
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th century
+country: Russia
+tags:
+ - lyric
+ - russian poetry
+ - sea
+---
+
+I am not Byron—but I am
+One fore-elected, but one more
+Unknown, world-hunted wanderer,
+A Russian in my mood and mind.
+Scant from my seed the corn was ripe,
+My mouth spoke young, was early hushed;
+In depths of my own soul, the wreck
+Of hope lies as in deep-sea sunk.
+Who shall the counsels of the sea,
+Its awe sublime unloose? Who will
+Read clear my spirit and my soul?
+Unless it be a Poet—no man!
+
+*Lermontoff, being reproached by the critics of his time for imitation of Byron in this poem, defended himself by the following, "I am not Byron!"*
+

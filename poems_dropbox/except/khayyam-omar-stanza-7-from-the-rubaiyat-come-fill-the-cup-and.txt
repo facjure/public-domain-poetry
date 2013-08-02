@@ -1,0 +1,29 @@
+---
+title: Stanza 7 of The Rubaiyat 
+author: Omar Khayyam
+translator: Edward Fitzgerald
+curator: NCR
+country: Persia
+year: 11th and 12th century	
+book: The Rubaiyat 1st Edition
+gender: male
+type: rhymed quatrains
+tags:
+ - drink
+ - celebration
+ - spring
+ - drink
+ - winter
+ - time
+ - living
+ - death
+ - life
+ - enjoyment
+ - seize the day
+ 
+--- 
+
+Come, fill the Cup, and in the Fire of Spring
+ The Winter Garment of Repentance fling:
+   The Bird of Time has but a little way
+ To fly—and Lo! the Bird is on the Wing.

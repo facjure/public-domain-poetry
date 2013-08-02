@@ -1,0 +1,28 @@
+---
+title: Stanza 37 of The Rubaiyat 
+author: Omar Khayyam
+translator: Edward Fitzgerald
+curator: NCR
+country: Persia
+year: 11th and 12th century	
+book: The Rubaiyat 1st Edition
+gender: male
+type: rhymed quatrains
+tags:
+ - time
+ - ephemerality
+ - tomorrow
+ - yesterday
+ - today
+ - seize the day
+ - living
+ - the moment
+ - worry
+ - death
+ - life
+ 
+--- 
+Ah, fill the Cup:—what boots it to repeat
+ How Time is slipping underneath our Feet:
+   Unborn TOMORROW and dead YESTERDAY,
+ Why fret about them if TODAY be sweet!

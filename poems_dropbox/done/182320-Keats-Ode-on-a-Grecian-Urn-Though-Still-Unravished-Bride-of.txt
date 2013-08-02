@@ -1,0 +1,38 @@
+---
+title: Stanza 1 from Ode on a Grecian Urn
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type: 
+tags:
+ - silence
+ - Romantic 
+ - history
+ - artifacts
+ - legend
+ - mortality
+ - questions
+ - ecstasy
+ - museum
+ - art
+ - animism
+ - myth
+
+---
+
+Stanza 1 from ODE ON A GRECIAN URN
+
+
+  Thou still unravish'd bride of quietness,
+    Thou foster-child of silence and slow time,
+  Sylvan historian, who canst thus express
+    A flowery tale more sweetly than our rhyme:
+  What leaf-fring'd legend haunts about thy shape
+    Of deities or mortals, or of both,
+      In Tempe or the dales of Arcady?
+    What men or gods are these? What maidens loth?
+  What mad pursuit? What struggle to escape?
+      What pipes and timbrels? What wild ecstasy?

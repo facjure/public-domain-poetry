@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: w from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+w
+
+W was once a whale,
+Whaly,
+Scaly,
+Shaly,
+Whaly,
+Tumbly-taily,
+Mighty whale!

@@ -1,0 +1,17 @@
+---
+author: Kabir
+gender: male
+title: *from* I.56 "The savor of wandering in the ocean..."
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ - spiritual
+ - meditative
+ - mystical
+ - life
+ - tree
+---
+
+The savor of wandering in the ocean of deathless life has rid me of all my asking:
+As the tree is in the seed, so all diseases are in this asking.

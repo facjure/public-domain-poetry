@@ -1,0 +1,27 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - germs
+ - language
+ - science
+ - meditative
+ - humanity
+ - stars
+ - health 
+ - body
+ - philosophical
+---
+Germs
+
+Forms, qualities, lives, humanity, language, thoughts,
+The ones known, and the ones unknown, the ones on the stars,
+The stars themselves, some shaped, others unshaped,
+Wonders as of those countries, the soil, trees, cities, inhabitants,  whatever they may be,
+Splendid suns, the moons and rings, the countless combinations and effects,
+Such-like, and as good as such-like, visible here or anywhere, stand provided for a handful of space, which I extend my arm and half enclose with my hand,
+That containing the start of each and all, the virtue, the germs of all.

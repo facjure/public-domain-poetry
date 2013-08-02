@@ -1,0 +1,35 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Music
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - sonnet
+ - strange
+ - mystical
+ - sea
+ - sail
+---
+
+Usually Music possesses me like the seas!
+To my planet pale,
+Bneath a ceiling of mist, in the lofty breeze,
+I set my sail.
+
+With inflated lungs and expanded chest,
+Like to a sail,
+On the backs of the heaped-up billows I rest—
+Which the shadows veil—
+
+I feel all the anguish within me arise
+Of a ship in distress;
+The tempest, the rain, beneath the lowering skies,
+
+My body caress;
+At times, the calm pool or the mirror clear
+Of my despair!

@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: E from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter E
+
+E was an eagle,
+Who sat on the rocks,
+And looked down on the fields
+And the-far-away flocks.
+
+e!
+Beautiful eagle!

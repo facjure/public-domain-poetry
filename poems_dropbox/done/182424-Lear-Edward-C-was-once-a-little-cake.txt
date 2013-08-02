@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: c from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+c
+
+C was once a little cake,
+Caky,
+Baky,
+Maky,
+Caky,
+Taky caky,
+Little cake!

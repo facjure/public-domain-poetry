@@ -1,0 +1,24 @@
+---
+author: Christina Rossetti
+gender: female
+title: He and She
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - love
+ - memory
+---
+He and She
+
+"Should one of us remember,
+  And one of us forget,
+I wish I knew what each will do--
+  But who can tell as yet?"
+
+"Should one of us remember,
+  And one of us forget,
+I promise you what I will do--
+And I'm content to wait for you,
+  And not be sure as yet."

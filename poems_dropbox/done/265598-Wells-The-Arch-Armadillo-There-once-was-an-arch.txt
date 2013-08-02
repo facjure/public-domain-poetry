@@ -1,0 +1,19 @@
+---
+author: Carolyn Wells
+gender: female
+title: The Arch Armadillo
+curator: Ata
+year: 20th century
+country: America
+tags:
+ - children's poetry
+ - funny
+ - friendship
+---
+
+There once was an arch Armadillo
+Who built him a hut ’neath a willow;
+He hadn’t a bed
+So he rested his head
+On a young Porcupine for a pillow.
+

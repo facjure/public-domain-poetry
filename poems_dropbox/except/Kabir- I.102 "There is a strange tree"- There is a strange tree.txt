@@ -1,0 +1,21 @@
+---
+author: Kabir
+gender: male
+title: *from* I.102 "There is a strange tree..."
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ - spiritual
+ - meditative
+ - mystical
+ - self
+ - birds
+ - fruit 
+---
+
+There is a strange tree, which stands without roots and bears fruits without blossoming;
+It has no branches and no leaves, it is lotus all over.
+Two birds sing there; one is the Guru, and the other the disciple:
+The disciple chooses the manifold fruits of life and tastes them, and the Guru beholds him in joy.
+What Kabir says is hard to understand: "The bird is beyond seeking, yet it is most clearly visible. The Formless is in the midst of all forms. I sing the glory of forms."

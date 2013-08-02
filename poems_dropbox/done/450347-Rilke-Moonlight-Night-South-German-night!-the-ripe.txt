@@ -1,0 +1,28 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: Moonlight Night
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ - lyric
+ - meditative
+ - life
+ - beauty
+ - violin
+ - music
+ - love
+ - nature
+ - sea
+---
+
+South-German night! the ripe moon hangs above
+Weaving enchantment over the shadowy lea.
+From the old tower the hours fall heavily
+Into the dark as though into the sea—
+A rustle, a call of night-watch in the grove,
+Then for a while void silence fills the air;
+And then a violin (from God knows where)
+Awakes and slowly sings: Oh Love ... Oh Love ...

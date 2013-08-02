@@ -1,0 +1,37 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: Song of the Statue
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ - lyric
+ - meditative
+ - life
+ - beauty
+ - sea
+ - strange
+---
+
+Who so loves me that he
+Will give his precious life for me?
+I should be set free from the stone
+If some one drowns for me in the sea,
+I shall have life, life of my own,—
+For life I ache.
+
+I long for the singing blood,
+The stone is so still and cold.
+I dream of life, life is good.
+Will no one love me and be bold
+And me awake?
+
+...I weep and weep alone,
+Weep always for my stone.
+What joy is my blood to me
+If it ripens like red wine?
+It cannot call back from the sea
+The life that was given for mine,
+Given for Love's sake.

@@ -1,0 +1,28 @@
+---
+author: Christina Rossetti
+gender: female
+title: Song
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - roses
+ - nature
+ - flowers
+ - youth
+ - aging
+ - time
+ - dead
+---
+Song
+ 
+O roses for the flush of youth,
+  And laurel for the perfect prime;
+But pluck an ivy branch for me
+  Grown old before my time.
+
+O violets for the grave of youth,
+  And bay for those dead in their prime;
+Give me the withered leaves I chose
+  Before in the old time.

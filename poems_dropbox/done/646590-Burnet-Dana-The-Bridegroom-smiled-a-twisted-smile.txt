@@ -1,0 +1,27 @@
+---
+author: Dana Burnet
+gender: male
+title: Ballad of the Late John Flint
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - supernatural
+ - ghost
+ - lyric
+ - strange
+ - marriage
+ - dead
+ - bride
+ - wine
+ - groom
+---
+Ballad of the Late John Flint
+
+
+The Bridegroom smiled a twisted smile,
+"The wine is strong," he said.
+The Bride she twirled her wedding ring
+Nor lifted up her head;
+And there were three at John Flint's board,
+And one of them was dead.

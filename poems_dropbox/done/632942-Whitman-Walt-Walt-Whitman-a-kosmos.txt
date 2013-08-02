@@ -1,0 +1,29 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - Manhattan
+ - doors
+ - life
+ - equality
+ - cosmic
+ - love
+ - meditative
+---
+
+lines 1-8 of part 24
+  
+Walt Whitman, a kosmos, of Manhattan the son,
+Turbulent, fleshy, sensual, eating, drinking and breeding,
+No sentimentalist, no stander above men and women or apart from them,
+No more modest than immodest.
+
+Unscrew the locks from the doors!
+Unscrew the doors themselves from their jambs!
+
+Whoever degrades another degrades me,
+And whatever is done or said returns at last to me.

@@ -1,0 +1,36 @@
+---
+author: Christina Rossetti
+gender: female
+title: Somewhere or Other
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - voice
+ - sea
+ - life
+ - moon
+ - meditative
+ - night
+ - green
+ - star
+ - forlorn 
+ - aging
+---
+Somewhere or Other
+
+Somewhere or other there must surely be
+  The face not seen, the voice not heard,
+The heart that not yet--never yet--ah me!
+    Made answer to my word.
+
+Somewhere or other, may be near or far;
+  Past land and sea, clean out of sight;
+Beyond the wandering moon, beyond the star
+    That tracks her night by night.
+
+Somewhere or other, may be far or near;
+  With just a wall, a hedge, between;
+With just the last leaves of the dying year
+    Fallen on a turf grown green.

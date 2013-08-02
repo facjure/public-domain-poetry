@@ -1,0 +1,35 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Interior Life
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - life
+ - beauty
+ - sonnet
+ - eyes
+ - blue
+---
+
+A long while I lived beneath vast porticoes,
+While the ocean-suns bathed with a thousand fires,
+And which with their great and majestic spires,
+At eventide looked like basaltic grottoes.
+
+The billows, in rolling picturesque the skies,
+And mingled, in solemn and mystical strain,
+The all-mighty chords of their luscious refrain
+With the sunset's colors reflected in my eyes.
+
+It is there that I lived in exalted calm,
+In the midst of the azure, the splendor, the waves,
+While pregnant with perfumes, naked slaves
+
+Refreshed my forehead with branches of palm,
+Whose gentle and only care was to know
+The secret that caused me to languish so.

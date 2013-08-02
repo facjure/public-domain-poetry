@@ -1,0 +1,18 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, The Clouds
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - sky
+ - nature
+---
+
+Although there was no sound in all the house,
+I could not forbear listening for the cry of those long white rippling waves
+Dragging up their strength to break on the sullen beach of the sky.

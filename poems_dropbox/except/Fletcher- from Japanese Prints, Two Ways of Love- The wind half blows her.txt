@@ -1,0 +1,24 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, Two Ways of Love
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - wind
+ - love
+---
+
+The wind half blows her robes,
+That subside
+Listlessly
+As swaying pines.
+The wind tosses hers
+In circles
+That recoil upon themselves:
+How should I love—as the swaying or tossing wind?

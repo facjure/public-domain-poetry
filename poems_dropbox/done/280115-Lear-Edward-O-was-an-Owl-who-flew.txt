@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: O from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter O
+
+O was an Owl who flew
+All in the dark away,
+Papa said, "What an owl you are!
+Why don't you fly by day?"

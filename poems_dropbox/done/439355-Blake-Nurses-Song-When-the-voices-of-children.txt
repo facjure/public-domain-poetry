@@ -1,0 +1,36 @@
+---
+title: Nurse's Song
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+type: 
+tags:
+ - children
+ - youth
+ - memory
+ - sun
+ - night
+ - children
+ - seasons
+ - winter
+ - summer
+ - day
+ - play
+
+---
+
+NURSE’S SONG
+
+
+When the voices of children are heard on the green,
+   And whisperings are in the dale,
+The days of my youth rise fresh in my mind,
+   My face turns green and pale.
+
+Then come home, my children, the sun is gone down,
+   And the dews of night arise;
+Your spring and your day are wasted in play,
+   And your winter and night in disguise.

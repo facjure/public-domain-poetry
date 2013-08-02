@@ -1,0 +1,26 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - life
+ - aging
+ - eyes
+ - hands
+ - soul
+ - inspiration
+ - love
+ - humanity
+---
+
+Life
+
+Ever the undiscouraged, resolute, struggling soul of man;
+(Have former armies fail'd? then we send fresh armies—and fresh again;)
+Ever the grappled mystery of all earth's ages old or new;
+Ever the eager eyes, hurrahs, the welcome-clapping hands, the loud applause;
+Ever the soul dissatisfied, curious, unconvinced at last;
+Struggling to-day the same—battling the same.

@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: q from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+q
+
+Q was once a little quail,
+Quaily,
+Faily,
+Daily,
+Quaily,
+Stumpy-taily,
+Little quail!

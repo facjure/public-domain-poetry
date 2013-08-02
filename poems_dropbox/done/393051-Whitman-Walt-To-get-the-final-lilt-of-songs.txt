@@ -1,0 +1,29 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - life
+ - songs
+ - ars poetica
+ - aging
+ - time
+ - meditative
+ - memories
+ - joy
+ - sadness
+ - inspiration
+ - humanity
+---
+
+To Get the Final Lilt of Songs
+
+To get the final lilt of songs,
+To penetrate the inmost lore of poets—to know the mighty ones,
+Job, Homer, Eschylus, Dante, Shakespere, Tennyson, Emerson;
+To diagnose the shifting-delicate tints of love and pride and doubt— to truly understand,
+To encompass these, the last keen faculty and entrance-price,
+Old age, and what it brings from all its past experiences.

@@ -1,0 +1,39 @@
+---
+title: Stanza 2 from Ode on Melancholy
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type: 
+tags:
+ - melancholy
+ - depression
+ - Romantic 
+ - heaven
+ - flowers
+ - April
+ - sorrow
+ - rose
+ - rainbow
+ - peonies
+ - anger
+ - wealth
+ - eyes
+ - natural beauty
+
+---
+
+Stanza 2 from ODE ON MELANCHOLY
+
+But when the melancholy fit shall fall
+    Sudden from heaven like a weeping cloud,
+  That fosters the droop-headed flowers all,
+    And hides the green hill in an April shroud;
+  Then glut thy sorrow on a morning rose,
+    Or on the rainbow of the salt sand-wave,
+      Or on the wealth of globed peonies;
+  Or if thy mistress some rich anger shows,
+    Emprision her soft hand, and let her rave,
+      And feed deep, deep upon her peerless eyes.

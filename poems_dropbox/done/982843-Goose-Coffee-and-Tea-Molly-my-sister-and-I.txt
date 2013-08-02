@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender: 
+title: Coffee and Tea 
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - lyric
+ - funny
+ - family
+ - tea
+ - coffee
+ - children poetry
+---
+
+Molly, my sister and I fell out,
+And what do you think it was all about?
+She loved coffee and I loved tea,
+And that was the reason we couldn't agree.

@@ -1,0 +1,17 @@
+---
+author: Carolyn Wells
+gender: female
+title: The Musical Carp
+curator: Ata
+year: 20th century
+country: America
+tags:
+ - children's poetry
+ - funny
+---
+
+There once was a corpulent carp
+Who wanted to play on a harp,
+But to his chagrin
+So short was his fin
+That he couldn’t reach up to C sharp.

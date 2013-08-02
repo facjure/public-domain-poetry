@@ -1,0 +1,29 @@
+---
+author: Christina Rossetti
+gender: female
+title: A Smile and a Sigh
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - life
+ - love
+ - morning
+ - sad
+ - dying
+ - meditative
+---
+A Smile and a Sigh
+
+A smile because the nights are short!
+  And every morning brings such pleasure
+Of sweet love-making, harmless sport:
+  Love that makes and finds its treasure;
+  Love, treasure without measure.
+
+A sigh because the days are long!
+  Long, long these days that pass in sighing,
+A burden saddens every song:
+  While time lags which should be flying,
+  We live who would be dying.

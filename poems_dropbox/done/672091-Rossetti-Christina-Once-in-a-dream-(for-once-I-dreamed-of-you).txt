@@ -1,0 +1,36 @@
+---
+author: Christina Rossetti
+gender: female
+title: On the Wing
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - bird
+ - white
+ - nature
+ - life
+ - meditative
+ - self
+ - love
+ - dream
+ - sonnet
+ - crying
+---
+On the Wing
+
+Once in a dream (for once I dreamed of you)
+  We stood together in an open field;
+  Above our heads two swift-winged pigeons wheeled,
+Sporting at ease and courting full in view.
+When loftier still a broadening darkness flew,
+  Down-swooping, and a ravenous hawk revealed;
+  Too weak to fight, too fond to fly, they yield;
+So farewell life and love and pleasures new.
+Then, as their plumes fell fluttering to the ground,
+  Their snow-white plumage flecked with crimson drops,
+    I wept, and thought I turned towards you to weep:
+  But you were gone; while rustling hedgerow tops
+Bent in a wind which bore to me a sound
+    Of far-off piteous bleat of lambs and sheep.

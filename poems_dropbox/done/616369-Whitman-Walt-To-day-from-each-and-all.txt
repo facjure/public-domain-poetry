@@ -1,0 +1,16 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - Abraham Lincoln
+ - politics
+ - elegy
+---
+Abraham Lincoln, Born Feb. 12, 1809
+
+To-day, from each and all, a breath of prayer—a pulse of thought,
+To memory of Him—to birth of Him.

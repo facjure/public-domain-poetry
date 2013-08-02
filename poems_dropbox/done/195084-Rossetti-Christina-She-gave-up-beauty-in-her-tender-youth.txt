@@ -1,0 +1,33 @@
+---
+author: Christina Rossetti
+gender: female
+title: A Portrait (I)
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - religion
+ - life
+ - meditative
+ - self
+ - woman
+ - Jesus
+ - sonnet
+---
+A Portrait (I)
+
+She gave up beauty in her tender youth,
+  Gave all her hope and joy and pleasant ways;
+  She covered up her eyes lest they should gaze
+On vanity, and chose the bitter truth.
+Harsh towards herself, towards others full of ruth,
+  Servant of servants, little known to praise,
+  Long prayers and fasts trenched on her nights and days:
+She schooled herself to sights and sounds uncouth,
+That with the poor and stricken she might make
+  A home, until the least of all sufficed
+Her wants; her own self learned she to forsake,
+Counting all earthly gain but hurt and loss.
+So with calm will she chose and bore the cross,
+  And hated all for love of Jesus Christ.

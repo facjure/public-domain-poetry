@@ -1,0 +1,24 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, A Woman in Winter Costume
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - nature
+ - winter
+ - sun
+---
+
+She is like the great rains
+That fall over the earth in winter-time.
+Wave on wave her heavy robes collapse
+In green torrents
+Lashed with slaty foam.
+Downward the sun strikes amid them
+And enkindles a lone flower;
+A violet iris standing in seething pools of grey.

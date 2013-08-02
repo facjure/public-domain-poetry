@@ -1,0 +1,25 @@
+---
+author: F.W. Bourdillon 
+gender: male
+title: The Lost Voice
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - Victorian verse
+ - ears
+ - night
+ - time
+ - earth
+ - heaven
+---
+
+A thousand voices fill my ears
+All day until the light grows pale;
+But silence falls when night-time nears,
+And where are you, sweet nightingale?
+Was that your echo, faint and far?
+No, all is hushed as heaven above;
+In earth no voice, in heaven no star,
+And in my heart no dream of love.

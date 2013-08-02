@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: W from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter W
+
+
+W was a watch,
+Where, in letters of gold,
+The hour of the day
+You might always behold.
+
+w!
+Beautiful watch!

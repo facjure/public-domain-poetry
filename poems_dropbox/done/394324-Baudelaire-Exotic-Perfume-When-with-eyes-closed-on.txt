@@ -1,0 +1,36 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Exotic Perfume
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ - lyric
+ - meditative
+ - self
+ - afternoon
+ - sonnet
+ - nature
+ - travel
+ - fruit
+---
+
+When, with eyes closed, on a hot afternoon,
+The scent of your passionate breast I inhale,
+Celestial vistas my spirit assail;
+Caressed by the flames of an endless sun.
+
+A languorous island, where Nature abounds
+With exotic trees and luscious fruit;
+And with men whose bodies are slim and astute,
+And with women whose frankness delights and astounds.
+
+By your perfume enticed to this region remote,
+A port I see, laden with mast and with boat,
+Still wearied and torn by the distant brine;
+
+While the tamarisk-odors that dreamily throng
+The air, round my slumberous senses intwine,
+And mix, in my soul, with the mariners' song.

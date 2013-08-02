@@ -1,0 +1,21 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - Hegel
+ - evil
+ - good
+ - philosophy
+ - humanity
+ - inspiration
+---
+Roaming in Thought [After reading Hegel]
+
+Roaming in thought over the Universe, I saw the little that is Good 
+steadily hastening towards immortality,
+And the vast all that is call'd Evil I saw hastening to merge itself 
+and become lost and dead.

@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: k from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+k
+
+K was once a little kite,
+Kity,
+Whity,
+Flighty,
+Kity,
+Out of sighty,
+Little kite!

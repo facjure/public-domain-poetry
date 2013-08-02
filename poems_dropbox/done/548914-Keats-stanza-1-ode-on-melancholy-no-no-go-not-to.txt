@@ -1,0 +1,37 @@
+---
+title: Stanza 1 from Ode on Melancholy
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type: 
+tags:
+ - death
+ - Romantic 
+ - memory
+ - suicide
+ - nature
+ - sorrow
+ - questions
+ - shade
+ - soul
+ - anguish
+ - sleep
+
+---
+
+Stanza 1 from ODE ON MELANCHOLY
+
+
+  No, no, go not to Lethe, neither twist
+    Wolf's-bane, tight-rooted, for its poisonous wine;
+  Nor suffer thy pale forehead to be kiss'd
+    By nightshade, ruby grape of Proserpine;
+  Make not your rosary of yew-berries,
+    Nor let the beetle, nor the death-moth be
+      Your mournful Psyche, nor the downy owl
+  A partner in your sorrow's mysteries;
+    For shade to shade will come too drowsily,
+      And drown the wakeful anguish of the soul. 

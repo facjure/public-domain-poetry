@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender: 
+title: I'll Tell You a Story
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - children poetry
+ - lyric
+ - funny
+ - strange
+---
+
+  I'll tell you a story
+  About Jack-a-Nory:
+And now my story's begun.
+  I'll tell you another
+  About his brother:
+And now my story is done.

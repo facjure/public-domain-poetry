@@ -1,0 +1,27 @@
+---
+author: Mother Goose
+gender: 
+title: The Alphabet
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - children poetry
+ - lyric
+ - educational
+---
+
+A, B, C, and D,
+Pray, playmates, agree.
+E, F, and G,
+Well, so it shall be.
+J, K, and L,
+In peace we will dwell.
+M, N, and O,
+To play let us go.
+P, Q, R, and S,
+Love may we possess.
+W, X, and Y,
+Will not quarrel or die.
+Z, and ampersand,
+Go to school at command.

@@ -1,0 +1,19 @@
+---
+author: Mother Goose
+gender:
+title: Barber, barber, shave a pig
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - fairy tale
+ - children poetry
+ - lyric
+ - pig
+ - funny
+---
+
+Barber, barber, shave a pig,
+How many hairs will make a wig?
+"Four-and-twenty, that's enough."
+Give the barber a pinch of snuff.

@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: W from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter W
+
+W was a Watch of Gold:
+It told the time of day,
+So that Papa knew when to come,
+And when to go away.

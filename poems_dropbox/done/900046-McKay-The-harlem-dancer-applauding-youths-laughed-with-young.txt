@@ -1,0 +1,42 @@
+---
+title: The Harlem Dancer
+author: Claude McKay
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type: 
+tags:
+ - Harlem Renaissance
+ - youth
+ - prostitution
+ - body
+ - sex
+ - dance
+ - form
+ - gaze
+ - performance
+ - dualism
+ - perception
+ - self
+ - stage
+
+---
+
+THE HARLEM DANCER
+
+Applauding youths laughed with young prostitutes	
+And watched her perfect, half-clothed body sway;	
+Her voice was like the sound of blended flutes	
+Blown by black players upon a picnic day.	
+She sang and danced on gracefully and calm,	        5
+The light gauze hanging loose about her form;	
+To me she seemed a proudly-swaying palm	
+Grown lovelier for passing through a storm.	
+Upon her swarthy neck black, shiny curls	
+Profusely fell; and, tossing coins in praise,	        10
+The wine-flushed, bold-eyed boys, and even the girls,	
+Devoured her with their eager, passionate gaze;	
+But, looking at her falsely-smiling face	
+I knew her self was not in that strange place.

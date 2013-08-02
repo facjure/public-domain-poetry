@@ -1,0 +1,26 @@
+---
+author: Thomas Moore
+gender: male
+title: The Lake of the Dismal Swamp
+curator: Ata
+year: 18th/19th century
+country: Ireland
+tags:
+ - supernatural
+ - dark imagery
+ - soul
+ - firefly
+ - light
+ - night
+ - boat
+ - cold
+ - horror
+ - strange
+---
+The Lake of the Dismal Swamp
+
+They made her a grave too cold and damp
+For a soul so warm and true;
+And she's gone to the Lake of the Dismal Swamp
+Where all night long, by a firefly lamp,
+She paddles her birch canoe.

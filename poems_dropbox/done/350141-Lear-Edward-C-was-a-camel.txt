@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: C from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter C
+
+C was a camel:
+You rode on his hump;
+And if you fell off,
+You came down such a bump!
+
+c!
+What a high camel!

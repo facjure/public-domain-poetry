@@ -1,0 +1,28 @@
+---
+author: anonymous
+gender:
+title: Solomon Grundy
+curator: Ata
+year: unknown
+country: England
+tags:
+ - fairy tale
+ - children poetry
+ - lyric
+ - days of week
+ - life
+ - death
+ - narrative
+---
+
+
+Solomon Grundy,
+Born on a Monday,
+Christened on Tuesday,
+Married on Wednesday,
+Took ill on Thursday,
+Worse on Friday,
+Died on Saturday,
+Buried on Sunday,
+This is the end of
+Solomon Grundy.

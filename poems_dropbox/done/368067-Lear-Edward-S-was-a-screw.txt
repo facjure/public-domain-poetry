@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: S from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter S
+
+S was a screw
+To screw down a box;
+And then it was fastened
+Without any locks.
+
+s!
+Valuable screw!

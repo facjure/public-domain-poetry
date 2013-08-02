@@ -1,0 +1,28 @@
+---
+author: James Joyce
+gender: male
+title: from Chamber Music
+curator: Ata
+year: 18th/19th century
+country: Ireland
+tags:
+ - wind
+ - May
+ - sea
+ - silvery
+ - Love
+ - lyric
+ - music
+---
+
+IX
+
+     Winds of May, that dance on the sea,
+     Dancing a ring-around in glee
+     From furrow to furrow, while overhead
+     The foam flies up to be garlanded,
+     In silvery arches spanning the air,
+     Saw you my true love anywhere?
+     Welladay! Welladay!
+     For the winds of May!
+     Love is unhappy when love is away!

@@ -1,0 +1,37 @@
+---
+author: Christina Rossetti
+gender: female
+title: By the Sea
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - sea
+ - meditative
+ - die
+ - nature
+ - birth
+ - science
+ - ocean
+ - inquisitive
+---
+By the Sea
+
+Why does the sea moan evermore?
+  Shut out from heaven it makes its moan.
+It frets against the boundary shore;
+  All earth's full rivers cannot fill
+  The sea, that drinking thirsteth still.
+
+Sheer miracles of loveliness
+  Lie hid in its unlooked-on bed:
+Anemones, salt, passionless,
+  Blow flower-like; just enough alive
+  To blow and multiply and thrive.
+
+Shells quaint with curve, or spot, or spike,
+  Encrusted live things argus-eyed,
+All fair alike, yet all unlike,
+  Are born without a pang, and die
+  Without a pang,--and so pass by.

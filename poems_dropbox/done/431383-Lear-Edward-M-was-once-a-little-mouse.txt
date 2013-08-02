@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: m from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+m
+
+M was once a little mouse,
+Mousy,
+Bousy,
+Sousy,
+Mousy,
+In the housy,
+Little mouse!

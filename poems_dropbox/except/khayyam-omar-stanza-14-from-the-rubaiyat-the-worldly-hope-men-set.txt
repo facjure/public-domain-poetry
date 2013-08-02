@@ -1,0 +1,30 @@
+---
+title: Stanza 14 of The Rubaiyat 
+author: Omar Khayyam
+translator: Edward Fitzgerald
+curator: NCR
+country: Persia
+year: 11th and 12th century	
+book: The Rubaiyat 1st Edition
+gender: male
+type: rhymed quatrains
+tags:
+ - hope
+ - heart
+ - ash
+ - futility
+ - pleasure
+ - moment
+ - indifference
+ - desert
+ - time
+ - ephemerality
+ - mortality
+ - snow
+ 
+--- 
+
+The Worldly Hope men set their Hearts upon
+ Turns Ashes—or it prospers; and anon,
+   Like Snow upon the Desert's dusty Face
+ Lighting a little Hour or two—is gone.

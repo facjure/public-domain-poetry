@@ -1,0 +1,19 @@
+---
+author: Mother Goose
+gender: 
+title: The Boy in the Barn
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - lyric
+ - farm
+ - owl
+ - funny
+ - children poetry
+---
+
+A little boy went into a barn,
+  And lay down on some hay.
+An owl came out, and flew about,
+  And the little boy ran away.

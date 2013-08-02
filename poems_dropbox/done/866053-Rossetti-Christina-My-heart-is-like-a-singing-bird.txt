@@ -1,0 +1,40 @@
+---
+author: Christina Rossetti
+gender: female
+title: A Birthday
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - bird 
+ - singing
+ - heart
+ - fruit
+ - nature
+ - love
+ - purple
+ - silver
+ - life
+ - rainbow
+ - summer
+---
+A Birthday
+
+My heart is like a singing bird
+  Whose nest is in a watered shoot;
+My heart is like an apple-tree
+  Whose boughs are bent with thick-set fruit;
+My heart is like a rainbow shell
+  That paddles in a halcyon sea;
+My heart is gladder than all these
+  Because my love is come to me.
+
+Raise me a dais of silk and down;
+  Hang it with vair and purple dyes;
+Carve it in doves and pomegranates,
+  And peacocks with a hundred eyes;
+Work it in gold and silver grapes,
+  In leaves and silver fleurs-de-lys;
+Because the birthday of my life
+  Is come, my love is come to me.

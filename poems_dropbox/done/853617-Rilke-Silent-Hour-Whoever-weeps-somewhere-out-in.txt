@@ -1,0 +1,33 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: Silent Hour
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ - lyric
+ - heart
+ - dreams
+ - crying
+ - meditative
+ - beautiful
+ - laughter
+---
+
+Whoever weeps somewhere out in the world
+Weeps without cause in the world
+Weeps over me.
+
+Whoever laughs somewhere out in the night
+Laughs without cause in the night
+Laughs at me.
+
+Whoever wanders somewhere in the world
+Wanders in vain in the world
+Wanders to me.
+
+Whoever dies somewhere in the world
+Dies without cause in the world
+Looks at me.

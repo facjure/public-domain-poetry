@@ -1,0 +1,18 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ - old age
+ - life
+ - inspiration
+ - beauty
+---
+
+To Old Age
+
+I see in you the estuary that enlarges and spreads itself grandly as 
+it pours in the great sea.

@@ -1,0 +1,19 @@
+---
+author: Mother Goose
+gender:
+title: Jack Sprat could eat no fat
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - fairy tale
+ - children poetry
+ - lyric
+ - funny
+ - marriage
+---
+
+Jack Sprat could eat no fat,
+His wife could eat no lean,
+And so, betwixt them both, you see,
+They licked the platter clean.

@@ -1,0 +1,22 @@
+---
+author: Unknown
+gender:
+title: Days of the Month
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ - fairy tale
+ - children poetry
+ - lyric
+ - educational
+ - time
+---
+Days of the Month
+
+Thirty days hath September,
+April, June, and November;
+All the rest have thirty-one;
+February twenty-eight alone,—
+Except in leap year, at which time
+February's days are twenty-nine.

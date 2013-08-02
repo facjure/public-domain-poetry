@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: Q from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter Q
+
+Q was a quill
+Made into a pen;
+But I do not know where,
+And I cannot say when.
+
+q!
+Nice little Quill!

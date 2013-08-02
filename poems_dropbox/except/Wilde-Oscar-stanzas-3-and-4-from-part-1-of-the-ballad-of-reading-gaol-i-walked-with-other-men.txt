@@ -1,0 +1,40 @@
+
+---
+title: Stanzas 4 and 5 from Part 1 of The Ballad of Reading Gaol
+author: Oscar Wilde
+curator: NCR
+country: England
+year: 1896
+book: The Ballad of Reading Gaol	
+gender: male
+type: Ballad
+tags:
+ - prison
+ - crime
+ - murder
+ - punishment
+ - execution
+ - empathy
+ - numb
+ - overwhelmed
+ - pain
+ - feeling
+ - guilt
+ 
+---
+
+Stanzas 4 and 5 from Part 1 of THE BALLAD OF READING GAOL
+
+               I walked, with other souls in pain,
+                 Within another ring,
+               And was wondering if the man had done
+                 A great or little thing,
+               When a voice behind me whispered low,
+                 "That fellow's got to swing."
+
+               Dear Christ! the very prison walls
+                 Suddenly seemed to reel,
+               And the sky above my head became
+                 Like a casque of scorching steel;
+               And, though I was a soul in pain,
+                 My pain I could not feel.

@@ -1,0 +1,27 @@
+---
+title: Stanza 52 of The Rubaiyat 
+author: Omar Khayyam
+translator: Edward Fitzgerald
+curator: NCR
+country: Persia
+year: 11th and 12th century	
+book: The Rubaiyat 1st Edition
+gender: male
+type: rhymed quatrains
+tags:
+ - sky
+ - inversion
+ - crawling
+ - impotence
+ - heaven
+ - earth
+ - living
+ - death
+ - life
+ 
+--- 
+
+And that inverted Bowl we call The Sky,
+ Whereunder crawling cooped we live and die,
+   Lift not thy hands to IT for help—for It
+ Rolls impotently on as Thou or I.

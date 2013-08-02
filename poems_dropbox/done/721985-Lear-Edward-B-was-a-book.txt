@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - book
+ - children poetry
+---
+
+B was a book
+With a binding of blue,
+And pictures and stories
+For me and for you.
+
+b
+Nice little book!

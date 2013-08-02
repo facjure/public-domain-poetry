@@ -1,0 +1,35 @@
+
+---
+title: Stanza 8 from Dedication of Don Juan
+author: Lord Byron
+curator: NCR
+country: England
+year: 19th Century	
+gender: male
+type: [Iambic Pentameter, ottava rima]
+tags:
+ - muse
+ - everyday
+ - fame
+ - envy
+ - contentment
+ - humility
+ - merit
+ - complaint
+ - present
+ - praise
+ - skill
+ - poetry
+ - fate
+ - posterity
+ 
+---
+
+For me, who, wandering with pedestrian Muses,
+      Contend not with you on the wingéd steed,
+    I wish your fate may yield ye, when she chooses,
+      The fame you envy, and the skill you need;
+    And, recollect, a poet nothing loses
+      In giving to his brethren their full meed
+    Of merit--and complaint of present days
+    Is not the certain path to future praise.

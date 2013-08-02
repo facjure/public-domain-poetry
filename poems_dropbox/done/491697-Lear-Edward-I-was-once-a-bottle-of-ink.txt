@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: i from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+i
+
+I was once a bottle of ink
+Inky,
+Dinky,
+Thinky,
+Inky,
+Blacky minky,
+Bottle of ink!

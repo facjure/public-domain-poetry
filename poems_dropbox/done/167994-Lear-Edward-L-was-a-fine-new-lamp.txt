@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: L from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ - lyric
+ - humor
+ - alphabet
+ - children poetry
+---
+the letter L
+
+L was a fine new Lamp;
+But when the wick was lit,
+Papa he said, "This Light ain't good!
+I cannot read a bit!"

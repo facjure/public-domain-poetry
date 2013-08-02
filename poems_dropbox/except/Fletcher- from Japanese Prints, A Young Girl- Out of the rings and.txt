@@ -1,0 +1,22 @@
+---
+author: 
+gender: 
+title: *from Japanese Prints*, A Young Girl
+translator: John Gould Fletcher
+curator: Ata
+year: 
+country: Japan
+tags:
+ - Japanese verse
+ - imagist
+ - water
+ - body
+---
+
+Out of the rings and the bubbles,
+The curls and the swirls of the water,
+Out of the crystalline shower of drops shattered in play,
+Her body and her thoughts arose.
+She dreamed of some lover
+To whom she might offer her body
+Fresh and cool as a flower born in the rain.
