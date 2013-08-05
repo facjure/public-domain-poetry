@@ -1,4 +1,3 @@
-
 ---
 title: After the Winter
 author: Claude McKay
@@ -20,11 +19,7 @@ tags:
  - class
  - fantasy
  - love
- 
 ---
-
-AFTER THE WINTER
-
 Some day, when trees have shed their leaves,	
   And against the morning’s white	
 The shivering birds beneath the eaves	

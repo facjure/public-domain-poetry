@@ -18,8 +18,6 @@ tags:
  - cloud
  - wind
 ---
-ANNABEL LEE.
-
      It was many and many a year ago,
          In a kingdom by the sea,
      That a maiden lived whom you may know

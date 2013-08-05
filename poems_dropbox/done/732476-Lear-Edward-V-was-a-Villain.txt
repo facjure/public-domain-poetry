@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter V
-
 V was a Villain; once
 He stole a piece of beef.
 Papa he said, "Oh, dreadful man!

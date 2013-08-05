@@ -26,8 +26,6 @@ tags:
  - dark
 
 ---
-Stanza 7 from ODE TO A NIGHTINGALE
-
 Thou wast not born for death, immortal Bird!
     No hungry generations tread thee down;
   The voice I hear this passing night was heard

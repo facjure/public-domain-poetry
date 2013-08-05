@@ -12,9 +12,6 @@ tags:
  - love
  - sleep 
 ---
-
-If I Had But Two Little Wings
-
 If I had but two little wings
 And were a little feathery bird,
 To you I'd fly, my dear!

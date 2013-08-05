@@ -13,8 +13,6 @@ tags:
  - time
  - children poetry
 ---
-Little Things
-
 Little drops of water,
 Little grains of sand,
 Make the mighty ocean

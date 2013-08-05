@@ -14,8 +14,6 @@ tags:
  - memory
  - december
 ---
-One Sea-Side Grave
-
 Unmindful of the roses,
   Unmindful of the thorn,
 A reaper tired reposes

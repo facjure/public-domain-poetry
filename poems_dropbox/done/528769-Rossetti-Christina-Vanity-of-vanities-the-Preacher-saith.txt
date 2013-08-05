@@ -20,8 +20,6 @@ tags:
  - dew
  - religion
 ---
-One Certainty
-
 Vanity of vanities, the Preacher saith,
   All things are vanity. The eye and ear
   Cannot be filled with what they see and hear.

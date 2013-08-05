@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter E
-
 E was an eagle,
 Who sat on the rocks,
 And looked down on the fields

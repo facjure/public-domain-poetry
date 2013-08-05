@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter W
-
 W was a Watch of Gold:
 It told the time of day,
 So that Papa knew when to come,

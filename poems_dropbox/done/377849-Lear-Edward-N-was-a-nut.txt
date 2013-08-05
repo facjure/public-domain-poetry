@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter N
-
 N was a nut
 So smooth and so brown!
 And when it was ripe,

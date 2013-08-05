@@ -12,8 +12,6 @@ tags:
  - children poetry
  - merry
 ---
-The Owl 
-
 When cats run home and light is come,
 And dew is cold upon the ground,
 And the far-off stream is dumb,

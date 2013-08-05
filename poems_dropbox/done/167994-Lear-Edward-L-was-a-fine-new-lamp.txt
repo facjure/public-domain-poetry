@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter L
-
 L was a fine new Lamp;
 But when the wick was lit,
 Papa he said, "This Light ain't good!

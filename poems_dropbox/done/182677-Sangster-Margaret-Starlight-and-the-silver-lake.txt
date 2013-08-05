@@ -19,9 +19,6 @@ tags:
  - shadows
  - lyric
 ---
-
-IN A CANOE
-
 Starlight, and the silver lake
 Clasp the skies—
 And two nearer, dearer stars,

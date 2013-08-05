@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-n
-
 N was once a little needle,
 Needly,
 Tweedly,

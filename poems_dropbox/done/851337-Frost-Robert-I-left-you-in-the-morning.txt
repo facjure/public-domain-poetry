@@ -12,8 +12,6 @@ tags:
  - nature
  - meditative
 ---
-Flower-gathering
-
     I left you in the morning,
     And in the morning glow,
     You walked a way beside me

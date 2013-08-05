@@ -10,8 +10,5 @@ tags:
  - lyric
  - funny
 ---
-
-JACK
-
 Jack be nimble, Jack be quick,
 Jack jump over the candlestick.

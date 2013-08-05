@@ -18,8 +18,6 @@ tags:
  - strange
  - lyric
 ---
-The Tune of Seven Towers
-
 No one walks there now;
 Except in the white moonlight
 The white ghosts walk in a row,

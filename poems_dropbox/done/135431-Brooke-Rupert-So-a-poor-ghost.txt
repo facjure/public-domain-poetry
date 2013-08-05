@@ -14,7 +14,5 @@ tags:
  - dreams
  - haunted
 ---
-Hauntings
-
 So a poor ghost, beside his misty streams,
 Is haunted by strange doubts, evasive dreams.

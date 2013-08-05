@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter I
-
 I was an Inkstand new,
 Papa he likes to use it;
 He keeps it in his pocket now,

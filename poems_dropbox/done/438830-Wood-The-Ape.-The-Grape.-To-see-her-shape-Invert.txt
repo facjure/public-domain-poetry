@@ -13,9 +13,6 @@ tags:
  - Bacchus
  - monkey
 ---
-
-The Ape. The Grape.
-
 To see her shape
 Invert the ape!
 

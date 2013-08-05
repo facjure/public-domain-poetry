@@ -1,4 +1,3 @@
-
 ---
 title: Stanza 3 from Spirits of the Dead
 author: Edgar Allen Poe
@@ -23,9 +22,6 @@ tags:
  - ghosts
 
 ---
-Stanza 3 from Spirits of the Dead
-
-
 The night, tho’ clear, shall frown—
 And the stars shall look not down
 From their high thrones in the heaven,

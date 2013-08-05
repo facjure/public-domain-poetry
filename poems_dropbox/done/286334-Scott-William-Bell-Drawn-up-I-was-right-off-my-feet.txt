@@ -16,8 +16,6 @@ tags:
  - dancing
  - flying
 ---
-The Witch's Ballad
-
 Drawn up I was right off my feet,
 Into the mist and off my feet,
 And, dancing on each chimney top

@@ -14,8 +14,6 @@ tags:
  - home
  - children poetry
 ---
-A Life on the Ocean Wave
-
 A life on the ocean wave,
 A home on the rolling deep,
 Where the scattered waters rave,

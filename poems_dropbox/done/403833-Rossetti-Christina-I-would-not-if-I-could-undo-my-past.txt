@@ -13,8 +13,6 @@ tags:
  - self
  - meditative
 ---
-They Desire a Better Country
-
 I would not if I could undo my past,
   Tho' for its sake my future is a blank;
   My past for which I have myself to thank,

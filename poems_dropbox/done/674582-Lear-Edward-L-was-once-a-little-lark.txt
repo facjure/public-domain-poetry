@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-l
-
 L was once a little lark,
 Larky,
 Marky,

@@ -14,9 +14,6 @@ tags:
  - strange
  - cold
 ---
-
-from Goblin Market
-
 "Lie close," Laura said,
 Pricking up her golden head:
 "We must not look at goblin men.

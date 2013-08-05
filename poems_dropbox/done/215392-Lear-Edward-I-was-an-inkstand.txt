@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter I
-
-
 I was an inkstand,
 Which stood on a table,
 With a nice pen to write with

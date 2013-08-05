@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter C
-
 C was a camel:
 You rode on his hump;
 And if you fell off,

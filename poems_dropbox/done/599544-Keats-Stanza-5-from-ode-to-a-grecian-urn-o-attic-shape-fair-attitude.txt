@@ -23,11 +23,6 @@ tags:
  - aging
 
 ---
-
-Stanza 5 from ODE ON A GRECIAN URN
-
-
-
 O Attic shape! Fair attitude! with brede
     Of marble men and maidens overwrought,
   With forest branches and the trodden weed;

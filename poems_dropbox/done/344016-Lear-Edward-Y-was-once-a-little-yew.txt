@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-y
-
 Y was once a little yew,
 Yewdy,
 Fewdy,

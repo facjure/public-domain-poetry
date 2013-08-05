@@ -17,8 +17,6 @@ tags:
  - life
  
 ---
-The Noble Nature
-
 It is not growing like a tree
 In bulk doth make man better be;
 Or standing long an oak, three hundred year

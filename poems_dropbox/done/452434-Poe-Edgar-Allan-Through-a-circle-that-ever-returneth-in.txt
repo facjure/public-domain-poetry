@@ -14,8 +14,6 @@ tags:
  - soul
  - sin
 ---
-The Conqueror Worm
-
 Through a circle that ever returneth in
 To the self-same spot,
 And much of Madness, and more of Sin,

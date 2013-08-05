@@ -14,8 +14,6 @@ tags:
  - meditative
  - death
 ---
-The Bourne
-
 Underneath the growing grass,
   Underneath the living flowers,
   Deeper than the sound of showers:

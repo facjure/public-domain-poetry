@@ -23,9 +23,6 @@ tags:
  - sky
  
 ---
-
-Stanza 2 from HARLEM SHADOWS 
-
 Through the long night until the silver break	
   Of day the little gray feet know no rest,	
 Through the lone night until the last snow-flake	

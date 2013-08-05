@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter K
-
 K was a great new Kite;
 Papa he saw it fly
 Above a thousand chimney pots,

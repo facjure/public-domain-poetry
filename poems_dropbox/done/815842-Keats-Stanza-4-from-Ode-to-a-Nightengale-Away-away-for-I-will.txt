@@ -22,9 +22,6 @@ tags:
  - tenderness
 
 ---
-Stanza 4 from ODE TO A NIGHTINGALE
-
-
 Away! away! for I will fly to thee,
     Not charioted by Bacchus and his pards,
   But on the viewless wings of Poesy,

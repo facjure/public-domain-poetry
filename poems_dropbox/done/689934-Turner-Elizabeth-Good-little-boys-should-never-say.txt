@@ -14,8 +14,6 @@ tags:
  - mother
  - boy
 ---
-Politeness
-
 Good little boys should never say
 "I will," and "Give me these";
 O, no! that never is the way,

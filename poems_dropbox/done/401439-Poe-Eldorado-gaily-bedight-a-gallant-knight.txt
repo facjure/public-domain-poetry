@@ -19,9 +19,6 @@ tags:
  - pilgrim
  - death
 ---
-
-ELDORADO.
-
          Gaily bedight,
          A gallant knight,
      In sunshine and in shadow,

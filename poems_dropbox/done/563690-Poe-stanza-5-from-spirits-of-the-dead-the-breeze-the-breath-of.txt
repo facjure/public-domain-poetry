@@ -23,9 +23,6 @@ tags:
  - legend
 
 ---
-Stanza 5 from Spirits of the Dead
-
-
 The breeze—the breath of God—is still—
 And the mist upon the hill,
 Shadowy—shadowy—yet unbroken,

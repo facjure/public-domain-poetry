@@ -12,8 +12,6 @@ tags:
  - horse
  - supernatural
 ---
-The King's Son
-
 Who rideth through the driving rain
 At such a headlong speed?
 Naked and pale he rides amain,

@@ -14,8 +14,6 @@ tags:
  - dead
  - ghost
 ---
-The Song of the Ghost
-
 O hush your crowing, both grey and red,
 Or he'll be going to join the dead;
 O cease from calling his ghost to the mould

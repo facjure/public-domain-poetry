@@ -10,9 +10,6 @@ tags:
  - lyric
  - funny
 ---
-
-LITTLE JUMPING JOAN
-
   Here am I, little jumping Joan,
 When nobody's with me
     I'm always alone.

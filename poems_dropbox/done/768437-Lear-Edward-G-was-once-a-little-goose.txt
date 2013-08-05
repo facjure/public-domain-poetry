@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-g
-
 G was once a little goose,
 Goosy,
 Moosy,

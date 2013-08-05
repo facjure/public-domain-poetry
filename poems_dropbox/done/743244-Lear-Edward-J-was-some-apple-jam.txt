@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter J
-
 J was some Apple Jam,
 Of which Papa ate part;
 But all the rest he took away

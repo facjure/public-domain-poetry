@@ -26,10 +26,6 @@ tags:
  - uncertainty
 
 ---
-
-THE FLY
-
-
 Little Fly,
 Thy summer’s play
 My thoughtless hand

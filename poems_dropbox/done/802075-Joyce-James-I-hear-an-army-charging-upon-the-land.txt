@@ -21,8 +21,6 @@ tags:
  - lyric
  - pain
 ---
-XXXVI
-
 I hear an army charging upon the land,
 And the thunder of horses plunging, foam about their knees:
 Arrogant, in black armour, behind them stand,

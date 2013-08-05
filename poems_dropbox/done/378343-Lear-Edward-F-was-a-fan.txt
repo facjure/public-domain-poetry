@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter F
-
-
 F was a fan
 Made of beautiful stuff;
 And when it was used,

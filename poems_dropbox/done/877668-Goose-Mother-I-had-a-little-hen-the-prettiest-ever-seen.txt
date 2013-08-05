@@ -15,9 +15,6 @@ tags:
  - bread
  - fairy tale
 ---
-
-THE CLEVER HEN
-
 I had a little hen, the prettiest ever seen,
 She washed me the dishes and kept the house clean;
 She went to the mill to fetch me some flour,

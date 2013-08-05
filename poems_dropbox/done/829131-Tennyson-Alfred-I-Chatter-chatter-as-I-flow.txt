@@ -18,8 +18,6 @@ tags:
  - sun
  - time
 ---
-The Brook
-
 I chatter, chatter, as I flow
 To join the brimming river;
 For men may come and men may go,

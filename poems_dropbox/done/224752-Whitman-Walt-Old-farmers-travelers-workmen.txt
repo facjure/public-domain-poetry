@@ -15,9 +15,6 @@ tags:
  - soldier
  - traveling
 ---
-
-True Conquerors
-
 Old farmers, travelers, workmen (no matter how crippled or bent,)
 Old sailors, out of many a perilous voyage, storm and wreck,
 Old soldiers from campaigns, with all their wounds, defeats and scars;

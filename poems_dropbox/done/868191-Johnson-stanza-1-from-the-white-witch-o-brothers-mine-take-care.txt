@@ -20,9 +20,6 @@ tags:
  - running
  - brothers
 ---
-
-Stanza 1 from The White Witch
-
 O BROTHERS mine, take care! Take care!	
 The great white witch rides out to-night.	
 Trust not your prowess nor your strength,	

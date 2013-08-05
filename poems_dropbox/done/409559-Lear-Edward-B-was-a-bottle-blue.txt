@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter B
-
 B was a Bottle blue,
 Which was not very small;
 Papa he filled it full of beer,

@@ -12,8 +12,6 @@ tags:
  - ghosts
  - horror
 ---
-The Haunted House
-
 O'er all there hung a shadow and a fear
 A sense of mystery the spirit daunted
 And said, as plain as whisper in the ear,

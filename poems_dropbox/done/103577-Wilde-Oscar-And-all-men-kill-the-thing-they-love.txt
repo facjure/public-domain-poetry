@@ -14,8 +14,6 @@ tags:
  - kiss
  - sword
 ---
-Version One from The Ballad of Reading Gaol
-
 And all men kill the thing they love,
 By all let this be heard,
 Some do it with a bitter look,

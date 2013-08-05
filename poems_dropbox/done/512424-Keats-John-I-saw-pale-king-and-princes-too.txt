@@ -11,8 +11,6 @@ tags:
  - ghost
  - death
 ---
-La Belle Dame sans Merci
-
 I saw pale kings, and princes too,
 Pale warriors, death-pale were they all;
 Who cry'd—-"La belle dame sans merci

@@ -16,9 +16,6 @@ tags:
  - wine
  - groom
 ---
-Ballad of the Late John Flint
-
-
 The Bridegroom smiled a twisted smile,
 "The wine is strong," he said.
 The Bride she twirled her wedding ring

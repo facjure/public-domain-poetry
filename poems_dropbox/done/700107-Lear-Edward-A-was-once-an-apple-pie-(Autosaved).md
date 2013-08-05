@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-a
-
 A was once an apple-pie,
 Pidy,
 Widy,

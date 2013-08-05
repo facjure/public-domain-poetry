@@ -15,8 +15,6 @@ tags:
  - life
  - ghost
 ---
-Fanta Morgana
-
 A blue-eyed phantom far before
   Is laughing, leaping toward the sun;
 Like lead I chase it evermore,

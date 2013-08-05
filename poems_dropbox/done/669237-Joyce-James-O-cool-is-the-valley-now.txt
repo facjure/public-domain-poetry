@@ -1,4 +1,3 @@
-
 ---
 author: James Joyce
 gender: male

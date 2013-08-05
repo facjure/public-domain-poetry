@@ -16,8 +16,6 @@ tags:
  - twilight
  - death
 ---
-MY 71st Year
-
 After surmounting three-score and ten,
 With all their chances, changes, losses, sorrows,
 My parents' deaths, the vagaries of my life, the many tearing passions of me, the war of '63 and '4,

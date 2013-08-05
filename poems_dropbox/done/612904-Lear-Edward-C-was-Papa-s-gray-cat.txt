@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter C
-
 C was Papa's gray Cat,
 Who caught a squeaky Mouse;
 She pulled him by his twirly tail

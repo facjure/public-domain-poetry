@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-u
-
 U was once a little urn,
 Urny,
 Burny,

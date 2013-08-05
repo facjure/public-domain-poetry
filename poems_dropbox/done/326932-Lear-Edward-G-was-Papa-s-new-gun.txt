@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter G
-
 G was Papa's new Gun;
 He put it in a box;
 And then he went and bought a bun,

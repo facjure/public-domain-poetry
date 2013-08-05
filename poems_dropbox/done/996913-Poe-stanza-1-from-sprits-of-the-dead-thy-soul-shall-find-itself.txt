@@ -22,8 +22,6 @@ tags:
  - ghosts
 
 ---
-Stanza 1 from Spirits of the Dead
-
 Thy soul shall find itself alone
 ’Mid dark thoughts of the gray tombstone—
 Not one, of all the crowd, to pry

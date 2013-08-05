@@ -12,8 +12,6 @@ tags:
  - walking
  - green 
 ---
-The Little Ghost
-
 I knew her for a little ghost
 That in my garden walked;
 The wall is high—higher than most—

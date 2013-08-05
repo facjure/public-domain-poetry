@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter N
-
 N was a Nut that grew
 High up upon a tree;
 Papa, who could not reach it, said,

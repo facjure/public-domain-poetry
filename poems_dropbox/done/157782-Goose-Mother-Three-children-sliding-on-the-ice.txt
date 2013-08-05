@@ -15,9 +15,6 @@ tags:
  - parable
  - parents
 ---
-
-THREE CHILDREN ON THE ICE
-
 Three children sliding on the ice
     Upon a summer's day,
 As it fell out, they all fell in,

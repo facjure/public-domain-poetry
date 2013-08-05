@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-d
-
 D was once a little doll,
 Dolly,
 Molly,

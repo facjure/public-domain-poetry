@@ -12,9 +12,6 @@ tags:
  - bird
  - funny
 ---
-
-OLD MOTHER GOOSE
-
 Old Mother Goose, when
   She wanted to wander,
 Would ride through the air

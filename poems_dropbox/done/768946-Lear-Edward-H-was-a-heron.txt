@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter H
-
-
 H was a heron,
 Who stood in a stream:
 The length of his neck

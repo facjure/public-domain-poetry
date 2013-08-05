@@ -18,8 +18,6 @@ tags:
  - meditative
  - age
 ---
-A Hand-Mirror
-
 Hold it up sternly—see this it sends back, (who is it? is it you?)
 Outside fair costume, within ashes and filth,
 No more a flashing eye, no more a sonorous voice or springy step,

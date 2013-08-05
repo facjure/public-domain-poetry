@@ -13,8 +13,6 @@ tags:
  - heaven
  - path
 ---
-The Little Ghost
-
 Down the long path, beset
 With heaven-scented, haunting mignonette,
 The gardeners say

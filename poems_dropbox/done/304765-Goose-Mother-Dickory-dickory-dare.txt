@@ -12,9 +12,6 @@ tags:
  - flying
  - pig
 ---
-
-THE FLYING PIG
-
 Dickory, dickory, dare,
 The pig flew up in the air;
 The man in brown soon brought

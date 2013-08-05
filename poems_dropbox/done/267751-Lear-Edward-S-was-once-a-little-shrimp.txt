@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-s
-
 S was once a little shrimp,
 Shrimpy,
 Nimpy,

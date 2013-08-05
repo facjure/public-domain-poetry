@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter R
-
 R was a rattlesnake,
 Rolled up so tight,
 Those who saw him ran quickly,

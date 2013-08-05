@@ -22,8 +22,6 @@ tags:
  - ghosts
 
 ---
-Stanza 4 from Spirits of the Dead
-
 Now are thoughts thou shalt not banish,
 Now are visions ne’er to vanish;
 From thy spirit shall they pass

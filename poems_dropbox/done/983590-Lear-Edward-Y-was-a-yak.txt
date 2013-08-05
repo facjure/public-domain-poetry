@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter Y
-
 Y was a yak,
 From the land of Thibet:
 Except his white tail,

@@ -17,9 +17,6 @@ tags:
  - nets
  - numbers
 ---
-
-A Paumanok Picture
-
 Two boats with nets lying off the sea-beach, quite still,
 Ten fishermen waiting—they discover a thick school of mossbonkers — they drop the join'd seine-ends in the water,
 The boats separate and row off, each on its rounding course to the beach, enclosing the mossbonkers,

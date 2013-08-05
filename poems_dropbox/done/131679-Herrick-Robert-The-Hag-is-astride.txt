@@ -13,8 +13,6 @@ tags:
  - night
  - horror
 ---
-The Hag
-
 The Hag is astride,
 This night for to ride,
 The Devil and she together.

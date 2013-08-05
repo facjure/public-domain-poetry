@@ -11,8 +11,6 @@ tags:
  - cosmic
  - future
 ---
-lines 1-4 of Whoever You Are Holding Me Now in Hand
-
 Whoever you are holding me now in hand,
 Without one thing all will be useless,
 I give you fair warning before you attempt me further,

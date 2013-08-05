@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter O
-
 O was an oyster,
 Who lived in his shell:
 If you let him alone,

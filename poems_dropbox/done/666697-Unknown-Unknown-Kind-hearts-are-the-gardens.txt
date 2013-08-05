@@ -19,8 +19,6 @@ tags:
  - love
  - joy
 ---
-Kind Hearts
-
 Kind hearts are the gardens,
 Kind thoughts are the roots,
 Kind words are the blossoms,

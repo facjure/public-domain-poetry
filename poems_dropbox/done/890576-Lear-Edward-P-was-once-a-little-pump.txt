@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-p
-
 P was once a little pump,
 Pumpy,
 Slumpy,

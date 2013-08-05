@@ -14,9 +14,6 @@ tags:
  - flying
  - silver
 ---
-
-BEES
-
 A swarm of bees in May
 Is worth a load of hay;
 A swarm of bees in June

@@ -10,8 +10,6 @@ tags:
  - February
  - day
 ---
-February
-
 Come, show me what you bring;
 For I have said my say, fulfilled my day,
 And must away.

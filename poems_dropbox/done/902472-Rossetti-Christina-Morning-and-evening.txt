@@ -13,8 +13,6 @@ tags:
  - eye
  - lyric
 ---
-from Goblin Market
-
 Morning and evening
 Maids heard the goblins cry:
 "Come buy our orchard fruits,

@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-q
-
 Q was once a little quail,
 Quaily,
 Faily,

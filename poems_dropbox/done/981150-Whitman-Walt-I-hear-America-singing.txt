@@ -19,9 +19,6 @@ tags:
  - love
  - inspiration
 ---
-
-I Hear America Singing
-
 I hear America singing, the varied carols I hear,
 Those of mechanics, each one singing his as it should be blithe and strong,
 The carpenter singing his as he measures his plank or beam,

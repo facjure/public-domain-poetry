@@ -21,8 +21,6 @@ tags:
  - stream
  - song
 ---
-A Song
-
 She sat and sang alway
   By the green margin of a stream,
 Watching the fishes leap and play

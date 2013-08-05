@@ -13,8 +13,6 @@ tags:
  - ghost
  - lyric
 ---
-The Walker of the Snow
-
 . . . I saw by the sickly moonlight
 As I followed, bending low,
 That the walking of the stranger

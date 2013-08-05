@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter Z
-
 Z was a zebra,
 All striped white and black;
 And if he were tame,

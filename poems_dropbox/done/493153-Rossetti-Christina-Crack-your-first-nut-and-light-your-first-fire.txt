@@ -11,8 +11,6 @@ tags:
  - fire
  - dance
 ---
-October
-
 Crack your first nut and light your first fire,
   Roast your first chestnut crisp on the bar;
 Make the logs sparkle, stir the blaze higher;

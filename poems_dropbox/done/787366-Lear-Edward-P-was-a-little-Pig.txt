@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter P
-
-
 P was a little Pig,
 Went out to take a walk;
 Papa he said, "If Piggy dead,

@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter M
-
 M was a dish of mince;
 It looked so good to eat!
 Papa, he quickly ate it up,

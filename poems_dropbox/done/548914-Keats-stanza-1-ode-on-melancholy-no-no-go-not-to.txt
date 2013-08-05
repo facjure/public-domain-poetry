@@ -21,10 +21,6 @@ tags:
  - sleep
 
 ---
-
-Stanza 1 from ODE ON MELANCHOLY
-
-
   No, no, go not to Lethe, neither twist
     Wolf's-bane, tight-rooted, for its poisonous wine;
   Nor suffer thy pale forehead to be kiss'd

@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-i
-
 I was once a bottle of ink
 Inky,
 Dinky,

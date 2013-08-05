@@ -13,8 +13,6 @@ tags:
  - death
  - night
 ---
-Lamia
-
 "A serpent!" echoed he; no sooner said,
 Than with a frightful scream she vanished:
 And Lycius' arms were empty of delight,

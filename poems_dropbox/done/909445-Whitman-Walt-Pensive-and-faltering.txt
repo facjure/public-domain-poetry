@@ -15,9 +15,6 @@ tags:
  - ghost
  - apparition
 ---
-
-Pensive and Faltering
-
 Pensive and faltering,
 The words the Dead I write,
 For living are the Dead,

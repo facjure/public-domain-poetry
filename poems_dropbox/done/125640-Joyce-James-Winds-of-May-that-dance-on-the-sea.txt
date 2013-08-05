@@ -14,9 +14,6 @@ tags:
  - lyric
  - music
 ---
-
-IX
-
      Winds of May, that dance on the sea,
      Dancing a ring-around in glee
      From furrow to furrow, while overhead

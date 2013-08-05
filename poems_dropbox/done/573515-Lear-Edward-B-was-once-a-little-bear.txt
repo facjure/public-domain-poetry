@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-b
-
 B was once a little bear,
 Beary,
 Wary,

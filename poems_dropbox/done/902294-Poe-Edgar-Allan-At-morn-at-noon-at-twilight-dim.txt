@@ -21,8 +21,6 @@ tags:
  - life
  - morning
 ---
-HYMN
-
      AT morn—at noon—at twilight dim—
      Maria! thou hast heard my hymn!
      In joy and wo—in good and ill—

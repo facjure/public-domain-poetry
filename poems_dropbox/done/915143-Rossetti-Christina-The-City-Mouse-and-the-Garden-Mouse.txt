@@ -13,8 +13,6 @@ tags:
  - song
  - children poetry
 ---
-The City Mouse and the Garden Mouse
-
 The city mouse lives in a house;—
 The garden mouse lives in a bower,
 He's friendly with the frogs and toads,

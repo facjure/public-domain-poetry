@@ -31,8 +31,6 @@ tags:
  - other
 
 ---
-Stanza 8 from Ode to a Nightingale
-
 Forlorn! the very word is like a bell
     To toll me back from thee to my sole self!
   Adieu! the fancy cannot cheat so well

@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter Q
-
 Q was a quill
 Made into a pen;
 But I do not know where,

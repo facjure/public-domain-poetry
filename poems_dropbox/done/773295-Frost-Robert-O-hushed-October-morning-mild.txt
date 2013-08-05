@@ -16,8 +16,6 @@ tags:
  - OCtober
  - noon
 ---
-October
-
     O hushed October morning mild,
     Thy leaves have ripened to the fall;
     To-morrow's wind, if it be wild,

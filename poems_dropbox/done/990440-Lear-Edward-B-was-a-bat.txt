@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter B
-
 B was a bat,
 Who slept all the day,
 And fluttered about

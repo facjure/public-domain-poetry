@@ -14,8 +14,6 @@ tags:
  - funny
  - song
 ---
-from THE OWL AND THE PUSSY-CAT
-
 I.
 
 The Owl and the Pussy-Cat went to sea

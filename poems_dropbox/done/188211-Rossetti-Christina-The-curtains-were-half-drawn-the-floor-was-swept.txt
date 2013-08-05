@@ -17,8 +17,6 @@ tags:
  - death
  - cold
 ---
-After Death
-
 The curtains were half drawn, the floor was swept
   And strewn with rushes, rosemary and may
   Lay thick upon the bed on which I lay,

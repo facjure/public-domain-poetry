@@ -6,7 +6,6 @@ import StringIO
 from glob import glob
 import os
 import sys
-import logging
 from pipes import quote
 
 if not len(sys.argv) > 1:

@@ -16,8 +16,6 @@ tags:
  - September
  - children poetry
 ---
-Days of the Month
-
 Thirty days hath September,
 April, June, and November;
 February has twenty-eight alone.

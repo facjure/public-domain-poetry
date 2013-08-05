@@ -15,8 +15,6 @@ tags:
  - horror
  - strange
 ---
-William and Margaret
-
 The hungry worm my sister is,
 The winding sheet I wear.
 And cold and weary lasts our night,

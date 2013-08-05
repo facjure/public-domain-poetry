@@ -11,9 +11,6 @@ tags:
  - lyric
  - educational
 ---
-
-Grammar in Rhyme
-
 Three little words, you often see,
 Are articles A, An, and The.
 A Noun is the name of anything,

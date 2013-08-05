@@ -23,9 +23,6 @@ tags:
  - bleak
 
 ---
-THE CHIMNEY-SWEEPER
-
-
 A little black thing among the snow,
 Crying! ‘weep! weep!’ in notes of woe!
 ‘Where are thy father and mother?  Say!’—

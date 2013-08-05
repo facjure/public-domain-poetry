@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter V
-
 V was a veil
 With a border upon it,
 And a ribbon to tie it

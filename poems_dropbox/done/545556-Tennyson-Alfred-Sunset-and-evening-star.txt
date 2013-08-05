@@ -15,8 +15,6 @@ tags:
  - star
  - meditative
 ---
-Crossing the Bar
-
 Sunset and evening star,
 And one clear call for me!
 And may there be no moaning of the bar,

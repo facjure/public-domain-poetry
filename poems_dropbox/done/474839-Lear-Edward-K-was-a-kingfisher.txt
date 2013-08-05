@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter K
-
 K was a kingfisher:
 Quickly he flew,
 So bright and so pretty!—

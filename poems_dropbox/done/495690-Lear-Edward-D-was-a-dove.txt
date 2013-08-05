@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter D
-
 D was a dove,
 Who lived in a wood,
 With such pretty soft wings,

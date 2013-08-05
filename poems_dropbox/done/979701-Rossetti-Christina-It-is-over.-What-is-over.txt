@@ -12,8 +12,6 @@ tags:
  - meditative
  - spring
 ---
-Amen
-
 It is over. What is over?
   Nay, how much is over truly!--
 Harvest days we toiled to sow for;

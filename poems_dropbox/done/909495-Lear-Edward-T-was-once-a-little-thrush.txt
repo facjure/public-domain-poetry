@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-t
-
 T was once a little thrush,
 Thrushy,
 Hushy,

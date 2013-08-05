@@ -24,9 +24,6 @@ tags:
  - natural beauty
 
 ---
-
-Stanza 2 from ODE ON MELANCHOLY
-
 But when the melancholy fit shall fall
     Sudden from heaven like a weeping cloud,
   That fosters the droop-headed flowers all,

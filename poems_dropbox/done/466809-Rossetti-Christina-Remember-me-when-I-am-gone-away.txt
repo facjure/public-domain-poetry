@@ -15,8 +15,6 @@ tags:
  - friendship
  - love
 ---
-Remember
-
 Remember me when I am gone away,
   Gone far away into the silent land;
   When you can no more hold me by the hand,

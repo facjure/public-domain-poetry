@@ -15,9 +15,6 @@ tags:
  - east
  - west
 ---
-
-THE WINDS
-
 Mister East gave a feast;
 Mister North laid the cloth;
 Mister West did his best;

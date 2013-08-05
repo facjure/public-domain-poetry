@@ -14,9 +14,6 @@ tags:
  - toys
  - love
 ---
-
-BABY DOLLY
-
 Hush, baby, my dolly, I pray you don't cry,
 And I'll give you some bread, and some milk by-and-by;
 Or perhaps you like custard, or, maybe, a tart,

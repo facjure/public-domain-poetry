@@ -21,9 +21,6 @@ tags:
  - song
  
 ---
-
-TRANSLATION
-
 We trekked into a far country,	
 My friend and I.	
 Our deeper content was never spoken,	

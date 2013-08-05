@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter D
-
 D was Papa's white Duck,
 Who had a curly tail;
 One day it ate a great fat frog,

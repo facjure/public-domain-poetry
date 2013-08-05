@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter U
-
 U was an upper-coat,
 Woolly and warm,
 To wear over all

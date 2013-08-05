@@ -19,8 +19,6 @@ tags:
  - fire
  - lonesome
 ---
-from Rime of the Ancient Mariner
-
 About, about, in reel and rout
 The death-fires danced at night;
 The water, like a witch's oils,

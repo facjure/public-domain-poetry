@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter T
-
 T was a tumbler full
 Of Punch all hot and good;
 Papa he drank it up, when in

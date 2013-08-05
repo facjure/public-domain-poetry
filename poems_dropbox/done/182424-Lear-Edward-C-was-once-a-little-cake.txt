@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-c
-
 C was once a little cake,
 Caky,
 Baky,

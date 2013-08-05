@@ -10,8 +10,6 @@ tags:
  - love
  - memory
 ---
-He and She
-
 "Should one of us remember,
   And one of us forget,
 I wish I knew what each will do--

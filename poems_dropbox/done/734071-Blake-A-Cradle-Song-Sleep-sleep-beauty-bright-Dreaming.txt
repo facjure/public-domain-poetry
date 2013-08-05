@@ -27,10 +27,6 @@ tags:
  - baby
 
 ---
-
-A CRADLE SONG
-
-
 Sleep, sleep, beauty bright,
 Dreaming in the joys of night;
 Sleep, sleep; in thy sleep

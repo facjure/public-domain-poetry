@@ -22,10 +22,6 @@ tags:
  - green
 
 ---
-
-Stanza 1 from ODE TO A NIGHTINGALE.
-
-
   My heart aches, and a drowsy numbness pains
     My sense, as though of hemlock I had drunk,
   Or emptied some dull opiate to the drains

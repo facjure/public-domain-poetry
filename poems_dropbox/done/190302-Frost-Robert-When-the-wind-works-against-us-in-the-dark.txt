@@ -17,8 +17,6 @@ tags:
  - pastoral
  - dark
 ---
-Storm Fear
-
     When the wind works against us in the dark,
     And pelts with snow
     The lowest chamber window on the east,

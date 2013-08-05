@@ -29,9 +29,6 @@ tags:
  - depression
 
 ---
-
-Stanza 3 from ODE ON MELANCHOLY
-
 She dwells with Beauty--Beauty that must die;
     And Joy, whose hand is ever at his lips
   Bidding adieu; and aching Pleasure nigh,

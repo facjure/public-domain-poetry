@@ -10,9 +10,6 @@ tags:
  - lyric
  - funny
 ---
-
-TWEEDLE-DUM AND TWEEDLE-DEE
-
 Tweedle-dum and Tweedle-dee
     Resolved to have a battle,
 For Tweedle-dum said Tweedle-dee

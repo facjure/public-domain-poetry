@@ -13,8 +13,6 @@ tags:
  - dead
  - horror
 ---
-The Ballad of Carmilhan
-
 For right ahead lay the Ship of the Dead
 The ghostly Carmilhan!
 Her masts were stripped, her yards were bare,

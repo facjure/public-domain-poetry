@@ -18,8 +18,6 @@ tags:
  - sonnet
  - crying
 ---
-On the Wing
-
 Once in a dream (for once I dreamed of you)
   We stood together in an open field;
   Above our heads two swift-winged pigeons wheeled,

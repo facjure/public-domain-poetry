@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-e
-
 E was once a little eel,
 Eely,
 Weely,

@@ -11,8 +11,6 @@ tags:
  - cold
  - November
 ---
-November
-
 Come, and shut the door,
 For now it's snowing fast;
 It snows, and will snow more and more;

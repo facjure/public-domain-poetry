@@ -18,8 +18,6 @@ tags:
  - forlorn 
  - aging
 ---
-Somewhere or Other
-
 Somewhere or other there must surely be
   The face not seen, the voice not heard,
 The heart that not yet--never yet--ah me!

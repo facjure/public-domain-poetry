@@ -26,10 +26,6 @@ tags:
  - nest
 
 ---
-
-ON ANOTHER’S SORROW
-
-
 Can I see another’s woe,
 And not be in sorrow too?
 Can I see another’s grief,

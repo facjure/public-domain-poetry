@@ -13,9 +13,6 @@ tags:
  - counting
  - rose
 ---
-
-The Difference
-
 Eight fingers,
 Ten toes,
 Two eyes,

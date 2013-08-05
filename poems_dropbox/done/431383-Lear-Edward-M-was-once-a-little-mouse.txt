@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-m
-
 M was once a little mouse,
 Mousy,
 Bousy,

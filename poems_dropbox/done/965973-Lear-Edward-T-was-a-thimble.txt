@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter T
-
 T was a thimble,
 Of silver so bright!
 When placed on the finger,

@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter G
-
 G was a gooseberry,
 Perfectly red;
 To be made into jam,

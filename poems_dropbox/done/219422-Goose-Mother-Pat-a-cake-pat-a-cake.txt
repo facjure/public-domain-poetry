@@ -12,9 +12,6 @@ tags:
  - bird
  - friendship
 ---
-
-PAT-A-CAKE
-
 Pat-a-cake, pat-a-cake,
   Baker's man!
 So I do, master,

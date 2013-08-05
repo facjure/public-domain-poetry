@@ -15,8 +15,6 @@ tags:
  - Jesus
  - sonnet
 ---
-A Portrait (I)
-
 She gave up beauty in her tender youth,
   Gave all her hope and joy and pleasant ways;
   She covered up her eyes lest they should gaze

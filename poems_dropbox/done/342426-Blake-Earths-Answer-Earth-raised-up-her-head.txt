@@ -24,10 +24,6 @@ tags:
  - vice
 
 ---
-
-EARTH’S ANSWER
-
-
 Earth raised up her head
 From the darkness dread and drear,
 Her light fled,

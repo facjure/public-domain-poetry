@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter J
-
-
 J was a jug,
 So pretty and white,
 With fresh water in it

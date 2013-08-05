@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-x
-
 X was once a great king Xerxes,
 Xerxy,
 Perxy,

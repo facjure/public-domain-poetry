@@ -13,8 +13,6 @@ tags:
  - child
  - strange
 ---
-The House of Ghosts
-
 Out from the House of Ghosts I fled
 Lest I should turn and see
 The child I had been lift her head

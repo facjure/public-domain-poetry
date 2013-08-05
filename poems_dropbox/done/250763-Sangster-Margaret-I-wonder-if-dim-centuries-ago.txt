@@ -15,9 +15,6 @@ tags:
  - love
  - meditative
 ---
-
-V. MOON-GLOW
-
 I wonder if, dim centuries ago,
 We watched the moon together, on some night
 When stars hung very near, and softly bright?

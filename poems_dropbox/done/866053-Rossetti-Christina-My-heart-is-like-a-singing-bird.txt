@@ -19,8 +19,6 @@ tags:
  - rainbow
  - summer
 ---
-A Birthday
-
 My heart is like a singing bird
   Whose nest is in a watered shoot;
 My heart is like an apple-tree

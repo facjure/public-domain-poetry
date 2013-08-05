@@ -23,8 +23,6 @@ tags:
  - solitude
 
 ---
-Stanza 2 from Spirits of the Dead
-
 Be silent in that solitude,
    Which is not loneliness—for then
 The spirits of the dead who stood

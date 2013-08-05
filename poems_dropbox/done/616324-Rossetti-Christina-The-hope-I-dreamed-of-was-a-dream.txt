@@ -16,8 +16,6 @@ tags:
  - heart
  - self
 ---
-Mirage
-
 The hope I dreamed of was a dream,
   Was but a dream; and now I wake
 Exceeding comfortless, and worn, and old,

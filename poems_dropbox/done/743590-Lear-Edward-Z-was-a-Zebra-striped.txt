@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter Z
-
 Z was a Zebra striped
 And streaked with lines of black;
 Papa said once, he thought he'd like

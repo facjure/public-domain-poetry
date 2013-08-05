@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-h
-
 H was once a little hen,
 Henny,
 Chenny,

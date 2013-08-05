@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter X
-
 X was King Xerxes,
 Who wore on his head A mighty large turban,
 Green, yellow, and red.

@@ -17,8 +17,6 @@ tags:
  - Cain
  - Jesus
 ---
-Version one from The Ballad of Reading Gaol
-
 And with tears of blood he cleansed the hand,
 The hand that held the steel:
 For only blood can wipe out blood,

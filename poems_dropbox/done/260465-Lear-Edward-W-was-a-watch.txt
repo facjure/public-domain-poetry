@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter W
-
-
 W was a watch,
 Where, in letters of gold,
 The hour of the day

@@ -13,9 +13,6 @@ tags:
  - hero
  - gift
 ---
-
-To a Certain Cantatrice
-
 Here, take this gift,
 I was reserving it for some hero, speaker, or general,
 One who should serve the good old cause, the great idea, the progress and freedom of the race, 

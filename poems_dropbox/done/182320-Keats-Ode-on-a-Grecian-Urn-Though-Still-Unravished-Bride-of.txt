@@ -22,10 +22,6 @@ tags:
  - myth
 
 ---
-
-Stanza 1 from ODE ON A GRECIAN URN
-
-
   Thou still unravish'd bride of quietness,
     Thou foster-child of silence and slow time,
   Sylvan historian, who canst thus express

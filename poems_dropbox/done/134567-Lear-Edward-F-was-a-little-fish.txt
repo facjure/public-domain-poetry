@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter F
-
 F was a little Fish.
 Cook in the river took it
 Papa said, "Cook! Cook! bring a dish!

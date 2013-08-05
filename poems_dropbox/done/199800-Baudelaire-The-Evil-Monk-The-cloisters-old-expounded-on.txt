@@ -16,9 +16,6 @@ tags:
  - dark
  - soul
 ---
-
-The Evil Monk
-
 The cloisters old, expounded on their walls
 With paintings, the Beatific Verity,
 The which—adorning their religious halls,

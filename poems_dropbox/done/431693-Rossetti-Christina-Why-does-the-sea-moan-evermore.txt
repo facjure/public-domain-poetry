@@ -16,8 +16,6 @@ tags:
  - ocean
  - inquisitive
 ---
-By the Sea
-
 Why does the sea moan evermore?
   Shut out from heaven it makes its moan.
 It frets against the boundary shore;

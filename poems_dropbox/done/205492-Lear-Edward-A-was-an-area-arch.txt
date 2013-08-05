@@ -11,9 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter A
-
-
 A was an Area Arch
 Where washerwomen sat;
 They made a lot of lovely starch

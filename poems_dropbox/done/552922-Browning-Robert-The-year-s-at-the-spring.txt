@@ -15,8 +15,6 @@ tags:
  - heaven
  - inspiration
 ---
-Pippa
-
 The year's at the spring,
 The day's at the morn;
 Morning's at seven;

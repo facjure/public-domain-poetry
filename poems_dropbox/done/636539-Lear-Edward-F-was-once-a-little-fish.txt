@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-f
-
 F was once a little fish,
 Fishy,
 Wishy,

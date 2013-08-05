@@ -15,8 +15,6 @@ tags:
  - darkness
  - horror
 ---
-The Were-wolves
-
 Each panter in the darkness
 Is a demon-haunted soul,
 The shadowy, phantom were-wolves

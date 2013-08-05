@@ -13,8 +13,6 @@ tags:
  - love 
  - walking
 ---
-As If a Phantom Caress'd Me
-
 As if a phantom caress'd me,
 I thought I was not alone walking here by the shore;
 But the one I thought was with me as now I walk by the shore, the one I loved that caress'd me,

@@ -14,8 +14,6 @@ tags:
  - strange
  - cold
 ---
-A Chilly Night
-
 I looked and saw the ghosts
 Dotting plain and mound.
 They stood in the blank moonlight

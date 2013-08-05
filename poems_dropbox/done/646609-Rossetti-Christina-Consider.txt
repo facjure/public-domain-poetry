@@ -19,8 +19,6 @@ tags:
  - father
 ---
 Consider
-
-Consider
 The lilies of the field whose bloom is brief:--
     We are as they;
     Like them we fade away,

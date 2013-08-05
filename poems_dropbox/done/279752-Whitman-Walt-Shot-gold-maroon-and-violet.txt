@@ -21,9 +21,6 @@ tags:
  - pastoral
 
 ---
-
-A Prairie Sunset
-
 Shot gold, maroon and violet, dazzling silver, emerald, fawn,
 The earth's whole amplitude and Nature's multiform power consign'd for once to colors;
 The light, the general air possess'd by them—colors till now unknown,

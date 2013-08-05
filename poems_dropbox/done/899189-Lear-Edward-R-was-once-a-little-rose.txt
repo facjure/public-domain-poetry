@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-r
-
 R was once a little rose,
 Rosy,
 Posy,

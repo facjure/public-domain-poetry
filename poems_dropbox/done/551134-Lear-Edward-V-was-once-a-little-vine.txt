@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-v
-
 V was once a little vine,
 Viny,
 Winy,

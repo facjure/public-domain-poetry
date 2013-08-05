@@ -25,10 +25,6 @@ tags:
  - child
 
 ---
-
-A CRADLE SONG
-
-
 Sweet dreams, form a shade
 O’er my lovely infant’s head!
 Sweet dreams of pleasant streams

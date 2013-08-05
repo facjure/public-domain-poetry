@@ -21,9 +21,6 @@ tags:
  - fate
  
 ---
-
-DUNBAR
-
 Ah, how poets sing and die!	
 Make one song and Heaven takes it;	
 Have one heart and Beauty breaks it;	

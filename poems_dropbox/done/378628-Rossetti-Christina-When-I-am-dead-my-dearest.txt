@@ -19,9 +19,6 @@ tags:
  - nightingale
  - bird
 ---
-
-Song (II)
-
 When I am dead, my dearest,
   Sing no sad songs for me;
 Plant thou no roses at my head,

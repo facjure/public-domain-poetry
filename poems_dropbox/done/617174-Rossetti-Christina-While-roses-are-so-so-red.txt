@@ -21,8 +21,6 @@ tags:
  - desire
  - beauty
 ---
-Beauty is Vain
-
 While roses are so red,
   While lilies are so white,
 Shall a woman exalt her face

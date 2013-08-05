@@ -13,9 +13,6 @@ tags:
  - brain
  - meditative
 ---
-
-An Evening Lull
-
 After a week of physical anguish,
 Unrest and pain, and feverish heat,
 Toward the ending day a calm and lull comes on,

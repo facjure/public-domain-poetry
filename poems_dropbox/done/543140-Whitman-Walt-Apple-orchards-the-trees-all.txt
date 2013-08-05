@@ -21,8 +21,6 @@ tags:
  - self
  - meditative
 ---
-Out of May's Shows Selected
-
 Apple orchards, the trees all cover'd with blossoms;
 Wheat fields carpeted far and near in vital emerald green;
 The eternal, exhaustless freshness of each early morning;

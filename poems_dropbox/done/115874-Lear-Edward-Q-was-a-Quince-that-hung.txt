@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter Q
-
 Q was a Quince that hung
 Upon a garden tree;
 Papa he brought it with him home,

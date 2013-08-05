@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter S
-
 S was Papa's new Stick,
 Papa's new thumping Stick,
 To thump extremely wicked boys,

@@ -17,8 +17,6 @@ tags:
  - star
  - dove
 ---
-Lucy
-
 She dwelt among the untrodden ways
 Beside the springs of Dove;
 A maid whom there were none to praise,

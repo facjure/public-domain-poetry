@@ -13,8 +13,6 @@ tags:
  - flower
  - children poetry
 ---
-The Violet
-
 Down in a green and shady bed
 A modest violet grew;
 Its stalk was bent, it hung its head,

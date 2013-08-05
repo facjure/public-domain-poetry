@@ -18,8 +18,6 @@ tags:
  - philosophical 
  - sleep 
 ---
-Life and Death
-
 Life is not sweet. One day it will be sweet
     To shut our eyes and die:
 Nor feel the wild-flowers blow, nor birds dart by

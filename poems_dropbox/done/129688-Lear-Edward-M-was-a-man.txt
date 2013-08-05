@@ -11,8 +11,6 @@ tags:
  - alphabet
  - children poetry
 ---
-the letter M
-
 M was a man,
 Who walked round and round;
 And he wore a long coat

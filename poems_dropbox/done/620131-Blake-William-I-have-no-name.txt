@@ -1,5 +1,3 @@
-
-
 ---
 author: William Blake
 gender: male
@@ -14,8 +12,6 @@ tags:
  - time
  - birth
 ---
-Infant Joy
-
 "I have no name;
 I am but two days old."
 What shall I call thee?

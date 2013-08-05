@@ -20,10 +20,6 @@ tags:
  - dark
 
 ---
-
-THE SICK ROSE
-
-
 O rose, thou art sick!
    The invisible worm,
 That flies in the night,

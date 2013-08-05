@@ -12,9 +12,6 @@ tags:
  - memories
  - lyric
 ---
-
-FRAGMENTS
-
 A WITHERED ROSE
 
 A book of verse,

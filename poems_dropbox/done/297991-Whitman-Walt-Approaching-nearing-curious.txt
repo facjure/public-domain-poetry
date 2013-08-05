@@ -21,9 +21,6 @@ tags:
  - voice
  - water
 ---
-
-Queries to My Seventieth Year
-
 Approaching, nearing, curious,
 Thou dim, uncertain spectre—bringest thou life or death?
 Strength, weakness, blindness, more paralysis and heavier?

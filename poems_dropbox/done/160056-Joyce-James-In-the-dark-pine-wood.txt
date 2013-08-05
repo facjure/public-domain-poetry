@@ -1,4 +1,3 @@
-
 ---
 author: James Joyce
 gender: male
@@ -14,8 +13,6 @@ tags:
  - music
  - friendship
 ---
-XX
-
      In the dark pine-wood
      I would we lay,
      In deep cool shadow
