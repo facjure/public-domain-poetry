@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: M from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+M was a man,
+Who walked round and round;
+And he wore a long coat
+That came down to the ground.
+
+m!
+Funny old Man!

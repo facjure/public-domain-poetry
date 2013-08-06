@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: K from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+K was a great new Kite;
+Papa he saw it fly
+Above a thousand chimney pots,
+And all about the sky.

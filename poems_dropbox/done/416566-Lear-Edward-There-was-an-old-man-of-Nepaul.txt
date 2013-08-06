@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title:  There was an Old Man of Nepaul 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  Nepal
+ -  funny
+ -  strange
+ -  horse
+ -  dark imagery
+---
+
+There was an Old Man of Nepaul,
+From his horse had a terrible fall;
+But, though split quite in two, with some very strong glue
+They mended that man of Nepaul.

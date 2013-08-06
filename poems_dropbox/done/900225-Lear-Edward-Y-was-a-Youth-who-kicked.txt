@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: Y from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+Y was a Youth, who kicked
+And screamed and cried like mad;
+Papa he said, "Your conduct is
+Abominably bad!"

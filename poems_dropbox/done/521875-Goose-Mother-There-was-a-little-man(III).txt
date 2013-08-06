@@ -1,0 +1,28 @@
+---
+author: Mother Goose
+gender:
+title: A Man and a Maid (III)
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+ -  love
+ -  marriage
+ -  bride
+---
+    There was a little man,
+    Who wooed a little maid,
+And he said, "Little maid, will you wed, wed, wed?
+    I have little more to say,
+    So will you, yea or nay,
+For least said is soonest mended-ded, ded, ded."
+
+    The little maid replied,
+    "Should I be your little bride,
+Pray what must we have for to eat, eat, eat?
+    Will the flame that you're so rich in
+    Light a fire in the kitchen?
+Or the little god of love turn the spit, spit, spit?"

@@ -1,521 +1,56 @@
-Error in raw/Fletcher- from Japanese Prints, Toy-Boxes- Citties are the toy-boxes.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Wilde-Oscar-stanza-1-from-part-1-of-the-ballad-of-reading-gaol-he-did-not-wear-his.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Fletcher- from Japanese Prints, Disappointment- Rain rattles on the pavement.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/khayyam-omar-stanza-52-from-the-rubaiyat-and-that-inverted-bowl-we.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Blake-Introduction-from-Songs-of-Innocence-piping-down-the-valleys-wild.txt: while scanning a simple key
-  in "<file>", line 10, column 1
-could not found expected ':'
-  in "<file>", line 11, column 1
-Error in raw/HD-Sea-Rose-Rose-Harsh-Rose-Marred-And.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Kabir- I.122 "What is that flute whose music"- What is that flute whose.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Kabir- I.79 "There is nothing but water"- There is nothing but water.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/khayyam-omar-stanza-28-from-the-rubaiyat-with-them-the-seed-of.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Field- from BÉRANGER'S "BROKEN FIDDLE" - There, there, poor dog, my.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Eastman-Max-Diogenes-A-hut-and-a-tree.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Sandburg-Carl-hog-butcher-for-the-world-txt.md: 'NoneType' object has no attribute 'group'
-Error in raw/Frost-Robert-Stanza-1-from-the-mountain-the-mountain-held-the-town.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Byron-Lord-Stanzas-18-and-19-from-canto-1-of-don-juan-perfect-she-was-but-as.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Frost-Robert-the-pasture-im-going-out-to-clean.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, Spring Love- Through the weak spring rains.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- I.50 "The lock of error"- The lock of error shuts.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Byron-Lord-Stanza-1-from-canto-1-of-don-juan-i-want-a-hero-an.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher- from Japanese Prints, A Woman Standing by a Gate with an Umbrella- Late summer changes to autumn.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-138-when-my-love-swears-that.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher-from Japanese Prints, Terror- Because of the long pallid.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-4-unthrifty-loveliness-why-dost-thou.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher- from Japanese Prints, Fugitive Thoughts- My thoughts are sparrows passing.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher-from Japanese Prints, A Woman in Winter Costume- She is like the great.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/wilde-oscar-stanzas-6-and-7-from-part-1-of-the-ballad-of-reading-gaol-i-only-knew-what-hunted.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Coleridge-Epitpah-on-an-Infant-Before-Sin-could-blight-or.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Kabir- I.39 "Why so impatient, my heart"- Why so impatient, my heart.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/wilde-oscar-stanzas-3-and-4-from-part-5-the-ballad-of-reading-gaol.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Kabir- III.26 "The Jewel is lost in the mud"- The jewel is lost in.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, Lovers Embracing- Force and yielding meet together.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- II.105 "Where is the need of words"- Where is the need of.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/wilde-oscar-stanzas-10-and-11-from-part-1-of-the-ballad-of-reading-gaol-he-does-not-sit-with.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/HD-Mid-Day-The-Light-Beats-Upon-Me.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Shakespeare-William-Sonnet-30-when-to-the-sessions-of.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- I.52 "Man, if you do not know your own Lord"- Man, if you do not.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Shakespeare-William-sonnet-23-as-an-unperfect-actor-on.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- II.100 "A sore pain troubles me day and night"- A sore pain troubles me day and night.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/HD-Sea-Lily-Reed-slashed-and-torn-but.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Stevens-Wallace-In-Battle-deaths-nobility-again-beautified-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- II.61- The light of the sun.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, Changing Love- My love for her at.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/khayyam-omar-stanza-37-from-the-rubaiyat-ah-fill-the-cup-what.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-2-when-forty-winters-shall-besiege.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Eliot-The-Boston-Evening-Transcript-The-readers-of-the-Boston.txt: while scanning a simple key
-  in "<file>", line 8, column 1
-could not found expected ':'
-  in "<file>", line 9, column 1
-Error in raw/Field- from Madge Ye Hoyden- Whiles Robin lay within his.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Poe-A-dream-within-a-dream-take-this-kiss-upon-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-18-shall-i-compare-thee-to.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Bodenheim-Maxwell-the-miner-those-on-top-say-they.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Blake-Introduction-Experience-Hear-the-voice-of-the.txt: while scanning a simple key
-  in "<file>", line 10, column 1
-could not found expected ':'
-  in "<file>", line 11, column 1
-Error in raw/Shakespeare-William-Sonnet-15-when-i-consider-every-thing.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- I.129 "Dear friend, I am eager"- Dear friend, I am eager.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Donne-John-first-stanza-from-song-go-and-catch-a-falling.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Wilde-Oscar-stanzas-3-and-4-from-part-1-of-the-ballad-of-reading-gaol-i-walked-with-other-men.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/khayyam-omar-stanza-7-from-the-rubaiyat-come-fill-the-cup-and.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, The Evening Sky- The sky spreads out its.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Blake-The-Echoing-Green-The-sun-does-arise-and.txt: while scanning a simple key
-  in "<file>", line 10, column 1
-could not found expected ':'
-  in "<file>", line 11, column 1
-Error in raw/Fletcher- from Japanese Prints, The Clouds- Although there was no sound.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Williams-William-Carlos-The-Shadow-soft-as-a-bed-in.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, A Picnic Under the Cherry Tree- The boat drifts to rest.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- I.126 "The flute of the Inifinite"- The flute of the infinitetxt.md: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Frost-Robert-stanza-1-from-the-fear-a-lantern-light-from-deeper.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Masters-Edgar-Lee-Doc-Hill-i-went-up-and-down.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-71-from-the-rubaiyat-and-much-as-wine-has.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Blake-The-Chimney-Sweep-When-my-mother-died-I.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, Distant Coasts- A squall has struck the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-9-is-it-for-fear-to.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Byron-Lord-stanza-9-from-dedication-of-don-juan-he-that-reserves-his-laurels.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/khayyam-omar-stanza-23-from-the-rubaiyat-ah-make-the-most-of.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, Court Lady Standing Under a Plum Tree- Autumn winds roll through the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Wind and Chrysanthemum- Chrysanthemums bending before the wind.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Grass- Grass moves in the wind.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- II.98 "The month of March draws near"- The month of March draws.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher-from Japanese Prints, An Actor as a Dancing Girl- The peony dancer swirls orange.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Moods- A poet's moods- Fluttering butterflies.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Sandburg-Carl-Sketch-the-shadows-of-the-ships.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Byron-Lord-stanzas-6-and-7-from-canto-1-of-don-juan-most-epic-poets-plunge-in.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Field- BÉRANGER'S "BROKEN FIDDLE" - But there, poor dog, my.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Shakespeare-William-Sonnet-116-let-me-not-to-the.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-11-as-fast-as-thou-shalt.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Donne-John-stanza-3-from-valediction-forbidding-morning-moving-of-the-earth-brings.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- III.12 "I have learned the Sanskrit language"- I have learned the Sanskrit.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/donne-john-stanzas-7-8-and-9-from-valediction-forbidding-morning-if-they-be-two-they.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-15-from-the-rubaiyat-and-those-who-husbanded-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Browning- Robert- Rats! They fought the dogs.txt.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-12-when-i-do-count-the.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher-from Japanese Prints, A Night Festival- Sparrows and tame magpies chatter.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher-from Japanese Prints, In Exile- My heart is mournful as.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Donne-John-Death-Death-be-not-proud-thou.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-21-from-the-rubaiyat-lo-some-we-loved-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-27-from-the-rubaiyat-myself-when-young-did-eagerly.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-11-from-the-rubaiyat-here-with-a-loaf-of.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-17-who-will-believe-my-verse.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Shakespeare-William-Sonnet-5-those-hours-that-with-gentle.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Byron-Lord-stanza-8-from-dedication-of-don-juan-for-me-who-wandering-with.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher- from Japanese Prints, Fugitive Beauty- As the fish that leaps.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-130-my-mistress-eyes-are-nothing.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher-from Japanese Prints, Despair- Depsair hangs in the broken.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-8-music-to-hear-why-hearest.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Lowell-Amy-A-Gift-see-i-give-myself-to.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Aldington-Richard-stanza-1-from-Lesbia-grow-weary-if-you-will.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, A Thought- A piece of paper ready.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, The Heavenly Poetess- In their bark of bamboo.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher-from Japanese Prints, The Endless Lament- Spring rain falls through the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Pound-Hugh-Selwyn-Mauberley-There-died-a-myriad-And.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Kabor- III.89 "The Beggar goes a-begging"- The Beggar goes a-begging.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, An Actor- He plots for he is.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/khayyam-omar-stanza-25-from-the-rubaiyat-why-all-the-sainst-and.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, The Traitor- I saw him pass at.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- I.56 "The savor of wandering in the ocean"- The savor of wandering in.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, The Old Love and the New- Beware, for the dying vine.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-73-that-time-of-year-thou.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- II.81 "It is the mercy of my true Guru.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/khayyam-omar-stanza-26-from-the-rubaiyat-oh-come-with-old-khayyam.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-34-from-the-rubaiyat-then-to-this-earthen-bowl.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Frost-Robert-After-Apple-Picking-my-long-two-pointed-ladder.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Williams-William-Carlos-metric-figure-there-is-a-bird-in.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-14-from-the-rubaiyat-the-worldly-hope-men-set.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Akins-Zoe-Conquered-o-pale-o-vivid-dear.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, A Landscape- Land, green-brown; Sea, brown.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, A Comparison- My beloved is like blue.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-13-O-that-you-were-your.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Gray-from-Elegy-in-a-Country-Courtyard-The-boast-of-heraldry-the.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Fletcher- from Japanese Prints, Masonubu—Early- She was a dream of.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Eastman-Max-At-the-aquarium-serene-the-silver-fishes-glide.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- I.93 "The Hidden Banner is planted"- The Hidden Banner is planted.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Kabir- I.117 "Now hard it is to meet my Lord"- Now hard it is to.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Shakespeare-William-sonnet-14-not-from-the-stars-do.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher-from Japanese Prints, Evening Bell from a Distant- A bell in the fog.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Donne-John-stanza-2-from-song-if-thou-beest-born-to.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Masters-Edgar-Lee-Stanza-3-from-Silence-there-is-the-silence-of.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-20-from-the-rubaiyat-ah-my-beloved-fill-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, Yoshiwara Festival- The green and violet peacocks.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/wilde-oscar-stanza-2-from-part-6-of-the-ballad-of-reading-gaol-and-there-till-christ-came.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Frost-Robert-my-november-guest-my-sorrow-when-shes-here.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Masters-Edgar-Lee-Stanza-5-from-Silence-and-there-is-the-silence.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Khayyam-Omar-Stanza-2-from-the-rubaiyat-dreaming-when-dawns-left-hand.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, A Young Girl- Out of the rings and.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Court Lady Standing Under Cherry Tree- She is an iris, dark.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Field- BÉRANGER'S "BROKEN FIDDLE"- Give us a tune, the.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Dickinson- Emily- I'm wife; I've finished that.txt: while scanning for the next token
+Error in "raw/Anonymous- anonymous- Solomon Grundy.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Aldington-Richard-stanza-1-from-Lesbia-grow-weary-if-you-will.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Akins-Zoe-Conquered-o-pale-o-vivid-dear.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Anonymous- Anonymous- Twinkle, twinkle, little star.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Ashe- No and Yes- If I could choose my.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Allingham- William- I heard the dogs howl in the moonlight night.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Arsenberg-Conrad-Walter-To-Hasekawa-perhaps-it-is-no-matter.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Akins-Zoe-the-wanderer-the-ships-are-lying-in.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Akins-Zoe-I-Am-the-Wind-I-Am-the-wind-that.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Anonymous- anonymous- Solomon Grundy.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt": unsupported operand type(s) for -: 'module' and 'unicode'
+Error in "raw/Anonymous- anonymous- Solomon Grundy.txt": nothing to repeat
+Error in "raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt": nothing to repeat
+Error in "raw/Aldington-Richard-stanza-1-from-Lesbia-grow-weary-if-you-will.txt": nothing to repeat
+Error in "raw/Akins-Zoe-Conquered-o-pale-o-vivid-dear.txt": 
+Error in "raw/Anonymous- anonymous- Solomon Grundy.txt": unacceptable character #x0001: special characters are not allowed
+  in "<file>", position 102
+Error in "raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt": unacceptable character #x0001: special characters are not allowed
+  in "<file>", position 143
+Error in "raw/Anonymous- anonymous- Solomon Grundy.txt": unacceptable character #x0001: special characters are not allowed
+  in "<file>", position 102
+Error in "raw/Aiken-Conrad-Music-I-Heard-music-i-heard-with-you.txt": 
+Error in "raw/Blake-The-Chimney-Sweep-When-my-mother-died-I.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Browning- Robert- Rats! They fought the dogs.txt.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Dickinson- Emily- I'm wife; I've finished that.txt": while scanning for the next token
 found character '\t' that cannot start any token
   in "<file>", line 9, column 1
-Error in raw/Fletcher- from Japanese Prints, A Beautiful Woman- Iris-amid-clouds must be.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Blake-The-Lamb-Little-lamb-who-made-thee.txt: while scanning a simple key
-  in "<file>", line 10, column 1
-could not found expected ':'
-  in "<file>", line 11, column 1
-Error in raw/khayyam-omar-stanza-46-from-the-rubaiyat-for-in-and-out-above.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-70-from-the-rubaiyat-indeed-indeed-repentance-oft-before.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Frost-Robert-mowing-there-was-never-a-sound.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, Josan No Miya- She is a fierce kitten.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-43-when-most-i-wink-then.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- III.111 "Beneath the great umbrella of my King"- Beneath the great umbrella of.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Sandburg-Carl-Choose-The-single-clenched-fist-lifted.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Catullus- from on the Death of Lesbia's Sparrow, III- Weep every Venus, and all.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Khayyam-Omar-stanza-3-from-the-rubaiyat-and-as-the-cock-crew.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher-from Japanese Prints, A Reading- And the prince came to.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/wilde-oscar-stanzas-1-and-2-from-part-5-of-the-ballad-of-reading-gaol-i-know-not-whether-laws.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Shakespeare-William-sonnet-10-for-shame-deny-that-thou.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/khayyam-omar-stanza-60-from-the-rubaiyat-and-strange-to-tell-among.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Lear- Edward- There was an old man who said, well.txt: while parsing a block mapping
-  in "<file>", line 2, column 1
-expected <block end>, but found '<scalar>'
-  in "<file>", line 4, column 41
-Error in raw/Fletcher- from Japanese Prints, An Oiran and her Kamuso- Gilded hummingbirds are whizing through.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, The Fop- His heart is like a.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- I.102 "There is a strange tree"- There is a strange tree.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher-from Japanese Prints, Silver Jars- I dreamed I caught your.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Sandburg-Carl-The-Harbor-passing-through-huddled-and-ugly.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Arsenberg-Conrad-Walter-To-Hasekawa-perhaps-it-is-no-matter.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Masters-Edgar-Lee-Ollie-McGee-have-you-see-walking-through.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Frost-Robert-Going-for-Water-the-well-was-dry-beside.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-WIlliam-Sonnet-7-lo-in-the-orient-when.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Frost-Robert-good-hours-i-had-for-my-winter.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, Evening Rain- Rain fell so softly, in.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Kabir- I.73 "Subtle is the path of love"- Subtle is the path of.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Sandburg-Carl-Jan-Kubelik-your-bow-swept-over-a.txt: 'NoneType' object has no attribute 'group'
-Error in raw/khayyam-omar-stanza-47-from-the-rubaiyat-and-if-the-wine-you.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Akins-Zoe-the-wanderer-the-ships-are-lying-in.txt: 'NoneType' object has no attribute 'group'
-Error in raw/donne-john-stanza-5-from-valediction-forbidding-mourning-dull-sublunary-lovers-love-whose.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- I.71 "Clouds thickn in the sky"- Cloud thicken in the sky.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, Memory and Forgetting- I have forgotten how many.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Dickinson- Emily- The heart asks pleasure first.txt: while scanning for the next token
+Error in "raw/Dickinson- Emily- The heart asks pleasure first.txt": while scanning for the next token
 found character '\t' that cannot start any token
   in "<file>", line 9, column 1
-Error in raw/Sandburg-Carl-Chicago-hog-butcher-for-the-world.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Masters-Edgar-Lee-Hare-Drummer-do-the-boys-and-girls.txt: 'NoneType' object has no attribute 'group'
-Error in raw/donne-john-stanza-1-from-lovers-infiniteness-if-yet-i-have-not.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Akins-Zoe-I-Am-the-Wind-I-Am-the-wind-that.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Wilde-Oscar-stanzas-2-and-3-from-part-1-of-the-ballad-of-reading-gaol-he-walked-amongst-the-trial.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/Eastman-Max-In-March-on-a-soaked-fencepost-a.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, Japan- An old courtyard hidden away.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Dead Thoughts- My thoughts are an autumn.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/khayyam-omar-stanza-12-from-the-rubaiyat-how-sweet-is-mortal-sovereignty.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- III.69 "The true Name is"- The true Name is like.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Frost-Robert-Mending-Wall-something-there-is-that-doesnt.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-6-then-let-not-winters-ragged.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher- from Japanese Prints, The Young Daimyo- When he first came out.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Frost-Robert-the-code-there-were-three-in-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/St Vincent Millay-What-Lips-My-Lips-Have-Kissed-What-Lips-My-Lips-Have.txt: while scanning a simple key
-  in "<file>", line 9, column 1
-could not found expected ':'
-  in "<file>", line 10, column 1
-Error in raw/Shakespeare-William-Sonnet-16-but-wherefore-do-not-you.txt: while scanning for the next token
-found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Eliot-Morning-at-the-Window-They-are-rattling-breakfast-plates.txt: while scanning a simple key
-  in "<file>", line 8, column 1
-could not found expected ':'
-  in "<file>", line 9, column 1
-Error in raw/Fletcher- from Japanese Prints, Leaves- The splaying silhouette of horse.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- Red Picture- She glances expectantly through the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, The Beautiful Geisha- Swift waves hissing under the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Dickinson-Emily- If I can stop one heart.txt: while scanning a simple key
-  in "<file>", line 11, column 1
-could not found expected ':'
-  in "<file>", line 13, column 1
-Error in raw/Pushkin- _from_ "Onegin"- Love condescends to every altar.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Coleridge- Samuel- there is a thorn.txt: while scanning for the next token
+Error in "raw/Coleridge- Samuel- there is a thorn.txt": while scanning for the next token
 found character '\t' that cannot start any token
   in "<file>", line 9, column 1
-Error in raw/Kabir- III.66 "I am neither pious nor ungodly"- I am neither pious nor.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Kabir- II.75 "All things are created by the Om"- All things are created by the Om.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/khayyam-omar-stanza-41-from-the-rubaiyat-for-is-and-is-not.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- III.9 "He who is meek and contented"- He who is meek and.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Donne-John-stanzas-1-and-2-from-valediction-forbidding-mourning-as-virtuous-men-pass-mildly.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- II.103 "Dance, my heart!"- Dance, my heart! dance today with joy.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/wilde-oscar-stanzas-8-and-9-from-part-1-of-the-reading-gaol-some-kill-their-love-when.txt: while scanning for the next token
+Error in "raw/Blake-The-Chimney-Sweep-When-my-mother-died-I.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Browning- Robert- Rats! They fought the dogs.txt.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Dickinson- Emily- I'm wife; I've finished that.txt": while scanning for the next token
 found character '\t' that cannot start any token
-  in "<file>", line 7, column 33
-Error in raw/donne-john-stanza-3-from-lovers-infiniteness-yet-i-would-not-have.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- I.108 "To whom shall I go"- To whom shall I go.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Fletcher- from Japanese Prints, Two Ways of Love- The wind half blows her.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Pillar-Print, Masonobu- He stands irresolute Cloaking the.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Khayyam-Omar-Stanza-1-of-the-rubaiyat-awake-for-morning-in-the.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Fletcher- from Japanese Prints, A Life- Her life was like a.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Shakespeare-William-Sonnet-3-look-in-thy-glass-and.txt: while scanning for the next token
+  in "<file>", line 9, column 1
+Error in "raw/Dickinson- Emily- The heart asks pleasure first.txt": while scanning for the next token
 found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Kabir- II.85 "Before the Unconditioned, the Conditioned dances.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Frost-Robert-The-Woodpile-out-walking-in-the-frozen.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Shakespeare-William-Sonnet-1-from-fairest-creatures-we-desire.txt: while scanning for the next token
+  in "<file>", line 9, column 1
+Error in "raw/Coleridge- Samuel- there is a thorn.txt": while scanning for the next token
 found character '\t' that cannot start any token
-  in "<file>", line 6, column 19
-Error in raw/Fletcher- from Japanese Prints, The Lonely Grave- Pilgrims will ascend the road.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher-from Japanese Prints, The True Conqueror- He only can bow to.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Fletcher- from Japanese Prints, Kiyonobu and Kiyomasu Contrasted- One life is a long.txt: found undefined alias 'from'
-  in "<file>", line 4, column 8
-Error in raw/Rossetti- Christina- Where were you born when the snow was falling.txt: while scanning a simple key
-  in "<file>", line 16, column 2
-could not found expected ':'
-  in "<file>", line 17, column 1
-Error in raw/Khayyam-omar-stanza-4-from-the-rubaiyat-now-the-new-year-reviving.txt: 'NoneType' object has no attribute 'group'
-Error in raw/Kabir- II.113 "My body and my mind are grieved"- My body and my mind.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
-Error in raw/Kabir- I.82 "I laugh when I hear that"- I liahg when I hear.txt: while scanning an alias
-  in "<file>", line 4, column 8
-expected alphabetic or numeric character, but found '*'
-  in "<file>", line 4, column 13
+  in "<file>", line 9, column 1
+Error in "raw/Blake-The-Chimney-Sweep-When-my-mother-died-I.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Browning- Robert- Rats! They fought the dogs.txt.txt": 'NoneType' object has no attribute 'group'
+Error in "raw/Dickinson- Emily- I'm wife; I've finished that.txt": while scanning for the next token
+found character '\t' that cannot start any token
+  in "<file>", line 9, column 1
+Error in "raw/Dickinson- Emily- The heart asks pleasure first.txt": while scanning for the next token
+found character '\t' that cannot start any token
+  in "<file>", line 9, column 1
+Error in "raw/Coleridge- Samuel- there is a thorn.txt": while scanning for the next token
+found character '\t' that cannot start any token
+  in "<file>", line 9, column 1

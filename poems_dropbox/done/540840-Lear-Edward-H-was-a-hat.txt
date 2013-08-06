@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  hat
+ -  children poetry
+---
+
+H was a hat
+Which was all on one side;
+Its crown was too high,
+And its brim was too wide.
+
+h
+Oh, what a hat!

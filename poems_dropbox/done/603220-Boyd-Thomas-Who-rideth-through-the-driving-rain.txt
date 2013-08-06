@@ -1,0 +1,18 @@
+---
+author: Thomas Boyd
+gender: male
+title: The King's Son
+curator: Ata
+year: 18th century
+country: Ireland
+tags:
+ -  son
+ -  rain
+ -  dark imagery
+ -  horse
+ -  supernatural
+---
+Who rideth through the driving rain
+At such a headlong speed?
+Naked and pale he rides amain,
+Upon a naked steed.

@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title:  There was an Old Man with a beard (II) 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  beard
+ -  funny
+ -  strange
+ -  surreal
+ -  owl
+ -  birds
+---
+
+There was an Old Man with a beard,
+Who said, "It is just as I feared!—
+Two Owls and a Hen, four Larks and a Wren,
+Have all built their nests in my beard."

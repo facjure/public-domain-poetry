@@ -1,0 +1,24 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  quail
+ -  bird
+ -  children poetry
+---
+
+
+Q was a quail
+With a very short tail;
+And he fed upon corn
+In the evening and morn.
+
+q
+Quaint little quail!

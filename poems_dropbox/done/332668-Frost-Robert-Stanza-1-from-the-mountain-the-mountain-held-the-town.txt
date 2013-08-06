@@ -1,0 +1,45 @@
+---
+title: Stanza 1 from The Mountain
+author: Robert Frost
+curator: NCR
+country: USA
+year: 1915
+book: North of Boston
+gender: male
+type:
+tags:
+ -  mountain
+ -  town
+ -  shadow
+ -  nature
+ -  stars
+ -  wall
+ -  shelter
+ -  earth
+ -  sky
+ -  river
+ -  spring
+ -  death
+ -  life
+
+---
+
+
+THE MOUNTAIN held the town as in a shadow
+I saw so much before I slept there once:
+I noticed that I missed stars in the west,
+Where its black body cut into the sky.
+Near me it seemed: I felt it like a wall
+Behind which I was sheltered from a wind.
+And yet between the town and it I found,
+When I walked forth at dawn to see new things,
+Were fields, a river, and beyond, more fields.
+The river at the time was fallen away,
+And made a widespread brawl on cobble-stones;
+But the signs showed what it had done in spring;
+Good grass-land gullied out, and in the grass
+Ridges of sand, and driftwood stripped of bark.
+I crossed the river and swung round the mountain.
+And there I met a man who moved so slow
+With white-faced oxen in a heavy cart,
+It seemed no hand to stop him altogether.

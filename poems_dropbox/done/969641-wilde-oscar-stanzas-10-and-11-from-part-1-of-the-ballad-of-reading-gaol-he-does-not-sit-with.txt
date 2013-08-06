@@ -1,0 +1,36 @@
+---
+title: Stanzas 10 and 11 from Part 1 of The Ballad of Reading Gaol
+author: Oscar Wilde
+curator: NCR
+country: England
+year: 1896
+book: The Ballad of Reading Gaol
+gender: male
+type: Ballad
+tags:
+ -  prison
+ -  crime
+ -  murder
+ -  punishment
+ -  death
+ -  shame
+ -  execution
+ -  guards
+ -  weep
+ -  power
+ -  prayer
+
+---
+               He does not die a death of shame
+                 On a day of dark disgrace,
+               Nor have a noose about his neck,
+                 Nor a cloth upon his face,
+               Nor drop feet foremost through the floor
+                 Into an empty place
+
+               He does not sit with silent men
+                 Who watch him night and day;
+               Who watch him when he tries to weep,
+                 And when he tries to pray;
+               Who watch him lest himself should rob
+                 The prison of its prey.

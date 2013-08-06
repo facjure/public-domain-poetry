@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title:  There was a Young Lady of Wales 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  fishing
+ -  old
+ -  funny
+ -  fish
+ -  woman
+ -  Wales
+ -  U.K.
+---
+
+There was a Young Lady of Wales,
+Who caught a large Fish without scales;
+When she lifted her hook, she exclaimed, "Only look!"
+That ecstatic Young Lady of Wales.

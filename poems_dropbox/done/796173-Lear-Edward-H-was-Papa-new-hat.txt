@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: H from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+H was Papa's new Hat;
+He wore it on his head;
+Outside it was completely black,
+But inside it was red.

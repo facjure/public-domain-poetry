@@ -1,0 +1,43 @@
+---
+title: Stanza 8 from Ode to a Nightingale
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type:
+tags:
+ -  forlorn
+ -  fancy
+ -  reckoning
+ -  fading
+ -  meadows
+ -  nature
+ -  vision
+ -  dream
+ -  hallucination
+ -  hearing
+ -  senses
+ -  music
+ -  death
+ -  silence
+ -  birds
+ -  song
+ -  buried
+ -  life
+ -  death
+ -  self
+ -  other
+
+---
+Forlorn! the very word is like a bell
+    To toll me back from thee to my sole self!
+  Adieu! the fancy cannot cheat so well
+    As she is fam'd to do, deceiving elf.
+  Adieu! adieu! thy plaintive anthem fades
+    Past the near meadows, over the still stream,
+      Up the hill-side; and now 'tis buried deep
+          In the next valley-glades:
+    Was it a vision, or a waking dream?
+      Fled is that music:--Do I wake or sleep?

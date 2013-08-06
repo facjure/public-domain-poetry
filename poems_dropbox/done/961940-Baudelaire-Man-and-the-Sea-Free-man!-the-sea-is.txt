@@ -1,0 +1,34 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Man and the Sea
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  self
+ -  mirror
+---
+
+Free man! the sea is to you ever dear!
+The sea is your mirror, you regard your soul
+In its mighty waves that unendingly roll,
+And your spirit is yet not a chasm less dreary.
+
+You delight to plunge deep in your image down;
+You Take it with eyes and with arms in embrace,
+And at times your own inward voice wouldn't efface
+With the sound of its savage ungovernable moan.
+
+Both of you are sombre, secretive and deep:
+mortal, your depths are unexplored,
+sea— no one knows your dazzling hoard,
+You both are so jealous, your secrets to keep!
+
+And endless ages have wandered by,
+And still without pity or mercy you fight,
+So mighty in plunder and death your delight:
+Wrestlers! so constant in animosity!

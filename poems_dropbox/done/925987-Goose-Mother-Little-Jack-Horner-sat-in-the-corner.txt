@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender:
+title: Little Jack Horner sat in the corner
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  Christmas
+ -  pie
+ -  boy
+---
+
+Little Jack Horner sat in the corner
+Eating a Christmas pie;
+He put in his thumb, and pulled out a plum,
+And said, "What a good boy am I!"

@@ -1,0 +1,19 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  time
+ -  pain
+ -  anguish
+ -  peace
+ -  brain
+ -  meditative
+---
+After a week of physical anguish,
+Unrest and pain, and feverish heat,
+Toward the ending day a calm and lull comes on,
+Three hours of peace and soothing rest of brain.

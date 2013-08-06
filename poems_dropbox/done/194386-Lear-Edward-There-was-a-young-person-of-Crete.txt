@@ -1,0 +1,25 @@
+---
+author: Edward Lear
+gender: male
+title:  There was a Young Person of Crete 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  Crete
+ -  funny
+ -  strange
+ -  Greece
+ -  toilet
+ -  black
+ -  dark imagery
+---
+
+There was a Young Person of Crete,
+Whose toilette was far from complete;
+She dressed in a sack spickle-speckled with black,
+That ombliferous Person of Crete.
+

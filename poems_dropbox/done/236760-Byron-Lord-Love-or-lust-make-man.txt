@@ -1,0 +1,25 @@
+---
+title: from Canto Twelve of Don Juan
+author: Lord Byron
+curator: Ata
+year: 19th century
+country: England
+tags:
+-  love
+-  money
+-  man
+-  lust
+-  mankind
+-  wine
+-  liquor
+---
+
+Love or lust makes man sick, and wine much sicker;
+   Ambition rends, and gaming gains a loss;
+But making money, slowly first, then quicker,
+   And adding still a little through each cross
+(Which will come over things), beats love or liquor,
+   The gamester's counter, or the statesman's dross.
+O Gold! I still prefer thee unto paper,
+Which makes bank credit like a bank of vapor.
+

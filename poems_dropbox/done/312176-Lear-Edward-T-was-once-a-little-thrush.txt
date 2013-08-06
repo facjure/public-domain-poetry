@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: t from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+T was once a little thrush,
+Thrushy,
+Hushy,
+Bushy,
+Thrushy,
+Flitty, flushy,
+Little thrush!

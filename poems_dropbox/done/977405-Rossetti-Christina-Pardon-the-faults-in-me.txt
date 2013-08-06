@@ -1,0 +1,54 @@
+---
+author: Christina Rossetti
+gender: female
+title: Wife to Husband
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  marriage
+ -  wife
+ -  husband
+ -  die
+ -  snow
+ -  sea
+ -  love
+ -  friendship
+ -  death
+ -  memories
+---
+Pardon the faults in me,
+  For the love of years ago:
+    Good by.
+I must drift across the sea,
+  I must sink into the snow,
+    I must die.
+
+You can bask in this sun,
+  You can drink wine, and eat:
+    Good by.
+I must gird myself and run,
+  Though with unready feet:
+    I must die.
+
+Blank sea to sail upon,
+  Cold bed to sleep in:
+    Good by.
+While you clasp, I must be gone
+  For all your weeping:
+    I must die.
+
+A kiss for one friend,
+  And a word for two,--
+    Good by:--
+A lock that you must send,
+  A kindness you must do:
+    I must die.
+
+Not a word for you,
+  Not a lock or kiss,
+    Good by.
+We, one, must part in two:
+  Verily death is this:
+    I must die.

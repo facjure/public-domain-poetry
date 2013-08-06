@@ -1,0 +1,17 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  time
+ -  ghost
+ -  apparition
+ -  soul
+ -  meditative
+---
+A vague mist hanging 'round half the pages:
+(Sometimes how strange and clear to the soul,
+That all these solid things are indeed but apparitions, concepts, non-realities.)

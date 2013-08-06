@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender:
+title: Baa, baa, black sheep, have you any wool?
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  funny
+ -  sheep
+ -  generosity
+---
+
+Baa, baa, black sheep, have you any wool?
+Yes, sir; yes, sir, three, bags full.
+One for my master, one for my dame,
+And one for the little boy that lives in the lane.

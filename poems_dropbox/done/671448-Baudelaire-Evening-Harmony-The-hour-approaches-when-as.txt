@@ -1,0 +1,40 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Evening Harmony
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  flowers
+ -  beauty
+ -  souls
+ -  sunset
+ -  mosque
+ -  sky
+ -  music
+ -  inspired
+---
+
+The hour approaches, when, as their stems incline,
+The flowers evaporate like an incense urn,
+And sounds and scents in the vesper breezes turn;
+A melancholy waltz—and a drowsiness divine.
+
+The flowers evaporate like an incense urn,
+The viol vibrates like the wailing of souls that repine.
+A melancholy waltz—and a drowsiness divine,
+The skies like a mosque are beautiful and stern.
+
+The viol vibrates like the wailing of souls that repine;
+Sweet souls that shrink from chaos vast and eternal,
+The skies like a mosque are beautiful and stern,
+The sunset drowns within its blood-red brine.
+
+Sweet souls that shrink from chaos vast and eternal,
+Essay the wreaths of their faded Past to entwine,
+The sunset drowns within its blood-red brine,
+Your thought within me glows like an incense urn.

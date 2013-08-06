@@ -1,0 +1,31 @@
+---
+author: Rupert Brooke
+gender: male
+title: Day and Night
+curator: Ata
+year: 20th century
+country: England
+tags:
+ -  lyric
+ -  dark imagery
+ -  surreal
+ -  dreaming
+ -  meditative
+ -  mind
+---
+
+Through my heart's palace Thoughts unnumbered throng;
+And there, most quiet and, as a child, most wise,
+High-throned you sit, and gracious.  All day long
+Great Hopes gold-armoured, jester Fantasies,
+And pilgrim Dreams, and little beggar Sighs,
+Bow to your benediction, go their way.
+And the grave jewelled courtier Memories
+Worship and love and tend you, all the day.
+
+But when I sleep, and all my thoughts go straying,
+When the high session of the day is ended,
+And darkness comes; then, with the waning light,
+By lilied maidens on your way attended,
+Proud from the wonted throne, superbly swaying,
+You, like a queen, pass out into the night.

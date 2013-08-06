@@ -1,0 +1,21 @@
+---
+author: Victor Hugo
+gender: male
+title: The Djinns
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  supernatural
+ -  dark imagery
+ -  horror
+ -  dragon
+ -  vampire
+ -  monster
+ -  sky
+ -  fear
+---
+Ha! they are on us, close without!
+Shut tight the shelter where we lie!
+With hideous din the monster rout,
+Dragon and vampire, fill the sky!

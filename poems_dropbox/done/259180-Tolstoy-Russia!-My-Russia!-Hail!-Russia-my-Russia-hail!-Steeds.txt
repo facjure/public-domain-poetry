@@ -1,0 +1,25 @@
+---
+author: Leo Tolstoy
+gender: male
+title: Russia! My Russia! Hail!
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th/20th century
+country: Russia
+tags:
+ -  lyric
+ -  russian poetry
+ -  elegy
+ -  green
+ -  nature
+ -  love
+---
+
+Russia, my Russia, hail!
+Steeds as tempests flying,
+Howling of the distant wolves,
+Eagles high, shrill crying!
+Hail, my Russia, hail! Hail high!
+Hail your green forests proud,
+Hail your silvery nightingales,
+Hail Steppes and wind and cloud!

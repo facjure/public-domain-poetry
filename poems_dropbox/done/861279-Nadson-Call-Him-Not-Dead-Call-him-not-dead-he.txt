@@ -1,0 +1,21 @@
+---
+author: Semyon Nadson
+gender: male
+title: Call Him Not Dead
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 19th Century
+country: Russia
+tags:
+ -  lyric
+ -  russian poetry
+ -  beauty
+ -  rose
+ -  death
+---
+
+Call him not dead,—he lives!
+                                  You forget
+Though the pyre lies in ruin the fires upward sweep,
+The string of the harp is broken but her chords still weep,
+The rose is cut but it is blooming yet!

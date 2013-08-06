@@ -1,0 +1,21 @@
+---
+author: Edward Lear
+gender: male
+title:  There was a Young Lady whose eyes 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  eyes
+ -  young lady
+ -  funny
+ -  strange
+ -  surreal
+---
+
+There was a Young Lady whose eyes
+Were unique as to color and size;
+When she opened them wide, people all turned aside,
+And started away in surprise.

@@ -1,0 +1,40 @@
+---
+title: Music I Heard
+author: Conrad Aiken
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+type:
+tags:
+ -  music
+ -  bread
+ -  communion
+ -  desolate
+ -  loss
+ -  death
+ -  beautiful
+ -  hands
+ -  love
+ -  heart
+ -  memory
+ -  remember
+
+
+---
+
+MUSIC I heard with you was more than music,
+And bread I broke with you was more than bread.
+Now that I am without you, all is desolate,
+All that was once so beautiful is dead.
+
+Your hands once touched this table and this silver,
+And I have seen your fingers hold this glass.
+These things do not remember you, beloved:
+And yet your touch upon them will not pass.
+
+For it was in my heart you moved among them,
+And blessed them with your hands and with your eyes.
+And in my heart they will remember always:
+They knew you once, O beautiful and wise!

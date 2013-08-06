@@ -1,0 +1,24 @@
+---
+author: Edward Lear
+gender: male
+title:  There was an old man of the Nile 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  Nile
+ -  funny
+ -  strange
+ -  hands
+ -  dark imagery
+ -  Africa
+ -  Egypt
+---
+
+There was an Old Man of the Nile,
+Who sharpened his nails with a file,
+Till he cut off his thumbs, and said calmly, "This comes
+Of sharpening one's nails with a file!"

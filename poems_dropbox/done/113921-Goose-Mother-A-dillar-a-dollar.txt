@@ -1,0 +1,21 @@
+---
+author: Mother Goose
+gender:
+title: A dillar, a dollar
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  scholar
+ -  dollar
+ -  noon
+---
+
+A dillar, a dollar,
+A ten o'clock scholar,
+What makes you come so soon?
+You used to come at ten o'clock
+But now you come at noon.

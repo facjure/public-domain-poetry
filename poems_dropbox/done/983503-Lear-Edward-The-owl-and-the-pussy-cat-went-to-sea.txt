@@ -1,0 +1,29 @@
+---
+author: Edward Lear
+gender: male
+title: from THE OWL AND THE PUSSY- CAT
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  cat
+ -  owl
+ -  children poetry
+ -  funny
+ -  song
+---
+I.
+
+The Owl and the Pussy-Cat went to sea
+In a beautiful pea-green boat:
+They took some honey, and plenty of money
+Wrapped up in a five-pound note.
+The Owl looked up to the stars above,
+And sang to a small guitar,
+"O lovely Pussy, O Pussy, my love,
+What a beautiful Pussy you are,
+You are,
+You are!
+What a beautiful Pussy you are!"

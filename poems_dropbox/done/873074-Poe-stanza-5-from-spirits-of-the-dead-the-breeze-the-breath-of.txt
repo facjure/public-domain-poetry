@@ -1,0 +1,31 @@
+---
+title: Stanza 5 from Spirits of the Dead
+author: Edgar Allen Poe
+curator: NCR
+country: USA
+year: 1849
+book: Poems
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Victorian
+ -  death
+ -  soul
+ -  breath
+ -  God
+ -  grave
+ -  shadow
+ -  nature
+ -  mystery
+ -  secrecy
+ -  occult
+ -  symbol
+ -  legend
+
+---
+The breeze—the breath of God—is still—
+And the mist upon the hill,
+Shadowy—shadowy—yet unbroken,
+Is a symbol and a token—
+How it hangs upon the trees,
+A mystery of mysteries!

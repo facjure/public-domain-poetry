@@ -1,0 +1,18 @@
+---
+author: Mother Goose
+gender:
+title: I Had a Little Husband
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+ -  strange
+---
+
+I had a little husband no bigger than my thumb,
+I put him in a pint pot, and there I bid him drum,
+I bought a little handkerchief to wipe his little nose,
+And a pair of little garters to tie his little hose.

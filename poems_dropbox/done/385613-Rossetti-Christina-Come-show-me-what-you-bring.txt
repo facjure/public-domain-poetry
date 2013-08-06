@@ -1,0 +1,15 @@
+---
+author: Christina Rossetti
+gender: female
+title: February
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  February
+ -  day
+---
+Come, show me what you bring;
+For I have said my say, fulfilled my day,
+And must away.

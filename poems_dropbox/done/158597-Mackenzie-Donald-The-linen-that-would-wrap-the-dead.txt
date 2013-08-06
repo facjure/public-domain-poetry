@@ -1,0 +1,23 @@
+---
+author: Donald Mackenzie
+gender: male
+title: The Banshee
+curator: Ata
+year: 18th/19th century
+country: Scotland/Canada
+tags:
+ -  supernatural
+ -  dark imagery
+ -  blood
+ -  dead
+ -  white
+ -  death
+ -  night
+ -  horror
+---
+The linen that would wrap the dead
+She beetled on a stone,
+She stood with dripping hands, blood-red,
+Low singing all alone—
+"His linen robes are pure and white,
+For Fergus More must die tonight."

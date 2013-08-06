@@ -1,0 +1,34 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: The Angels
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ -  lyric
+ -  time
+ -  hands
+ -  God
+ -  meditative
+ -  beauty
+ -  mouths
+ -  dark
+---
+
+They all have tired mouths
+And luminous, illimitable souls;
+And a longing (as if for sin)
+Trembles at times through their dreams.
+
+They all resemble one another,
+In God's garden they are silent
+Like many, many intervals
+In His mighty melody.
+
+But when they spread their wings
+They awaken the winds
+That stir as though God
+With His far-reaching master hands
+Turned the pages of the dark book of Beginning.

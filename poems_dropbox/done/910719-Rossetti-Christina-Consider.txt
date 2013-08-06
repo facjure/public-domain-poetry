@@ -1,0 +1,43 @@
+---
+author: Christina Rossetti
+gender: female
+title: Consider
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  bird
+ -  flowers
+ -  nature
+ -  life
+ -  meditative
+ -  self
+ -  love
+ -  death
+ -  god
+ -  father
+---
+Consider
+The lilies of the field whose bloom is brief:--
+    We are as they;
+    Like them we fade away,
+As doth a leaf.
+
+    Consider
+The sparrows of the air of small account:
+    Our God doth view
+Whether they fall or mount,--
+    He guards us too.
+
+    Consider
+The lilies that do neither spin nor toil,
+    Yet are most fair:--
+    What profits all this care
+And all this coil?
+
+    Consider
+The birds that have no barn nor harvest-weeks;
+    God gives them food:--
+Much more our Father seeks
+    To do us good.

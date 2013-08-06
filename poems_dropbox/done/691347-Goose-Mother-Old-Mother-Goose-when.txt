@@ -1,0 +1,18 @@
+---
+author: Mother Goose
+gender:
+title: OLD MOTHER GOOSE
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  flying
+ -  bird
+ -  funny
+---
+Old Mother Goose, when
+  She wanted to wander,
+Would ride through the air
+  On a very fine gander.

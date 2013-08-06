@@ -1,0 +1,21 @@
+---
+author: Edward Lear
+gender: male
+title:  There was an Old Man of the Hague 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  Netherlands
+ -  funny
+ -  strange
+ -  moon
+---
+
+There was an Old Man of the Hague,
+Whose ideas were excessively vague;
+He built a balloon to examine the moon,
+That deluded Old Man of the Hague.

@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: I from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+I was an inkstand,
+Which stood on a table,
+With a nice pen to write with
+When we are able.
+
+i!
+Neat little inkstand!

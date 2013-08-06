@@ -1,0 +1,31 @@
+---
+author: James Joyce
+gender: male
+title: from Chamber Music
+curator: Ata
+year: 18th/19th century
+country: Ireland
+tags:
+ -  water
+ -  crying
+ -  love
+ -  lyric
+ -  music
+ -  wind
+ -  sea
+ -  bird
+ -  night
+ -  desire
+---
+     All day I hear the noise of waters
+     Making moan,
+     Sad as the sea-bird is when, going
+     Forth alone,
+     He hears the winds cry to the water's
+     Monotone.
+     The grey winds, the cold winds are blowing
+     Where I go.
+     I hear the noise of many waters
+     Far below.
+     All day, all night, I hear them flowing
+     To and fro.

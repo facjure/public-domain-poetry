@@ -1,0 +1,26 @@
+---
+author:
+gender:
+title: from Japanese Prints, In Exile
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  hear
+ -  nature
+ -  shame
+---
+
+My heart is mournful as thunder moving
+Through distant hills
+Late on a long still night of autumn.
+My heart is broken and mournful
+As rain heard beating
+Far off in the distance
+While earth is parched more near.
+On my heart is the black badge of exile;
+I droop over it,
+I accept its shame.

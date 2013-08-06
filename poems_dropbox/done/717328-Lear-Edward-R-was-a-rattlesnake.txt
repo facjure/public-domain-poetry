@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: R from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+R was a rattlesnake,
+Rolled up so tight,
+Those who saw him ran quickly,
+For fear he should bite.
+
+r!
+Rattlesnake bite!

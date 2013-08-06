@@ -1,0 +1,31 @@
+---
+title: Stanza 2 from Harlem Shadows
+author: Claude McKay
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Harlem Renaissance
+ -  youth
+ -  night
+ -  desire
+ -  lust
+ -  form
+ -  hunger
+ -  search
+ -  sex
+ -  street
+ -  dark
+ -  earth
+ -  sky
+
+---
+Through the long night until the silver break
+  Of day the little gray feet know no rest,
+Through the lone night until the last snow-flake
+  Has dropped from heaven upon the earth’s white breast,
+The dusky, half-clad girls of tired feet
+  Are trudging, thinly shod, from street to street.

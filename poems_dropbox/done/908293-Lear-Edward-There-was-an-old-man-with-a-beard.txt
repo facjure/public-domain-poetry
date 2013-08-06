@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title:  There was an Old Man with a beard 
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  beard
+ -  horse
+ -  old
+ -  funny
+---
+
+There was an Old Man with a beard,
+Who sat on a Horse when he reared;
+But they said, "Never mind! you will fall off behind,
+You propitious Old Man with a beard!"

@@ -1,0 +1,38 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: The Spanish Dancer
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  beauty
+ -  feet
+ -  fire
+---
+
+As a lit match first flickers in the hands
+Before it flames, and darts out from all sides
+Bright, twitching tongues, so, ringed by growing bands
+Of spectators—she, quivering, glowing stands
+Poised tensely for the dance—then forward glides
+
+And suddenly becomes a flaming torch.
+Her bright hair flames, her burning glances scorch,
+And with a daring art at her command
+Her whole robe blazes like a fire-brand
+From which is stretched each naked arm, awake,
+Gleaming and rattling like a frightened snake.
+
+And then, as though the fire fainter grows,
+She gathers up the flame—again it glows,
+As with proud gesture and imperious air
+She flings it to the earth; and it lies there
+Furiously flickering and crackling still—
+Then haughtily victorious, but with sweet
+Swift smile of greeting, she puts forth her will
+And stamps the flames out with her small firm feet.

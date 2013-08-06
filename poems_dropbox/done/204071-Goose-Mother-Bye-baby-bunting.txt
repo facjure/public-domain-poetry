@@ -1,0 +1,21 @@
+---
+author: Mother Goose
+gender:
+title: Bye, baby bunting
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  baby
+ -  hunting
+ -  love
+ -  rabbit
+---
+
+Bye, baby bunting,
+Daddy's gone a-hunting
+To get a little rabbit-skin
+To wrap the baby bunting in.

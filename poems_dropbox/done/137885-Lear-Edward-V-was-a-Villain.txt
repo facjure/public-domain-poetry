@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: V from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+V was a Villain; once
+He stole a piece of beef.
+Papa he said, "Oh, dreadful man!
+That Villain is a Thief!"

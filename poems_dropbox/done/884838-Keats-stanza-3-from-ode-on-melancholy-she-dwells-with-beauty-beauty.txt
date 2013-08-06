@@ -1,0 +1,41 @@
+---
+title: Stanza 3 from Ode on Melancholy
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type:
+tags:
+ -  beauty
+ -  Romantic
+ -  death
+ -  joy
+ -  goodbye
+ -  pleasure
+ -  poison
+ -  delight
+ -  contradiction
+ -  division
+ -  pain
+ -  melancholy
+ -  wine
+ -  soul
+ -  sadness
+ -  strength
+ -  immobility
+ -  futility
+ -  depression
+
+---
+She dwells with Beauty--Beauty that must die;
+    And Joy, whose hand is ever at his lips
+  Bidding adieu; and aching Pleasure nigh,
+    Turning to poison while the bee-mouth sips:
+  Ay, in the very temple of Delight
+    Veil'd Melancholy has her sovran shrine,
+      Though seen of none save him whose strenuous tongue
+  Can burst Joy's grape against his palate fine;
+    His soul shall taste the sadness of her might,
+      And be among her cloudy trophies hung. 

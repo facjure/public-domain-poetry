@@ -1,0 +1,16 @@
+---
+author: Kabir
+gender: male
+title: from III.26  The jewel is lost in the mud... 
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ -  spiritual
+ -  meditative
+ -  mystical
+ -  heart
+ -  funny
+ -  jewel
+ -  nature
+---

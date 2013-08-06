@@ -1,0 +1,20 @@
+---
+author: James Weldon Johnson
+gender: male
+title: From the Spanish
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  God
+ -  heavens
+ -  african american poetry
+---
+
+Twenty years go by on noiseless feet,
+He returns, and once again they meet,
+She exclaims, "Good heavens! and is that he?"
+He mutters, "My God! and that is she!"
