@@ -1,16 +1,19 @@
+#!/usr/bin/env python
 """
-Problems
-yaml
+Usage:
+    ./process_poems.py <dropbox folder>
+
+YAML Problems:
+
 -> -<space>
--> \t
+-> \t\n
 -> \s*---(.+?)---\s*\n
 
-Poem
+Poem Problems:
 -> title
--> \t
+-> \t\n
 """
 import yaml
-import random
 import re
 import StringIO
 from glob import glob
@@ -19,10 +22,6 @@ import sys
 from pipes import quote
 from codecs import open
 
-def random_with_N_digits(n):
-    range_start = 10**(n-1)
-    range_end = (10**n)-1
-    return random.randint(range_start, range_end)
 
 def yaml_and_poem(poem_text):
     match  = re.search(u"\s*---(.+?)---[ ]*\n", poem_text, flags=re.U | re.S)
@@ -51,13 +50,13 @@ def clean_name(txtfile):
     new_txtfile_name = re.sub(r'[\'",]', "-", new_txtfile_name)
     new_txtfile_name = re.sub(" ", "-", new_txtfile_name)
     new_txtfile_name = re.sub("-+", "-", new_txtfile_name)
-    new_txtfile_name = str(random_with_N_digits(6)) + "-" + new_txtfile_name
     return new_txtfile_name
 
 os.system("rm -rf raw")
-os.system("cp -R \'" + sys.argv[1] + "\' raw")
+os.system("cp -R " + quote(sys.argv[1]) + " raw")
 
-log = open("except.log","a")
+os.system("rm except.log")
+log = open("except.log", "a")
 
 for txtfile in glob("raw/*"):
     print txtfile
@@ -68,12 +67,12 @@ for txtfile in glob("raw/*"):
         yaml.load(StringIO.StringIO(yaml_cleaned))
         cleaned_poem = clean_poem(poem)
         final_filename = clean_name(txtfile)
-        ffh = open("done/" + final_filename,"w", "utf-8")
+        ffh = open("processed/" + final_filename,"w", "utf-8")
         ffh.write(u"---" + yaml_cleaned + u"---\n" + cleaned_poem)
         ffh.close()
     except Exception, error:
         log.write("Error in \"" + txtfile + "\": " + str(error) + "\n")
-        cmd = "mv " + quote(txtfile) + " except/"
+        cmd = "mv " + quote(txtfile) + " errors/"
         print cmd
         os.system(cmd)
         continue
