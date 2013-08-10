@@ -5,15 +5,13 @@ curator: Ata
 title: IX.
 year: 19th century
 country: USA
-tags: 
-	- heart
-	- pain
-	- death
-	- suffering
-	- sleep
+tags:
+ -  heart
+ -  pain
+ -  death
+ -  suffering
+ -  sleep
 ---
-
-IX.
 
 The heart asks pleasure first,
 And then, excuse from pain;

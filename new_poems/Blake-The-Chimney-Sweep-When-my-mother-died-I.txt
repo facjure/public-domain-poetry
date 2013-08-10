@@ -1,9 +1,10 @@
+---
 title: The Chimney Sweep
 author: William Blake
 curator: NCR
 country: England
 year: 1789
-type: 
+type:
 tags:
  - labor
  - black
@@ -23,7 +24,6 @@ tags:
  - work
  - exploitation
  - servitude
-
 
 ---
 THE CHIMNEY-SWEEPER

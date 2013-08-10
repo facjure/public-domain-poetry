@@ -6,14 +6,10 @@ curator: Ata
 year: 19th century
 country: USA
 tags:
-	- wife
-	- womanhood
-	- angst
+ - wife
+ - womanhood
+ - angst
 ---
-
-XVI.
-
-APOCALYPSE.
 
 I'm wife; I've finished that,
 That other state;

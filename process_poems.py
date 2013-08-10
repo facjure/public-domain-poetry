@@ -72,7 +72,7 @@ for txtfile in glob("raw/*"):
         ffh.close()
     except Exception, error:
         log.write("Error in \"" + txtfile + "\": " + str(error) + "\n")
-        cmd = "mv " + quote(txtfile) + " errors/"
+        cmd = "cp " + quote(txtfile) + " errors/"
         print cmd
         os.system(cmd)
         continue

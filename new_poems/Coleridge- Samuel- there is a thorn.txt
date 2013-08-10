@@ -6,14 +6,10 @@ curator: Ata
 year: 18th century
 country: England
 tags:
-	- nature
-	- aging
-	- lost youth
+    - nature
+    - aging
+    - lost youth
 ---
-
-THE THORN.
-
-I.
 
 There is a thorn; it looks so old,
 In truth you'd find it hard to say,
