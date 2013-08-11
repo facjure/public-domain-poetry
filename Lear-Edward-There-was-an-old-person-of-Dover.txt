@@ -1,0 +1,24 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Person of Dover"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  Dover
+ -  old
+ -  funny
+ -  dark imagery
+ -  England
+ -  blue
+ -  bees
+ -  running
+---
+
+There was an Old Person of Dover,
+Who rushed through a field of blue clover;
+But some very large Bees stung his nose and his knees,
+So he very soon went back to Dover.

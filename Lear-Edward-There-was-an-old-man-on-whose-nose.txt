@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man on whose nose"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  nose
+ -  funny
+ -  strange
+ -  birds
+ -  day
+---
+
+There was an Old Man on whose nose
+Most birds of the air could repose;
+But they all flew away at the closing of day,
+Which relieved that Old Man and his nose.
+

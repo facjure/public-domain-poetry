@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man of the West (II)"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  west
+ -  old
+ -  funny
+ -  plum
+ -  clothing
+ -  fat
+ -  strange
+---
+
+There was an Old Man of the West,
+Who wore a pale plum-colored vest;
+When they said, "Does it fit?" he replied, "Not a bit!"
+That uneasy Old Man of the West.

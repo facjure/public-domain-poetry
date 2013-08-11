@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man of the Isles"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  Isles
+ -  old
+ -  funny
+ -  island
+ -  music
+ -  singing
+ -  smile
+---
+
+There was an Old Man of the Isles,
+Whose face was pervaded with smiles;
+He sang "High dum diddle," and played on the fiddle,
+That amiable Man of the Isles.

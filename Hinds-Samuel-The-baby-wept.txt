@@ -1,0 +1,24 @@
+---
+author: Samuel Hinds
+gender: male
+title: "Baby Sleeps"
+curator: Ata
+year:  18th/19th century
+country: England
+tags:
+ -  baby
+ -  mother
+ -  motherhood
+ -  sleep
+ -  parenting
+ -  God
+ -  love
+---
+The baby wept;
+The mother took it from the nurse's arms,
+And hushed its fears, and soothed its vain alarms,
+And baby slept.
+Again it weeps,
+And God doth take it from the mother's arms,
+From present griefs, and future unknown harms,
+And baby sleeps.

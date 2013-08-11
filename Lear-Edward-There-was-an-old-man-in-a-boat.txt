@@ -1,0 +1,21 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Man in a boat"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  boat
+ -  nautical
+ -  old
+ -  funny
+ -  sea
+---
+
+There was an Old Man in a boat,
+Who said, "I'm afloat! I'm afloat!"
+When they said, "No, you ain't!" he was ready to faint,
+That unhappy Old Man in a boat.
