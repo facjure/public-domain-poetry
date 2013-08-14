@@ -1,0 +1,12 @@
+# Frozen Pie
+recipe_root: /Users/priyatam/Dev/github/facjure/poems/site
+content: /Users/priyatam/Dev/github/facjure/poems/poems
+
+# Deploy
+first_page: about.md
+title: Fac.jure - Moving Literature Forward
+
+recipes_repo: https://github.com/Facjure/frozen-pie-recipes.git
+#relative_path: /index.html
+# github
+relative_path: "/"

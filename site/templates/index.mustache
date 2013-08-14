@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ title }}</title>
+        <meta name="description" content="Handcrafted Resumes, delivered anywhere">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+        <style type="text/css">
+            {{{ style_sheet }}}
+        </style>
+
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/sammy.js/0.7.4/sammy.min.js"></script>
+        <script>
+            /* Frozen Pie */
+            var data = {{{ json_data }}};
+            var config = {{{ config }}};
+
+            {{{ script }}}
+
+            /* Google Analytics */
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41268790-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+             /* Code blocks */
+             $('pre').each(function (i, e) {
+                hljs.highlightBlock(e);
+              });
+        </script>
+
+    </head>
+
+    <body>
+
+        <nav id="main-nav">
+          <!-- &nbsp; so it doesn't wrap -->
+          <h1 id="logo"><a href="/">{{ title }}</a></h1></a>
+          <ul>
+            <li><a href="#/blog">Blog</a> </li>
+            <li><a href="mailto:priyatam@facjure.com">Contact</a> </li>
+          </ul>
+          <br class="clear">
+        </nav>
+
+        <header id="main-header"/>
+
+        <div id="wrapper">
+            <article class="content">
+                <article class="content">
+                    <!-- logo wrapper is just for Firefox... sigh -->
+                    <div class="logo-wrapper"><h1 class="logo">&#123;&#955;&#125;</h1></div>
+
+                    <!-- Main Content -->
+                    <div id="main" />
+
+                 </article>
+             </article>
+
+            <footer>
+               <p>&copy; Fac.jure LLC. 2013 | Made in Boston and built with <a href="https://github.com/Facjure/frozen-pie">Frozen &pi;</a>
+
+            </footer>
+        </div>
+
+    </body>
+</html>
