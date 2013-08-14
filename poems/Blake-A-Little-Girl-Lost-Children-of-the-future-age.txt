@@ -1,0 +1,74 @@
+---
+title: A Little Girl Lost
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+type:
+tags:
+ -  girl
+ -  lost
+ -  love
+ -  past
+ -  crime
+ -  cold
+ -  gold
+ -  sun
+ -  light
+ -  dark
+ -  children
+ -  garden
+ -  grass
+ -  fear
+ -  delight
+ -  white
+ -  weak
+ -  holy
+ -  sleep
+ -  tears
+ -  father
+ -  future
+
+---
+Children of the future age,
+Reading this indignant page,
+Know that in a former time
+Love, sweet love, was thought a crime.
+
+In the age of gold,
+Free from winter’s cold,
+Youth and maiden bright,
+To the holy light,
+Naked in the sunny beams delight.
+
+Once a youthful pair,
+Filled with softest care,
+Met in garden bright
+Where the holy light
+Had just removed the curtains of the night.
+
+There, in rising day,
+On the grass they play;
+Parents were afar,
+Strangers came not near,
+And the maiden soon forgot her fear.
+
+Tired with kisses sweet,
+They agree to meet
+When the silent sleep
+Waves o’er heaven’s deep,
+And the weary tired wanderers weep.
+
+To her father white
+Came the maiden bright;
+But his loving look,
+Like the holy book,
+All her tender limbs with terror shook.
+
+Ona, pale and weak,
+To thy father speak!
+O the trembling fear!
+O the dismal care
+That shakes the blossoms of my hoary hair!’

@@ -1,0 +1,26 @@
+---
+author: Mother Goose
+gender:
+title: Lock and Key
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+ -  key
+ -  gold
+ -  silver
+---
+
+"I am a gold lock."
+"I am a gold key."
+"I am a silver lock."
+"I am a silver key."
+"I am a brass lock."
+"I am a brass key."
+"I am a lead lock."
+"I am a lead key."
+"I am a don lock."
+"I am a don key!"

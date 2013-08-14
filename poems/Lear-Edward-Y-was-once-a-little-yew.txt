@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: y from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+Y was once a little yew,
+Yewdy,
+Fewdy,
+Crudy,
+Yewdy,
+Growdy, grewdy,
+Little yew!

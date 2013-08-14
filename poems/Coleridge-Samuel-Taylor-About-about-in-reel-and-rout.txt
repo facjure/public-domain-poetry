@@ -1,0 +1,25 @@
+---
+author: Samuel Taylor Coleridge
+gender: male
+title: from Rime of the Ancient Mariner
+curator: Ata
+year: 18th century
+country: England
+tags:
+ -  death
+ -  fear
+ -  dread
+ -  dark imagery
+ -  sea
+ -  witch
+ -  green
+ -  blue
+ -  water
+ -  white
+ -  fire
+ -  lonesome
+---
+About, about, in reel and rout
+The death-fires danced at night;
+The water, like a witch's oils,
+Burnt green, and blue, and white.

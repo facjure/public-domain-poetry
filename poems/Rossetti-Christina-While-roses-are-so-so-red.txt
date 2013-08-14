@@ -1,0 +1,40 @@
+---
+author: Christina Rossetti
+gender: female
+title: Beauty is Vain
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  woman
+ -  flowers
+ -  nature
+ -  life
+ -  meditative
+ -  self
+ -  roses
+ -  red
+ -  love
+ -  summer
+ -  white
+ -  desire
+ -  beauty
+---
+While roses are so red,
+  While lilies are so white,
+Shall a woman exalt her face
+  Because it gives delight?
+She's not so sweet as a rose,
+  A lily's straighter than she,
+And if she were as red or white
+  She'd be but one of three.
+
+Whether she flush in love's summer
+  Or in its winter grow pale,
+Whether she flaunt her beauty
+  Or hide it away in a veil,
+Be she red or white,
+  And stand she erect or bowed,
+Time will win the race he runs with her
+  And hide her away in a shroud.

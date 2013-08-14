@@ -1,0 +1,14 @@
+---
+author: Kabir
+gender: male
+title: from II.98 "The month of March draws near…"
+curator: Ata
+year: 15th/16th century
+country: India
+tags:
+ -  spiritual
+ -  meditative
+ -  beauty
+ -  mystical
+ -  Spring
+---

@@ -1,0 +1,22 @@
+---
+author: Mother Goose
+gender:
+title: Little Miss Muffet
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  spider
+ -  eating
+ -  fright
+---
+
+Little Miss Muffet,
+Sat on a tuffet,
+Eating of curds and whey;
+There came a great spider
+That sat down beside her,
+And frightened Miss Muffet away.

@@ -1,0 +1,22 @@
+---
+author: Christina Rossetti
+gender: female
+title: from Goblin Market
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  supernatural
+ -  dark imagery
+ -  goblin
+ -  fruit
+ -  golden
+ -  strange
+ -  cold
+---
+"Lie close," Laura said,
+Pricking up her golden head:
+"We must not look at goblin men.
+We must not buy their fruits;
+Who knows upon what soil they fed
+Their hungry thirsty roots?"

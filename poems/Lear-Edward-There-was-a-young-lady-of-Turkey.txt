@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: "There was a Young Lady of Turkey"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  young lady
+ -  Turkey
+ -  funny
+ -  strange
+ -  weather
+ -  crying
+---
+
+There was a Young Lady of Turkey,
+Who wept when the weather was murky;
+When the day turned out fine, she ceased to repine,
+That capricious Young Lady of Turkey.
+

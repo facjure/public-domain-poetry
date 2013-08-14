@@ -1,0 +1,35 @@
+---
+author: Charles Baudelaire
+gender: male
+title: The Evil Monk
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  beauty
+ -  night
+ -  sonnet
+ -  dark
+ -  soul
+---
+The cloisters old, expounded on their walls
+With paintings, the Beatific Verity,
+The which—adorning their religious halls,
+Enriched the frigidness of their Austerity.
+
+In days when Christian seeds bloomed over the land,
+Full many a noble monk unknown to-day,
+Upon the field of tombs would take his stand,
+Exalting Death in rude and simple way.
+
+My soul is a tomb where—bad monk that I be—
+I dwell and search its depths from all eternity,
+And nought bedecks the walls of the odious spot.
+
+Sluggard monk! when should I glean aright
+From the living spectacle of my bitter lot,
+To mold my handy work and my eyes' Delight?

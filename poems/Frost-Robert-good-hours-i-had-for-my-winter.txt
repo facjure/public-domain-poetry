@@ -1,0 +1,51 @@
+---
+title: Good Hours
+author: Robert Frost
+curator: NCR
+country: USA
+year: 1915
+book: North of Boston
+gender: male
+type: rhymed stanzas
+tags:
+ -  winter
+ -  evening
+ -  solitude
+ -  snow
+ -  violin
+ -  voyeurism
+ -  youth
+ -  stranger
+ -  outsider
+ -  alienation
+ -  longing
+ -  nature
+ -  isolation
+ -  sleep
+ -  quiet
+ -  night
+ -  dark
+ -  light
+
+---
+
+
+I HAD for my winter evening walk—
+No one at all with whom to talk,
+But I had the cottages in a row
+Up to their shining eyes in snow.
+
+And I thought I had the folk within:
+I had the sound of a violin;
+I had a glimpse through curtain laces
+Of youthful forms and youthful faces.
+
+I had such company outward bound.
+I went till there were no cottages found.
+I turned and repented, but coming back
+I saw no window but that was black.
+
+Over the snow my creaking feet
+Disturbed the slumbering village street
+Like profanation, by your leave,
+At ten o’clock of a winter eve.

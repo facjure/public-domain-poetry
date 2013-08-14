@@ -1,0 +1,33 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: The Panther
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  beauty
+ -  sad
+ -  zoo
+ -  eyes
+ -  pity
+---
+
+His weary glance, from passing by the bars,
+Has grown into a dazed and vacant stare;
+It seems to him there are a thousand bars
+And out beyond those bars the empty air.
+
+The pad of his strong feet, that ceaseless sound
+Of supple tread behind the iron bands,
+Is like a dance of strength circling around,
+While in the circle, stunned, a great will stands.
+
+But there are times the pupils of his eyes
+Dilate, the strong limbs stand alert, apart,
+Tense with the flood of visions that arise
+Only to sink and die within his heart.

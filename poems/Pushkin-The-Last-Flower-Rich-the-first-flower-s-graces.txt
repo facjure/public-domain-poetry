@@ -1,0 +1,23 @@
+---
+author: Pushkin
+gender: male
+title: The Last Flower
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 18th/19th century
+country: Russia
+tags:
+ -  lyric
+ -  russian poetry
+ -  love
+ -  dreams
+ -  hope
+ -  desire
+---
+
+Rich the first flower's graces be,
+But dearer far the last to me;
+My spirit feels renewal sweet,
+Of all my dreams hope or desire—
+The hours of parting again inspire
+More than the moments when we meet!

@@ -1,0 +1,18 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  life
+ -  philosophy
+ -  law
+ -  nature
+ -  meditative
+---
+That coursing on, whate'er men's speculations,
+Amid the changing schools, theologies, philosophies,
+Amid the bawling presentations new and old,
+The round earth's silent vital laws, facts, modes continue.

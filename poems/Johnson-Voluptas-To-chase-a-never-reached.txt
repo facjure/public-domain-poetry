@@ -1,0 +1,19 @@
+---
+author: James Weldon Johnson
+gender: male
+title: Volutpas
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ -  lyric
+ -  meditative
+ -  green
+ -  beach
+ -  african american poetry
+---
+
+To chase a never-reached mirage
+Across the hot, white sand,
+And choke and die, while gazing on
+Its green and watered strand.

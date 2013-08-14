@@ -1,0 +1,29 @@
+---
+title: Stanza 5 from Silence
+author: Edgar Lee Masters
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+type:
+tags:
+ -  Spoon River
+ -  silence
+ -  death
+ -  experience
+ -  understanding
+ -  age
+ -  dead
+
+
+---
+
+
+And there is the silence of the dead.
+If we who are in life cannot speak
+Of profound experiences,
+Why do you marvel that the dead
+Do not tell you of death?
+Their silence shall be interpreted
+As we approach them.

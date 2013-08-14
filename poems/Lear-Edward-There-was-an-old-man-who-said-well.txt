@@ -1,0 +1,24 @@
+---
+author: Edward Lear
+gender: male
+title: There was an Old Man who said, Well!
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  old
+ -  bell
+ -  funny
+ -  strange
+ -  white
+ -  aging
+ -  surreal
+---
+
+There was an Old Man who said, "Well!
+Will nobody answer this bell?
+I have pulled day and night, till my hair has grown white,
+But nobody answers this bell!"
+

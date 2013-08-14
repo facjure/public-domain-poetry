@@ -1,0 +1,19 @@
+---
+author:
+gender:
+title: from Japanese Prints, Fugitive Thoughts
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  gold
+ -  black
+ -  nature
+---
+
+My thoughts are sparrows passing
+Through one great wave that breaks
+In bubbles of gold on a black motionless rock.

@@ -1,0 +1,30 @@
+---
+author:
+gender:
+title: from Japanese Prints, Court Lady Standing Under Cherry Tree
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  flower
+ -  nature
+ -  wine
+ -  love
+ -  soldier
+---
+
+She is an iris,
+Dark purple, pale rose,
+Under the gnarled boughs
+That shatter their stars of bloom.
+She waves delicately
+With the movement of the tree.
+Of what is she dreaming?
+Of long nights lit with orange lanterns,
+Of wine cups and compliments and kisses of the two-sword men.
+And of dawn when weary sleepers
+Lie outstretched on the mats of the palace,
+And of the iris stalk that is broken in the fountain.

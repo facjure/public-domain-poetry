@@ -1,0 +1,35 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Echoes
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  beauty
+ -  night
+ -  sonnet
+ -  dark
+---
+
+In Nature's temple, living columns rise,
+Which oftentimes give tongue to words subdued,
+And Man traverses this symbolic wood,
+Which looks at him with half familiar eyes,
+
+Like lingering echoes, which afar confound
+Themselves in deep and sombre unity,
+As vast as Night, and like transparency,
+The scents and colors to each other respond.
+
+And scents there are, like infant's flesh as chaste,
+As sweet as oboes, and as meadows fair,
+And others, proud, corrupted, rich and vast,
+
+Which have the expansion of infinity,
+Like amber, musk and frankincense and myrrh,
+That sing the soul's and senses' ecstasy.

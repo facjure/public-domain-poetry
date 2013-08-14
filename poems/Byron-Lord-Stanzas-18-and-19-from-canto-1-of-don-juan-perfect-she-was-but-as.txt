@@ -1,0 +1,45 @@
+---
+title: Stanzas 18 and 19 from Canto 1 of Don Juan
+author: Lord Byron
+curator: NCR
+country: England
+year: 19th Century
+gender: male
+type: [Iambic Pentameter, ottava rima]
+tags:
+ -  perfection
+ -  vice
+ -  adultery
+ -  marriage
+ -  sin
+ -  sex
+ -  lust
+ -  adam
+ -  eve
+ -  fruit
+ -  philistine
+ -  hedonist
+ -  pleasure
+ -  naughty
+ -  wicked
+ -  mistress
+
+---
+
+ Perfect she was, but as perfection is
+      Insipid in this naughty world of ours,
+    Where our first parents never learned to kiss
+      Till they were exiled from their earlier bowers,
+    Where all was peace, and innocence, and bliss,[b]
+      (I wonder how they got through the twelve hours),
+    Don José, like a lineal son of Eve,
+    Went plucking various fruit without her leave.
+
+    He was a mortal of the careless kind,
+      With no great love for learning, or the learned,
+    Who chose to go where'er he had a mind,
+      And never dreamed his lady was concerned;
+    The world, as usual, wickedly inclined
+      To see a kingdom or a house o'erturned,
+    Whispered he had a mistress, some said _two_.
+    But for domestic quarrels _one_ will do.

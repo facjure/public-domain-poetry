@@ -1,0 +1,19 @@
+---
+author: Robert Buchanan
+gender: male
+title: The Ballad of Judas Iscariot
+curator: Ata
+year: 19th century
+country: Scotland
+tags:
+ -  Judas Iscariot
+ -  body
+ -  soul
+ -  ghost
+ -  supernatural
+ -  dark imagery
+---
+The body of Judas Iscariot
+Lay stretched along the snow.
+'Twas the soul of Judas Iscariot
+Ran swiftly to and fro.

@@ -1,0 +1,40 @@
+---
+title: After the Winter
+author: Claude McKay
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Harlem Renaissance
+ -  seasons
+ -  social commentary
+ -  cities
+ -  urban
+ -  southern
+ -  nature
+ -  brown
+ -  class
+ -  fantasy
+ -  love
+
+---
+Some day, when trees have shed their leaves,
+  And against the morning’s white
+The shivering birds beneath the eaves
+  Have sheltered for the night,
+We’ll turn our faces southward, love,	        5
+  Toward the summer isle
+Where bamboos spire the shafted grove
+  And wide-mouthed orchids smile.
+
+And we will seek the quiet hill
+  Where towers the cotton tree,	        10
+And leaps the laughing crystal rill,
+  And works the droning bee.
+And we will build a lonely nest
+  Beside an open glade,
+And there forever will we rest,	        15
+  O love—O nut-brown maid!	

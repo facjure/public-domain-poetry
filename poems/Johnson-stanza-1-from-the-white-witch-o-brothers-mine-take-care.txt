@@ -1,0 +1,28 @@
+---
+title: Stanza 1 from The White Witch
+author: James Weldon Johnson
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type:
+tags:
+ -  Harlem Renaissance
+ -  white
+ -  strength
+ -  warning
+ -  trust
+ -  race
+ -  appearance
+ -  deceptive
+ -  flight
+ -  running
+ -  brothers
+---
+O BROTHERS mine, take care! Take care!
+The great white witch rides out to-night.
+Trust not your prowess nor your strength,
+Your only safety lies in flight;
+For in her glance there is a snare,
+And in her smile there is a blight.

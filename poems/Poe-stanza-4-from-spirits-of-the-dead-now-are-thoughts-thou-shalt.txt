@@ -1,0 +1,28 @@
+---
+title: Stanza 4 from Spirits of the Dead
+author: Edgar Allen Poe
+curator: NCR
+country: USA
+year: 1849
+book: Poems
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Victorian
+ -  death
+ -  soul
+ -  alone
+ -  grave
+ -  grass
+ -  vision
+ -  nature
+ -  sight
+ -  spirit
+ -  living
+ -  ghosts
+
+---
+Now are thoughts thou shalt not banish,
+Now are visions ne’er to vanish;
+From thy spirit shall they pass
+No more—like dew-drop from the grass.

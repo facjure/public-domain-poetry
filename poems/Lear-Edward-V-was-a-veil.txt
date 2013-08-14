@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: V from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+V was a veil
+With a border upon it,
+And a ribbon to tie it
+All round a pink bonnet.
+
+v!
+Pretty green Veil!

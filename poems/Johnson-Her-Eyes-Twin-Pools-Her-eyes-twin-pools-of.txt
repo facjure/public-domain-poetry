@@ -1,0 +1,25 @@
+---
+author: James Weldon Johnson
+gender: male
+title: Her Eyes Twin Pools
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ -  lyric
+ -  meditative
+ -  love
+ -  mystic
+ -  night
+ -  african american poetry
+ -  light
+---
+
+Her eyes, twin pools of mystic light,
+The blend of star-sheen and black night;
+Over which, to sound their glamouring haze,
+A man might bend, and vainly gaze.
+Her eyes, twin pools so dark and deep,
+In which life's ancient mysteries sleep;
+Wherein, to seek the quested goal,
+A man might plunge, and lose his soul.

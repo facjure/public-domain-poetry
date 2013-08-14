@@ -1,0 +1,35 @@
+---
+title: Ah, Sunflower
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+type:
+tags:
+ -  sunflower
+ -  flower
+ -  sun
+ -  growth
+ -  travel
+ -  death
+ -  heaven
+ -  youth
+ -  desire
+ -  longing
+ -  virgin
+ -  time
+ -  weary
+ -  yellow
+
+---
+Ah, sunflower, weary of time,
+   Who countest the steps of the sun;
+Seeking after that sweet golden clime
+   Where the traveller’s journey is done;
+
+Where the Youth pined away with desire,
+   And the pale virgin shrouded in snow,
+Arise from their graves, and aspire
+   Where my Sunflower wishes to go!

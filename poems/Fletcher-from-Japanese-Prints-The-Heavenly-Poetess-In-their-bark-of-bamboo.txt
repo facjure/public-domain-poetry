@@ -1,0 +1,22 @@
+---
+author:
+gender:
+title: from Japanese Prints, The Heavenly Poetess
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  ars poetess
+ -  nature
+---
+
+In their bark of bamboo reeds
+The heavenly poetesses
+Float across the sky.
+Poems are falling from them
+Swift as the wind that shakes the lance-like bamboo leaves;
+The stars close around like bubbles
+Stirred by the silver oars of poems passing.

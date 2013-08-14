@@ -1,0 +1,34 @@
+---
+title: Stanza 4 from Ode to a Nightingale
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type:
+tags:
+ -  flight
+ -  poetry
+ -  moon
+ -  light
+ -  darkness
+ -  heaven
+ -  green
+ -  intoxication
+ -  night
+ -  heavenly bodies
+ -  drunk
+ -  tenderness
+
+---
+Away! away! for I will fly to thee,
+    Not charioted by Bacchus and his pards,
+  But on the viewless wings of Poesy,
+    Though the dull brain perplexes and retards:
+  Already with thee! tender is the night,
+    And haply the Queen-Moon is on her throne,
+      Cluster'd around by all her starry Fays;
+          But here there is no light,
+    Save what from heaven is with the breezes blown
+      Through verdurous glooms and winding mossy ways. 

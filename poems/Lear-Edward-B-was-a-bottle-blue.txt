@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: B from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+B was a Bottle blue,
+Which was not very small;
+Papa he filled it full of beer,
+And then he drank it all.

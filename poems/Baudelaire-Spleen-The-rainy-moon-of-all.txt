@@ -1,0 +1,38 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Spleen
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  sonnet
+ -  strange
+ -  rain
+ -  moon
+ -  ars poetica
+ -  cat
+ -  ghost
+ -  queen
+---
+
+The rainy moon of all the world is weary,
+And from its urn a gloomy cold pours down,
+Upon the pallid inmates of the mortuary,
+And on the neighboring outskirts of the town.
+
+My wasted cat, in searching for a litter,
+Bestirs its mangy paws from post to post;
+(A poet's soul that wanders in the gutter,
+With the jaded voice of a shivering ghost).
+
+The smoking pine-log, while the drone laments,
+Accompanies the wheezy pendulum,
+The while amidst a haze of dirty scents,
+
+—Those fatal remnants of a sick man's room—
+The gallant knave of hearts and queen of spades
+Relate their ancient sexual escapades.

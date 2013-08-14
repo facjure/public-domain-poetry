@@ -1,0 +1,40 @@
+---
+author: Charles Baudelaire
+gender: male
+title: The Broken Bell
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  sonnet
+ -  strange
+ -  mystical
+ -  night
+ -  heart
+ -  soldier
+ -  war
+ -  blood
+ -  winter
+ -  death
+---
+
+How sweet and bitter, on a winter night,
+Beside the palpitating fire to list,
+As, slowly, distant memories alight,
+To sounds of chimes that sing across the mist.
+
+How happy is that bell with hearty throat,
+Which neither age nor time can ever defeat,
+Which faithfully uplifts its pious note,
+Like a soldier aged on his beat.
+
+For me, my soul is cracked, and amid her cares,
+Would often fill with her songs the midnight airs
+And often it chances that her feeble moan
+
+Is like the wounded warrior's fainting groan,
+Who by a lake of blood, beneath bodies slain,
+In anguish falls, and never moves again.

@@ -1,0 +1,26 @@
+---
+author: Rainer Maria Rilke
+gender: male
+title: Love Song
+translator: Jessie Lamont
+curator: Ata
+year: 19th/20th century
+country: Germany
+tags:
+ -  lyric
+ -  meditative
+ -  life
+ -  beauty
+ -  love
+ -  stars
+---
+
+When my soul touches yours, a great chord sings!
+How should I tune it then to other things?
+That some spot in darkness could be found!
+That does not vibrate whenever your depths sound.
+But everything that touches you and me
+Welds us as played strings sound one melody.
+Where is the instrument from where the sounds flow?
+And whose the master-hand that holds the bow?
+Damn! Sweet song—

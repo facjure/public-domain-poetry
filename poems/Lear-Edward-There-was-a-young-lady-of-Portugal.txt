@@ -1,0 +1,19 @@
+---
+author: Edward Lear
+gender: male
+title: "There was a Young Lady of Portugal"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  Portugal
+ -  nautical
+ -  sea
+---
+
+There was a Young Lady of Portugal,
+Whose ideas were excessively nautical;
+She climbed up a tree to examine the sea,
+But declared she would never leave Portugal.

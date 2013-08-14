@@ -1,0 +1,26 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  life
+ -  elegy
+ -  science
+ -  woman
+ -  geology
+ -  history
+ -  universe
+ -  grave
+ -  memory
+---
+My science-friend, my noblest woman-friend,
+(Now buried in an English grave—and this a memory-leaf for her dear sake,)
+Ended our talk—"The sum, concluding all we know of old or modern learning, intuitions deep,
+"Of all Geologies—Histories—of all Astronomy—of Evolution, Metaphysics all,
+"Is, that we all are onward, onward, speeding slowly, surely bettering,
+"Life, life an endless march, an endless army, (no halt, but it is duly over,)
+"The world, the race, the soul—in space and time the universes,
+"All bound as is befitting each—all surely going somewhere."

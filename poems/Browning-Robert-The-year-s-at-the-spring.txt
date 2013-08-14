@@ -1,0 +1,25 @@
+---
+author: Robert Browning
+gender: male
+title: Pippa
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  nature
+ -  lark
+ -  wing
+ -  snail
+ -  children poetry
+ -  God
+ -  heaven
+ -  inspiration
+---
+The year's at the spring,
+The day's at the morn;
+Morning's at seven;
+The hillside's dew pearled;
+The lark's on the wing;
+The snail's on the thorn;
+God's in His heaven—
+All's right with the world!

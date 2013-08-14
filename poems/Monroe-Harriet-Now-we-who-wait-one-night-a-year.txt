@@ -1,0 +1,19 @@
+---
+author: Harriet Monroe
+gender: female
+title: The Legend of Pass Christian
+curator: Ata
+year: 19th/20th century
+country: American
+tags:
+ -  supernatural
+ -  ghost
+ -  ship
+ -  flaming
+ -  song
+ -  dark imagery
+---
+Now we, who wait one night a year
+Under these branches long,
+May see a flaming ship, and hear
+The echo of a song.

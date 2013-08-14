@@ -1,0 +1,23 @@
+---
+author:
+gender:
+title: from Japanese Prints, Changing Love
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  nature
+ -  love
+ -  water
+ -  woods
+---
+
+My love for her at first was like the smoke that drifts
+Across the marshes
+From burning woods.
+But, after she had gone,
+It was like the lotus that lifts up
+Its heart shaped buds from the dim waters.

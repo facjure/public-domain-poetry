@@ -1,0 +1,18 @@
+---
+author: Mother Goose
+gender:
+title: Lengthening Days
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+ -  storm
+ -  weather
+ -  educational
+---
+
+As the days grow longer
+The storms grow stronger.

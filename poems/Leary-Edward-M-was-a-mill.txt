@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  mill
+ -  children poetry
+---
+
+M was a mill
+Which stood on a hill,
+And turned round and round
+With a loud hummy sound.
+
+m
+Useful old mill!

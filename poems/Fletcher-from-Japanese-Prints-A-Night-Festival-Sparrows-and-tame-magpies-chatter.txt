@@ -1,0 +1,30 @@
+---
+author:
+gender:
+title: from Japanese Prints, A Night Festival
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  sky
+ -  nature
+ -  birds
+ -  singing
+ -  night
+ -  black
+ -  blue
+---
+
+Sparrows and tame magpies chatter
+In the porticoes
+Lit with many a lantern.
+There is idle song,
+Scandal over full wine cups,
+Sorrow does not matter.
+Only beyond the still grey shoji
+For the breadth of innumerable countries,
+Is the sea with ships asleep
+In the blue-black starless night.

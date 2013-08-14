@@ -1,0 +1,19 @@
+---
+author:
+gender:
+title: from Japanese Prints, Toy- Boxes
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  city
+ -  time
+---
+
+Cities are the toy-boxes
+Time plays with:
+And there are often many doll-houses
+Of which the dolls are lost.

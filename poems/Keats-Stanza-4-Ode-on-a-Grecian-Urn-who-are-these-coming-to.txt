@@ -1,0 +1,31 @@
+---
+title: Stanza 4 from Ode on a Grecian Urn
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+type:
+tags:
+ -  sacrifice
+ -  Romantic
+ -  paganism
+ -  artifacts
+ -  ritual
+ -  silence
+ -  epochs
+ -  passage of time
+
+
+---
+Who are these coming to the sacrifice?
+    To what green altar, O mysterious priest,
+  Lead'st thou that heifer lowing at the skies,
+    And all her silken flanks with garlands rest?
+  What little town by river or sea shore,
+    Or mountain-built with peaceful citadel,
+      Is emptied of this folk, this pious morn?
+  And, little town, thy streets for evermore
+    Will silent be; and not a soul to tell
+      Why thou art desolate, can e'er return.                 

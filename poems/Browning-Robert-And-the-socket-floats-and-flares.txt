@@ -1,0 +1,18 @@
+---
+author: Robert Browning
+gender: male
+title: Mesmerism
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  ghost
+ -  house
+ -  supernatural
+ -  dark imagery
+---
+And the socket floats and flares,
+And the house-beams groan
+And a foot unknown
+Is surmised on the garret stairs
+And the locks slip unawares. . .
