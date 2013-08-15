@@ -1,7 +1,7 @@
 ---
 author: E.E.Cummings
 gender: male
-title: Finis
+title:Finis
 curator: Ata
 year: 19th/20th century
 country: America
@@ -11,10 +11,9 @@ tags:
   - night
   - twilight
   - golden
-  - sun
+  - sunset
   - water
   -mystical
-  
 ---
 
 Over silent waters
