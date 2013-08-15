@@ -6,23 +6,22 @@ country: USA
 year: early 20th Century
 book: The New Poetry
 gender: male
-type:
-tags:
- -  classics
- -  weary
- -  fatigue
- -  antiquity
- -  creation
- -  silence
- -  gold
- -  ivory
- -  speech
- -  sadness
-
-
+type: null
+tags: 
+  - classics
+  - weary
+  - fatigue
+  - antiquity
+  - creation
+  - silence
+  - gold
+  - ivory
+  - speech
+  - sadness
+published: true
 ---
 
-GROW weary if you will, let me be sad.
+Grow weary if you will, let me be sad.
 Use no more speech now;
 Let the silence spread gold hair above us,
 Fold on delicate fold.
