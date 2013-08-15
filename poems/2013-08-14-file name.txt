@@ -1,8 +1,0 @@
----
-test: poem
-test: information
-test: lala
----
-
-Here is a poem for you 
-do you like it? 
