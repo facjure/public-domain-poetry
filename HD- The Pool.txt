@@ -1,3 +1,4 @@
+---
 author: H.D.
 title: The Pool
 curator: Ata
