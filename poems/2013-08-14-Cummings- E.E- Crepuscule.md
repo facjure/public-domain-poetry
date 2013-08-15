@@ -1,0 +1,36 @@
+---
+author: E.E.Cummings
+gender: male
+title: Crepuscule
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ - time
+ - eyes
+ - sun
+ - moon
+ - 
+ - 
+ 
+---
+
+I will wade out
+						till my thighs are steeped in burn-
+ing flowers
+I will take the sun in my mouth
+and leap into the ripe air
+										Alive
+												with closed eyes
+to dash against darkness
+									in the sleeping curves of my
+body
+Shall enter fingers of smooth mastery
+with chasteness of sea-girls
+										Will I complete the mystery
+of my flesh
+I will rise
+			After a thousand years
+lipping
+flowers
+		And set my teeth in the silver of the moon
