@@ -150,3 +150,4 @@ pre, code {
     white-space: pre-wrap;
 }
 
+.post { white-space : pre }
