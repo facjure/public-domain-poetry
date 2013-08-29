@@ -1,0 +1,31 @@
+---
+
+author: Amy Lowell
+title: A Blockhead
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - meditative
+  - blood
+  - sonnet
+  - drunk
+  - lyric
+
+---
+
+Before me lies a mass of shapeless days,
+Unseparated atoms, and I must
+Sort them apart and live them.  Sifted dust
+Covers the formless heap.  Reprieves, delays,
+There are none, ever.  As a monk who prays
+The sliding beads asunder, so I thrust
+Each tasteless particle aside, and just
+Begin again the task which never stays.
+And I have known a glory of great suns,
+When days flashed by, pulsing with joy and fire!
+Drunk bubbled wine in goblets of desire,
+And felt the whipped blood laughing as it runs!
+Spilt is that liquor, my too hasty hand
+Threw down the cup, and did not understand.
