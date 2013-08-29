@@ -1,0 +1,33 @@
+---
+
+author: Amy Lowell
+tite: Fool's Money Bag
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - ironic love
+  - dog
+  - ars poetica
+  - imagist
+  - lyric
+  
+---
+
+Outside the long window,
+With his head on the stone sill,
+The dog is lying,
+Gazing at his Beloved.
+His eyes are wet and urgent,
+And his body is taut and shaking.
+It is cold on the terrace;
+A pale wind licks along the stone slabs,
+But the dog gazes through the glass
+And is content.
+
+The Beloved is writing a letter.
+Occasionally she speaks to the dog,
+But she is thinking of her writing.
+Does she, too, give her devotion to one
+Not worthy?
