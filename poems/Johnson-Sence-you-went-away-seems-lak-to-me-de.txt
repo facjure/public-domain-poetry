@@ -6,7 +6,6 @@ country: USA
 year: 1922
 book: P
 gender: male
-type:
 tags:
  -  Harlem Renaissance
  -  brevity

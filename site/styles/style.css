@@ -151,3 +151,17 @@ pre, code {
 }
 
 .post { white-space : pre }
+
+#search {
+    display: inline;
+    padding-left: 1.5em;
+}
+
+#search {
+  float: right;
+}
+
+#search input {
+    font-size: 0.9em;
+}
+

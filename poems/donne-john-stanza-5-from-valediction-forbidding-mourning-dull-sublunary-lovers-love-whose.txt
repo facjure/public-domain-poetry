@@ -5,7 +5,6 @@ curator: NCR
 country: England
 year: 17th century
 gender: male
-type:
 tags:
  -  love
  -  earthly

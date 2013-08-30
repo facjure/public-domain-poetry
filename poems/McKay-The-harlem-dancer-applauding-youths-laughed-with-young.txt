@@ -6,7 +6,6 @@ country: USA
 year: 1922
 book: The Book of American Negro Poetry
 gender: male
-type:
 tags:
  -  Harlem Renaissance
  -  youth

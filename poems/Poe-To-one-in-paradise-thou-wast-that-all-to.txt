@@ -6,7 +6,6 @@ country: USA
 year: 1835
 book: Poems
 gender: male
-type:
 tags:
  -  Victorian
  -  death

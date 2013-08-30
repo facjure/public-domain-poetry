@@ -6,7 +6,6 @@ country: England
 year: 1789
 book: Songs of Experience
 gender: male
-type:
 tags:
  -  youth
  -  ancient

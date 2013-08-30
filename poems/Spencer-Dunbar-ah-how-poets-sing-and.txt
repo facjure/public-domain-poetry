@@ -6,7 +6,6 @@ country: USA
 year: 1922
 book: The Book of American Negro Poetry
 gender: female
-type:
 tags:
  -  Harlem Renaissance
  -  lyric

@@ -1,8 +1,8 @@
-recipe_root: /Users/priyatam/Dev/github/facjure/poems/site
-content: /Users/priyatam/Dev/github/facjure/poems/poems
+recipe_root: /Users/harsha/yuti/poems/site
+content: /Users/harsha/yuti/poems/poems
 
 first_page: blog
-default_template: blog.mustache
+default_template: post_plain.mustache
 
 title: 5000 Poems by Ata Moharreri
 

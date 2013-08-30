@@ -6,7 +6,6 @@ country: USA
 year: early 20th Century
 book: The New Poetry
 gender: male
-type:
 tags:
  -  music
  -  bread

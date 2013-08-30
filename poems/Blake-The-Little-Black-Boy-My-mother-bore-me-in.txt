@@ -4,7 +4,6 @@ author: William Blake
 curator: NCR
 country: England
 year: 1789
-type:
 tags:
  -  soul
  -  black

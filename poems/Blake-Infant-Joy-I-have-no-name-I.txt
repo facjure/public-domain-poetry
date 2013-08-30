@@ -5,7 +5,6 @@ curator: NCR
 country: England
 year: 1789
 gender: male
-type:
 tags:
  -  boy
  -  joy

@@ -6,7 +6,6 @@ country: USA
 year: 1915
 book: North of Boston
 gender: male
-type:
 tags:
  -  mountain
  -  town

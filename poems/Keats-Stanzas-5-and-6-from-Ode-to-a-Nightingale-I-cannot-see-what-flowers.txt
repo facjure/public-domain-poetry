@@ -6,7 +6,6 @@ country: England
 year: 1820
 book: Poems
 gender: male
-type:
 tags:
  -  birds
  -  flowers

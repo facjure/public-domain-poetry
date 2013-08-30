@@ -6,7 +6,6 @@ country: USA
 year: 1849
 book: Poems
 gender: male
-type:
 tags:
  -  Victorian
  -  living
