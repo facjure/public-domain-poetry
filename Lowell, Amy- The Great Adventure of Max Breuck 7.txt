@@ -1,0 +1,30 @@
+---
+
+author: Amy Lowell
+title: The Great Adventure of Max Breuck 7.
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - moon
+  - Spring
+
+
+--- 
+
+7.
+
+Then once more, cloaked and ready, he set out,
+Tripping the footsteps of the eager boy
+Along the dappled cobbles, while the rout
+Within the tavern jeered at his employ.
+Through new-burst elm leaves filtered the white moon,
+Who peered and splashed between the twinkling boughs,
+Flooded the open spaces, and took flight
+Before tall, serried houses in platoon,
+Guarded by shadows.  Past the Custom House
+They took their hurried way in the Spring-scented night.
+
