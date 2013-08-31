@@ -1,0 +1,24 @@
+---
+
+author: Amy Lowell
+title: The Dinner-Party: Talk
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - death
+  - green
+
+---
+
+They took dead men's souls
+And pinned them on their breasts for ornament;
+Their cuff-links and tiaras
+Were gems dug from a grave;
+They were ghouls battening on exhumed thoughts;
+And I took a green liqueur from a servant
+So that he might come near me
+And give me the comfort of a living thing.
