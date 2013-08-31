@@ -1,0 +1,29 @@
+---
+
+author: Amy Lowell
+title: The Great Adventure of Max Breuck 21.
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - Amsterdam
+  - sun
+
+---
+
+21.
+
+'Twas noon in Amsterdam, the day was clear,
+And sunshine tipped the pointed roofs with gold.
+The brown canals ran liquid bronze, for here
+The sun sank deep into the waters cold.
+And every clock and belfry in the town
+Hammered, and struck, and rang.  Such peals of bells,
+To shake the sunny morning into life,
+And to proclaim the middle, and the crown,
+Of this most sparkling daytime!  The crowd swells,
+Laughing and pushing toward the quays in friendly strife.
+
