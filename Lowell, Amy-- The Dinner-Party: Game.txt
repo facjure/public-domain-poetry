@@ -1,0 +1,25 @@
+---
+
+author: Amy Lowell
+title: The Dinner-Party: Game
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - fighting
+
+---
+
+The gentleman with the grey-and-black whiskers
+Sneered languidly over his quail.
+Then my heart flew up and laboured,
+And I burst from my own holding
+And hurled myself forward.
+With straight blows I beat upon him,
+Furiously, with red-hot anger, I thrust against him.
+But my weapon slithered over his polished surface,
+And I recoiled upon myself,
+Panting.
