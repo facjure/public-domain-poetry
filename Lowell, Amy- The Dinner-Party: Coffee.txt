@@ -1,0 +1,23 @@
+---
+
+author: Amy Lowell
+title: The Dinner-Party: Coffee
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - coffee
+  - ghosts
+
+---
+
+They sat in a circle with their coffee-cups.
+One dropped in a lump of sugar,
+One stirred with a spoon.
+I saw them as a circle of ghosts
+Sipping blackness out of beautiful china,
+And mildly protesting against my coarseness
+In being alive.
