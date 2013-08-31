@@ -1,0 +1,28 @@
+---
+author: Amy Lowell
+title: The Great Adventure of Max Breuck 2.
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - winter
+  - alcohol 
+  - wine
+  
+---
+
+2.
+
+This is the tavern of one Hilverdink,
+Jan Hilverdink, whose wines are much esteemed.
+Within his cellar men can have to drink
+The rarest cordials old monks ever schemed
+To coax from pulpy grapes, and with nice art
+Improve and spice their virgin juiciness.
+Here froths the amber beer of many a brew,
+Crowning each pewter tankard with as smart
+A cap as ever in his wantonness
+Winter set glittering on top of an old yew.
