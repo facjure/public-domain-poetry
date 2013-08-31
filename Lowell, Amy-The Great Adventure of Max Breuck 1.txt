@@ -1,0 +1,28 @@
+---
+
+author: Amy Lowell
+title: The Great Adventure of Max Breuck 1.
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - street
+  - city
+  - lyric
+  - imagist
+
+---
+
+1.
+
+A yellow band of light upon the street
+Pours from an open door, and makes a wide
+Pathway of bright gold across a sheet
+Of calm and liquid moonshine.  From inside
+Come shouts and streams of laughter, and a snatch
+Of song, soon drowned and lost again in mirth,
+The clip of tankards on a table top,
+And stir of booted heels.  Against the patch
+Of candle-light a shadow falls, its girth
+Proclaims the host himself, and master of his shop.
