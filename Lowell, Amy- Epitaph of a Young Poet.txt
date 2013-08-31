@@ -1,0 +1,19 @@
+---
+author: Amy Lowell
+title: Epitaph of a Young Poet Who Died Before Having Achieved Success 
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - death
+  - imagist
+  - lyric
+  - ars poetic
+  - grass
+  - pain
+
+---
+
+Beneath this sod lie the remains
+Of one who died of growing pains.
