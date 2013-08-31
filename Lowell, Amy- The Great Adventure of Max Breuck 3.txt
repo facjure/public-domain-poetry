@@ -1,0 +1,27 @@
+---
+author: Amy Lowell
+title: The Great Adventure of Max Breuck 3.
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - candles
+  - bottles
+  - Rhine
+  
+---
+3.
+
+Tall candles stand upon the table, where
+Are twisted glasses, ruby-sparked with wine,
+Clarets and ports.  Those topaz bumpers were
+Drained from slim, long-necked bottles of the Rhine.
+The centre of the board is piled with pipes,
+Slender and clean, the still unbaptized clay
+Awaits its burning fate.  Behind, the vault
+Stretches from dim to dark, a groping way
+Bordered by casks and puncheons, whose brass stripes
+And bands gleam dully still, beyond the gay tumult.
