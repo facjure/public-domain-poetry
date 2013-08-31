@@ -1,0 +1,31 @@
+---
+
+author: Amy Lowell
+title: The Dinner-Party: ElevenO'Clock
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - strange
+  - ghosts
+
+---
+
+The front door was hard and heavy,
+It shut behind me on the house of ghosts.
+I flattened my feet on the pavement
+To feel it solid under me;
+I ran my hand along the railings
+And shook them,
+And pressed their pointed bars
+Into my palms.
+The hurt of it reassured me,
+And I did it again and again
+Until they were bruised.
+When I woke in the night
+I laughed to find them aching,
+For only living flesh can suffer.
+
