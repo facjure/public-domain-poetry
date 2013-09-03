@@ -15,4 +15,4 @@ All poems are written in Plain Text (UTF-8) + YAML for meta data and [Prose.io](
 1. Priyatam Mudivarti
 2. Sreeharsha Muduvarti
 
-Built using [Frozen Pie](https://github.com/Facjure/frozen-pie), by [Facjure LLC](http://www.facjure.com].
+Built using [Frozen Pie](https://github.com/Facjure/frozen-pie), by [Facjure LLC](http://www.facjure.com).
