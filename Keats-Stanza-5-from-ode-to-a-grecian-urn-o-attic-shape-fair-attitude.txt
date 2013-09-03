@@ -1,0 +1,34 @@
+---
+title: Stanza 5 from Ode on a Grecian Urn
+author: John Keats
+curator: NCR
+country: England
+year: 1820
+book: Poems
+gender: male
+tags:
+ -  silence
+ -  Romantic
+ -  form
+ -  artifacts
+ -  eternity
+ -  mortality
+ -  beauty
+ -  truth
+ -  knowledge
+ -  art
+ -  passing of time
+ -  thought
+ -  aging
+
+---
+O Attic shape! Fair attitude! with brede
+    Of marble men and maidens overwrought,
+  With forest branches and the trodden weed;
+    Thou, silent form, dost tease us out of thought
+  As doth eternity: Cold Pastoral!
+    When old age shall this generation waste,
+      Thou shalt remain, in midst of other woe
+  Than ours, a friend to man, to whom thou say'st,
+    "Beauty is truth, truth beauty,"--that is all
+      Ye know on earth, and all ye need to know. 

@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: J from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+J was a jug,
+So pretty and white,
+With fresh water in it
+At morning and night.
+
+j!
+Nice little jug!

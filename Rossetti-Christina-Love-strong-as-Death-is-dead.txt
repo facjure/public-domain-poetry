@@ -1,0 +1,50 @@
+---
+author: Christina Rossetti
+gender: female
+title: An End
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  death
+ -  love
+ -  green
+ -  spring
+ -  summer
+ -  day
+ -  evening
+ -  birth
+ -  autumn
+ -  seasons
+ -  grave
+ -  cold
+ -  gray
+ -  sing
+ -  nature
+ -  life
+ -  music
+ -  aging
+---
+Love, strong as Death, is dead.
+Come, let us make his bed
+Among the dying flowers:
+A green turf at his head;
+And a stone at his feet,
+Whereon we may sit
+In the quiet evening hours.
+
+He was born in the Spring,
+And died before the harvesting:
+On the last warm summer day
+He left us; he would not stay
+For autumn twilight, cold and gray.
+Sit we by his grave, and sing
+He is gone away.
+
+To few chords and sad and low
+Sing we so:
+Be our eyes fixed on the grass
+Shadow-veiled as the years pass,
+While we think of all that was
+In the long ago.

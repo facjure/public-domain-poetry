@@ -1,0 +1,16 @@
+---
+title: Epitaph on an Infant
+author: Samuel Taylor Coleridge
+curator: NCR
+country: England
+year: 1794
+type: Elegy
+tags:
+- death
+- innocence
+
+---
+Before Sin could blight or Sorrow fade,
+    Death came with friendly care:
+  The opening Bud to Heaven conveyed,
+    And bade it blossom -there-.

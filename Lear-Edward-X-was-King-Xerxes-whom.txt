@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: X from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+X was King Xerxes, whom
+Papa much wished to know;
+But this he could not do, because
+Xerxes died long ago.

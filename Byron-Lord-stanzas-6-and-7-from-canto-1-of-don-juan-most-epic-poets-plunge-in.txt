@@ -1,0 +1,40 @@
+---
+title: Stanzas 6 and 7 from Canto 1 of Don Juan
+author: Lord Byron
+curator: NCR
+country: England
+year: 19th Century
+gender: male
+type: [Iambic Pentameter, ottava rima]
+tags:
+ -  hero
+ -  epic
+ -  tradition
+ -  difference
+ -  recollection
+ -  iconoclast
+ -  beginning
+ -  method
+ -  poetry
+ -  history
+ -  story
+
+---
+
+Most epic poets plunge _"in medias res"_[23]
+      (Horace makes this the heroic turnpike road),
+    And then your hero tells, whene'er you please,
+      What went before--by way of episode,
+    While seated after dinner at his ease,
+      Beside his mistress in some soft abode,
+    Palace, or garden, paradise, or cavern,
+    Which serves the happy couple for a tavern.
+
+    That is the usual method, but not mine--
+      My way is to begin with the beginning;
+    The regularity of my design
+      Forbids all wandering as the worst of sinning,
+    And therefore I shall open with a line
+      (Although it cost me half an hour in spinning),
+    Narrating somewhat of Don Juan's father,
+    And also of his mother, if you'd rather.

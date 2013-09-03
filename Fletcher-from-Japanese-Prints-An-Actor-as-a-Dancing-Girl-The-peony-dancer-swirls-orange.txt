@@ -1,0 +1,23 @@
+---
+author:
+gender:
+title: from Japanese Prints, An Actor as a Dancing Girl
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  nature
+ -  flower
+---
+
+The peony dancer
+Swirls orange folds of dusty robes
+Through the summer.
+They are spotted with thunder showers,
+Falling upon the crimson petals.
+Heavy blooms
+Breaking and spilling fiery cups
+Drowsily.

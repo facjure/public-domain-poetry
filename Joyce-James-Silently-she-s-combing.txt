@@ -1,0 +1,34 @@
+---
+author: James Joyce
+gender: male
+title: from Chamber Music
+curator: Ata
+year: 18th/19th century
+country: Ireland
+tags:
+ -  hair
+ -  love
+ -  trees
+ -  willow
+ -  music
+ -  friendship
+---
+     Silently she's combing,
+     Combing her long hair
+     Silently and graciously,
+     With many a pretty air.
+
+     The sun is in the willow leaves
+     And on the dapplled grass,
+     And still she's combing her long hair
+     Before the looking-glass.
+
+     I pray you, cease to comb out,
+     Comb out your long hair,
+     For I have heard of witchery
+     Under a pretty air,
+
+     That makes as one thing to the lover
+     Staying and going hence,
+     All fair, with many a pretty air
+     And many a negligence.

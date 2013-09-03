@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  zinc
+ -  sun
+ -  children poetry
+---
+
+Z was some zinc,
+So shiny and bright,
+Which caused you to wink
+In the sun's merry light.
+
+z
+Beautiful zinc!

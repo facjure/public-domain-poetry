@@ -1,0 +1,38 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Sadness of the Moon- Goddess
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  sonnet
+ -  beauty
+ -  love
+ -  strange
+ -  moon
+ -  sleep
+ -  crying
+---
+
+Tonight the Moon dreams with increased weariness,
+Like a beauty stretched out on a downy heap
+Of rugs, while her tired fingers caress
+The contour of her breasts, before falling to sleep.
+
+On the satin back of the avalanche soft,
+She falls into lingering swoons, as she dies,
+While she lifts her eyes to white visions above,
+Which like efflorescence float up to the skies.
+
+When at times, in her languor, down on to this sphere,
+She slyly lets trickle a furtive tear,
+A poet, desiring slumber to shun,
+
+Takes up this pale tear in the palm of his hand
+(The colors of which like an opal blend),
+And buries it far from the eyes of the sun.
+

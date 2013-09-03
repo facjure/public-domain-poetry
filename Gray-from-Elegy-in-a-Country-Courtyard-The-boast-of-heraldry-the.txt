@@ -1,0 +1,17 @@
+---
+title: from Elegy in a Country Churchyard
+author: Thomas Gray
+curator: NCR
+country: England
+year: 1750
+type: Eulogy, Ode
+tags:
+- death
+- remembrance
+
+---
+
+The boast of heraldry, the pomp of power,
+And all that beauty, all that wealth ever gave,
+Awaits alike the inevitable hour. 
+The paths of glory lead but to the grave.

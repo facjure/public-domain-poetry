@@ -1,0 +1,23 @@
+---
+author: Edward Lear
+gender: male
+title: from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  yew
+ -  road
+ -  children poetry
+---
+
+Y was a yew,
+Which flourished and grew
+By a quiet abode
+Near the side of a road.
+
+y
+Dark little yew!

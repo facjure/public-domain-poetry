@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: Z from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+Z was a zebra,
+All striped white and black;
+And if he were tame,
+You might ride on his back.
+
+z!
+Pretty striped Zebra!

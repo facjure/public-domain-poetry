@@ -1,0 +1,23 @@
+---
+author:
+gender:
+title: from Japanese Prints, A Woman Standing by a Gate with an Umbrella
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  nature
+ -  love
+ -  afternoon
+---
+
+Late summer changes to autumn:
+Chrysanthemums are scattered
+Behind the palings.
+Gold and vermilion
+The afternoon.
+I wait here dreaming of vermilion sunsets:
+In my heart is a half fear of the chill autumn rain.

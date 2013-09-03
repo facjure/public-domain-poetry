@@ -1,0 +1,33 @@
+---
+title: The Miner
+author: Maxwell Bodenheim
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+tags:
+ -  earth
+ -  mother
+ -  father
+ -  knowledge
+ -  soul
+ -  family
+ -  labor
+ -  noise
+ -  death
+ -  parents
+ -  memory
+ -  forget
+ -  hardship
+
+
+---
+
+THOSE on the top say they know you, Earth—they are liars.
+You are my father, and the silence I work in is my mother.
+Only the son knows his father.
+We are alike—sweaty, inarticulate of soul, bending under thick knowledge.
+I drink and shout with my brothers when above you—
+Like most children we soon forget the parents of our souls.
+But you avidly grip us again—we pay for the little noise of life we steal.

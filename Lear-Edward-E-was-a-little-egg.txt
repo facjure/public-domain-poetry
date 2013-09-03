@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: E from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+E was a little Egg,
+Upon the breakfast table;
+Papa came in and ate it up
+As fast as he was able.

@@ -1,0 +1,16 @@
+---
+author: Mother Goose
+gender:
+title: Fears and Tears
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  lyric
+ -  aging
+ -  parable
+ -  children poetry
+---
+
+Tommy's tears and Mary's fears
+Will make them old before their years.

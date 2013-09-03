@@ -1,0 +1,20 @@
+---
+author:
+gender:
+title: from Japanese Prints, A Comparison
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  nature
+ -  garden
+ -  dark
+---
+
+My beloved is like blue smoke that rises
+In long slow planes,
+And wavers
+Over the dark paths of old gardens long neglected.

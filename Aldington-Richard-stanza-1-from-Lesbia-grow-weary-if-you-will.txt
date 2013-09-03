@@ -1,0 +1,28 @@
+---
+title: Stanza 1 from Lesbia
+author: Richard Aldington
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+tags: 
+  - classics
+  - weary
+  - fatigue
+  - antiquity
+  - creation
+  - silence
+  - gold
+  - ivory
+  - speech
+  - sadness
+published: true
+---
+
+Grow weary if you will, let me be sad.
+Use no more speech now;
+Let the silence spread gold hair above us,
+Fold on delicate fold.
+Use no more speech;	        
+You had the ivory of my life to carve….

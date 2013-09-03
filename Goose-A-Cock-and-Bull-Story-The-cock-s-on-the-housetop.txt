@@ -1,0 +1,21 @@
+---
+author: Mother Goose
+gender:
+title: A Cock and Bull Story
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  lyric
+ -  funny
+ -  farm
+ -  animals
+ -  river
+ -  pastoral
+ -  children poetry
+---
+
+The cock's on the housetop blowing his horn;
+The bull's in the barn a-threshing of corn;
+The maids in the meadows are making of hay;
+The ducks in the river are swimming away.

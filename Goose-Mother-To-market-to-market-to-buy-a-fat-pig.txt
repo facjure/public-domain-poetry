@@ -1,0 +1,24 @@
+---
+author: Mother Goose
+gender:
+title: To market, to market, to buy a fat pig
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  funny
+ -  grocery
+ -  pig
+ -  food
+ -  eating
+---
+
+To market, to market, to buy a fat pig,
+Home again, home again, jiggety-jig;
+To market, to market, to buy a fat hog,
+Home again, home again, jiggety-jog;
+To market, to market, to buy a plum bun,
+Home again, home again, market is done.

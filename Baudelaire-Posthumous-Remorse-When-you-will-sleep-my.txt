@@ -1,0 +1,34 @@
+---
+author: Charles Baudelaire
+gender: male
+title: Posthumous Remorse
+translator: Cyril Scott
+curator: Ata
+year: 19th century
+country: France
+tags:
+ -  lyric
+ -  meditative
+ -  dark
+ -  dead
+ -  sonnet
+ -  ars poetica
+---
+
+When you will sleep, my darkling love,
+Beneath a black marble-made statuette,
+And when you will have nothing for a home or an alcove
+But a cavernous den and a damp oubliette.
+
+When the tomb-stone, oppressing your timorous breast,
+And your hips drooping sweetly with listless decay,
+The pulse and desires of my heart will arrest,
+And your feet from pursuing their adventurous way,
+
+Then the grave, that dark friend of my limitless dreams
+(For the grave ever reads the poet aright),
+Amid those long nights, which no slumber redeems
+
+It will query—"What use to you, incomplete spright
+That you never have unfathomed the tears of the dead"?—
+Then the worms will gnaw deep at your body, like Dread.

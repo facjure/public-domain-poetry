@@ -1,0 +1,51 @@
+---
+title: The Fly
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+tags:
+ -  summer
+ -  play
+ -  song
+ -  fly
+ -  strength
+ -  breath
+ -  life
+ -  death
+ -  universality
+ -  existence
+ -  questions
+ -  happy
+ -  similarity
+ -  nature
+ -  ignorance
+ -  uncertainty
+
+---
+Little Fly,
+Thy summer’s play
+My thoughtless hand
+Has brushed away.
+
+Am not I
+A fly like thee?
+Or art not thou
+A man like me?
+
+For I dance,
+And drink, and sing,
+Till some blind hand
+Shall brush my wing.
+
+If thought is life
+And strength and breath,
+And the want
+Of thought is death;
+
+Then am I
+A happy fly.
+If I live,
+Or if I die.

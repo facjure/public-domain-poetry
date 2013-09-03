@@ -1,0 +1,19 @@
+---
+author: Richard Aldington
+title: New Love
+curator: Ata
+country: USA
+year: early 20th Century
+gender: male
+tags: 
+  - imagist
+  - nature
+  - epigram
+  - life 
+  
+---
+
+She has new leaves
+After her dead flowers,
+Like the little almond-tree
+Which the frost hurt.

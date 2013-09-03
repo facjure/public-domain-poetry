@@ -1,0 +1,22 @@
+---
+author: Edward Lear
+gender: male
+title: "There was an Old Person of Ischia"
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  Ischia
+ -  dancing
+ -  Naples
+ -  old
+ -  sea
+---
+
+There was an Old Person of Ischia,
+Whose conduct grew friskier and friskier;
+He danced hornpipes and jigs, and ate thousands of figs,
+That lively Old Person of Ischia.
+

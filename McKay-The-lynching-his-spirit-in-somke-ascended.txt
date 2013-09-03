@@ -1,0 +1,44 @@
+---
+title: The Lynching
+author: Claude McKay
+curator: NCR
+country: USA
+year: 1922
+book: The Book of American Negro Poetry
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Harlem Renaissance
+ -  murder
+ -  lynching
+ -  oppression
+ -  death
+ -  burning
+ -  fate
+ -  stars
+ -  day
+ -  night
+ -  evil
+ -  racism
+ -  heaven
+ -  sin
+ -  cruelty
+ -  spirit
+
+
+---
+
+His spirit in smoke ascended to high heaven.
+His father, by the cruelest way of pain,
+Had bidden him to his bosom once again;
+The awful sin remained still unforgiven.
+All night a bright and solitary star	        5
+(Perchance the one that ever guided him,
+Yet gave him up at last to Fate’s wild whim)
+Hung pitifully o’er the swinging char.
+Day dawned, and soon the mixed crowds came to view
+The ghastly body swaying in the sun:	        10
+The women thronged to look, but never a one
+Showed sorrow in her eyes of steely blue;
+And little lads, lynchers that were to be,
+Danced round the dreadful thing in fiendish glee.

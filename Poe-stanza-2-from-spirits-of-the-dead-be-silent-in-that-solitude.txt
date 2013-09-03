@@ -1,0 +1,31 @@
+---
+title: Stanza 2 from Spirits of the Dead
+author: Edgar Allen Poe
+curator: NCR
+country: USA
+year: 1849
+book: Poems
+gender: male
+type: Rhymed Stanza
+tags:
+ -  Victorian
+ -  death
+ -  soul
+ -  alone
+ -  grave
+ -  gray
+ -  crowds
+ -  secrecy
+ -  privacy
+ -  nature
+ -  living
+ -  ghosts
+ -  solitude
+
+---
+Be silent in that solitude,
+   Which is not loneliness—for then
+The spirits of the dead who stood
+   In life before thee are again
+In death around thee—and their will
+Shall overshadow thee: be still.

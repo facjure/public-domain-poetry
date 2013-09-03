@@ -1,0 +1,17 @@
+---
+author: Mother Goose
+gender:
+title: Georgy Porgy
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+---
+
+Georgy Porgy, pudding and pie,
+Kissed the girls and made them cry.
+When the boys came out to play,
+Georgy Porgy ran away.

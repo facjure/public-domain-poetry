@@ -1,0 +1,26 @@
+---
+author:
+gender:
+title: from Japanese Prints, Pillar- Print, Masonobu
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  flower
+ -  ghosts
+ -  soul
+ -  pain
+ -  love
+---
+
+He stands irresolute
+Cloaking the light of his lantern.
+Tonight he will either find new love or a sword-thrust,
+But his soul is troubled with ghosts of old regret.
+Like vines with crimson flowers
+They climb
+Upwards
+Into his heart.

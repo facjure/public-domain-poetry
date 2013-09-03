@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: u from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+U was once a little urn,
+Urny,
+Burny,
+Turny,
+Urny,
+Bubbly, burny,
+Little urn!

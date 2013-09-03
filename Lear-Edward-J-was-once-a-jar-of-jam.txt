@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: j from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+J was once a jar of jam,
+Jammy,
+Mammy,
+Clammy,
+Jammy,
+Sweety, swammy,
+Jar of jam!

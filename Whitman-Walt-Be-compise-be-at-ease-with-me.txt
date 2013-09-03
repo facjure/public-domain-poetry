@@ -1,0 +1,23 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  love
+ -  man
+ -  sex
+ -  girl
+ -  nature
+ -  lust
+---
+Be composed—be at ease with me—I am Walt Whitman, liberal and lusty as Nature,
+Not till the sun excludes you do I exclude you,
+Not till the waters refuse to glisten for you and the leaves to rustle for you, do my words refuse to glisten and rustle for you.
+
+My girl I appoint with you an appointment, and I charge you that you make preparation to be worthy to meet me,
+And I charge you that you be patient and perfect till I come.
+
+Till then I salute you with a significant look that you do not forget me.

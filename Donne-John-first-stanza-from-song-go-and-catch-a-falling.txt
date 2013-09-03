@@ -1,0 +1,28 @@
+---
+title: First Stanza from Song
+author: John Donne
+curator: NCR
+country: England
+year: 17th century
+gender: male
+tags:
+ -  star
+ -  child
+ -  divination
+ -  knowledge
+ -  secrets
+ -  imagination
+ -  mystery
+ -  eternity
+ -  honest
+
+---
+GO and catch a falling star,
+  Get with child a mandrake root,
+Tell me where all past hours are,
+  Or who cleft the Devil’s foot;
+Teach me to hear mermaids singing,
+Or to keep off envy’s stinging,
+        Or find
+        What wind
+Serves to advance an honest mind.

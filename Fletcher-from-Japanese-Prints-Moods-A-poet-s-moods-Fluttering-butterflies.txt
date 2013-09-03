@@ -1,0 +1,18 @@
+---
+author:
+gender:
+title: from Japanese Prints, Moods
+translator: John Gould Fletcher
+curator: Ata
+year:
+country: Japan
+tags:
+ -  Japanese verse
+ -  imagist
+ -  ars poetica
+ -  rain
+ -  butterflies
+---
+
+A poet's moods:
+Fluttering butterflies in the rain.

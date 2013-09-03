@@ -1,0 +1,20 @@
+---
+author: Mother Goose
+gender:
+title: Baby Dolly
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  children poetry
+ -  lyric
+ -  funny
+ -  girl
+ -  milk
+ -  toys
+ -  love
+---
+Hush, baby, my dolly, I pray you don't cry,
+And I'll give you some bread, and some milk by-and-by;
+Or perhaps you like custard, or, maybe, a tart,
+Then to either you're welcome, with all my heart.

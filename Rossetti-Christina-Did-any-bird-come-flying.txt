@@ -1,0 +1,47 @@
+---
+author: Christina Rossetti
+gender: female
+title: Bird or Beast
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  religion
+ -  nature
+ -  life
+ -  bird
+ -  meditative
+ -  Adam and Eve
+ -  peacock
+ -  eagle
+ -  forlorn
+ -  lion
+ -  strength
+ -  innocence
+ -  god
+---
+Did any bird come flying
+  After Adam and Eve,
+When the door was shut against them
+  And they sat down to grieve?
+
+I think not Eve's peacock
+  Splendid to see,
+And I think not Adam's eagle;
+  But a dove may be.
+
+Did any beast come pushing
+  Through the thorny hedge
+Into the thorny, thistly world
+  Out from Eden's edge?
+
+I think not a lion,
+  Though his strength is such;
+But an innocent loving lamb
+  May have done as much.
+
+If the dove preached from her bough
+  And the lamb from his sod,
+The lamb and the dove
+  Were preachers sent from God.

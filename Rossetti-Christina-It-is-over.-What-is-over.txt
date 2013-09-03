@@ -1,0 +1,33 @@
+---
+author: Christina Rossetti
+gender: female
+title: Amen
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  religion
+ -  life
+ -  meditative
+ -  spring
+---
+It is over. What is over?
+  Nay, how much is over truly!--
+Harvest days we toiled to sow for;
+  Now the sheaves are gathered newly,
+  Now the wheat is garnered duly.
+
+It is finished. What is finished?
+  Much is finished known or unknown:
+Lives are finished; time diminished;
+  Was the fallow field left unsown?
+  Will these buds be always unblown?
+
+It suffices. What suffices?
+  All suffices reckoned rightly:
+Spring shall bloom where now the ice is,
+  Roses make the bramble sightly,
+  And the quickening sun shine brightly,
+  And the latter wind blow lightly,
+And my garden teem with spices.

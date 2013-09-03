@@ -1,0 +1,19 @@
+---
+author: Mother Goose
+gender:
+title: Higgleby, piggleby, my black hen
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  fairy tale
+ -  children poetry
+ -  lyric
+ -  eggs
+ -  hen
+---
+
+Higgleby, piggleby, my black hen,
+She lays eggs for gentlemen;
+Sometimes nine, and sometimes ten,
+Higgleby, piggleby, my black hen.

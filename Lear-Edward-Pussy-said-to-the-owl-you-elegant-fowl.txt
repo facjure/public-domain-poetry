@@ -1,0 +1,32 @@
+---
+author: Edward Lear
+gender: male
+title: from THE OWL AND THE PUSSY- CAT
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  cat
+ -  owl
+ -  children poetry
+ -  funny
+ -  song
+ -  ring
+ -  marriage
+ -  pig
+---
+II.
+
+Pussy said to the Owl, "You elegant fowl,
+How charmingly sweet you sing!
+Oh! let us be married; too long we have tarried:
+But what shall we do for a ring?"
+They sailed away, for a year and a day,
+To the land where the bong-tree grows;
+And there in a wood a Piggy-wig stood,
+With a ring at the end of his nose,
+His nose,
+His nose,
+With a ring at the end of his nose.

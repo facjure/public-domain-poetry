@@ -1,0 +1,38 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  fate
+ -  authors
+ -  dinner
+ -  life
+ -  death
+ -  war
+ -  fear
+ -  love
+ -  meditative
+---
+
+ 4
+Trippers and askers surround me,
+People I meet, the effect upon me of my early life or the ward and city I live in, or the nation,
+The latest dates, discoveries, inventions, societies, authors old and new,
+My dinner, dress, associates, looks, compliments, dues,
+The real or fancied indifference of some man or woman I love,
+The sickness of one of my folks or of myself, or ill-doing or loss or lack of money, or depressions or exaltations,
+Battles, the horrors of fratricidal war, the fever of doubtful news, the fitful events;
+These come to me days and nights and go from me again,
+But they are not the Me myself.
+
+Apart from the pulling and hauling stands what I am,
+Stands amused, complacent, compassionating, idle, unitary,
+Looks down, is erect, or bends an arm on an impalpable certain rest,
+Looking with side-curved head curious what will come next,
+Both in and out of the game and watching and wondering at it.
+
+Backward I see in my own days where I sweated through fog with linguists and contenders,
+I have no mockings or arguments, I witness and wait.

@@ -1,0 +1,32 @@
+---
+title: Metric Figure
+author: William Carlos Williams
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+tags:
+ -  bird
+ -  sun
+ -  yellow
+ -  river
+ -  day
+ -  song
+ -  leaves
+ -  lyric
+
+---
+
+THERE is a bird in the poplars—
+It is the sun!
+The leaves are little yellow fish
+Swimming in the river;
+The bird skims above them—
+Day is on his wings.
+Phoenix!
+It is he that is making
+The great gleam among the poplars.
+It is his singing
+Outshines the noise
+Of leaves clashing in the wind.	

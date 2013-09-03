@@ -1,0 +1,41 @@
+---
+title: Silence
+author: Edgar Lee Masters
+curator: NCR
+country: USA
+year: early 20th Century
+book: The New Poetry
+gender: male
+tags:
+ -  Spoon River
+ -  silence
+ -  father
+ -  son
+ -  love
+ -  soul
+ -  growth
+ -  trial
+ -  wisdom
+ -  defeat
+ -  death
+ -  misunderstanding
+ -  hatred
+
+
+---
+
+
+There is the silence of a great hatred,
+And the silence of a great love,
+And the silence of an embittered friendship.
+There is the silence of a spiritual crisis,
+Through which your soul, exquisitely tortured,	        35
+Comes with visions not to be uttered
+Into a realm of higher life.
+There is the silence of defeat.
+There is the silence of those unjustly punished;
+And the silence of the dying whose hand	        40
+Suddenly grips yours.
+There is the silence between father and son,
+When the father cannot explain his life,
+Even though he be misunderstood for it.

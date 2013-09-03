@@ -1,0 +1,24 @@
+---
+author: unknown
+gender: unknown
+title: Days of the Month
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  days
+ -  time
+ -  months
+ -  February
+ -  April
+ -  June
+ -  November
+ -  September
+ -  children poetry
+---
+Thirty days hath September,
+April, June, and November;
+February has twenty-eight alone.
+All the rest have thirty-one,
+Excepting leap-year—that's the time
+When February's days are twenty-nine.

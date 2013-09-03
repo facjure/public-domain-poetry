@@ -1,0 +1,30 @@
+---
+title: Epitaph on an Infant
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+gender: male
+tags:
+ -  boy
+ -  innocence
+ -  God
+ -  father
+ -  mother
+ -  crying
+ -  sorrow
+ -  lost
+ -  white
+ -  light
+ -  nature
+
+---
+The little boy lost in the lonely fen,
+   Led by the wandering light,
+   Began to cry, but God, ever nigh,
+Appeared like his father, in white.
+
+He kissed the child, and by the hand led,
+   And to his mother brought,
+Who in sorrow pale, through the lonely dale,
+   Her little boy weeping sought.

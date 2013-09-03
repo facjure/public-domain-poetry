@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: x from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+X was once a great king Xerxes,
+Xerxy,
+Perxy,
+Turxy,
+Xerxy,
+Linxy, lurxy,
+Great King Xerxes!

@@ -1,0 +1,23 @@
+---
+author: Puskin
+gender: male
+title: Under a Portrait of Jukowsky
+translator: Martha Gilbert Dickinson Bianchi
+curator: Ata
+year: 18th/19th century
+country: Russia
+tags:
+ -  lyric
+ -  russian poetry
+ -  love
+ -  time
+ -  joy
+---
+
+The charm and sweetness of his magic verse
+   Will mock the envious years for centuries!
+Since youth, on hearing them, for glory burns,
+   The wordless sorrow comfort in them sees,
+And careless joy to wistful musing turns.
+
+*Jukowsky was a Russian poet.*

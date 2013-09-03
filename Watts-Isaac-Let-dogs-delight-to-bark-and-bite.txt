@@ -1,0 +1,26 @@
+---
+author: Isaac Watts
+gender: male
+title: Let Dogs Delight to Bark and Bite
+curator: Ata
+year: 18th century
+country: England
+tags:
+ -  nature
+ -  death
+ -  children poetry
+ -  life
+ -  dogs
+ -  God
+ -  hands
+ -  eyes
+ -  dark imagery
+---
+Let dogs delight to bark and bite,
+For God hath made them so;
+Let bears and lions growl and fight,
+For 'tis their nature too.
+But, children, you should never let
+Such angry passions rise;
+Your little hands were never made
+To tear each other's eyes.

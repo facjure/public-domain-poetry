@@ -1,0 +1,16 @@
+---
+author: Mother Goose
+gender:
+title: An Icicle
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  lyric
+ -  seasons
+ -  children poetry
+---
+
+Lives in winter,
+Dies in summer,
+And grows with its roots upward!

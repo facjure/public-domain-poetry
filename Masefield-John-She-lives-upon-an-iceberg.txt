@@ -1,0 +1,22 @@
+---
+author: John Masefield
+gender: male
+title: Cape Horn Gospel
+curator: Ata
+year: 19th/20th century
+country: England
+tags:
+ -  supernatural
+ -  ghost
+ -  bones
+ -  sea
+ -  dark imagery
+ -  strange
+ -  Davy Jones
+ -  drowned
+
+---
+She lives upon an iceberg to the norred
+'N' her man is Davy Jones,
+'N' she combs the weeds upon her forred
+With poor drowned sailors' bones.

@@ -1,0 +1,19 @@
+---
+author: Walt Whitman
+gender: male
+title: from Leaves of Grass
+curator: Ata
+year: 19th century
+country: America
+tags:
+ -  stars
+ -  life
+ -  inspiration
+ -  beauty
+ -  lyric
+---
+World take good notice, silver stars fading,
+Milky hue ript, wet of white detaching,
+Coals thirty-eight, baleful and burning,
+Scarlet, significant, hands off warning,
+Now and henceforth flaunt from these shores.

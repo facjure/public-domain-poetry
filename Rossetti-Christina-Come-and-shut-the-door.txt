@@ -1,0 +1,19 @@
+---
+author: Christina Rossetti
+gender: female
+title: November
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  snow
+ -  cold
+ -  November
+---
+Come, and shut the door,
+For now it's snowing fast;
+It snows, and will snow more and more;
+Don't let it drift in on the floor.
+But you, you're all aglow; how can you be
+Rosy and warm and smiling in the cold?

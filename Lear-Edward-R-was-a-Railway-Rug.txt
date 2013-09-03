@@ -1,0 +1,17 @@
+---
+author: Edward Lear
+gender: male
+title: R from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+R was a Railway Rug
+Extremely large and warm;
+Papa he wrapped it round his head,
+In a most dreadful storm.

@@ -1,0 +1,29 @@
+---
+title: Stanza 23 of The Rubaiyat
+author: Omar Khayyam
+translator: Edward Fitzgerald
+curator: NCR
+country: Persia
+year: 11th and 12th century
+book: The Rubaiyat 1st Edition
+gender: male
+type: rhymed quatrains
+tags:
+ -  enjoyment
+ -  appreciation
+ -  present
+ -  in the moment
+ -  seize the day
+ -  dust
+ -  wine
+ -  drink
+ -  living
+ -  death
+ -  life
+
+---
+
+Ah, make the most of what we yet may spend,
+ Before we too into the Dust Descend;
+   Dust into Dust, and under Dust, to lie,
+ Sans Wine, sans Song, sans Singer and—sans End!

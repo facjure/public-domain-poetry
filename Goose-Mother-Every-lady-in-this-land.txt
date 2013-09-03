@@ -1,0 +1,18 @@
+---
+author: Mother Goose
+gender:
+title: Fingers and Toes
+curator: Ata
+year: unknown
+country: unknown
+tags:
+ -  hands
+ -  children poetry
+ -  lyric
+ -  funny
+ -  feet
+---
+Every lady in this land
+Has twenty nails, upon each hand
+Five, and twenty on hands and feet:
+All this is true, without deceit.

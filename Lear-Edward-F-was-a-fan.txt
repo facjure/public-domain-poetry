@@ -1,0 +1,20 @@
+---
+author: Edward Lear
+gender: male
+title: F from Nonsense Alphabet
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  lyric
+ -  humor
+ -  alphabet
+ -  children poetry
+---
+F was a fan
+Made of beautiful stuff;
+And when it was used,
+It went puffy-puff-puff!
+
+f!
+Nice little fan.

@@ -1,0 +1,41 @@
+---
+title: The Voice of the Ancient Bard
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+tags:
+ -  youth
+ -  ancient
+ -  truth
+ -  birth
+ -  prophecy
+ -  voice
+ -  doubt
+ -  dark
+ -  reason
+ -  morning
+ -  night
+ -  dead
+ -  leadership
+ -  fallen
+ -  folly
+ -  confusion
+ -  vision
+ -  feeling
+ -  delight
+
+---
+Youth of delight! come hither
+And see the opening morn,
+Image of Truth new-born.
+Doubt is fled, and clouds of reason,
+Dark disputes and artful teazing.
+Folly is an endless maze;
+Tangled roots perplex her ways;
+How many have fallen there!
+They stumble all night over bones of the dead;
+And feel—they know not what but care;
+And wish to lead others, when they should be led.

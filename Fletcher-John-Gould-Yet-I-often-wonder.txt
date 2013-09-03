@@ -1,0 +1,23 @@
+---
+author: John Gould Fletcher
+gender: male
+title: The Ghosts of an Old House
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ -  supernatural
+ -  ghosts
+ -  tree
+ -  nature
+ -  twilight
+ -  grey
+ -  death
+ -  dark imagery
+---
+Yet I often wonder
+If these things are really dead.
+If the old trunks never open
+Letting out grey flapping things at twilight.
+If it is all as safe and dull
+As it seems?

@@ -1,0 +1,22 @@
+---
+author: Christina Rossetti
+gender: female
+title: A Chilly Night
+curator: Ata
+year: 19th century
+country: England
+tags:
+ -  supernatural
+ -  dark imagery
+ -  ghost
+ -  moonlight
+ -  voice
+ -  strange
+ -  cold
+---
+I looked and saw the ghosts
+Dotting plain and mound.
+They stood in the blank moonlight
+But no shadow lay on the ground.
+They spoke without a voice
+And they leaped without a sound.

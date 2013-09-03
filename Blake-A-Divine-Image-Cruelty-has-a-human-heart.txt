@@ -1,0 +1,34 @@
+---
+title: A Divine Image
+author: William Blake
+curator: NCR
+country: England
+year: 1789
+book: Songs of Experience
+gender: male
+tags:
+ -  image
+ -  heart
+ -  humanity
+ -  cruelty
+ -  love
+ -  form
+ -  divinity
+ -  secrecy
+ -  fire
+ -  iron
+ -  face
+ -  human
+ -  forge
+ -  jealousy
+
+---
+Cruelty has a human heart,
+   And Jealousy a human face;
+Terror the human form divine,
+   And Secrecy the human dress.
+
+The human dress is forgèd iron,
+   The human form a fiery forge,
+The human face a furnace sealed,
+   The human heart its hungry gorge.

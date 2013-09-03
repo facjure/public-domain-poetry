@@ -1,0 +1,26 @@
+---
+author: William Blake
+gender: male
+title: Infant Joy
+curator: Ata
+year: 18th/19th century
+country: England
+tags:
+ -  joy
+ -  lyric
+ -  baby
+ -  time
+ -  birth
+---
+"I have no name;
+I am but two days old."
+What shall I call thee?
+"I happy am,
+Joy is my name."
+Sweet joy befall thee!
+Pretty joy!
+Sweet joy, but two days old.
+Sweet joy I call thee;
+Thou dost smile,
+I sing the while;
+Sweet joy befall thee!

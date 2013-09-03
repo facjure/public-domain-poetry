@@ -1,0 +1,21 @@
+---
+title: Morning at the Window
+author: T.S. Eliot
+curator: NCR
+year: 1920
+type: Free Verse
+tags:
+- urban
+- depression
+- decay
+
+---
+     They are rattling breakfast plates in basement kitchens,
+     And along the trampled edges of the street
+     I am aware of the damp souls of housemaids
+     Sprouting despondently at area gates.
+     The brown waves of fog toss up to me
+     Twisted faces from the bottom of the street,
+     And tear from a passer-by with muddy skirts
+     An aimless smile that hovers in the air
+     And vanishes along the level of the roofs.

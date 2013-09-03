@@ -1,0 +1,35 @@
+---
+author: Robert Frost
+gender: male
+title: My November Guest
+curator: Ata
+year: 19th/20th century
+country: America
+tags:
+ -  lyric
+ -  autumn
+ -  rain
+ -  nature
+ -  November
+ -  walking
+---
+    My sorrow, when she's here with me,
+    Thinks these dark days of autumn rain
+    Are beautiful as days can be;
+    She loves the bare, the withered tree;
+    She walks the sodden pasture lane.
+    Her pleasure will not let me stay.
+    She talks and I am fain to list:
+    She's glad the birds are gone away,
+    She's glad her simple worsted gray
+    Is silver now with clinging mist.
+    The desolate, deserted trees,
+    The faded earth, the heavy sky,
+    The beauties she so truly sees,
+    She thinks I have no eye for these,
+    And vexes me for reason why.
+    Not yesterday I learned to know
+    The love of bare November days
+    Before the coming of the snow,
+    But it were vain to tell her so,
+    And they are better for her praise.
