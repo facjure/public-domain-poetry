@@ -1,7 +1,7 @@
 ---
 
 author: Amy Lowell
-title: The Dinner-Party: Drawing-Room
+title: The Dinner-Party Drawing-Room
 gender: female
 curator: Ata
 year: 19th/20th century

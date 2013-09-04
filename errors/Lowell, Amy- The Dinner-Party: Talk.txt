@@ -1,7 +1,7 @@
 ---
 
 author: Amy Lowell
-title: The Dinner-Party: Talk
+title: The Dinner-Party Talk
 gender: female
 curator: Ata
 year: 19th/20th century

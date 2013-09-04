@@ -1,7 +1,7 @@
 ---
 
 author: Amy Lowell
-title: The Dinner-Party: Fish
+title: The Dinner-Party Fish
 gender: female
 curator: Ata
 year: 19th/20th century

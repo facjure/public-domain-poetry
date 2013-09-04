@@ -1,7 +1,7 @@
 ---
 
 author: Amy Lowell
-title: The Dinner-Party: Coffee
+title: The Dinner-Party Coffee
 gender: female
 curator: Ata
 year: 19th/20th century
