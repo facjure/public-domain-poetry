@@ -20,5 +20,3 @@ To become a curator, request access by sending an email to priyatam@facjure.com 
 ### Designers:
 1. Priyatam Mudivarti
 
-Built using [Frozen Pie](https://github.com/Facjure/frozen-pie), by [Facjure LLC](http://www.facjure.com).
-
