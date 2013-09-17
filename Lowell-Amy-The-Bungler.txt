@@ -1,0 +1,22 @@
+---
+author: Amy Lowell
+title: The Bungler
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - heart
+  - hands
+  - light
+  - candle
+  - lyric
+published: true
+---
+
+You glow in my heart
+Like the flames of uncounted candles.
+But when I go to warm my hands,
+My clumsiness overturns the light,
+And then I stumble
+Against the tables and chairs.
