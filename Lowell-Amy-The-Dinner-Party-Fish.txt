@@ -1,0 +1,25 @@
+---
+author: Amy Lowell
+title: "The Dinner-Party Fish"
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - lyric
+  - imagist
+  - wine
+  - blood
+  - serial poem
+published: true
+---
+
+"So..." they said,
+With their wine-glasses delicately poised,
+Mocking at the thing they cannot understand.
+"So..." they said again,
+Amused and insolent.
+The silver on the table glittered,
+And the red wine in the glasses
+Seemed the blood I had wasted
+In a foolish cause.
