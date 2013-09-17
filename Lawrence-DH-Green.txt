@@ -1,0 +1,24 @@
+---
+author: D.H.Lawrence
+title: Green
+gender: male
+curator: Ata
+year: 19th/20th century
+country: England
+tags: 
+  - nature
+  - love
+  - lyric
+  - moon
+  - flowers
+  - sky
+published: true
+---
+
+The sky was apple-green,
+The sky was green wine held up in the sun,
+The moon was a golden petal between.
+
+She opened her eyes, and green
+They shone, clear like flowers undone,
+For the first time, now for the first time seen.
