@@ -1,0 +1,28 @@
+---
+author: Amy Lowell
+title: A Gift
+gender: female
+curator: Ata
+year: 19th/20th century
+country: America
+tags: 
+  - meditative
+  - love
+  - death
+  - flowers
+  - lyric
+published: true
+---
+
+See!  I give myself to you, Beloved!
+My words are little jars
+For you to take and put upon a shelf.
+Their shapes are quaint and beautiful,
+And they have many pleasant colours and lustres
+To recommend them.
+Also the scent from them fills the room
+With sweetness of flowers and crushed grasses.
+
+When I shall have given you the last one,
+You will have the whole of me,
+But I shall be dead.
