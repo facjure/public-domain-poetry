@@ -1,0 +1,20 @@
+---
+author: Richard Aldington
+title: A Girl
+curator: Ata
+country: USA
+year: early 20th Century
+gender: male
+tags: 
+  - imagist
+  - Sicilian
+  - epigram
+  - memory
+published: true
+---
+
+You were that clear Sicilian fluting
+That pains our thought even now.
+You were the notes
+Of cold fantastic grief
+Some few found beautiful.
