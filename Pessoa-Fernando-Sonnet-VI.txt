@@ -1,0 +1,28 @@
+---author: Fernando Pessoa
+gender: Male
+curator: Michael
+year: 19th/20th century
+country: Portugal
+tags: 
+  - Sonnet
+  - Writing
+  - Muse
+  - Poetry
+  - Soul
+  - Love
+  - Feeling
+---
+As a bad orator, badly o'er-book-skilled,
+Doth overflow his purpose with made heat,
+And, like a clock, winds with withoutness willed
+What should have been an inner instinct's feat;
+Or as a prose-wit, harshly poet turned,
+Lacking the subtler music in his measure,
+With useless care labours but to be spurned,
+Courting in alien speech the Muse's pleasure;
+I study how to love or how to hate,
+Estranged by consciousness from sentiment,
+With a thought feeling forced to be sedate
+Even when the feeling's nature is violent;
+	 As who would learn to swim without the river,
+	 When nearest to the trick, as far as ever.
