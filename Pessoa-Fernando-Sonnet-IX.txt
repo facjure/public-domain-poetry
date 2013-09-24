@@ -6,10 +6,12 @@ country: Portugal
 tags: 
   - Sonnet
   - Alienation
-  - Carnal
-  - Vision
-  - Soul
-  - Pleasure
+  - Idleness
+  - Rage
+  - Despair
+  - Struggle
+  - Will
+  - Action
 ---
 Oh to be idle loving idleness!
 But I am idle all in hate of me;
