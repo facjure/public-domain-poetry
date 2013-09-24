@@ -1,4 +1,4 @@
---- author: Fernando Pessoa
+---author: Fernando Pessoa
 gender: Male
 curator: Michael
 year: 19th/20th century
