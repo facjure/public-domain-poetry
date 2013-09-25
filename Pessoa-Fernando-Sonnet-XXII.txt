@@ -1,4 +1,4 @@
----
+--- 
 author: Fernando Pessoa
 gender: Male
 curator: Michael
