@@ -1,0 +1,31 @@
+---
+author: Fernando Pessoa
+gender: Male
+curator: Michael
+year: 19th/20th century
+country: Portugal
+tags: 
+  - Sonnet
+  - Sun
+  - God
+  - Truth
+  - Day
+  - Universality
+  - Conjecture
+  - Time
+  - Space
+--- 
+Something in me was born before the stars
+And saw the sun begin from far away.
+Our yellow, local day on its wont jars,
+For it hath communed with an absolute day.
+Through my Thought's night, as a worn robe's heard trail
+That I have never seen, I drag this past
+That saw the Possible like a dawn grow pale
+On the lost night before it, mute and vast.
+It dates remoter than God's birth can reach,
+That had no birth but the world's coming after.
+So the world's to me as, after whispered speech,
+The cause-ignored sudden echoing of laughter.
+	 That 't has a meaning my conjecture knows,
+	 But that 't has meaning's all its meaning shows.
