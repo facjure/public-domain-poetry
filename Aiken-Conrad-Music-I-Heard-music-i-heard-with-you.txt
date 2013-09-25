@@ -6,21 +6,20 @@ country: USA
 year: early 20th Century
 book: The New Poetry
 gender: male
-tags:
- -  music
- -  bread
- -  communion
- -  desolate
- -  loss
- -  death
- -  beautiful
- -  hands
- -  love
- -  heart
- -  memory
- -  remember
-
-
+tags: 
+  - music
+  - bread
+  - communion
+  - desolate
+  - loss
+  - death
+  - beautiful
+  - hands
+  - love
+  - heart
+  - memory
+  - remember
+published: true
 ---
 
 MUSIC I heard with you was more than music,
