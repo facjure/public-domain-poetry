@@ -6,14 +6,15 @@ year: 19th/20th century
 country: Portugal
 tags: 
   - Sonnet
-  - Soul
-  - Empitness
-  - Memory
+  - Darkness
+  - Void
+  - Stars
+  - Self
   - Consciousness
   - Time
   - Universality
- ---  
-
+  - Conjecture
+--- 
 My soul is a stiff pageant, man by man,
 Of some Egyptian art than Egypt older,
 Found in some tomb whose rite no guess can scan,
