@@ -1,5 +1,5 @@
 ---
-foo: bar
+title: foobar
 ---
 test 1
 test 2
