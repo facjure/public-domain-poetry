@@ -1,0 +1,25 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - spirit
+  - college
+  - street
+  - spirit
+  - youth
+  -excerpt
+---
+
+Where'er my spirit was turning,
+Lived that mysterious yearning!
+When in the old country school-house I conned
+Legends of life in the broad world beyond—
+When in the trim hamlet-college I cast
+Wondering glances at days that were past—
+Ever I longed for the walls and the streets,
+And the rich conflict that energy meets!...
