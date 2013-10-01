@@ -6,6 +6,7 @@ year: Early 20th Century
 book: Chicago Poems
 gender: Male
 tags: 
+  - Chicago
   - Desolation
   - Harbor
   - Solitude
