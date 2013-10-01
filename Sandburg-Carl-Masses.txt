@@ -1,10 +1,10 @@
 --- 
 author: Carl Sandburg
-curator: NCR
+curator: Michael
 country: USA
-year: early 20th Century
-book: The New Poetry
-gender: male
+year: Early 20th Century
+book: Chicago Poems
+gender: Male
 tags: 
   - America
   - Poor
