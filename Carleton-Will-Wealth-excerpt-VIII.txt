@@ -1,0 +1,21 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - time
+  - life
+
+---
+
+...And what I see and think, in my own way,
+I'll tell to you, Old Calendar, each day;
+And if I choose to do the same in rhyme,
+What jury would convict me of a crime?
+For every one, from palaces to attics,
+Has caught, some time or other, The Rhythmatics.
