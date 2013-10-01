@@ -1,0 +1,26 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - city
+  - money
+  - life
+  - death
+
+
+---
+
+Still through The City I ponder,
+Still do I wonder and wander.
+City—unconscious descendant
+Of olden-time cities resplendent!
+Child of rich forefathers hoary,
+Clad in their gloom and their glory!—
+Dream I of you in the rich, mellow past,
+Throbbing with life, and with Death overcast...
