@@ -1,5 +1,4 @@
 ---
-
 author: Will Carleton
 book: City Ballads
 curator: Ata
@@ -13,7 +12,7 @@ tags:
   - street
   - spirit
   - youth
-  
+published: true
 ---
 
 This is The Something that thrilled my desires,
@@ -23,4 +22,4 @@ Lighted its streets as for pageant or feast,
 Whisp'ring—my spirit elating—
 "Come to me, boy, I am waiting!
 Bring me your muscle and spirit and brain—
-Here to my glory-strewn, ruin-strewn plain!"
+Here to my glory-strewn, ruin-strewn plain!"...
