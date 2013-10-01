@@ -1,0 +1,24 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - city
+  - money
+  - life
+  - work
+  - farm
+
+---
+
+I'll find the good that in this city lurks,
+By regular, systematic, hard days' works;
+I'll rummage fearless round amongst the harm,
+As when I hoed up thistles on my farm;
+Shake hands with Virtue, help Sin while I spurn it,
+And if there's anything to learn, I'll learn it.
