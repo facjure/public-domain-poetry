@@ -1,0 +1,24 @@
+---
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - money
+  - home
+  - real estate
+  - nature
+  - stress
+
+---
+
+Pavement and window and wall
+What is the cost of you all?
+Parlor and boudoir and stair,
+Crowded with furniture rare;
+Gems from the mountains and seas,
+Spires that out-measure the trees;
+Chamber and palace and hall—
+What is the price of you all?
