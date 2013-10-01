@@ -1,5 +1,4 @@
 ---
-
 author: Will Carleton
 book: City Ballads
 curator: Ata
@@ -7,13 +6,11 @@ country: USA
 year: 19th/20th century
 gender: male
 tags: 
-  - excerpt
   - city
   - money
   - life
   - death
-
-
+published: true
 ---
 
 Still through The City I ponder,
