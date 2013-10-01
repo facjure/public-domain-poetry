@@ -1,0 +1,19 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - dinner
+  - city
+  - life
+  - lunch
+  - couplet
+  
+---  
+
+Our dinner is at noon; our supper, six,
+We have not yet learned all the city tricks.
