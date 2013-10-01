@@ -1,0 +1,28 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - money
+  - business
+  - father
+  - diamonds
+  - silk
+  - work
+  
+---
+
+And then the ladies, in both street and store,
+Done up in silks and satins, spangled o'er
+As if it had rained diamonds for an hour,
+And they had gone and stood out in the shower;
+And then the rich and idle-houred young men—
+The rising generation's "Upper 10"
+(With the "1" left off), who each day, no doubt,
+Spend twice as much as all my "setting out,"
+When Father said, "The family craft is full;
+Launch your own craft and show us how to pull."
