@@ -1,0 +1,24 @@
+--- 
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: Early 20th Century
+book: Chicago Poems
+gender: Male
+tags: 
+  - Desolation
+  - Harbor
+  - Solitude
+  - Lake
+  - Lost
+---  
+DESOLATE and lone	
+All night long on the lake	
+Where fog trails and mist creeps,	
+The whistle of a boat	
+Calls and cries unendingly,	        5
+Like some lost child	
+In tears and trouble	
+Hunting the harbor’s breast	
+And the harbor’s eyes.	
+ 
