@@ -1,0 +1,24 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - city
+  - money
+  - business
+  - meat
+  
+---
+
+Wealth—wealth—wealth—wealth! the very corner stores
+Are gold-mines from the ceilings to the floors!
+The shop we thought would ruin Cousin Phil,
+Because 'twas over-large for Tompkins Hill,
+Would, in the small vest-pocket, lose its way,
+Of one man's place I wandered through to-day!
+And then the banks—a hundred on one street—
+As full of money as an egg of meat
