@@ -1,0 +1,18 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - money
+  - life
+  
+---
+
+If I'd a million millions—
+Just think! a million millions!—
+What wouldn't I do—what couldn't I do—
+If I'd a million millions?
