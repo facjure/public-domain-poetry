@@ -1,5 +1,4 @@
 ---
-
 author: Will Carleton
 book: City Ballads
 curator: Ata
@@ -10,7 +9,7 @@ tags:
   - excerpt
   - time
   - life
-
+published: true
 ---
 
 ...And what I see and think, in my own way,
