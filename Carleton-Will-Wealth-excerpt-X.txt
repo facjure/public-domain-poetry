@@ -1,0 +1,22 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - California
+  - gold
+  - money
+  - real estate
+
+---
+
+
+Wealth—wealth! why, every acre I behold
+Has cost a mine of Californi' gold!
+The very ground one building here might fill
+Would almost buy the town of Tompkins Hill!
