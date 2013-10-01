@@ -1,0 +1,26 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - morning
+  - brain
+  - street
+  - spirit
+  - youth
+  
+---
+
+This is The Something that thrilled my desires,
+When the weird Morning had kindled his fires,
+And the gray city of clouds in the east
+Lighted its streets as for pageant or feast,
+Whisp'ring—my spirit elating—
+"Come to me, boy, I am waiting!
+Bring me your muscle and spirit and brain—
+Here to my glory-strewn, ruin-strewn plain!"
