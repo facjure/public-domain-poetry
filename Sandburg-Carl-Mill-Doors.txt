@@ -6,10 +6,11 @@ year: Early 20th Century
 book: Chicago Poems
 gender: Male
 tags: 
-  - Chicago
   - America
   - Proletariat
   - Plight
+  - Labor
+  - Longing
 ---      
 YOU never come back.	
 I say good-by when I see you going in the doors,	
