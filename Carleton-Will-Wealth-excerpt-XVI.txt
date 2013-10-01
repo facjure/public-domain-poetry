@@ -1,0 +1,25 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - money
+  - friends
+  - life
+  
+---
+
+... If I'd a million millions—
+A good, square million millions—
+With gratefulness my friends should bless
+Me and my million millions!
+
+What wouldn't I do,
+What couldn't I do,
+If I'd a million millions?...
+
+
