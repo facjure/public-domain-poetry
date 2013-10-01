@@ -1,0 +1,20 @@
+---
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - city
+  - cold
+  - struggle
+  - loneliness
+  
+---
+
+So I have come: but The City is great
+Bearing me down like a brute with its weight.
+So I have come: but The City is cold,
+And I am lonelier now than of old.
