@@ -1,0 +1,22 @@
+---
+
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - excerpt
+  - city
+  - money
+  - life
+  
+---
+
+And now I'm rich (who ever thought 'twould be!)
+I'll stand by you, as you have stood by me;
+And now I'm "City people"—having moved
+(My circumstances suddenly improved)...
+
+
