@@ -1,5 +1,4 @@
 ---
-
 author: Will Carleton
 book: City Ballads
 curator: Ata
@@ -11,8 +10,7 @@ tags:
   - God
   - life
   - death
-  - excerpt
-
+published: true
 ---
 
 Yes, it's solid, Mr. Preacher, every word
