@@ -1,20 +1,4 @@
----
-
-author: Will Carleton
-book: City Ballads
-curator: Ata
-country: USA
-year: 19th/20th century
-gender: male
-tags: 
-  - excerpt
-  - city
-  - youth
-  -inspiration
-  
----
-
 All that is strongest and fleetest,
 All that are dainty and sweetest.
 Look to the domes and the glittering spires,
-Waiting for you with majestic desires!
+Waiting for you with majestic desires!...
