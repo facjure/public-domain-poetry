@@ -1,0 +1,21 @@
+---
+author: Will Carleton
+book: City Ballads
+curator: Ata
+country: USA	
+year: 19th/20th century
+gender: male
+tags: 
+  - dream
+  - city
+  - youth
+  - wandering
+  - serial poem
+  - excerpt 
+
+---
+
+Here in The City I ponder,
+Through its long pathways I wander.
+These are the spires that were gleaming
+All through my juvenile dreaming...
