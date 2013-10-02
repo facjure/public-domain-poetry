@@ -1,15 +1,17 @@
 ---   
-author:<space>Carl Sandburg
-curator:<space>Michael
-year:<space>1914
-country:<space>USA
-book:<space>Chicago Poems
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: Early 20th Century
+book: Chicago Poems
 gender: Male
-tags:<return>
--<space>nature
--<space>sky   
----   
- 
+tags:   
+  - Chicago
+  - America
+  - Proletariat
+  - Plight   
+---
+  
 OF my city the worst that men will ever say is this:	
 You took little children away from the sun and the dew,	
 And the glimmers that played in the grass under the great sky,	
