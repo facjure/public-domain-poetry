@@ -1,19 +1,15 @@
---- 
-
-title:<space>name
-author:<space>name
-translator:<space>name
-curator:<space>yourself
-year:<space>16th century or 2007 or 2000-2005 or 1980's or 2004 or 2004-01-22
-country:<space>[Italy, France]
-type:<space>Sonnet
-gender: male or female
+---   
+author:<space>Carl Sandburg
+curator:<space>Michael
+year:<space>1914
+country:<space>USA
+book:<space>Chicago Poems
+gender: Male
 tags:<return>
 -<space>nature
--<space>sky
-
---- 
-  
+-<space>sky   
+---   
+ 
 OF my city the worst that men will ever say is this:	
 You took little children away from the sun and the dew,	
 And the glimmers that played in the grass under the great sky,	
