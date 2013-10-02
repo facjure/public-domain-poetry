@@ -10,7 +10,8 @@ tags:
   - Chicago
   - America
   - Proletariat
-  - Plight   
+  - Plight 
+published: true  
 ---     
 
 OF my city the worst that men will ever say is this:	
