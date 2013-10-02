@@ -1,4 +1,5 @@
 ---   
+
 author: Carl Sandburg
 curator: Michael
 country: USA
@@ -11,7 +12,8 @@ tags:
   - Proletariat  
   - Plight   
 ---  
-  OF my city the worst that men will ever say is this:	
+
+OF my city the worst that men will ever say is this:	
 You took little children away from the sun and the dew,	
 And the glimmers that played in the grass under the great sky,	
 And the reckless rain; you put them between walls	
