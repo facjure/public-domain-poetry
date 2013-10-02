@@ -1,0 +1,11 @@
+---
+title: this is a test post
+author: priyatam
+tags:
+	- bugs
+    - prose.io
+---
+
+Moving poetry forward
+one poem
+at a time
