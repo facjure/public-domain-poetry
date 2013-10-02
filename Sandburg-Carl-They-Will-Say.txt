@@ -1,4 +1,4 @@
----   
+---#   
 author: Carl Sandburg
 curator: Michael
 country: USA
@@ -10,7 +10,7 @@ tags:
   - America
   - Proletariat
   - Plight   
----
+---#
   
 OF my city the worst that men will ever say is this:	
 You took little children away from the sun and the dew,	
