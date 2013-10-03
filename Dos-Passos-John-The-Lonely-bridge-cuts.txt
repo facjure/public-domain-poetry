@@ -1,0 +1,43 @@
+---
+
+author: John Dos Passos
+title: The Bridge
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - dark
+  - light
+  - water
+  - frog
+  - meditative
+  - nature
+  - sunset
+  - summer
+
+---
+
+The lonely bridge cuts dark across the marsh
+Whose long pools glow with the light
+Of a flaring summer sunset.
+At this end limp bushes overhang,
+Palely reflected in the amber-colored water;
+Among them a constant banjo-twanging of frogs,
+And shrilling of toads and of insects
+Rises and falls in chorus rhythmic and stirring.
+Dark, with crumbling railing and planks,
+The bridge leads into the sunset.
+Across it many lonely figures,
+Their eyes a-flare with the sunset,
+Their faces glowing with its colors,
+Tramp past me through the evening.
+I am tired of sitting quiet
+Among the bushes of the shore,
+While the dark bridge stretches onward,
+And the long pools gleam with light;
+I am tired of the shrilling of insects
+And the croaking of frogs in the rushes,
+For the wild rice in the marsh-pools
+Waves its beckoning streamers in the wind,
+And the red sky-glory fades.
