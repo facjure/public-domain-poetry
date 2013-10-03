@@ -1,0 +1,30 @@
+---
+
+author: William A. Norris
+title: In a Strange Land
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - dawn
+  - sonnet
+  
+---
+
+In a strange land they dwell, too far away
+From sunlight and the common mirth of men
+Ever to come within our casual ken.
+We see them not, but if by chance we stray
+Down cypress aisles when the wan summer day
+Draws to a thin and sickly close, we hear
+Murmur of mad speech by some watery weir
+Or languid laughter and faint sound of play.
+They never see the dawn; like the pale moths
+That haunt lugubrious shadows of dim trees
+They celebrate their lunar mysteries
+At woodland shrines, where with green thyrsus rods
+And weak limbs wrapped in silken sensuous cloths
+They chant the names of their dead pagan gods.
+
