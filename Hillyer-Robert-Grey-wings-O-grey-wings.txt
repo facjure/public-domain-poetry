@@ -1,0 +1,29 @@
+---
+
+author: Robert Hillyer
+title: A Sea Gull
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - wind
+  -flight
+  
+---
+
+Grey wings, O grey wings against a cloud,
+Over the rough waves flashing,
+Whose was the scream, startling and loud,
+Keen through the skies,—was it thine,
+Over the moaning wind and the whine
+Of the wide seas dashing?
+Whose was the scream that I heard
+In the midst of the hurrying air?
+Was it thine, lost bird,
+Or the voice of an old despair
+Chanting from years long dead,
+Inexorable spirit flying
+On tempest wings that passed and fled
+Through the storm crying?
