@@ -1,0 +1,23 @@
+---
+
+author: William A. Norris
+title: On a Street Corner
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - city
+  - nature
+  - smiling
+  
+---
+
+But all the time you spoke I did not hear
+The words you said. I only heard a far
+Faint sound of summer waters and a clear
+Calling of music from some lonely star.
+I thought I heard the lisp of falling dew
+In a dark meadow where no breezes stirred....
+Then all at once the noisy street, and you
+Smiling at me because I had not heard!
