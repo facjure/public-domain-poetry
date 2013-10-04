@@ -1,0 +1,28 @@
+---
+
+author: William Carlos Williams
+title: Approach of Winter
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - imagist
+  - garden
+  - seasons
+  
+---
+
+
+The half stripped trees
+struck by a wind together,
+bending all,
+the leaves flutter drily
+and refuse to let go
+or driven like hail
+stream bitterly out to one side
+and fall
+where the salvias, hard carmine,—
+like no leaf that ever was—
+edge the bare garden.
