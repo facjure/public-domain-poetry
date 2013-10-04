@@ -1,0 +1,31 @@
+---
+author: William Carlos Williams
+title: The Late Singer
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - Seasons
+  - singing
+  - rain
+  - imagist
+  - nature
+  - flowers
+  -spring
+
+---
+
+Here it is spring again
+and I still a young man!
+I am late at my singing.
+The sparrow with the black rain on his breast
+has been at his cadenzas for two weeks past:
+What is it that is dragging at my heart?
+The grass by the back door
+is stiff with sap.
+The old maples are opening
+their branches of brown and yellow moth-flowers.
+A moon hangs in the blue
+in the early afternoons over the marshes.
+I am late at my singing.
