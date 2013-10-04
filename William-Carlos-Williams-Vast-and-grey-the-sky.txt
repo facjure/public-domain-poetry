@@ -1,0 +1,31 @@
+---
+author: William Carlos Williams
+title: The Desolate Field
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - imagist
+  - time
+  - sky
+  - heart
+  
+---
+
+
+Vast and grey, the sky
+is a simulacrum
+to all but him whose days
+are vast and grey, and—
+In the tall, dried grasses
+a goat stirs
+with nozzle searching the ground.
+—my head is in the air
+but who am I...?
+And amazed my heart leaps
+at the thought of love
+vast and grey
+yearning silently over me.
+
