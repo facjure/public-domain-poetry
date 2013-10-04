@@ -1,0 +1,33 @@
+---
+author: William Carlos Williams
+title: Willow Poem
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - imagist
+  - time
+  - sky
+  - sun
+  - river
+  - seasons
+  
+---
+
+
+It is a willow when summer is over,
+a willow by the river
+from which no leaf has fallen nor
+bitten by the sun
+turned orange or crimson.
+The leaves cling and grow paler,
+swing and grow paler
+over the swirling waters of the river
+as if loath to let go,
+they are so cool, so drunk with
+the swirl of the wind and of the river—
+oblivious to winter,
+the last to let go and fall
+into the water and on the ground.
