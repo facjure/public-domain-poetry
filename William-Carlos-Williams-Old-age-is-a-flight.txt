@@ -1,0 +1,34 @@
+---
+
+author: William Carlos Williams
+title: To Waken an Old Lady
+curator: Ata
+country: USA
+year: 19th/20th century
+gender: male
+tags: 
+  - nature
+  - snow
+  - aging
+  - imagist
+  
+---
+
+Old age is
+a flight of small
+cheeping birds
+skimming
+bare trees
+above a snow glaze.
+Gaining and failing
+they are buffetted
+by a dark wind—
+But what?
+On harsh weedstalks
+the flock has rested,
+the snow
+is covered with broken
+seedhusks
+and the wind tempered
+by a shrill
+piping of plenty.
