@@ -1,4 +1,4 @@
---- 
+---  
 author: Carl Sandburg
 curator: Michael
 country: USA
@@ -14,9 +14,9 @@ tags:
   - Dreams
   - Travel
   - Memory
-  - Exhaustion  
- --- 
-
+  - Exhaustion   
+ ---  
+   
  COME you, cartoonists,	
    Hang on a strap with me here	
    At seven o’clock in the morning	
