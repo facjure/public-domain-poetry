@@ -3,7 +3,7 @@ author: Carl Sandburg
 curator: Michael
 country: USA
 year: 1916
-gender: mal
+gender: male
 tags: 
   - Chicago
   - Halsted
