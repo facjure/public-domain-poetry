@@ -6,7 +6,7 @@ year: 1916
 gender: male
 tags: 
   - Chicago
-  - Morning
+  - Commute
   - Workers
   - Proletariat  
   - Despair  
