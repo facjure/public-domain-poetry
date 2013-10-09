@@ -1,0 +1,21 @@
+---    
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags: 
+  - Chicago
+  - Commute
+  - Workers
+  - Proletariat  
+  - Despair   
+---      
+  
+DOWN between the walls of shadow	
+Where the iron laws insist,	
+  The hunger voices mock.	
+ 
+The worn wayfaring men	
+With the hunched and humble shoulders,	        
+  Throw their laughter into toil.  
