@@ -1,0 +1,19 @@
+--- 
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags: 
+  - Chicago
+  - Maxwell Street
+  - Proletariat  
+  - Hustle
+  - Streets
+  - Fish
+  - Peddler
+--- 
+I KNOW a Jew fish crier down on Maxwell Street with a voice like a north wind blowing over corn stubble in January.	
+He dangles herring before prospective customers evincing a joy identical with that of Pavlowa dancing.	
+His face is that of a man terribly glad to be selling fish, terribly glad that God made fish, and customers to whom he may call his wares, from a pushcart.	
+ 
