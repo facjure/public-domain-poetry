@@ -1,0 +1,21 @@
+--- 
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags: 
+  - Chicago
+  - America
+  - Proletariat  
+  - Hustle
+  - Streets
+--- 
+
+GOOD-BY now to the streets and the clash of wheels and locking hubs,	
+The sun coming on the brass buckles and harness knobs.	
+The muscles of the horses sliding under their heavy haunches,	
+Good-by now to the traffic policeman and his whistle,	
+The smash of the iron hoof on the stones,	        
+All the crazy wonderful slamming roar of the street—	
+O God, there’s noises I’m going to be hungry for.
