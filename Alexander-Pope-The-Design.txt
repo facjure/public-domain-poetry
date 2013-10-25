@@ -1,0 +1,46 @@
+---
+title: The Design
+author: Alexander Pope
+curator: harsha
+country: England
+year: 1734
+book: An Essay on Man
+gender: Male
+tags: 
+-  man
+-  god
+-  fool
+-  
+-  
+---
+
+Know then thyself, presume not God to scan
+The proper study of Mankind is Man.
+Placed on this isthmus of a middle state,
+A Being darkly wise, and rudely great:
+With too much knowledge for the Sceptic side,
+With too much weakness for the Stoic's pride,
+He hangs between; in doubt to act, or rest;
+In doubt to deem himself a God, or Beast;
+In doubt his mind or body to prefer;
+Born but to die, and reas'ning but to err;
+Alike in ignorance, his reason such,
+Whether he thinks too little, or too much;
+Chaos of Thought and Passion, all confus'd;
+Still by himself, abus'd or disabus'd;
+Created half to rise and half to fall;
+Great Lord of all things, yet a prey to all,
+Sole judge of truth, in endless error hurl'd;
+The glory, jest and riddle of the world.
+Go, wondrous creature! mount where science guides,
+Go, measure earth, weigh air, and state the tides;
+Instruct the planets in what orbs to run,
+Correct old time, and regulate the sun;
+Go, soar with Plato to th’ empyreal sphere,
+To the first good, first perfect, and first fair;
+Or tread the mazy round his followers trod,
+And quitting sense call imitating God;
+As Eastern priests in giddy circles run,
+And turn their heads to imitate the sun.
+Go, teach Eternal Wisdom how to rule—
+Then drop into thyself, and be a fool!
