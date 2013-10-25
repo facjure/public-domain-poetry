@@ -1,7 +1,6 @@
 ---
-
 author: Amy Lowell
-tite: Fool's Money Bag
+title: Fool's Money Bag
 gender: female
 curator: Ata
 year: 19th/20th century
@@ -12,7 +11,6 @@ tags:
   - ars poetica
   - imagist
   - lyric
-  
 ---
 
 Outside the long window,
