@@ -1,17 +1,17 @@
 ---
-title: priyatam's test 0.4
+title: priyatam's test
 author: priyatam
-curator: priyatam
+curator: 
 country: 
 year: 
 book: 
 gender: 
 tags: 
+-  as
 -  
--  test
--  test
+-  
 -  
 -  
 ---
 
-This is a poem.
+hello world.
