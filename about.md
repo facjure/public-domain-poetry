@@ -5,9 +5,8 @@ template: page.mustache
 _type: page
 ---
 
-This is a beta software, built by [Facjure LLC](http://www.facjure.com). 
+Built by [Facjure LLC](http://www.facjure.com). Currently in _alpha_.   
 
-Poems are restored from the [public domain](http://www.gutenberg.org), written in plain text (UTF-8) + [yaml](http://en.wikipedia.org/wiki/YAML) for meta data, and stored in github.
+Let's restore Poems from the [public domain](http://www.gutenberg.or). Let's store them in plain text, [UTF-8](http://en.wikipedia.org/wiki/UTF-8), add metadata in [yaml](http://en.wikipedia.org/wiki/YAML), and version them forever with git. Let's add search, tags, curate and discover poetry together.
 
-Let's Move Poetry Forward.
-
+Built by [Facjure LLC](http://www.facjure.com). Currently in _alpha_.
