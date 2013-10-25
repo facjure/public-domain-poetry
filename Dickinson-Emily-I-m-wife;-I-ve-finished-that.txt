@@ -2,13 +2,7 @@
 author: Emily Dickinson
 gender: female
 title: XVI.
-curator: Ata
-year: 19th century
-country: USA
-tags:
--  wife
--  womanhood
--  angst
+
 ---
 
 I'm wife; I've finished that,
