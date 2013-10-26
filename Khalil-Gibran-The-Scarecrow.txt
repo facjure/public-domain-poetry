@@ -1,0 +1,28 @@
+---
+title: The Scarecrow 
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: Male
+tags: 
+-  time
+-  philosophy
+-  loneliness
+-  meditative
+-  joy
+---
+Once I said to a scarecrow, “You must be tired of standing in this lonely field.”
+
+And he said, “The joy of scaring is a deep and lasting one, and I never tire of it.”
+
+Said I, after a minute of thought, “It is true; for I too have known that joy.”
+
+Said he, “Only those who are stuffed with straw can know it.”
+
+Then I left him, not knowing whether he had complimented or belittled me.
+
+A year passed, during which the scarecrow turned philosopher.
+
+And when I passed by him again I saw two crows building a nest under his hat.
