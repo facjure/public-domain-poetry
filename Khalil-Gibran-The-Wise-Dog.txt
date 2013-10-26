@@ -1,0 +1,24 @@
+---
+title: The Wise Dog
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: Male
+tags: 
+-  animals
+-  myth
+-  wisdom
+-  father
+-  mice
+---
+One day there passed by a company of cats a wise dog.
+
+And as he came near and saw that they were very intent and heeded him not, he stopped.
+
+Then there arose in the midst of the company a large, grave cat and looked upon them and said, “Brethren, pray ye; and when ye have prayed again and yet again, nothing doubting, verily then it shall rain mice.”
+
+And when the dog heard this he laughed in his heart and turned from them saying, “O blind and foolish cats, has it not been written and have I not known and my fathers before me, that that which raineth for prayer and faith and supplication is not mice but bones.”
+
+
