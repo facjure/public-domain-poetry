@@ -1,0 +1,19 @@
+---
+title: Words
+author: Sappho 
+curator: Ata
+country: Greece  
+year: 600/500 bc 
+book: 
+gender: female
+tags: 
+-  ancient 
+-  immortality 
+-  ars poetic 
+-  
+-  
+---
+Though they are
+just breath, words
+which I command
+are immortal. 
