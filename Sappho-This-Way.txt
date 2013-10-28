@@ -1,0 +1,18 @@
+---
+title: This Way
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  lyric 
+-  anxiety
+-  confusion 
+-  
+-  
+---
+This way, that way,
+I don't know what to do:
+I am of two minds. 
