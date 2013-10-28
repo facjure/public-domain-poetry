@@ -1,0 +1,18 @@
+---
+title: God Bless You 
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female 
+tags: 
+-  love 
+-  lyric 
+-  sleep 
+-  breast
+-  relationship 
+---
+May you sleep then
+on some tender
+girlfriend's breast. 
