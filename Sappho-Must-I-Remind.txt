@@ -1,0 +1,21 @@
+---
+title: Must I Remind You, My Daughter 
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female 
+tags: 
+-  grief 
+-  lyric
+-  poet
+-  manners 
+-  advice 
+---
+May I remind you, my daughter,
+that sounds of grief 
+are unbecoming in
+a poet's household?
+And they are not 
+suitable in ours?
