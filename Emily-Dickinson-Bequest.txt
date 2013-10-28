@@ -1,0 +1,24 @@
+---
+title: Bequest
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  love
+-  God
+-  lyric
+-  nature
+-  time
+---
+You left me, sweet, two legacies, —
+A legacy of love
+A Heavenly Father would content,
+Had He the offer of;
+
+You left me boundaries of pain
+Capacious as the sea,
+Between eternity and time,
+Your consciousness and me.
