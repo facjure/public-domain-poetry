@@ -1,0 +1,18 @@
+---
+title: Many Times
+author: Sappho 
+curator: Aa 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  luck 
+-  desire 
+-  lyric 
+-  humor 
+-  
+---
+Many times
+I've wished I
+had luck like that. 
