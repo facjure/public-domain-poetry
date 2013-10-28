@@ -1,0 +1,21 @@
+---
+title: Death Is Evil
+author: Sappho
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  god 
+-  life 
+-  lyric 
+- mythology 
+-  dark
+---
+We know this much:
+Death is an evil;
+we have the gods'
+word for it; they too
+would die if death
+were a good thing. 
