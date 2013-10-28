@@ -1,0 +1,19 @@
+---
+title: Day In, Day Out
+author: Sappho
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  hunger 
+-  struggle 
+-  lyric 
+-  anxiety 
+-  
+---
+Day in, day out
+
+I hunger and 
+I struggle  
