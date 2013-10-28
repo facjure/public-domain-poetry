@@ -1,0 +1,21 @@
+---
+title: I Was So Happy
+author: Sappho
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  lyric 
+-  prayer 
+-  night 
+-  love 
+-  
+---
+I was so happy
+
+believe me, I 
+prayed that that
+night might be
+doubled for us. 
