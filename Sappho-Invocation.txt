@@ -1,0 +1,19 @@
+---
+title: Invocation 
+author: Sappho
+curator: Ata
+country: Greece
+year: 600/500 bc
+book: 
+gender: femal
+tags: 
+-  Cyprus
+-  gold 
+-  lips
+-  love
+-  beauty
+---
+Goddess of Cyprus come (where beauty lights
+The way) and serve in cups of gold these lips
+With nectar, mixed by love with all delights
+Of golden days, and dusk of amorous nights.
