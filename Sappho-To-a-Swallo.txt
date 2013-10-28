@@ -1,0 +1,18 @@
+---
+title: To a Swallo
+author: Sappho
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  meditative 
+-  flight 
+-  uncertainty 
+-  mythology
+-  tired
+---
+Pandion's daughter—O fair swallow,
+Why do you weary me—
+(Where should I follow?)
