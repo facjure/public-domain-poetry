@@ -1,0 +1,23 @@
+---
+title: XXVI.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  brain
+-  lyric
+-  water
+-  nature
+-  humor
+---
+The brain within its groove
+Runs evenly and true;
+But let a splinter swerve,
+'T were easier for you
+To put the water back
+When floods have slit the hills,
+And scooped a turnpike for themselves,
+And blotted out the mills!
