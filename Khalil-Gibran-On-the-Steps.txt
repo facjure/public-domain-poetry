@@ -1,0 +1,16 @@
+---
+title: On the Steps of the Temple
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: Male
+tags: 
+-  woman
+-  man
+-  narrative
+-  love
+-  evening
+---
+Yestereve, on the marble steps of the Temple, I saw a woman sitting between two men. One side of her face was pale, the other was blushing.
