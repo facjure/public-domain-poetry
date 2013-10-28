@@ -1,0 +1,24 @@
+---
+title: XVII.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  night 
+-  lyric
+-  time
+-  midnight
+-  meditative
+---
+When night is almost done,
+And sunrise grows so near
+That we can touch the spaces,
+It 's time to smooth the hair
+
+And get the dimples ready,
+And wonder we could care
+For that old faded midnight
+That frightened but an hour.
