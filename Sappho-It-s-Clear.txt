@@ -1,0 +1,20 @@
+---
+title: It's Clear
+author: Sappho
+curator: Ata
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  lyric
+-  honey
+-  bee
+-  loss
+-  
+---
+It is clear now:
+
+Neither honey nor
+the honeybee is
+to be mine again. 
