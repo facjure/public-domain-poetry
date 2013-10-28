@@ -1,0 +1,20 @@
+---
+title: Sir
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female 
+tags: 
+-  friend 
+-  eyes 
+-  lyric 
+-  face 
+-  
+---
+I ask you, Sir, to
+stand face to face
+with me as a friend 
+would: show me the
+favor of your eyes. 
