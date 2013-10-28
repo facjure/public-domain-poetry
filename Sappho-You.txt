@@ -1,0 +1,19 @@
+---
+title: You
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female 
+tags: 
+-  love 
+-  lyric 
+-  girl 
+-  flowers 
+-  memory
+---
+You remind me
+of a very gentle
+little girl I once 
+watched picking flowers. 
