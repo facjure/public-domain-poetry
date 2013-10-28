@@ -1,0 +1,20 @@
+---
+title: Twilight
+author: Sappho
+curator: Ata
+country: Greece
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  star
+-  time
+-  lyric
+-  meditative 
+-  beauty
+---
+Twilight's first star
+
+is the most 
+stunning
+of all the stars  
