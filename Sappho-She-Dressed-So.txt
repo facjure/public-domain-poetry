@@ -1,0 +1,21 @@
+---
+title: She Dressed So Well
+author: Sappho
+curator: Ata
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female
+tags: 
+-  love 
+-  sandals 
+-  Asia 
+-  lyric 
+-  feet
+---
+She was dressed so well:
+
+Her feet were hidden
+under embroidered 
+sandal straps-- fine
+handwork from Asia. 
