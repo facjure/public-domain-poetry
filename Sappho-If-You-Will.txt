@@ -1,0 +1,20 @@
+---
+title: If You Will Come
+author: Sappho
+curator: Ata
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  love
+-  bed
+-  lyric 
+-  sleep
+-  
+---
+If you will come
+
+I will put out
+new pillows for
+you to rest on. 
