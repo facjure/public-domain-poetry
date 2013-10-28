@@ -1,0 +1,24 @@
+---
+title: Faces
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: Male
+tags: 
+-  eyes
+-  anaphora
+-  beauty
+-  eyes
+-  meditative
+---
+I have seen a face with a thousand countenances, and a face that was but a single countenance as if held in a mould.
+
+I have seen a face whose sheen I could look through to the ugliness beneath, and a face whose sheen I had to lift to see how beautiful it was.
+
+I have seen an old face much lined with nothing, and a smooth face in which all things were graven.
+
+I know faces, because I look through the fabric my own eye weaves, and behold the reality beneath.
+
+
