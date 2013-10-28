@@ -1,0 +1,19 @@
+---
+title: Experience Shows Us 
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc 
+book: 
+gender: female 
+tags: 
+-  virtue 
+-  wealth 
+-  neighbor 
+-  parable 
+-  lyric 
+---
+Experience shows us
+wealth unchaperoned
+by virtue is never 
+a harmless neighbor. 
