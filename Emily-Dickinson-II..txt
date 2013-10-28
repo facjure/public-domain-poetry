@@ -1,0 +1,24 @@
+---
+title: II.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  rhyme
+-  lyric
+-  star
+-  time
+-  life
+---
+Our share of night to bear,
+Our share of morning,
+Our blank in bliss to fill,
+Our blank in scorning.
+
+Here a star, and there a star,
+Some lose their way.
+Here a mist, and there a mist,
+Afterwards — day!
