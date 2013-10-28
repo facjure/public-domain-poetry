@@ -1,0 +1,24 @@
+---
+title: Rouge et Noir
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  soul
+-  lyric
+-  angels
+-  self
+-  life
+---
+Soul, wilt thou toss again?
+By just such a hazard
+Hundreds have lost, indeed,
+But tens have won an all.
+
+Angels' breathless ballot
+Lingers to record thee;
+Imps in eager caucus
+Raffle for my soul.
