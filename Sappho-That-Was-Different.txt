@@ -1,0 +1,19 @@
+---
+title: That Was Different 
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  childhood
+-  time 
+-  love 
+-  lyric 
+-  memory
+---
+That was different
+my girlhood then
+was in full bloom
+and you--
