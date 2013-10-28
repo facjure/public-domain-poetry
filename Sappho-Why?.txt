@@ -1,0 +1,19 @@
+---
+title: Why?
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  love 
+-  heart 
+-  anxiety 
+-  anger 
+-  lyric 
+---
+I said, "Sappho,
+enough! Why
+try to change 
+another's heart?"
