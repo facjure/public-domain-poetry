@@ -1,0 +1,24 @@
+---
+title: XXIV. 
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  sea
+-  time
+-  eye
+-  beloved
+-  lyric
+---
+Whether my bark went down at sea,
+Whether she met with gales,
+Whether to isles enchanted
+She bent her docile sails;
+
+By what mystic mooring
+She is held to-day, —
+This is the errand of the eye
+Out upon the bay.
