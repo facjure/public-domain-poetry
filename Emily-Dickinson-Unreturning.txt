@@ -1,0 +1,24 @@
+---
+title: Unreturning
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  metaphor
+-  lyric
+-  water
+-  boat
+-  loss
+---
+'T was such a little, little boat
+That toddled down the bay!
+'T was such a gallant, gallant sea
+That beckoned it away!
+
+'T was such a greedy, greedy wave
+That licked it from the coast;
+Nor ever guessed the stately sails
+My little craft was lost!
