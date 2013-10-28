@@ -1,0 +1,19 @@
+---
+title: Untitled
+author: Sappho
+curator: Ata
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  girls
+-  marriage 
+-  flowers
+-  afternoon 
+-  
+---
+This afternoon
+girls ripe to marry
+wove flower-
+heads into necklaces. 
