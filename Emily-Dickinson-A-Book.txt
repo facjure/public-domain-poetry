@@ -1,0 +1,24 @@
+---
+title: A Book
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  ars poetica
+-  time
+-  lyric
+-  spirit
+-  reading
+---
+He ate and drank the precious words,
+His spirit grew robust;
+He knew no more that he was poor,
+Nor that his frame was dust.
+He danced along the dingy days,
+And this bequest of wings
+Was but a book. What liberty
+A loosened spirit brings!
+
