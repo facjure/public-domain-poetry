@@ -1,0 +1,24 @@
+---
+title: The Mystery of Pain
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Pains
+gender: female
+tags: 
+-  time
+-  self
+-  lyric
+-  metaphysical 
+-  
+---
+Pain has an element of blank;
+It cannot recollect
+When it began, or if there were
+A day when it was not.
+
+It has no future but itself,
+Its infinite realms contain
+Its past, enlightened to perceive
+New periods of pain.
