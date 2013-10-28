@@ -1,0 +1,18 @@
+---
+title: The Two Cages
+author: Khalil Gibran 
+curator: Ata
+country: Lebanon/America
+year: 19th/20th Century
+book: The Madman
+gender: Male
+tags: 
+-  father
+-  brother
+-  lion
+-  narrative
+-  parable
+---
+In my father's garden there are two cages. In one is a lion, which my father's slaves brought from the desert of Ninavah; in the other is a songless sparrow.
+
+Every day at dawn the sparrow calls to the lion, “Good morrow to thee, brother prisoner.”
