@@ -1,0 +1,24 @@
+---
+title: The Eye 
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: male
+tags: 
+-  nose
+-  ear
+-  narrative
+-  hand
+-  nature
+---
+Said the Eye one day, “I see beyond these valleys a mountain veiled with blue mist. Is it not beautiful?”
+
+The Ear listened, and after listening intently awhile, said, “But where is any mountain? I do not hear it.”
+
+Then the Hand spoke and said, “I am trying in vain to feel it or touch it, and I can find no mountain.”
+
+And the Nose said, “There is no mountain, I cannot smell it.”
+
+Then the Eye turned the other way, and they all began to talk together about the Eye's strange delusion. And they said, “Something must be the matter with the Eye.”
