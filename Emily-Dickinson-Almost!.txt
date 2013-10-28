@@ -1,0 +1,24 @@
+---
+title: Almost!
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  life
+-  nature
+-  time
+-  lyric
+-  touch
+---
+Within my reach!
+I could have touched!
+I might have chanced that way!
+Soft sauntered through the village,
+Sauntered as soft away!
+So unsuspected violets
+Within the fields lie low,
+Too late for striving fingers
+That passed, an hour ago.
