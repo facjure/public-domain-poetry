@@ -6,10 +6,10 @@ country: Greece
 year: 600/500 bc
 book: 
 gender: female 
-tags: 
--  
--  
--  
+tags:
+-  love
+-  lyric
+-  time
 -  
 -  
 ---
