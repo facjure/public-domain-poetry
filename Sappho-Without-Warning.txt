@@ -1,0 +1,20 @@
+---
+title: Without Warning
+author: Sappho
+curator: Ata
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  wind
+-  heart
+-  oak
+-  lyric
+-  
+---
+Without warning
+
+as a whirlwind
+swoops on an oak
+an idea shakes my heart. 
