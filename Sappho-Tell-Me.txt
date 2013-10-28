@@ -1,0 +1,21 @@
+---
+title: Tell Me 
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  love 
+-  mankind 
+-  lyric 
+-  
+-  
+---
+Tell me,
+out of all
+mankind, whom
+do you love
+better than 
+you love me?
