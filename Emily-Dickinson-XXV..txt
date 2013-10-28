@@ -1,0 +1,23 @@
+---
+title: XXV.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  lyric
+-  ars poetica
+-  glasses
+-  bizarre
+-  
+---
+Belshazzar had a letter, —
+He never had but one;
+Belshazzar's correspondent
+Concluded and begun
+In that immortal copy
+The conscience of us all
+Can read without its glasses
+On revelation's wall.
