@@ -1,0 +1,20 @@
+---
+title: A Gift
+author: Sappho
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  self
+-  god 
+-  pensive 
+-  
+-  
+---
+I asked myself 
+what, Sappho, can
+you give to one
+who has everything,
+like God?
