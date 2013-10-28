@@ -1,0 +1,19 @@
+---
+title: Last Night
+author: Sappho 
+curator: Ata 
+country: Greece 
+year: 600/500 bc
+book: 
+gender: female 
+tags: 
+-  dream 
+-  god 
+-  love 
+-  lyric 
+-  
+---
+Last night 
+I dreamed that
+you and I had 
+words: God. 
