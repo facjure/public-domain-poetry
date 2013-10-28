@@ -1,0 +1,28 @@
+---
+title: The Astronomer 
+author: Khalil Gibran
+curator: Ata
+country: Lebanon/America
+year: 19th/20th century
+book: The Madman
+gender: male
+tags: 
+-  shadow
+-  birth
+-  friend
+-  wisdom
+-  narrative
+---
+In the shadow of the temple my friend and I saw a blind man sitting alone. And my friend said, “Behold the wisest man of our land.”
+
+Then I left my friend and approached the blind man and greeted him. And we conversed.
+
+After a while I said, “Forgive my question; but since when has thou been blind?”
+
+“From my birth,” he answered.
+
+Said I, “And what path of wisdom followest thou?”
+
+Said he, “I am an astronomer.”
+
+Then he placed his hand upon his breast saying, “I watch all these suns and moons and stars.”
