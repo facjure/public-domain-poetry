@@ -1,0 +1,24 @@
+---
+title: XI.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  madness
+-  eye
+-  lyric
+-  perception
+-  life
+---
+Much madness is divinest sense
+To a discerning eye;
+Much sense the starkest madness.
+'T is the majority
+In this, as all, prevails.
+Assent, and you are sane;
+Demur, — you're straightway dangerous,
+And handled with a chain.
+
