@@ -1,0 +1,29 @@
+---
+title: VIII.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: Poems
+gender: female
+tags: 
+-  death
+-  life
+-  blood
+-  lyric
+-  anguish
+---
+A wounded deer leaps highest,
+I've heard the hunter tell;
+'T is but the ecstasy of death,
+And then the brake is still.
+
+The smitten rock that gushes,
+The trampled steel that springs;
+A cheek is always redder
+Just where the hectic stings!
+
+Mirth is the mail of anguish,
+In which it cautions arm,
+Lest anybody spy the blood
+And "You're hurt" exclaim!
