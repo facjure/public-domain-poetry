@@ -1,0 +1,17 @@
+---
+title: I Loved You
+author: Sappho
+curator: Ata
+country: Greece
+year: 600/500 bc
+book: 
+gender: female
+tags: 
+-  loved
+-  mythology
+-  past
+-  tension
+-  
+---
+I loved you, Atthis,
+once, long ago. 
