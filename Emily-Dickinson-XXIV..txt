@@ -1,24 +1,29 @@
 ---
-title: XXIV. 
+title: XXIV.
 author: Emily Dickinson
 curator: Ata
 country: America
 year: 19th century
-book: Poems
+book: 
 gender: female
 tags: 
--  sea
--  time
--  eye
--  beloved
--  lyric
+-  meditative
+-  rhyme
+-  life
+-  east
+-  father
 ---
-Whether my bark went down at sea,
-Whether she met with gales,
-Whether to isles enchanted
-She bent her docile sails;
+Afraid? Of whom am I afraid?
+Not death; for who is he?
+The porter of my father's lodge
+As much abasheth me.
 
-By what mystic mooring
-She is held to-day, —
-This is the errand of the eye
-Out upon the bay.
+Of life? 'T were odd I fear a thing
+That comprehendeth me
+In one or more existences
+At Deity's decree.
+
+Of resurrection? Is the east
+Afraid to trust the morn
+With her fastidious forehead?
+As soon impeach my crown!
