@@ -7,19 +7,19 @@ year: 19th century
 book: 
 gender: female
 tags: 
--  children
--  night
+-  sea
+-  God
+-  heaven
 -  lyric
--  lips
--  nature
+-  
 ---
-As children bid the guest good-night,
-And then reluctant turn,
-My flowers raise their pretty lips,
-Then put their nightgowns on.
+I never saw a moor,
+I never saw the sea;
+Yet know I how the heather looks,
+And what a wave must be.
 
-As children caper when they wake,
-Merry that it is morn,
-My flowers from a hundred cribs
-Will peep, and prance again.
+I never spoke with God,
+Nor visited in heaven;
+Yet certain am I of the spot
+As if the chart were given.
 
