@@ -7,18 +7,18 @@ year: 19th century
 book: 
 gender: female
 tags: 
--  summer
+-  swimming
+-  God
+-  face
+-  eyes
 -  lyric
--  time
--  cricket
--  
 ---
-'T was later when the summer went
-Than when the cricket came,
-And yet we knew that gentle clock
-Meant nought but going home.
+Two swimmers wrestled on the spar
+Until the morning sun,
+When one turned smiling to the land.
+O God, the other one!
 
-'T was sooner when the cricket went
-Than when the winter came,
-Yet that pathetic pendulum
-Keeps esoteric time.
+The stray ships passing spied a face
+Upon the waters borne,
+With eyes in death still begging raised,
+And hands beseeching thrown.
