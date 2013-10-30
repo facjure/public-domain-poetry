@@ -1,0 +1,30 @@
+---
+title: The Wife
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  life
+-  lyric
+-  gold
+-  sea
+-  woman
+---
+She rose to his requirement, dropped
+The playthings of her life
+To take the honorable work
+Of woman and of wife.
+
+If aught she missed in her new day
+Of amplitude, or awe,
+Or first prospective, or the gold
+In using wore away,
+
+It lay unmentioned, as the sea
+Develops pearl and weed,
+But only to himself is known
+The fathoms they abide.
+
