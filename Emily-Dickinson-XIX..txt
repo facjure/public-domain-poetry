@@ -1,0 +1,30 @@
+---
+title: XIX.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  love
+-  beauty
+-  lyric
+-  
+-  
+---
+So bashful when I spied her,
+So pretty, so ashamed!
+So hidden in her leaflets,
+Lest anybody find;
+
+So breathless till I passed her,
+So helpless when I turned
+And bore her, struggling, blushing,
+Her simple haunts beyond!
+
+For whom I robbed the dingle,
+For whom betrayed the dell,
+Many will doubtless ask me,
+But I shall never tell!
+
