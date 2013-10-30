@@ -4,21 +4,22 @@ author: Emily Dickinson
 curator: Ata
 country: America
 year: 19th century
-book: Poems
+book: 
 gender: female
 tags: 
--  night 
+-  children
+-  night
 -  lyric
--  time
--  midnight
--  meditative
+-  lips
+-  nature
 ---
-When night is almost done,
-And sunrise grows so near
-That we can touch the spaces,
-It 's time to smooth the hair
+As children bid the guest good-night,
+And then reluctant turn,
+My flowers raise their pretty lips,
+Then put their nightgowns on.
 
-And get the dimples ready,
-And wonder we could care
-For that old faded midnight
-That frightened but an hour.
+As children caper when they wake,
+Merry that it is morn,
+My flowers from a hundred cribs
+Will peep, and prance again.
+
