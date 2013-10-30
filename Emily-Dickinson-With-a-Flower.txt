@@ -1,0 +1,24 @@
+---
+title: With a Flower
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+- nature
+-  lyric
+-  addressee
+-  love
+-  
+---
+I hide myself within my flower,
+That wearing on your breast,
+You, unsuspecting, wear me too —
+And angels know the rest.
+
+I hide myself within my flower,
+That, fading from your vase,
+You, unsuspecting, feel for me
+Almost a loneliness.
