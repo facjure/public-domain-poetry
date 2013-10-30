@@ -1,0 +1,24 @@
+---
+title: Apotheosis
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  Eden
+-  lips
+-  bee
+-  flower
+-  lyric
+---
+Come slowly, Eden!
+Lips unused to thee,
+Bashful, sip thy jasmines,
+As the fainting bee,
+
+Reaching late his flower,
+Round her chamber hums,
+Counts his nectars — enters,
+And is lost in balms!
