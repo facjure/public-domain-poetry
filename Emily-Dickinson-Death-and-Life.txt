@@ -1,0 +1,23 @@
+---
+title: Death and Life
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  flower
+-  lyric
+-  sun
+-  God
+-  assassin
+---
+Apparently with no surprise
+To any happy flower,
+The frost beheads it at its play
+In accidental power.
+The blond assassin passes on,
+The sun proceeds unmoved
+To measure off another day
+For an approving God.
