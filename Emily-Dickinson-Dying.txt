@@ -1,0 +1,34 @@
+---
+title: Dying
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  sun
+-  time
+-  feet
+-  lyric
+-  death
+---
+The sun kept setting, setting still;
+No hue of afternoon
+Upon the village I perceived, —
+From house to house 't was noon.
+
+The dusk kept dropping, dropping still;
+No dew upon the grass,
+But only on my forehead stopped,
+And wandered in my face.
+
+My feet kept drowsing, drowsing still,
+My fingers were awake;
+Yet why so little sound myself
+Unto my seeming make?
+
+How well I knew the light before!
+I could not see it now.
+'T is dying, I am doing; but
+I'm not afraid to know.
