@@ -1,0 +1,32 @@
+---
+title: The Offended Moon
+author: Charles Baudelaire
+curator: Ata
+country: France
+year: 19th century
+book: The Three Hills, trans. J. Squire
+gender: male
+tags: 
+-  father
+-  time
+-  mother
+-  light
+-  sonnet
+---
+O moon, O lamp of hill and secret dale!
+Thou whom our fathers, ages out of mind,
+Worshipped in thy blue heaven, whilst behind
+Thy stars streamed after thee a glittering trail,
+
+Dost see the poet, weary-eyed and pale,
+Or lovers on their happy beds reclined,
+Showing white teeth in sleep, or vipers twined,
+'Neath the dry sward; or in a golden veil
+
+Stealest thou with faint footfall o'er the grass
+As of old, to kiss from twilight unto dawn
+The faded charms of thine Endymion?...
+
+"O child of this sick century, I see
+Thy grey-haired mother leering in her glass
+And plastering the breast that suckled thee!"
