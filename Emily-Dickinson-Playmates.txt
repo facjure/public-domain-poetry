@@ -1,0 +1,24 @@
+---
+title: Playmates
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  God
+-  time
+-  children
+-  sun
+-  lyric
+---
+God permits industrious angels
+Afternoons to play.
+I met one, — forgot my school-mates,
+All, for him, straightway.
+
+God calls home the angels promptly
+At the setting sun;
+I missed mine. How dreary marbles,
+After playing Crown!
