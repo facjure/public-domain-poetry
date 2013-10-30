@@ -7,18 +7,23 @@ year: 19th century
 book: 
 gender: female
 tags: 
--  road
--  bee
--  butterfly
+-  beauty
+-  death
+-  tomb
 -  lyric
--  meditative
+-  lips
 ---
-A little road not made of man,
-Enabled of the eye,
-Accessible to thill of bee,
-Or cart of butterfly.
+I died for beauty, but was scarce
+Adjusted in the tomb,
+When one who died for truth was lain
+In an adjoining room.
 
-If town it have, beyond itself,
-'T is that I cannot say;
-I only sigh, — no vehicle
-Bears me along that way.
+He questioned softly why I failed?
+"For beauty," I replied.
+"And I for truth, — the two are one;
+We brethren are," he said.
+
+And so, as kinsmen met a night,
+We talked between the rooms,
+Until the moss had reached our lips,
+And covered up our names.
