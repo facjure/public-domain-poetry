@@ -1,0 +1,24 @@
+---
+title: Autumn
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+- nuts
+- berries 
+- nature
+- lyric 
+- morning 
+---
+The morns are meeker than they were,
+The nuts are getting brown;
+The berry's cheek is plumper,
+The rose is out of town.
+
+The maple wears a gayer scarf,
+The field a scarlet gown.
+Lest I should be old-fashioned,
+I'll put a trinket on.
