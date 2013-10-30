@@ -4,20 +4,21 @@ author: Emily Dickinson
 curator: Ata
 country: America
 year: 19th century
-book: Poems
+book: 
 gender: female
 tags: 
--  brain
+-  summer
 -  lyric
--  water
--  nature
--  humor
+-  time
+-  cricket
+-  
 ---
-The brain within its groove
-Runs evenly and true;
-But let a splinter swerve,
-'T were easier for you
-To put the water back
-When floods have slit the hills,
-And scooped a turnpike for themselves,
-And blotted out the mills!
+'T was later when the summer went
+Than when the cricket came,
+And yet we knew that gentle clock
+Meant nought but going home.
+
+'T was sooner when the cricket went
+Than when the winter came,
+Yet that pathetic pendulum
+Keeps esoteric time.
