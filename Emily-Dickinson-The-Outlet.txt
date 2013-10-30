@@ -1,0 +1,26 @@
+---
+title: The Outlet
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  river
+-  nature
+-  sea
+-  lyric
+-  blue
+---
+My river runs to thee:
+Blue sea, wilt welcome me?
+
+My river waits reply.
+Oh sea, look graciously!
+
+I'll fetch thee brooks
+From spotted nooks, —
+
+Say, sea,
+Take me!
