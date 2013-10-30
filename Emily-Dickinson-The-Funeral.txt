@@ -1,0 +1,24 @@
+---
+title: The Funeral
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  death
+-  lyric
+-  
+-  
+-  
+---
+That short, potential stir
+That each can make but once,
+That bustle so illustrious
+'T is almost consequence,
+
+Is the eclat of death.
+Oh, thou unknown renown
+That not a beggar would accept,
+Had he the power to spurn!
