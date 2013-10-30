@@ -1,0 +1,28 @@
+---
+title: IV.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  flower
+-  nature
+-  lyric
+-  yellow
+-  bee
+---
+Perhaps you'd like to buy a flower?
+But I could never sell.
+If you would like to borrow
+Until the daffodil
+
+Unties her yellow bonnet
+Beneath the village door,
+Until the bees, from clover rows
+Their hock and sherry draw,
+
+Why, I will lend until just then,
+But not an hour more!
+
