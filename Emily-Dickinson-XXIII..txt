@@ -1,0 +1,22 @@
+---
+title: XXIII.
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+- butterfly 
+- time
+- New England
+- friend 
+- flower
+---
+The butterfly's assumption-gown,
+In chrysoprase apartments hung,
+   This afternoon put on.
+
+How condescending to descend,
+And be of buttercups the friend
+   In a New England town!
