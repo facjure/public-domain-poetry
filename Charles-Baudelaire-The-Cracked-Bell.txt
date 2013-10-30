@@ -1,0 +1,32 @@
+---
+title: The Cracked Bell
+author: Charles Baudelaire
+curator: Ata
+country: France
+year: 19th century
+book: The Three Hills, trans. by J. Squire
+gender: male
+tags: 
+-  sonnet
+-  nature
+-  time
+-  death
+-  sickness
+---
+'Tis bitter-sweet, when winter nights are long,
+To watch, beside the flames which smoke and twist,
+The distant memories which slowly throng,
+Brought by the chime soft-singing through the mist.
+
+Happy the sturdy, vigorous-throated bell
+Who, spite of age alert and confident,
+Cries hourly, like some strong old sentinel
+Flinging the ready challenge from his tent.
+
+For me, my soul is cracked; when sick with care,
+She strives with songs to people the cold air
+It happens often that her feeble cries
+
+Mock the harsh rattle of a man who lies
+Wounded, forgotten, 'neath a mound of slain
+And dies, pinned fast, writhing his limbs in pain.
