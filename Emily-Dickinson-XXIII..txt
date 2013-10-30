@@ -7,16 +7,24 @@ year: 19th century
 book: 
 gender: female
 tags: 
-- butterfly 
-- time
-- New England
-- friend 
-- flower
+-  reason
+-  anguish
+-  lyric
+-  heaven
+-  meditative
 ---
-The butterfly's assumption-gown,
-In chrysoprase apartments hung,
-   This afternoon put on.
+I reason, earth is short,
+And anguish absolute,
+And many hurt;
+But what of that?
 
-How condescending to descend,
-And be of buttercups the friend
-   In a New England town!
+I reason, we could die:
+The best vitality
+Cannot excel decay;
+But what of that?
+
+I reason that in heaven
+Somehow, it will be even,
+Some new equation given;
+But what of that?
+
