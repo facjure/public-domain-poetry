@@ -4,21 +4,21 @@ author: Emily Dickinson
 curator: Ata
 country: America
 year: 19th century
-book: Poems
+book: 
 gender: female
 tags: 
+-  death
+-  house
+-  heart
 -  time
--  hate
--  grave
--  life
 -  lyric
 ---
-I had no time to hate, because
-The grave would hinder me,
-And life was not so ample I
-Could finish enmity.
+The bustle in a house
+The morning after death
+Is solemnest of industries
+Enacted upon earth, —
 
-Nor had I time to love; but since
-Some industry must be,
-The little toil of love, I thought,
-Was large enough for me.
+The sweeping up the heart,
+And putting love away
+We shall not want to use again
+Until eternity.
