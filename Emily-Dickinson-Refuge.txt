@@ -1,0 +1,24 @@
+---
+title: Refuge
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  clouds
+-  forest
+-  lightning
+-  tomb
+-  lyric
+---
+The clouds their backs together laid,
+The north begun to push,
+The forests galloped till they fell,
+The lightning skipped like mice;
+The thunder crumbled like a stuff —
+How good to be safe in tombs,
+Where nature's temper cannot reach,
+Nor vengeance ever comes!
+
