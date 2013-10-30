@@ -4,26 +4,17 @@ author: Emily Dickinson
 curator: Ata
 country: America
 year: 19th century
-book: Poems
+book: 
 gender: female
 tags: 
--  death
--  life
--  blood
+-  eyes
 -  lyric
--  anguish
+-  west
+-  lyric
+-  sun
 ---
-A wounded deer leaps highest,
-I've heard the hunter tell;
-'T is but the ecstasy of death,
-And then the brake is still.
+Look back on time with kindly eyes,
+He doubtless did his best;
+How softly sinks his trembling sun
+In human nature's west!
 
-The smitten rock that gushes,
-The trampled steel that springs;
-A cheek is always redder
-Just where the hectic stings!
-
-Mirth is the mail of anguish,
-In which it cautions arm,
-Lest anybody spy the blood
-And "You're hurt" exclaim!
