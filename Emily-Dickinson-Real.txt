@@ -1,0 +1,24 @@
+---
+title: Real
+author: Emily Dickinson
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  eyes
+-  death
+-  anguish
+-  lyric
+-  image
+---
+I like a look of agony,
+Because I know it 's true;
+Men do not sham convulsion,
+Nor simulate a throe.
+
+The eyes glaze once, and that is death.
+Impossible to feign
+The beads upon the forehead
+By homely anguish strung.
