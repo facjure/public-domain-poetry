@@ -7,22 +7,24 @@ year: 19th century
 book: 
 gender: female
 tags: 
--  flower
--  nature
--  lyric
--  yellow
+-  sun
+-  wind
+-  ear
 -  bee
+-  lyric
 ---
-Perhaps you'd like to buy a flower?
-But I could never sell.
-If you would like to borrow
-Until the daffodil
+Safe in their alabaster chambers,
+Untouched by morning and untouched by noon,
+Sleep the meek members of the resurrection,
+Rafter of satin, and roof of stone.
 
-Unties her yellow bonnet
-Beneath the village door,
-Until the bees, from clover rows
-Their hock and sherry draw,
+Light laughs the breeze in her castle of sunshine;
+Babbles the bee in a stolid ear;
+Pipe the sweet birds in ignorant cadence, —
+Ah, what sagacity perished here!
 
-Why, I will lend until just then,
-But not an hour more!
+Grand go the years in the crescent above them;
+Worlds scoop their arcs, and firmaments row,
+Diadems drop and Doges surrender,
+Soundless as dots on a disk of snow.
 
