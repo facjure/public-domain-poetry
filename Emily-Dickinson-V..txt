@@ -1,0 +1,20 @@
+---
+title: V.
+author: Emily Dickinson 
+curator: Ata
+country: America
+year: 19th century
+book: 
+gender: female
+tags: 
+-  honey
+-  bee
+-  lyric
+-  
+-  
+---
+The pedigree of honey
+Does not concern the bee;
+A clover, any time, to him
+Is aristocracy.
+
