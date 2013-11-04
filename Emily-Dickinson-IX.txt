@@ -1,0 +1,31 @@
+---
+title: IX.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Pleasure
+  - Pain
+  - Suffering
+  - Heart
+  - Sleep
+  - Liberty
+  - Death
+---
+
+The heart asks pleasure first,
+And then, excuse from pain;
+And then, those little anodynes
+That deaden suffering;
+
+And then, to go to sleep;
+And then, if it should be
+The will of its Inquisitor,
+The liberty to die.
+
+
+
+
+

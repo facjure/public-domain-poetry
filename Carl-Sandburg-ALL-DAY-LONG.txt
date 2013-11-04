@@ -1,0 +1,30 @@
+---
+title: ALL DAY LONG
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Yearning
+  - Loss
+  - Remembrance
+  - Sailor
+  - Sea
+---
+
+ALL day long in fog and wind,
+The waves have flung their beating crests
+Against the palisades of adamant.
+     My boy, he went to sea, long and long ago,
+     Curls of brown were slipping underneath his cap,
+     He looked at me from blue and steely eyes;
+     Natty, straight and true, he stepped away,
+     My boy, he went to sea.
+All day long in fog and wind,
+The waves have flung their beating crests
+Against the palisades of adamant.
+
+
+

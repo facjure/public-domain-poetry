@@ -1,0 +1,18 @@
+---
+title: Flux
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Sand
+---
+
+SAND of the sea runs red
+Where the sunset reaches and quivers.
+Sand of the sea runs yellow
+Where the moon slants and wavers.
+

@@ -1,0 +1,28 @@
+---
+title: XI. THE OUTLET.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Imagery
+  - River
+  - Sea
+  - Outlet
+---
+
+My river runs to thee:
+Blue sea, wilt welcome me?
+
+My river waits reply.
+Oh sea, look graciously!
+
+I'll fetch thee brooks
+From spotted nooks, --
+
+Say, sea,
+Take me!
+
+
+

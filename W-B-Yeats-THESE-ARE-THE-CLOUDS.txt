@@ -1,0 +1,31 @@
+---
+title: THESE ARE THE CLOUDS
+author: W.B Yeats
+curator: Michael
+country: USA
+year: 1910
+gender: male
+tags:
+  - Modernist
+  - Sun
+  - Aristocracy
+  - Revolution
+  - Cycle
+---
+
+These are the clouds about the fallen sun,
+The majesty that shuts his burning eye;
+The weak lay hand on what the strong has done,
+Till that be tumbled that was lifted high
+And discord follow upon unison,
+And all things at one common level lie.
+And therefore, friend, if your great race were run
+And these things came, so much the more thereby
+Have you made greatness your companion,
+Although it be for children that you sigh:
+These are the clouds about the fallen sun,
+The majesty that shuts his burning eye.
+
+
+
+

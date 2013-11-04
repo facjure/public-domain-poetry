@@ -1,0 +1,33 @@
+---
+title: HARRISON STREET COURT
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Prostitution
+  - Hustling
+  - Desolation
+---
+
+I HEARD a woman's lips
+Speaking to a companion
+Say these words:
+
+"A woman what hustles
+Never keeps nothin'
+For all her hustlin'.
+Somebody always gets
+What she goes on the street for.
+If it ain't a pimp
+It's a bull what gets it.
+I been hustlin' now
+Till I ain't much good any more.
+I got nothin' to show for it.
+Some man got it all,
+Every night's hustlin' I ever did."
+
+
+

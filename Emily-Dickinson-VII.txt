@@ -1,0 +1,27 @@
+---
+title: VII.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Life
+  - Nature
+  - Summer
+---
+
+The bee is not afraid of me,
+I know the butterfly;
+The pretty people in the woods
+Receive me cordially.
+
+The brooks laugh louder when I come,
+The breezes madder play.
+Wherefore, mine eyes, thy silver mists?
+Wherefore, O summer's day?
+
+
+
+
+

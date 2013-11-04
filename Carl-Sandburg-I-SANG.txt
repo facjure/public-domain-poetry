@@ -1,0 +1,25 @@
+---
+title: I SANG
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Romantic
+  - Rejection
+  - Song
+  - Moon
+---
+
+I SANG to you and the moon
+But only the moon remembers.
+     I sang
+O reckless free-hearted
+          free-throated rythms,
+Even the moon remembers them
+     And is kind to me.
+
+
+

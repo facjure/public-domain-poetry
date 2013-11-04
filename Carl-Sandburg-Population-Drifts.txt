@@ -1,0 +1,23 @@
+---
+title: Population Drifts
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Family
+  - Proletariat
+  - Immigrants
+  - Homeland
+  - America
+  - Struggle
+---
+
+NEW-MOWN hay smell and wind of the plain made her a woman whose ribs had the power of the hills in them and her hands were tough for work and there was passion for life in her womb.
+She and her man crossed the ocean and the years that marked their faces saw them haggling with landlords and grocers while six children played on the stones and prowled in the garbage cans.
+One child coughed its lungs away, two more have adenoids and can neither talk nor run like their mother, one is in jail, two have jobs in a box factory
+And as they fold the pasteboard, they wonder what the wishing is and the wistful glory in them that flutters faintly when the glimmer of spring comes on the air or the green of summer turns brown:
+They do not know it is the new-mown hay smell calling and the wind of the plain praying for them to come back and take hold of life again with tough hands and with passion.
+

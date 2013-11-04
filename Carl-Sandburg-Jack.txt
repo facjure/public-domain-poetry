@@ -1,0 +1,30 @@
+---
+title: Jack
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - America
+  - Proletariat
+  - Labor
+  - Death
+  - Life
+---
+
+JACK was a swarthy, swaggering son-of-a-gun.
+He worked thirty years on the railroad, ten hours a day,
+     and his hands were tougher than sole leather.
+He married a tough woman and they had eight children
+     and the woman died and the children grew up and
+     went away and wrote the old man every two years.
+He died in the poorhouse sitting on a bench in the sun
+     telling reminiscences to other old men whose women
+     were dead and children scattered.
+There was joy on his face when he died as there was joy
+     on his face when he lived--he was a swarthy, swaggering
+     son-of-a-gun.
+
+

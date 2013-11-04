@@ -1,0 +1,25 @@
+---
+title: HYDRANGEAS
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Fall
+  - Autumn
+  - Nature
+  - Leaves
+---
+
+DRAGOONS, I tell you the white hydrangeas
+     turn rust and go soon.
+Already mid September a line of brown runs
+     over them.
+One sunset after another tracks the faces, the
+     petals.
+Waiting, they look over the fence for what
+     way they go.
+
+
+

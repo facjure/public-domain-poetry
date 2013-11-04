@@ -1,0 +1,20 @@
+---
+title: Personality
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Fingerprints
+  - Individuality
+  - Self
+---
+
+YOU have loved forty women, but you have only one thumb.
+You have led a hundred secret lives, but you mark only one thumb.
+You go round the world and fight in a thousand wars and win all the world’s honors, but when you come back home the print of the one thumb your mother gave you is the same print of thumb you had in the old home when your mother kissed you and said good-by.
+Out of the whirling womb of time come millions of men
+and their feet crowd the earth and they cut one anothers’ throats for room to stand and among them all are not two thumbs alike.
+Somewhere is a Great God of Thumbs who can tell the inside story of this.
+

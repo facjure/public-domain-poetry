@@ -1,0 +1,24 @@
+---
+title: XXVI.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Brain
+  - Madness
+  - Imagination
+---
+
+The brain within its groove
+Runs evenly and true;
+But let a splinter swerve,
+'T were easier for you
+To put the water back
+When floods have slit the hills,
+And scooped a turnpike for themselves,
+And blotted out the mills!
+
+
+

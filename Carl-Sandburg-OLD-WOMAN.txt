@@ -1,0 +1,30 @@
+---
+title: OLD WOMAN
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Homeless
+  - Streets
+  - Headlights
+---
+
+THE owl-car clatters along, dogged by the echo
+From building and battered paving-stone.
+The headlight scoffs at the mist,
+And fixes its yellow rays in the cold slow rain;
+Against a pane I press my forehead
+And drowsily look on the walls and sidewalks.
+
+The headlight finds the way
+And life is gone from the wet and the welter--
+Only an old woman, bloated, disheveled and bleared.
+Far-wandered waif of other days,
+Huddles for sleep in a doorway,
+Homeless.
+
+
+

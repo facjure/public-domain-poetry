@@ -1,0 +1,22 @@
+---
+title: POPPIES
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Garden
+  - Pregnancy
+---
+
+SHE loves blood-red poppies for a garden to walk in.
+In a loose white gown she walks
+          and a new child tugs at cords in her body.
+Her head to the west at evening when the dew is creeping,
+A shudder of gladness runs in her bones and torsal fiber:
+She loves blood-red poppies for a garden to walk in.
+
+
+

@@ -1,0 +1,27 @@
+---
+title: MARGARET
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Nature
+  - Romantic
+  - Morning
+  - Youth
+  - Wishes
+---
+
+MANY birds and the beating of wings
+Make a flinging reckless hum
+In the early morning at the rocks
+Above the blue pool
+Where the gray shadows swim lazy.
+
+In your blue eyes, O reckless child,
+I saw today many little wild wishes,
+Eager as the great morning.
+
+
+

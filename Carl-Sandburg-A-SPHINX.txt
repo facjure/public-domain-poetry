@@ -1,0 +1,27 @@
+---
+title: A SPHINX
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Time
+  - History
+  - Answers
+  - Truth
+---
+
+CLOSE-MOUTHED you sat five thousand years and never
+     let out a whisper.
+Processions came by, marchers, asking questions you
+     answered with grey eyes never blinking, shut lips
+     never talking.
+Not one croak of anything you know has come from your
+     cat crouch of ages.
+I am one of those who know all you know and I keep my
+     questions: I know the answers you hold.
+
+
+

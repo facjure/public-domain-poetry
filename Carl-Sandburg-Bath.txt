@@ -1,0 +1,30 @@
+---
+title: Bath
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Music
+  - Mischa Elman
+  - Inspiration
+---
+
+    A MAN saw the whole world as a grinning skull and
+cross-bones. The rose flesh of life shriveled from all
+faces. Nothing counts. Everything is a fake. Dust to
+dust and ashes to ashes and then an old darkness and a
+useless silence. So he saw it all. Then he went to a
+Mischa Elman concert. Two hours waves of sound beat
+on his eardrums. Music washed something or other
+inside him. Music broke down and rebuilt something or
+other in his head and heart. He joined in five encores
+for the young Russian Jew with the fiddle. When he
+got outside his heels hit the sidewalk a new way. He
+was the same man in the same world as before. Only
+there was a singing fire and a climb of roses everlastingly
+over the world he looked on.
+
+

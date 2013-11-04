@@ -1,0 +1,25 @@
+---
+title: Kin
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Fire
+  - Brother
+  - Time
+---
+
+  BROTHER, I am fire
+Surging under the ocean floor.
+I shall never meet you, brother--
+Not for years, anyhow;
+Maybe thousands of years, brother.
+Then I will warm you,
+Hold you close, wrap you in circles,
+Use you and change you--
+Maybe thousands of years, brother.
+
+

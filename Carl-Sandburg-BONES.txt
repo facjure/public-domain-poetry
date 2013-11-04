@@ -1,0 +1,27 @@
+---
+title: BONES
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Sea
+  - Death
+  - Nature
+  - Romantic
+---
+
+SLING me under the sea.
+Pack me down in the salt and wet.
+No farmer's plow shall touch my bones.
+No Hamlet hold my jaws and speak
+How jokes are gone and empty is my mouth.
+Long, green-eyed scavengers shall pick my eyes,
+Purple fish play hide-and-seek,
+And I shall be song of thunder, crash of sea,
+Down on the floors of salt and wet.
+          Sling me . . . under the sea.
+
+
+

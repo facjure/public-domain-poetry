@@ -1,0 +1,22 @@
+---
+title: Anna Imroth
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Death
+  - Fire
+  - Proletariat
+  - Labor
+---
+
+CROSS the hands over the breast here—so.
+Straighten the legs a little more—so.
+And call for the wagon to come and take her home.
+Her mother will cry some and so will her sisters and brothers.
+But all of the others got down and they are safe and this is the only one of the factory girls who wasn’t lucky in making the jump when the fire broke.
+It is the hand of God and the lack of fire escapes.
+

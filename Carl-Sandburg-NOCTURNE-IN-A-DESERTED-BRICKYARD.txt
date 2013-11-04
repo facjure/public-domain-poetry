@@ -1,0 +1,27 @@
+---
+title: NOCTURNE IN A DESERTED                             BRICKYARD
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Imagism
+  - Moon
+  - Sand
+  - Willows
+  - Pond
+  - Nature
+  - Romantic
+---
+
+     STUFF of the moon
+Runs on the lapping sand
+Out to the longest shadows.
+Under the curving willows,
+And round the creep of the wave line,
+Fluxions of yellow and dusk on the waters
+Make a wide dreaming pansy of an old pond in the night.
+
+
+

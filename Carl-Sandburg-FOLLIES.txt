@@ -1,0 +1,35 @@
+---
+title: FOLLIES
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Imagism
+  - Romantic
+  - Nature
+  - Blossoms
+  - Spring
+---
+
+          SHAKEN,
+The blossoms of lilac,
+     And shattered,
+The atoms of purple.
+Green dip the leaves,
+     Darker the bark,
+Longer the shadows.
+
+Sheer lines of poplar
+Shimmer with masses of silver
+And down in a garden old with years
+And broken walls of ruin and story,
+Roses rise with red rain-memories.
+          May!
+     In the open world
+The sun comes and finds your face,
+     Remembering all.
+
+
+

@@ -1,0 +1,28 @@
+---
+title: XVII.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Children
+  - Night
+  - Flowers
+  - Morning
+---
+
+As children bid the guest good-night,
+And then reluctant turn,
+My flowers raise their pretty lips,
+Then put their nightgowns on.
+
+As children caper when they wake,
+Merry that it is morn,
+My flowers from a hundred cribs
+Will peep, and prance again.
+
+
+
+
+

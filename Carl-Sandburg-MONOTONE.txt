@@ -1,0 +1,28 @@
+---
+title: MONOTONE
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Beauty
+  - Rain
+  - Sun
+---
+
+     THE monotone of the rain is beautiful,
+And the sudden rise and slow relapse
+Of the long multitudinous rain.
+
+     The sun on the hills is beautiful,
+Or a captured sunset sea-flung,
+Bannered with fire and gold.
+
+     A face I know is beautiful--
+With fire and gold of sky and sea,
+And the peace of long warm rain.
+
+
+

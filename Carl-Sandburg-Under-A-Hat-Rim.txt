@@ -1,0 +1,31 @@
+---
+title: Under A Hat Rim
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Sea
+  - Wreck
+  - Soul
+  - Wind
+---
+
+WHILE the hum and the hurry
+Of passing footfalls
+Beat in my ear like the restless surf
+Of a wind-blown sea,
+A soul came to me
+Out of the look on a face.
+
+Eyes like a lake
+Where a storm-wind roams
+Caught me from under
+The rim of a hat.
+     I thought of a midsea wreck
+     and bruised fingers clinging
+     to a broken state-room door.
+
+

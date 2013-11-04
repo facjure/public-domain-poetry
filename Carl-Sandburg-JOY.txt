@@ -1,0 +1,31 @@
+---
+title: JOY
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Joy
+  - Happiness
+---
+
+     LET a joy keep you.
+Reach out your hands
+And take it when it runs by,
+As the Apache dancer
+Clutches his woman.
+I have seen them
+Live long and laugh loud,
+Sent on singing, singing,
+Smashed to the heart
+Under the ribs
+With a terrible love.
+Joy always,
+Joy everywhere--
+Let joy kill you!
+Keep away from the little deaths.
+
+
+

@@ -1,0 +1,30 @@
+---
+title: Child of the Romans
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Classism
+  - Wealth
+  - Proletariat
+  - Labor
+  - Railroad
+  - Lunch
+---
+
+THE DAGO shovelman sits by the railroad track
+Eating a noon meal of bread and bologna.
+    A train whirls by, and men and women at tables
+    Alive with red roses and yellow jonquils,
+    Eat steaks running with brown gravy,
+    Strawberries and cream, eclaires and coffee.
+The dago shovelman finishes the dry bread and bologna,
+Washes it down with a dipper from the water-boy,
+And goes back to the second half of a ten-hour day’s work
+Keeping the road-bed so the roses and jonquils
+Shake hardly at all in the cut glass vases
+Standing slender on the tables in the dining cars.
+

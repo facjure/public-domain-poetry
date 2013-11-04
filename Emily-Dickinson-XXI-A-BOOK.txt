@@ -1,0 +1,28 @@
+---
+title: XXI. A BOOK.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Words
+  - Spirit
+  - Liberty
+  - Time
+  - Ageing
+---
+
+He ate and drank the precious words,
+His spirit grew robust;
+He knew no more that he was poor,
+Nor that his frame was dust.
+He danced along the dingy days,
+And this bequest of wings
+Was but a book. What liberty
+A loosened spirit brings!
+
+
+
+
+

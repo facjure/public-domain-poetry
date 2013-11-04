@@ -1,0 +1,23 @@
+---
+title: TO A POET, WHO WOULD HAVE ME PRAISE CERTAIN BAD POETS, IMITATORS OF HIS AND MINE
+author: W.B Yeats
+curator: Michael
+country: USA
+year: 1910
+gender: male
+tags:
+  - Modernist
+  - Praise
+  - Politic
+  - Poets
+  - Imitation
+---
+
+You say, as I have often given tongue
+In praise of what another's said or sung,
+'Twere politic to do the like by these;
+But where's the wild dog that has praised his fleas?
+
+
+
+

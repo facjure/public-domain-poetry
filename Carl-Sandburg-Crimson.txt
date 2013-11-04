@@ -1,0 +1,23 @@
+---
+title: Crimson
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Ash
+  - Smoke
+  - Contemplation
+  - Death
+---
+
+CRIMSON is the slow smolder of the cigar end I hold,
+Gray is the ash that stiffens and covers all silent the fire.
+(A great man I know is dead and while he lies in his
+     coffin a gone flame I sit here in cumbering shadows
+     and smoke and watch my thoughts come and go.)
+
+

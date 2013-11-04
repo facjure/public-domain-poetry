@@ -1,0 +1,21 @@
+---
+title: In a Back Alley
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - America
+  - Remembrance
+  - Lincoln
+  - Legacy
+---
+
+REMEMBRANCE for a great man is this.
+The newsies are pitching pennies.
+And on the copper disk is the man’s face.
+Dead lover of boys, what do you ask for now?
+
+

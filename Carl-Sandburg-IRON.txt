@@ -1,0 +1,34 @@
+---
+title: IRON
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Guns
+  - Shovels
+---
+
+GUNS,
+Long, steel guns,
+Pointed from the war ships
+In the name of the war god.
+Straight, shining, polished guns,
+Clambered over with jackies in white blouses,
+Glory of tan faces, tousled hair, white teeth,
+Laughing lithe jackies in white blouses,
+Sitting on the guns singing war songs, war chanties.
+
+Shovels,
+Broad, iron shovels,
+Scooping out oblong vaults,
+Loosening turf and leveling sod.
+
+     I ask you
+     To witness--
+     The shovel is brother to the gun.
+
+
+

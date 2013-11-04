@@ -1,0 +1,25 @@
+---
+title: Mamie
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Dreams
+  - Chicago
+  - Yearning
+---
+MAMIE beat her head against the bars of a little Indiana town and dreamed of romance and big things off somewhere the way the railroad trains all ran.
+She could see the smoke of the engines get lost down where the streaks of steel flashed in the sun and when the newspapers came in on the morning mail she knew there was a big Chicago far off, where all the trains ran.
+She got tired of the barber shop boys and the post office chatter and the church gossip and the old pieces the band played on the Fourth of July and Decoration Day
+And sobbed at her fate and beat her head against the bars and was going to kill herself
+When the thought came to her that if she was going to die she might as well die struggling for a clutch of romance among the streets of Chicago.
+She has a job now at six dollars a week in the basement of the Boston Store
+And even now she beats her head against the bars in the same old way and wonders if there is a bigger place the railroads run to from Chicago where maybe there is
+                romance
+                and big things
+                and real dreams
+                that never go smash.
+

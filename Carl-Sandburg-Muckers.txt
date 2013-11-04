@@ -1,0 +1,28 @@
+---
+title: Muckers
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Chicago
+  - Social Realism
+  - Proletariat
+  - Labor
+---
+
+TWENTY men stand watching the muckers.
+      Stabbing the sides of the ditch
+      Where clay gleams yellow,
+      Driving the blades of their shovels
+      Deeper and deeper for the new gas mains
+      Wiping sweat off their faces
+            With red bandanas
+The muckers work on .. pausing .. to pull
+Their boots out of suckholes where they slosh.
+
+  Of the twenty looking on
+Ten murmer, “O, its a hell of a job,”
+Ten others, “Jesus, I wish I had the job.”
+

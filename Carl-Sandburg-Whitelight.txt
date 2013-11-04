@@ -1,0 +1,20 @@
+---
+title: Whitelight
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Dreams
+  - Frost
+  - West
+---
+
+YOUR whitelight flashes the frost to-night
+Moon of the purple and silent west.
+Remember me one of your lovers of dreams.
+
+

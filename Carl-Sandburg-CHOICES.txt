@@ -1,0 +1,35 @@
+---
+title: CHOICES
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Fear
+  - Hunger
+  - Danger
+  - Hate
+  - Bitterness
+---
+
+THEY offer you many things,
+     I a few.
+Moonlight on the play of fountains at night
+With water sparkling a drowsy monotone,
+Bare-shouldered, smiling women and talk
+And a cross-play of loves and adulteries
+And a fear of death and a remembering of regrets:
+All this they offer you.
+I come with:
+     salt and bread
+     a terrible job of work
+     and tireless war;
+Come and have now:
+     hunger.
+     danger
+     and hate.
+
+
+

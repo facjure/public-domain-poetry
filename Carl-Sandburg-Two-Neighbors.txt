@@ -1,0 +1,28 @@
+---
+title: Two Neighbors
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Living
+  - Judgement
+  - Time
+---
+
+FACES of two eternities keep looking at me.
+One is Omar Khayam and the red stuff
+     wherein men forget yesterday and to-morrow
+     and remember only the voices and songs,
+     the stories, newspapers and fights of today.
+One is Louis Cornaro and a slim trick
+     of slow, short meals across slow, short years,
+     letting Death open the door only in slow, short inches.
+I have a neighbor who swears by Omar.
+I have a neighbor who swears by Cornaro.
+                                   Both are happy.
+Faces of two eternities keep looking at me.
+                                   Let them look.
+

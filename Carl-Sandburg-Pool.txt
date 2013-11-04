@@ -1,0 +1,22 @@
+---
+title: Pool
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Pressure
+---
+
+OUT of the fire
+Came a man sunken
+To less than cinders,
+A tea-cup of ashes or so.
+And I,
+The gold in the house,
+Writhed into a stiff pool.
+
+

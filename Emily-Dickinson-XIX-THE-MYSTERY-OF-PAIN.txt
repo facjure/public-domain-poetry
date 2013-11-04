@@ -1,0 +1,29 @@
+---
+title: XIX. THE MYSTERY OF PAIN.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Pain
+  - Despair
+  - Depth
+  - Feeling
+  - Perception
+---
+
+Pain has an element of blank;
+It cannot recollect
+When it began, or if there were
+A day when it was not.
+
+It has no future but itself,
+Its infinite realms contain
+Its past, enlightened to perceive
+New periods of pain.
+
+
+
+
+

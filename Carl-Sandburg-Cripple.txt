@@ -1,0 +1,29 @@
+---
+title: Cripple
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Death
+  - Life
+  - Proletariat
+  - Countryside
+---
+
+ONCE when I saw a cripple
+Gasping slowly his last days with the white plague,
+Looking from hollow eyes, calling for air,
+Desperately gesturing with wasted hands
+In the dark and dust of a house down in a slum,
+I said to myself
+I would rather have been a tall sunflower
+Living in a country garden
+Lifting a golden-brown face to the summer,
+Rain-washed and dew-misted,
+Mixed with the poppies and ranking hollyhocks,
+And wonderingly watching night after night
+The clear silent processionals of stars.
+

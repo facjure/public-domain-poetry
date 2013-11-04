@@ -1,0 +1,38 @@
+---
+title: THE GREAT HUNT
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Love
+  - Beauty
+---
+
+I CANNOT tell you now;
+     When the wind's drive and whirl
+     Blow me along no longer,
+     And the wind's a whisper at last--
+Maybe I'll tell you then--
+                         some other time.
+
+     When the rose's flash to the sunset
+     Reels to the rack and the twist,
+     And the rose is a red bygone,
+     When the face I love is going
+     And the gate to the end shall clang,
+     And it's no use to beckon or say, "So long"--
+Maybe I'll tell you then--
+                         some other time.
+
+I never knew any more beautiful than you:
+     I have hunted you under my thoughts,
+     I have broken down under the wind
+     And into the roses looking for you.
+          I shall never find any
+                         greater than you.
+
+
+

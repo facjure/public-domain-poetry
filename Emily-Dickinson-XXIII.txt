@@ -1,0 +1,26 @@
+---
+title: XXIII.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Life
+  - Metamorphisis
+  - Nature
+  - Beauty
+---
+
+The butterfly's assumption-gown,
+In chrysoprase apartments hung,
+  This afternoon put on.
+
+How condescending to descend,
+And be of buttercups the friend
+  In a New England town!
+
+
+
+
+

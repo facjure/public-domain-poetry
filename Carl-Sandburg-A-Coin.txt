@@ -1,0 +1,33 @@
+---
+title: A Coin
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - America
+  - Remembrance
+  - Natives
+  - Past
+  - Nickles
+---
+
+YOUR western heads here cast on money,
+You are the two that fade away together,
+               Partners in the mist.
+
+               Lunging buffalo shoulder,
+               Lean Indian face,
+We who come after where you are gone
+Salute your forms on the new nickel.
+
+               You are
+               To us:
+               The past.
+
+               Runners
+               On the prairie:
+               Good-by
+

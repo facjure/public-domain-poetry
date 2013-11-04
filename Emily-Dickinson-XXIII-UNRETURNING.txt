@@ -1,0 +1,29 @@
+---
+title: XXIII. UNRETURNING.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Boat
+  - Bay
+  - Sea
+  - Departure
+  - Loss
+---
+
+'T was such a little, little boat
+That toddled down the bay!
+'T was such a gallant, gallant sea
+That beckoned it away!
+
+'T was such a greedy, greedy wave
+That licked it from the coast;
+Nor ever guessed the stately sails
+My little craft was lost!
+
+
+
+
+

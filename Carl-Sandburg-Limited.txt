@@ -1,0 +1,20 @@
+---
+title: Limited
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Trains
+  - America
+  - Time
+---
+
+I AM riding on a limited express, one of the crack trains of the nation.
+Hurtling across the prairie into blue haze and dark air go fifteen all-steel coaches holding a thousand people.
+(All the coaches shall be scrap and rust and all the men and women laughing in the diners and sleepers shall pass to ashes.)
+I ask a man in the smoker where he is going and he answers: “Omaha.”
+
+

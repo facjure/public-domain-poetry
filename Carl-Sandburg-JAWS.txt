@@ -1,0 +1,28 @@
+---
+title: JAWS
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - World War I
+---
+
+SEVEN nations stood with their hands on the jaws of death.
+It was the first week in August, Nineteen Hundred Fourteen.
+I was listening, you were listening, the whole world was
+     listening,
+And all of us heard a Voice murmuring:
+               "I am the way and the light,
+               He that believeth on me
+               Shall not perish
+               But shall have everlasting life."
+Seven nations listening heard the Voice and answered:
+               "O Hell!"
+The jaws of death began clicking and they go on clicking.
+               "O Hell!"
+
+
+

@@ -1,0 +1,18 @@
+---
+title: Blacklisted
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Name
+  - Banishment
+---
+
+WHY shall I keep the old name?
+What is a name anywhere anyway?
+A name is a cheap thing all fathers and mothers leave each child:
+A job is a job and I want to live, so
+Why does God Almighty or anybody else care whether I take a new name to go by?
+

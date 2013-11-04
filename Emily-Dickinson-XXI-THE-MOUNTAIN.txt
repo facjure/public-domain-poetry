@@ -1,0 +1,28 @@
+---
+title: XXI. THE MOUNTAIN.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Mountain
+  - Metaphor
+  - Nature
+  - Meditative
+---
+
+The mountain sat upon the plain
+In his eternal chair,
+His observation omnifold,
+His inquest everywhere.
+
+The seasons prayed around his knees,
+Like children round a sire:
+Grandfather of the days is he,
+Of dawn the ancestor.
+
+
+
+
+

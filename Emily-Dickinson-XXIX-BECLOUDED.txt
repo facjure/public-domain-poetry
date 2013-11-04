@@ -1,0 +1,27 @@
+---
+title: XXIX. BECLOUDED.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Nature
+  - Personification
+  - Life
+---
+
+The sky is low, the clouds are mean,
+A travelling flake of snow
+Across a barn or through a rut
+Debates if it will go.
+
+A narrow wind complains all day
+How some one treated him;
+Nature, like us, is sometimes caught
+Without her diadem.
+
+
+
+
+

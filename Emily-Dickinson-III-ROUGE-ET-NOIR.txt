@@ -1,0 +1,27 @@
+---
+title: III. ROUGE ET NOIR.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Soul
+  - Angels
+  - Raffle
+---
+
+Soul, wilt thou toss again?
+By just such a hazard
+Hundreds have lost, indeed,
+But tens have won an all.
+
+Angels' breathless ballot
+Lingers to record thee;
+Imps in eager caucus
+Raffle for my soul.
+
+
+
+
+

@@ -1,0 +1,27 @@
+---
+title: XXV. DEATH AND LIFE.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Life
+  - Nature
+  - Death
+  - Cycle
+---
+
+Apparently with no surprise
+To any happy flower,
+The frost beheads it at its play
+In accidental power.
+The blond assassin passes on,
+The sun proceeds unmoved
+To measure off another day
+For an approving God.
+
+
+
+
+

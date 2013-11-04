@@ -1,0 +1,18 @@
+---
+title: The Has-Been
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Time
+  - Secrets
+---
+
+A STONE face higher than six horses stood five thousand years gazing at the world seeming to clutch a secret.
+A boy passes and throws a niggerhead that chips off the end of the nose from the stone face; he lets fly a mud ball that spatters the right eye and cheek of the old looker-on.
+The boy laughs and goes whistling “ee-ee-ee ee-ee-ee.” The stone face stands silent, seeming to clutch a secret.
+
+

@@ -1,0 +1,28 @@
+---
+title: XXIV.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Sea
+  - Voyage
+  - Mystic
+  - Sight
+---
+
+Whether my bark went down at sea,
+Whether she met with gales,
+Whether to isles enchanted
+She bent her docile sails;
+
+By what mystic mooring
+She is held to-day, --
+This is the errand of the eye
+Out upon the bay.
+
+
+
+
+

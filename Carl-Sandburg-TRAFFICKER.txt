@@ -1,0 +1,25 @@
+---
+title: TRAFFICKER
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Shadows
+  - Prostitution
+  - Desolate
+---
+
+AMONG the shadows where two streets cross,
+A woman lurks in the dark and waits
+To move on when a policeman heaves in view.
+Smiling a broken smile from a face
+Painted over haggard bones and desperate eyes,
+All night she offers passers-by what they will
+Of her beauty wasted, body faded, claims gone,
+And no takers.
+
+
+

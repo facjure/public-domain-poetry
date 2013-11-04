@@ -1,0 +1,28 @@
+---
+title: Troths
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Death
+  - Memories
+  - Beauty
+  - Nature
+---
+
+YELLOW dust on a bumble
+     bee's wing,
+Grey lights in a woman's
+     asking eyes,
+Red ruins in the changing
+     sunset embers:
+I take you and pile high
+     the memories.
+Death will break her claws
+     on some I keep.
+
+

@@ -1,0 +1,37 @@
+---
+title: FROM THE SHORE
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Birds
+  - Flying
+  - Sea
+  - Darkness
+---
+
+A LONE gray bird,
+Dim-dipping, far-flying,
+Alone in the shadows and grandeurs and tumults
+Of night and the sea
+And the stars and storms.
+
+Out over the darkness it wavers and hovers,
+Out into the gloom it swings and batters,
+Out into the wind and the rain and the vast,
+Out into the pit of a great black world,
+Where fogs are at battle, sky-driven, sea-blown,
+Love of mist and rapture of flight,
+Glories of chance and hazards of death
+On its eager and palpitant wings.
+
+Out into the deep of the great dark world,
+Beyond the long borders where foam and drift
+Of the sundering waves are lost and gone
+On the tides that plunge and rear and crumble.
+
+
+

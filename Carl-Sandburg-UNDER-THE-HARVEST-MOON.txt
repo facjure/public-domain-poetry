@@ -1,0 +1,36 @@
+---
+title: UNDER THE HARVEST MOON
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Death
+  - Love
+  - Autumn
+  - Summer
+---
+
+     UNDER the harvest moon,
+When the soft silver
+Drips shimmering
+Over the garden nights,
+Death, the gray mocker,
+Comes and whispers to you
+As a beautiful friend
+Who remembers.
+
+     Under the summer roses
+When the flagrant crimson
+Lurks in the dusk
+Of the wild red leaves,
+Love, with little hands,
+Comes and touches you
+With a thousand memories,
+And asks you
+Beautiful, unanswerable questions.
+
+
+

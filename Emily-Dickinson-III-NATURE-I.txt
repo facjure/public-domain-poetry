@@ -1,0 +1,29 @@
+---
+title: III. NATURE. I.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Solitude
+  - Cycle
+  - Spring
+  - Rebirth
+  - Life
+---
+
+New feet within my garden go,
+New fingers stir the sod;
+A troubadour upon the elm
+Betrays the solitude.
+
+New children play upon the green,
+New weary sleep below;
+And still the pensive spring returns,
+And still the punctual snow!
+
+
+
+
+

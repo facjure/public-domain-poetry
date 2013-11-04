@@ -1,0 +1,33 @@
+---
+title: PLOWBOY
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Sunset
+  - Spring
+  - Plowing
+  - Fields
+---
+
+AFTER the last red sunset glimmer,
+Black on the line of a low hill rise,
+Formed into moving shadows, I saw
+A plowboy and two horses lined against the gray,
+Plowing in the dusk the last furrow.
+The turf had a gleam of brown,
+And smell of soil was in the air,
+And, cool and moist, a haze of April.
+
+I shall remember you long,
+Plowboy and horses against the sky in shadow.
+I shall remember you and the picture
+You made for me,
+Turning the turf in the dusk
+And haze of an April gloaming.
+
+
+

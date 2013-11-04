@@ -1,0 +1,20 @@
+---
+title: A Fence
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Classism
+  - Barriers
+  - Proletariat
+  - Labor
+---
+
+NOW the stone house on the lake front is finished and the workmen are beginning the fence.
+The palings are made of iron bars with steel points that can stab the life out of any man who falls on them.
+As a fence, it is a masterpiece, and will shut off the rabble and all vagabonds and hungry men and all wandering children looking for a place to play.
+Passing through the bars and over the steel points will go nothing except Death and the Rain and To-morrow.
+

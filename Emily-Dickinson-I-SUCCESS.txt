@@ -1,0 +1,32 @@
+---
+title: I. SUCCESS.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Success
+  - Failure
+  - Agony
+  - Defeat
+---
+
+Success is counted sweetest
+By those who ne'er succeed.
+To comprehend a nectar
+Requires sorest need.
+
+Not one of all the purple host
+Who took the flag to-day
+Can tell the definition,
+So clear, of victory,
+
+As he, defeated, dying,
+On whose forbidden ear
+The distant strains of triumph
+Break, agonized and clear!
+
+
+
+

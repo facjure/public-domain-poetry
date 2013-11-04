@@ -1,0 +1,22 @@
+---
+title: JUNE
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Flowers
+  - Blossom
+  - Nature
+---
+
+PAULA is digging and shaping the loam of a salvia,
+     Scarlet Chinese talker of summer.
+Two petals of crabapple blossom blow fallen in Paula's
+          hair,
+     And fluff of white from a cottonwood.
+
+
+

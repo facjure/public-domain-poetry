@@ -1,0 +1,26 @@
+---
+title: CHILD MOON
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Youth
+  - Moon
+  - Wonder
+---
+
+THE child's wonder
+At the old moon
+Comes back nightly.
+She points her finger
+To the far silent yellow thing
+Shining through the branches
+Filtering on the leaves a golden sand,
+Crying with her little tongue, "See the moon!"
+And in her bed fading to sleep
+With babblings of the moon on her little mouth.
+
+
+

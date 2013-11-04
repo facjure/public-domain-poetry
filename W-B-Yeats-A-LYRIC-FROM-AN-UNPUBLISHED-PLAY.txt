@@ -1,0 +1,34 @@
+---
+title: A LYRIC FROM AN UNPUBLISHED PLAY
+author: W.B Yeats
+curator: Michael
+country: USA
+year: 1910
+gender: male
+tags:
+  - Modernist
+  - Mask
+  - Hearts
+---
+
+"Put off that mask of burning gold
+With emerald eyes."
+"O no, my dear, you make so bold
+To find if hearts be wild and wise,
+And yet not cold."
+
+"I would but find what's there to find,
+Love or deceit."
+"It was the mask engaged your mind,
+And after set your heart to beat,
+Not what's behind."
+
+"But lest you are my enemy,
+I must enquire."
+"O no, my dear, let all that be,
+What matter, so there is but fire
+In you, in me?"
+
+
+
+

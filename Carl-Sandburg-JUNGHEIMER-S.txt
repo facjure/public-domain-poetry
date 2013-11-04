@@ -1,0 +1,23 @@
+---
+title: JUNGHEIMER'S
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Saloon
+  - Memories
+---
+
+IN western fields of corn and northern timber lands,
+     They talk about me, a saloon with a soul,
+     The soft red lights, the long curving bar,
+     The leather seats and dim corners,
+     Tall brass spittoons, a nigger cutting ham,
+And the painting of a woman half-dressed thrown reckless
+     across a bed after a night of booze and riots.
+
+
+

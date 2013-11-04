@@ -1,0 +1,32 @@
+---
+title: Handfuls
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Minimalism
+  - Decay
+  - Cycle
+---
+
+BLOSSOMS of babies
+Blinking their stories
+Come soft
+On the dusk and the babble;
+Little red gamblers,
+Handfuls that slept in the dust.
+
+Summers of rain,
+Winters of drift,
+Tell off the years;
+And they go back
+Who came soft—
+Back to the sod,
+To silence and dust;
+Gray gamblers,
+  Handfuls again.
+
+

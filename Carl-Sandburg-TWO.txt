@@ -1,0 +1,20 @@
+---
+title: TWO
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Romantic
+  - Memory
+  - Imagism
+---
+
+MEMORY of you is . . . a blue spear of flower.
+I cannot remember the name of it.
+Alongside a bold dripping poppy is fire and silk.
+                         And they cover you.
+
+
+

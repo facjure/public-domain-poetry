@@ -1,0 +1,37 @@
+---
+title: THE MIST
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Time
+  - Space
+  - Eternity
+---
+
+I AM the mist, the impalpable mist,
+Back of the thing you seek.
+My arms are long,
+Long as the reach of time and space.
+
+Some toil and toil, believing,
+Looking now and again on my face,
+Catching a vital, olden glory.
+
+But no one passes me,
+I tangle and snare them all.
+I am the cause of the Sphinx,
+The voiceless, baffled, patient Sphinx.
+
+I was at the first of things,
+I will be at the last.
+     I am the primal mist
+     And no man passes me;
+     My long impalpable arms
+     Bar them all.
+
+
+

@@ -1,0 +1,28 @@
+---
+title: IT IS MUCH
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Women
+  - Nightlife
+  - Confidence
+---
+
+WOMEN of night life amid the lights
+Where the line of your full, round throats
+Matches in gleam the glint of your eyes
+And the ring of your heart-deep laughter:
+     It is much to be warm and sure of to-morrow.
+
+Women of night life along the shadows,
+Lean at your throats and skulking the walls,
+Gaunt as a bitch worn to the bone,
+Under the paint of your smiling faces:
+     It is much to be warm and sure of to-morrow.
+
+
+

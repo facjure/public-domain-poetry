@@ -1,0 +1,32 @@
+---
+title: X. TRANSPLANTED.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Flower
+  - Travel
+  - Nature
+  - Foreigner
+  - Eden
+---
+
+As if some little Arctic flower,
+Upon the polar hem,
+Went wandering down the latitudes,
+Until it puzzled came
+To continents of summer,
+To firmaments of sun,
+To strange, bright crowds of flowers,
+And birds of foreign tongue!
+I say, as if this little flower
+To Eden wandered in --
+What then? Why, nothing, only,
+Your inference therefrom!
+
+
+
+
+

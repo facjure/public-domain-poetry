@@ -1,0 +1,29 @@
+---
+title: GYPSY
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Wisdom
+  - Silence
+  - Imitation
+  - Rights
+  - Freedom
+---
+
+I ASKED a gypsy pal
+To imitate an old image
+And speak old wisdom.
+She drew in her chin,
+Made her neck and head
+The top piece of a Nile obelisk
+     and said:
+Snatch off the gag from thy mouth, child,
+And be free to keep silence.
+Tell no man anything for no man listens,
+Yet hold thy lips ready to speak.
+
+

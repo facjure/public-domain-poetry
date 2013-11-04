@@ -1,0 +1,27 @@
+---
+title: Losses
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags:
+  - Social Realism
+  - Imagism
+  - Love
+  - Loss
+  - Aging
+  - Death
+  - Life
+---
+
+I HAVE love
+And a child,
+A banjo
+And shadows.
+(Losses of God,
+All will go
+And one day
+We will hold
+Only the shadows.)
+

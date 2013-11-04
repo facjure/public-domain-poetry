@@ -1,0 +1,32 @@
+---
+title: IV. SUSPENSE.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Elysium
+  - Friends
+  - Felicity
+  - Doom
+  - Soul
+  - Fortitude
+  - Mystery
+  - Suspension
+---
+
+Elysium is as far as to
+The very nearest room,
+If in that room a friend await
+Felicity or doom.
+
+What fortitude the soul contains,
+That it can so endure
+The accent of a coming foot,
+The opening of a door!
+
+
+
+
+

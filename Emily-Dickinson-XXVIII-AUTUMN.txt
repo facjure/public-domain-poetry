@@ -1,0 +1,28 @@
+---
+title: XXVIII. AUTUMN.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Nature
+  - Beauty
+  - Imagery
+  - Autumn
+---
+
+The morns are meeker than they were,
+The nuts are getting brown;
+The berry's cheek is plumper,
+The rose is out of town.
+
+The maple wears a gayer scarf,
+The field a scarlet gown.
+Lest I should be old-fashioned,
+I'll put a trinket on.
+
+
+
+
+

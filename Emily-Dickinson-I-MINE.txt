@@ -1,0 +1,27 @@
+---
+title: I. MINE.
+author: Emily Dickinson
+curator: Michael
+country: USA
+year: Late 19th Century
+gender: female
+tags:
+  - Possession
+  - Originality
+  - Ego
+---
+
+Mine by the right of the white election!
+Mine by the royal seal!
+Mine by the sign in the scarlet prison
+Bars cannot conceal!
+
+Mine, here in vision and in veto!
+Mine, by the grave's repeal
+Titled, confirmed, -- delirious charter!
+Mine, while the ages steal!
+
+
+
+
+
