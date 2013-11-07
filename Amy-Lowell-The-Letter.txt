@@ -3,7 +3,7 @@ author: Amy Lowell
 gender: female
 title: The Letter
 curator: Ata
-year: 19th/20th century	
+year: 19th/20th century
 country: America
 tags:
  - moon

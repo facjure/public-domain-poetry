@@ -12,7 +12,7 @@ tags:
   - street
   - spirit
   - youth
-  -excerpt
+  - excerpt
 ---
 
 Where'er my spirit was turning,

@@ -2,7 +2,7 @@
 author: Will Carleton
 book: City Ballads
 curator: Ata
-country: USA	
+country: USA
 year: 19th/20th century
 gender: male
 tags: 

@@ -1,0 +1,25 @@
+---
+author: Carl Sandburg
+curator: Michael
+country: USA
+year: 1916
+gender: male
+tags: 
+  - Chicago
+  - America
+  - Man
+  - Dreams
+  - Workers
+  - Proletariat
+  - Shovel
+---
+
+   ON the street
+Slung on his shoulder is a handle half way across,
+Tied in a big knot on the scoop of cast iron
+Are the overalls faded from sun and rain in the ditches;
+Spatter of dry clay sticking yellow on his left sleeve
+   And a flimsy shirt open at the throat,
+   I know him for a shovel man,
+   A dago working for a dollar six bits a day
+And a dark-eyed woman in the old country dreams of him for one of the world’s ready men with a pair of fresh lips and a kiss better than all the wild grapes that ever grew in Tuscany.

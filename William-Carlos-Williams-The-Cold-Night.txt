@@ -1,5 +1,4 @@
 ---
-
 author: William Carlos Williams
 title: The Cold Night
 curator: Ata
@@ -13,8 +12,7 @@ tags:
   - April
   - babies
   - polics
-  -life
-  
+  - life
 ---
 
 
