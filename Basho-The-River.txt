@@ -1,0 +1,22 @@
+---
+title: The River
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  river
+-  sea
+-  time
+---
+The river
+gathering May rains
+from cold streamlets
+for the sea...
+murmuring Mogami
+
+
