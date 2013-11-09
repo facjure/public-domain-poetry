@@ -1,0 +1,20 @@
+---
+title: Untitled
+author: Sanin
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  funny
+-  lyric
+-  walking
+-  friend
+---
+In the farther field
+a scarecrow kept me
+company...
+walking as I walked
+
