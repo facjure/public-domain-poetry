@@ -1,0 +1,20 @@
+---
+title: Mountain-Rose Petals
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  water
+-  happy
+-  nature
+-  music
+---
+Mountain-rose petals
+falling, falling,
+falling now...
+waterfall music
+
