@@ -1,0 +1,19 @@
+---
+title: Over the Mountain
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  theft
+-  moon
+-  flower
+---
+Over the mountain
+bright the full white moon now smiles...
+on the flower-thief
+
