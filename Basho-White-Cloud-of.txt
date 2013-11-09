@@ -1,0 +1,20 @@
+---
+title: White Cloud of Mist
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  sky
+-  mountain
+---
+White cloud of mist
+above white
+cherry-blossoms...
+dawn-shinning mountains
+
