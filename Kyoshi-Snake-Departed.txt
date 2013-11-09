@@ -1,0 +1,18 @@
+---
+title: Snake Departed
+author: Kyoshi
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  green
+-  descriptive
+-  grass
+---
+The snake departed
+but the little eyes that glared...
+dew, shinning in the grass 
