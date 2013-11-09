@@ -1,0 +1,20 @@
+---
+title: Dewdrop
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  water
+-  life
+-  lyric
+---
+Dewdrop, let me cleanse
+in your brief
+sweet waters...
+these dark hands of life
+
