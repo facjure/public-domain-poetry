@@ -1,0 +1,20 @@
+---
+title: Nursemaid Scarecrow
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  funny
+-  wind
+-  nature
+---
+A nursemaid scarecrow...
+frightening the
+wind and sun
+from playing baby
+
