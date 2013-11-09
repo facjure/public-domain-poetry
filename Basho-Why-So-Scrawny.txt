@@ -1,0 +1,20 @@
+---
+title: Why So Scrawny, Cat? 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  funny
+-  hunger
+-  love
+-  nature
+---
+Why so scrawny, cat? 
+Starving for fat fish
+or mice...
+or backyard love? 
+
