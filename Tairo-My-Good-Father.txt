@@ -1,0 +1,20 @@
+---
+title: My Good Father Raged
+author: Tairo
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flower
+-  nature
+-  happy
+-  life
+---
+My good father raged
+when I snapped
+the peony...
+precious memory!
+
