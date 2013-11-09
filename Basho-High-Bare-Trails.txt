@@ -1,0 +1,20 @@
+---
+title: High Bare Trails
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  nature
+-  descriptive
+-  sky
+-  haiku
+-  flowers
+---
+Seek on high bare trails
+sky-reflecting
+violets...
+mountain-top jewels 
+
