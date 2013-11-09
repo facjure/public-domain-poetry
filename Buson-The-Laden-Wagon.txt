@@ -1,0 +1,20 @@
+---
+title: The Laden Wagon Runs
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  flowers
+-  road
+-  meditative
+---
+The laden wagon runs
+bumbling and creaking
+down the road...
+three peonies tremble
+
