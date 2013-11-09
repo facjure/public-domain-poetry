@@ -1,0 +1,19 @@
+---
+title: Pretty Butterflies
+author: Shusen
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  wind
+-  pine
+-  nature
+-  lyric
+---
+Pretty butterflies...
+be careful of pine-needle points
+in this gusty wind!
+
