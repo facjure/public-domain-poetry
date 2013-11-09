@@ -1,0 +1,18 @@
+---
+title: Voices of Two Bells
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  twilight
+-  temple
+-  nature
+-  life
+---
+Voices of two bells
+that speak from twilight temples...
+ah! Cool dialogue
