@@ -1,0 +1,19 @@
+---
+title: Across Low Mist
+author: Gakoku 
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lake
+-  nature
+-  image
+-  boat
+---
+Far across low mist
+intermittently the lake
+lifts a snow-white sail 
+
