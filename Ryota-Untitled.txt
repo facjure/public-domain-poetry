@@ -1,0 +1,21 @@
+---
+title: Untitled
+author: Ryota
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  sky
+-  mountain
+-  cherry
+---
+Cloudbank curling low? 
+Ah! The mountain 
+Yoshino...
+Cherry cumulus!
+
+
