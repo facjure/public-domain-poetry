@@ -1,0 +1,19 @@
+---
+title: In the Twilight Rain
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flower
+-  sunset
+-  image
+-  nature
+---
+In the twilight rain 
+these brilliant-hued hibiscus...
+a lovely sunset
+
