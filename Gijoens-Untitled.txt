@@ -1,0 +1,18 @@
+---
+title: Untitled
+author: Gijoens
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  singing
+-  image
+-  pine
+---
+Can't it get away
+from the sticky pine-branches...
+cicada singing? 
