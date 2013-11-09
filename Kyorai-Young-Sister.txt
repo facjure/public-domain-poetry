@@ -1,0 +1,21 @@
+---
+title: Young Sister
+author: Kyorai 
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  nature
+-  death
+-  life
+---
+A young sister
+pitiful... on my
+outstretched palm
+at dusk dies
+the little firefly
+
