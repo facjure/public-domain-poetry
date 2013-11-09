@@ -1,0 +1,20 @@
+---
+title: Camellia-Petal
+author: Basho
+curator: Ata 
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  dawn
+-  water
+-  nature
+---
+Camellia-petal
+fell in silent dawn...spilling
+a water-jewel
+
+
