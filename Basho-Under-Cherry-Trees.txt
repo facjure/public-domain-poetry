@@ -1,0 +1,21 @@
+---
+title: Under Cherry Trees
+author: Basho 
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  food
+-  happy
+-  life
+---
+Under cherry-trees
+soup, the salad, 
+fish and all...
+season with petals
+
+
