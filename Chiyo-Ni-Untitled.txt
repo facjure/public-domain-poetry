@@ -1,6 +1,6 @@
 ---
 title: Untitled
-author: Chiyo-Ni 
+author: Chiyo-Ni
 curator: Ata
 country: Japan
 year: 18th century
@@ -8,13 +8,12 @@ book:
 gender: female
 tags: 
 -  haiku
--  death
--  image
--  sad
 -  nature
+-  soul
+-  vine
+-  image
 ---
-On her dead son
-in what windy land
-wanders now
-my little dear
-dragonfly hunter? 
+Quite a hundred gourds
+sprouting from the fertile soul...
+of a single vine
+
