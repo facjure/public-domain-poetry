@@ -1,0 +1,20 @@
+---
+title: Glorious the Moon
+author: Basho 
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  sky
+-  time
+-  sleep
+---
+Glorious the moon...
+therefore our thanks
+dark clouds
+come to rest our necks
+
