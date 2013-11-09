@@ -1,0 +1,20 @@
+---
+title: What a Peony
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku 
+-  nature
+-  funny
+-  lyric
+-  image
+---
+What a peony...
+demanding to be
+measure
+by my little fan!
+
