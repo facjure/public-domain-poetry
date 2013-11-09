@@ -1,0 +1,19 @@
+---
+title: Hard the Beggar's Bed
+author: Chiyo-Ni
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: female
+tags: 
+-  haiku
+-  poor
+-  life
+-  nature
+-  insect
+---
+Hard the beggar's bed
+but sociable and busy
+with insect-talking
+
