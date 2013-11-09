@@ -1,0 +1,18 @@
+---
+title: The Emperor
+author: Dansui
+curator: Ata 
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  hat
+-  image
+-  scarecrow
+-  life
+---
+For the emperor
+himself he will not lift his hat...
+a stiff-backed scarecrow
