@@ -1,0 +1,20 @@
+---
+title: Sea-surf Edge
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  sea
+-  happy
+-  image
+---
+In the sea-surf edge
+mingling with
+bright small shells...
+bush-clover petals
+
