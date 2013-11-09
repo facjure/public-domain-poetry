@@ -1,0 +1,21 @@
+---
+title: Fallen Flower
+author: Moritake
+curator: Ata
+country: Japan
+year: 15th/16th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  white
+-  butterfly
+-  image
+---
+One fallen flower
+returning to the 
+branch? ... Oh no!
+A white butterfly
+
+
