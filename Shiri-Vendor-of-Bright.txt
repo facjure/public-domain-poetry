@@ -1,0 +1,19 @@
+---
+title: Vendor of Bright Fans
+author: Shiri 
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  nature
+-  wind
+-  heat
+-  image
+---
+Vendor of bright fans
+carrying his pack of breeze...
+suffocating heat!
+
