@@ -1,0 +1,19 @@
+---
+title: Ashes My Burnt Hut
+author: Hokushi 
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  cherry
+-  image
+-  lyric
+---
+Ashes my burnt hut...
+but wonderful
+the cherry
+blooming on my hill
