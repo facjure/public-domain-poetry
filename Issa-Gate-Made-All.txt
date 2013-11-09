@@ -1,0 +1,21 @@
+---
+title: Gate Made All of Twigs
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  happy
+-  grass
+-  image
+---
+A gate made all of twigs
+with woven grass
+for hinges...
+for a lock... this snail
+
+
