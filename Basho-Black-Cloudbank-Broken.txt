@@ -1,0 +1,20 @@
+---
+title: Black Cloudbank Broken
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  mountain
+-  descriptive
+-  light
+---
+Black cloudbank broken
+scatters in the 
+night... now see
+moon-lighted mountains!
+
