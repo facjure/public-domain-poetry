@@ -1,0 +1,19 @@
+---
+title: Lend Me Water Please? 
+author: Chiyo-Ni
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: female
+tags: 
+-  haiku
+-  nature
+-  thirst
+-  sad
+-  flower
+---
+Lend me water please? 
+Some fresh young
+morning-glory,
+careless... took my well
