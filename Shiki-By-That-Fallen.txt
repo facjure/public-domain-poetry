@@ -1,0 +1,20 @@
+---
+title: By That Fallen House
+author: Shiki
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  war
+-  life
+-  pear
+---
+By that fallen house
+the pear-tree stands
+full-blooming...
+an ancient battle-site
+
