@@ -1,0 +1,19 @@
+---
+title: Untitled
+author: Anonymous
+curator: 
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  mouth
+-  frog
+-  happy
+-  nature
+---
+Friend, that open mouth
+revelas your whole interior...
+silly hollow frog!
+
