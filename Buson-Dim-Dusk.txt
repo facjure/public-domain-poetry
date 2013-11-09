@@ -1,0 +1,19 @@
+---
+title: Dim Dusk
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flower
+-  nature
+-  image
+-  night
+---
+In dim dusk and scent
+a witness now half-hidden...
+evenfall orchid
+
