@@ -1,0 +1,20 @@
+---
+title: Fickle World
+author: Ryota 
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  life
+-  cherry
+-  time
+---
+Fie! This fickle world!
+Three days, neglected
+cherry-branch...
+and you are bare
+
