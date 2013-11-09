@@ -1,0 +1,19 @@
+---
+title: A Lost Child Crying
+author: Ryusui
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  image
+-  fireflies
+-  night
+---
+A lost child crying
+stumbling over the dark fields...
+catching fireflies
+
