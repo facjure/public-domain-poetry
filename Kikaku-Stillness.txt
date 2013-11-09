@@ -1,0 +1,19 @@
+---
+title: Stillness
+author: Kikaku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  bat
+-  image
+-  sky
+---
+Stillness... then the bat
+flying among the willows
+black against green sky
+
