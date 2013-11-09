@@ -1,0 +1,18 @@
+---
+title: Oh Lucky Beggar!
+author: Kikaku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  poor
+-  earth
+-  summer
+-  heaven
+---
+Oh lucky beggar!...
+Bright heaven and cool earth
+your summer outfit
