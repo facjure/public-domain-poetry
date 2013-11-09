@@ -1,0 +1,20 @@
+---
+title: Lightning Flash, Crash
+author: Buson 
+curator: Ata 
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  storm
+-  descriptive
+-  bamboo 
+---
+Lightning flash, crash...
+waiting in the 
+bamboo grove
+see three dew-drops fall
+
