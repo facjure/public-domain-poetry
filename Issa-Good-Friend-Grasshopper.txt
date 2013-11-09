@@ -1,0 +1,18 @@
+---
+title: Good Friend Grasshopper
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  death
+-  life
+-  music
+---
+Good friend grasshopper
+will you play the caretaker
+for my little grave? 
