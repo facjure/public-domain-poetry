@@ -1,0 +1,20 @@
+---
+title: April's Air
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  time
+-  nature
+-  haiku
+-  butterfly
+-  image
+---
+April's air stirs in
+willow-leaves...
+a butterfly
+floats and balances
+
