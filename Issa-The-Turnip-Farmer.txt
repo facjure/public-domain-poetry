@@ -1,0 +1,19 @@
+---
+title: The Turnip Farmer
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  happy
+-  life
+-  image
+---
+The turnip farmer rose
+and with a fresh-pulled turnip...
+pointed to my road
+
