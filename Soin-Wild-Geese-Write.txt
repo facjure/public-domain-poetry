@@ -1,0 +1,21 @@
+---
+title: Wild Geese Write a Line
+author: Soin
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  flying
+-  sky
+-  Dutch
+---
+Wild geese write a line
+flap-flapping
+across the sky...
+Comical Dutch script
+
+
