@@ -1,0 +1,20 @@
+---
+title: Seas Are Wild Tonight
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  stars
+-  haiku
+-  nature
+-  lyric
+-  happy
+---
+Seas are wild tonight...
+stretching over
+Sado Island
+silent clouds of stars
+
