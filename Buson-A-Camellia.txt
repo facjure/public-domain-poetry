@@ -1,0 +1,18 @@
+---
+title: A Camellia
+author: Buson 
+curator: Ata 
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  water
+-  haiku
+-  image
+-  nature
+-  
+---
+A camellia
+dropped down into still waters
+of a deeper dark well
