@@ -1,0 +1,20 @@
+---
+title: Must Springtime Fade? 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male 
+tags: 
+-  haiku
+-  nature
+-  fish
+-  sad
+-  cry
+---
+Must Springtime fade? 
+Then cry all birds...
+and fishes'
+cold pale eyes pour tears
+
