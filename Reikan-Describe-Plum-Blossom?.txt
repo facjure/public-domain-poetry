@@ -1,0 +1,19 @@
+---
+title: Describe Plum-Blossom? 
+author: Reikan
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  butterfly
+-  ars poetica
+---
+Describe plum-blossom? 
+Better than my
+verses... white
+wordless butterflies
