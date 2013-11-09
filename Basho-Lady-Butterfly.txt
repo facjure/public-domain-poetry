@@ -1,0 +1,19 @@
+---
+title: Lady Butterfly
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  wings
+-  flower
+-  nature
+-  image
+---
+Lady butterfly
+perfumes her wings by floating
+over the orchid
+
