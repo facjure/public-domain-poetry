@@ -1,0 +1,19 @@
+---
+title: Stupid Hot Melons
+author: Kyora
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  image
+-  shade
+-  funny
+-  nature
+---
+Stupid hot melons...
+rolling like fat idiots
+out from leafy shade!
+
