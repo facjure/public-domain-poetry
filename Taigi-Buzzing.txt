@@ -1,0 +1,19 @@
+---
+title: Buzzing
+author: Taigi
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  butterfly
+-  haiku
+-  nature
+-  flower
+-  
+---
+Buzzing the bee trades
+peony for peony
+with the butterfly
+
