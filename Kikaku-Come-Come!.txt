@@ -1,0 +1,19 @@
+---
+title: Come Come!
+author: Kikaku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  frog
+-  haiku
+-  nature
+-  night 
+-  stars
+---
+Come come! Come out!
+From bogs old frogs command the dark
+and look... the stars!
+
