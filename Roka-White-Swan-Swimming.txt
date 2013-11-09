@@ -1,0 +1,19 @@
+---
+title: White Swan Swimming
+author: Roka
+curator: Ata
+country: Japan
+year: 16th/17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  water
+-  cherry
+-  happy
+---
+A white swan swimming...
+parting with her unmoved breast
+cherry-petaled pond
+
