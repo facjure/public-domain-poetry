@@ -1,0 +1,21 @@
+---
+title: In Silent Mid-Night
+author: Bon Cho
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  time
+-  descriptive
+-  strange
+-  scarecrow
+-  sound
+---
+In silent mid-night
+our old scarecrow
+topples down...
+weird hollow echo
+
+
