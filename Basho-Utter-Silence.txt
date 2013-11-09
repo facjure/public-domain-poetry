@@ -1,0 +1,19 @@
+---
+title: Utter Silence
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  cricket
+-  singing
+-  meditative 
+---
+Such utter silence!
+Even the crickets' singing
+muffled by hot rocks
+
