@@ -1,0 +1,18 @@
+---
+title: Yellow Evening Sun
+author: Shoha
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  shadow
+-  scarecrow
+-  image
+-  road
+---
+Yellow evening sun...
+long shadow of the scarecrow
+reaches to the road
