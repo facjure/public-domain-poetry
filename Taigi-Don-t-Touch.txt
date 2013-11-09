@@ -1,0 +1,20 @@
+---
+title: Don't Touch My Plumtree
+author: Taigi
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  friend
+-  strange
+-  narrative
+---
+Don't touch my plumtree!
+Said my friend
+and saying so...
+Broke the branch for me
+
