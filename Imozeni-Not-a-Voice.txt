@@ -1,0 +1,19 @@
+---
+title: Not a Voice or Stir
+author: Imozeni
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  moon
+-  dark
+-  sad
+---
+Not a voice or stir...
+darkness lies on fields and streets
+sad: the moon has set
+
