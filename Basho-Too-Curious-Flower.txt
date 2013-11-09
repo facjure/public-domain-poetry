@@ -1,0 +1,19 @@
+---
+title: Too Curious Flower
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  flower  
+-  haiku
+-  funny
+-  nature
+-  donkey
+---
+Too curious flower
+watching us pass, 
+met death...
+our hungry donkey
