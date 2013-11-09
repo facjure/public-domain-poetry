@@ -1,0 +1,20 @@
+---
+title: In the Open Shop
+author: Kito
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  book
+-  Spring
+-  nature
+-  image
+---
+In the open shop
+paperweight on
+picture books...
+young springtime breeze
+
