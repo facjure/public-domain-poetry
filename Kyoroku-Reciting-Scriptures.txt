@@ -1,0 +1,20 @@
+---
+title: Reciting Scriptures
+author: Kyoroku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  strange
+-  blue
+-  nature
+-  flower
+---
+Reciting scriptures...
+Strange the
+wondrous blue I find
+in morning-glories
+
