@@ -1,0 +1,19 @@
+---
+title: Tiny Sentences
+author: Sesshi
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  ars poetica
+-  haiku
+-  nature
+-  image
+-  strange
+---
+Tiny sentences
+brushing soft on my shutters...
+bush-clover voices
+
