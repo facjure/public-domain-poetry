@@ -1,0 +1,20 @@
+---
+title: Hi! My Little Hut
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  nature
+-  lyric
+-  haiku
+-  flowers
+-  happy
+---
+Hi! My little hut
+is newly-thatched
+I see...
+Blue morning-glories
+
