@@ -1,0 +1,18 @@
+---
+title: Now Be a Good Boy
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  cricket
+-  love
+---
+Now be a good boy
+take good care of our house...
+cricket my child
