@@ -1,0 +1,21 @@
+---
+title: Women Planting Rice
+author: Raizan
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  nature
+-  descriptive
+-  song
+-  life
+-  haiku
+---
+Women planting rice...
+Ugly every but
+about them...
+But their ancient song
+
+
