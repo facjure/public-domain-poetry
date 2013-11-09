@@ -1,0 +1,19 @@
+---
+title: Mirror-Pond of Stars
+author: Sora
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  summer
+-  water
+-  image
+-  nature
+---
+Mirror-pond of stars...
+suddenly a summer shower
+dimples the water
+
