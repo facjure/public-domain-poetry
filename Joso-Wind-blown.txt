@@ -1,0 +1,21 @@
+---
+title: Wind-blown
+author: Joso
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  wind
+-  image
+-  lyric
+---
+Wind-blown, rained on...
+bent barley-grass
+you make me
+narrow path indeed
+
+
