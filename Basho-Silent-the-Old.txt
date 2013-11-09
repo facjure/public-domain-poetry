@@ -1,0 +1,19 @@
+---
+title: Silent the Old Town
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  flowers
+-  nature
+-  evening
+---
+Silent the old town...
+the scent of flowers floating...
+and evening bell
+
