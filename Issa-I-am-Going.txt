@@ -1,0 +1,18 @@
+---
+title: I am Going Out
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  children
+-  nature
+-  happy
+-  life
+---
+I am going out...
+be good and play together
+my cricket children
