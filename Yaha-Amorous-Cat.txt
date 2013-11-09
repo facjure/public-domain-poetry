@@ -1,0 +1,20 @@
+---
+title: Amorous Cat
+author: Yaha
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  love
+-  lyric
+-  sad
+-  strange
+---
+Amorous cat, alas
+you too must yowl
+with your love...
+or even worse, without!
+
