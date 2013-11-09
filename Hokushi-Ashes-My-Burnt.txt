@@ -10,7 +10,7 @@ tags:
 -  haiku
 -  nature
 -  cherry
--  image
+-  fire
 -  lyric
 ---
 Ashes my burnt hut...
