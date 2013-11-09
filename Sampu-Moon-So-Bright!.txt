@@ -1,0 +1,19 @@
+---
+title: Moon So Bright!
+author: Sampu
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  love
+-  cold
+-  life
+-  warm
+---
+Moon so bright for love!
+Come closer, quilt...
+enfold
+my passionate cold!
