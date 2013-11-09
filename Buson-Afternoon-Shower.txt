@@ -1,0 +1,20 @@
+---
+title: Afternoon Shower
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  street
+-  haiku
+-  life
+-  umbrella
+-  raincoat
+---
+Afternoon shower...
+walking and talking
+in the street:
+umbrella and raincoat!
+
