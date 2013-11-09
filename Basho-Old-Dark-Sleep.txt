@@ -1,0 +1,19 @@
+---
+title: Old Dark Sleep Pool
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  water
+-  haiku
+-  frog
+-  nature
+-  onomatopoeia 
+---
+Old dark sleepy pool...
+quick unexpected frog
+goes plop! Watersplash!
+
