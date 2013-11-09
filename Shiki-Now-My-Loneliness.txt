@@ -1,0 +1,19 @@
+---
+title: Now My Loneliness
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  fireworks
+-  nature
+-  star
+-  lyric
+---
+Now my loneliness
+following the fireworks...
+look! A falling star!
+
