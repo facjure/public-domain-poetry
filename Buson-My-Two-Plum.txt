@@ -1,0 +1,20 @@
+---
+title: My Two Plum Trees
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  flower
+-  time
+-  happy
+---
+My two plum trees are
+so gracious...
+see, they flower
+one now, one later
+
