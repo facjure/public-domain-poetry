@@ -1,0 +1,18 @@
+---
+title: If Strangers Threaten
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  frog
+-  nature
+-  green
+-  water
+---
+If strangers threaten 
+turn into fat green bullfrogs...
+pond-cooling melons
