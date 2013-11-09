@@ -1,0 +1,20 @@
+---
+title: Ah Me! I
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  time
+-  breakfast
+-  gaze
+---
+Ah me! I am one
+who spends his little
+breakfast
+morning-glory gazing
+
