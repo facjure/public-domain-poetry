@@ -1,0 +1,19 @@
+---
+title: Giddy Grasshopper
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: 
+tags: 
+-  haiku
+-  nature
+-  pearl
+-  dew
+-  image
+---
+Giddy grasshopper
+take care... do not leap and crush
+these pearls of dewdrop
+
