@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Untitled 
 author: Issa
 curator: Ata
 country: Japan
@@ -7,15 +7,14 @@ year: 18th/19th century
 book: 
 gender: male
 tags: 
--  death
 -  haiku
--  life
--  love
--  child
+-  sad
+-  death
+-  nature
+-  image
 ---
-On the death of his child
-dew evaporates 
-and all our world
-is dew... so dear, 
-so fresh, so fleeting
+A saddening world:
+flowers whose sweet
+blooms must fall...
+as we too, alas...
 
