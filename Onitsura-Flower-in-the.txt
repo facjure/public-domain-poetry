@@ -1,0 +1,20 @@
+---
+title: Flower in the Stream
+author: Onitsura
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  life
+-  love
+-  water
+---
+Flower in the stream
+thus too my lovely life 
+must end, another flower...
+to fall and float away
+
