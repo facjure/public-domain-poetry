@@ -1,0 +1,19 @@
+---
+title: Morning Breeze
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  caterpillar
+-  wind
+-  happy
+---
+See the morning breeze
+ruffling his so silky hair...
+cool caterpillar
+
