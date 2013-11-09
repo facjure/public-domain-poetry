@@ -1,0 +1,21 @@
+---
+title: Lovely Bowl
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  hunger
+-  love
+-  rice
+-  flowers
+---
+For a lovely bowl
+let us arrange these
+flowers...
+since there is no rice
+
+
