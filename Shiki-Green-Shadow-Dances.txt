@@ -1,0 +1,20 @@
+---
+title: Green Shadow-Dances
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  lyric
+-  image
+-  happy
+---
+Green shadow-dances...
+See our young
+banana-tree
+patterning the screen
+
