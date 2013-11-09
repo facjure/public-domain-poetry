@@ -1,0 +1,20 @@
+---
+title: Windy Nest
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  wind
+-  bird
+-  nature
+-  lyric
+---
+In this windy nest
+open your hungry
+mouth in vain...
+Issa, stepchild bird
+
