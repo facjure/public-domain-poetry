@@ -1,0 +1,20 @@
+---
+title: In These Dark Waters
+author: Ringai
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  water
+-  season
+-  time
+---
+In these dark waters
+drawn up from
+my frozen well...
+glittering of Spring
+
