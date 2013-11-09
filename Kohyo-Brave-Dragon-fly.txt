@@ -1,0 +1,18 @@
+---
+title: Brave Dragon-fly
+author: Kohyo
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  death
+-  image
+-  metaphor
+-  life
+---
+Ah! Brave dragon-fly...
+taking for your perch this swatter
+consecrate to death
