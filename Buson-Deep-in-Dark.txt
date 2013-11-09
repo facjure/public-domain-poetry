@@ -1,0 +1,18 @@
+---
+title: Deep in Dark Forest
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  wood
+-  image
+-  
+---
+Deep in dark forest
+a woodcutter's dull axe talking...
+and a woodcutter 
