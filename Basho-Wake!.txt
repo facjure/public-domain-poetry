@@ -1,0 +1,19 @@
+---
+title: Wake!
+author: Basho 
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  morning
+-  light
+-  butterfly
+-  nature
+---
+Wake! The sky is light!
+Let us to the road again...
+companion butterfly!
+
