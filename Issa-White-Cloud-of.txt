@@ -1,0 +1,20 @@
+---
+title: White Cloud of Mist
+author: Issa
+curator: Ata
+country: Japan 
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  nature
+-  haiku
+-  morning
+-  mountains
+-  image
+---
+White cloud of mist
+above white
+cherry-blossoms...
+dawn-shining mountains
+
