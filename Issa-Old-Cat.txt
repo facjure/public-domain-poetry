@@ -1,0 +1,20 @@
+---
+title: Old Cat
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  cat
+-  haiku
+-  image
+-  love
+-  happy
+---
+Arise from sleep, old cat, 
+and with great yawns
+and stretchings...
+amble out for love
+
