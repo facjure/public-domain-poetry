@@ -1,0 +1,19 @@
+---
+title: Untitled
+author: Sampu
+curator: Ata 
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  knife
+-  rose
+-  walking
+---
+I raised my knife to it:
+then walked empty-handed on...
+proud rose of Sharon
+
