@@ -1,0 +1,20 @@
+---
+title: See, See, See!
+author: Teishitsu
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  happy
+-  life
+-  haiku
+-  nature
+-  love
+---
+See, see, see! Oh see!
+Oh what to say?
+Ah Yoshino...
+Moutain-all-abloom!
+
