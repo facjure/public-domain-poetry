@@ -1,0 +1,19 @@
+---
+title: Darting Dragon-fly
+author: Kikaku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  wings
+-  image
+-  pepper
+---
+Darting dragon-fly...
+pull off its shiny wings and look...
+bright red- pepper-pod
+
