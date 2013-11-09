@@ -1,0 +1,19 @@
+---
+title: Cool Evening
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  temple
+-  haiku
+-  penny
+-  lyric
+-  image
+---
+For a cool evening
+I hired the old temple porch...
+penny in the dish
+
