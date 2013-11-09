@@ -1,0 +1,20 @@
+---
+title: My Shadow Path
+author: Yaha
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  time
+-  plant
+-  image
+-  nature
+---
+My shadow path
+I've swept all day 
+and now... oh no!
+Camellia-shower!
+
