@@ -1,0 +1,20 @@
+---
+title: Stupid Scarecrow
+author: Yayu
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  funny
+-  theft
+-  birds
+---
+You stupid scarecrow!
+Under your very
+stick-feet
+birds are stealing beans!
+
