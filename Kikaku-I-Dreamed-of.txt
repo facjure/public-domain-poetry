@@ -1,0 +1,20 @@
+---
+title: I Dreamed of Battles
+author: Kikaku
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  war
+-  strange
+-  haiku
+-  lyric
+-  
+---
+I dreamed of battles
+and was slain...
+Oh savage samurai!
+insatiable fleas!
+
