@@ -1,0 +1,19 @@
+---
+title: Swallow in the Dusk
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  bird
+-  haiku
+-  lyric
+-  image
+-  flowers
+---
+Swallow in the dusk...
+spare my little buzzing friends
+among the flowers
+
