@@ -1,0 +1,20 @@
+---
+title: Butterfly Ballet
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  dance
+-  nature
+-  love
+-  haiku
+-  
+---
+Ballet in the air...
+Twin butterflies
+until, twice white
+they meet, they mate
+
