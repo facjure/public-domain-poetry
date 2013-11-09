@@ -1,0 +1,20 @@
+---
+title: Twilight Whippoorwill
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  love
+-  night
+-  loneliness
+---
+Twilight whippoorwill...
+whistle on, 
+sweet deepener
+of dark loneliness
+
