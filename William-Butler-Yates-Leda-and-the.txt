@@ -1,11 +1,11 @@
 ---
-title: Leda and the swan
+title: Leda and the Swan
 author:  William Butler Yates
 curator: Patrice
 country: US
 year: 1920
 book: 
-gender: 
+gender: male
 tags: 
 -  tragedy
 -  rape
@@ -25,7 +25,7 @@ tags:
     But feel the strange heart beating where it lies?
 
     A shudder in the loins engenders there
-    The broken wall, the burning roof and tower[20]
+    The broken wall, the burning roof and tower
     And Agamemnon dead.
 
                         Being so caught up,
