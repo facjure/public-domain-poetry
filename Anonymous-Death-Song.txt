@@ -1,0 +1,18 @@
+---
+title: Death-Song
+author: Anonymous
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  cherry
+-  nightingale
+-  sleep
+-  lyric
+---
+Death-song: I have known
+lovers...cherry-bloom... the nightingale...
+I will sleep content
