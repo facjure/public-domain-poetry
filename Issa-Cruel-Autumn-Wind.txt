@@ -1,0 +1,19 @@
+---
+title: Cruel Autumn Wind
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  bones
+-  image
+-  scarecrow
+-  nature
+---
+Cruel autumn wind
+cutting to the very bones...
+of my poor scarecrow
+
