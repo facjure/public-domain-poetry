@@ -1,0 +1,19 @@
+---
+title: Death-Song 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  dream
+-  loneliness
+-  walking
+---
+Death-Song:
+fever-felled half-way, my dreams
+arose to march again
+into a hollow land
