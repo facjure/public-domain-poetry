@@ -1,0 +1,18 @@
+---
+title: Winter Rain Deepens
+author: Joso
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  season
+-  haiku
+-  introspective
+-  image
+-  grave
+---
+Winter rain deepens
+lightened letter on the grave...
+and my old sadness 
