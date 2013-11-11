@@ -1,0 +1,18 @@
+---
+title: Come In
+author: Kyora
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  snow
+-  lyric
+-  descriptive
+-  
+---
+"Yes, come in!" I cried...
+but at the windy snow-hung gate
+knocking still went on
