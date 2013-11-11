@@ -1,0 +1,24 @@
+---
+title: The Sun Could Cast an Eternal Shadow
+author: Gustavo Adolfo Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  time
+-  simile
+-  lyric
+-  death
+-  philosophical
+---
+The sun could cast an eternal shadow,
+And the sea could run dry in but a chime;
+The earth's axis could break
+Like crystal fine.
+
+Anything could happen! Death enswathing
+Could cover me with its mournful attire;
+But in me your flame of love
+Could never expire.
