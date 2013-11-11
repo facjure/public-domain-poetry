@@ -8,11 +8,11 @@ book:
 gender: 
 tags: 
 -  haiku
--  candle
--  cricket
+-  rain
+-  bird
+-  nature
 -  image
--  life
 ---
-A single cricket
-chirps, chirps, chirps, and is still...my
-candle sinks and dies 
+Gray marsh, black cloud
+flapping away in autumn rain
+last old slow heron
