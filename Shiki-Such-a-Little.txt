@@ -1,0 +1,19 @@
+---
+title: Such a Little Child
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku  
+-  religion
+-  poor
+-  life
+-  
+---
+Such a little child
+to send to be a priestling 
+icy poverty
+
