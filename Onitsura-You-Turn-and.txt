@@ -1,0 +1,19 @@
+---
+title: You Turn and Suddenly
+author: Onitsura
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  sky
+-  autumn
+-  time
+-  happy
+---
+You turn and suddenly
+there in purpling autumn sky...
+white Fujiami
+
