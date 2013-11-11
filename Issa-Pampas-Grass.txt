@@ -1,0 +1,19 @@
+---
+title: Pampas Grass 
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  wind
+-  nature
+-  heart
+-  life
+---
+Plume of pampas grass
+trembling in every wind...
+hush, my lonely heart
+ 
