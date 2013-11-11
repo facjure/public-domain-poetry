@@ -1,0 +1,19 @@
+---
+title: Winter Storm
+author: Gonsui
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  nature
+-  sea
+-  season
+---
+Roaring winter storm
+rushing to its utter end...
+ever-sounding sea
+
