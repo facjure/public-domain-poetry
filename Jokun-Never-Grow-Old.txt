@@ -1,0 +1,18 @@
+---
+title: Never Grow Old
+author: Jokun
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  aging
+-  New Year
+-  bell
+---
+Ah! I intended 
+never never to grow old...
+Listen: new year's bell!
