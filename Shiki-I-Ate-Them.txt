@@ -1,0 +1,18 @@
+---
+title: I Ate Them All
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  apples
+-  funny
+-  lyric
+-  life
+---
+Oh! I ate them all 
+and oh! what a stomach-ache...
+green stolen apples 
