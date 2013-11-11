@@ -1,0 +1,19 @@
+---
+title: Considerate Dogs
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  snow
+-  walking
+-  lyric
+-  uplifting
+---
+Considerate dogs...
+stepping off into the snow
+as I walk the path
+
