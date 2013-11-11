@@ -1,0 +1,19 @@
+---
+title: Surviving Suns
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  grave
+-  descriptive
+-  lyric
+-  
+---
+See: surviving suns
+visit the ancestral grave...
+bearded, with bent canes
+
