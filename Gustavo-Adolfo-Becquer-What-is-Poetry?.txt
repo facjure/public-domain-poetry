@@ -1,0 +1,22 @@
+---
+title: What is Poetry? 
+author: Gustavo Adolfo Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  ars poetica
+-  eyes
+-  philosophical
+-  
+---
+'What is Poetry?' You ask as you nail
+Your blue pupil on mine.
+
+And is it you who ask it to me?
+Poetry is you!
+
+
