@@ -1,0 +1,19 @@
+---
+title: Angry I Strode Home
+author: Ryota
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  willow
+-  image
+-  life
+---
+Angry I strode home...
+but stopping in my garden
+calm old willow-tree
+
