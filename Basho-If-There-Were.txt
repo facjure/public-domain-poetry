@@ -1,0 +1,19 @@
+---
+title: If There Were Fragrance 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  snow
+-  flowers
+-  meditative
+-  nature
+---
+If there were fragrance
+these heavy snow-flakes settling...
+lilies on the rocks 
+
