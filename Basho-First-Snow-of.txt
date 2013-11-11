@@ -1,0 +1,19 @@
+---
+title: First Snow of Fall
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  daffodils
+-  image
+-  lyric
+-  nature
+---
+First white snow of fall
+just enough to bend the leaves
+of faded daffodils
+
