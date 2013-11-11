@@ -1,0 +1,20 @@
+---
+title: Last Parting
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  boat
+-  willow
+-  image
+-  nature
+---
+At our last parting
+bending between boat and shore...
+that weeping willow
+
+
