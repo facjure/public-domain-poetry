@@ -1,0 +1,18 @@
+---
+title: Cheerful Cricket
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  autumn
+-  happy
+-  nature
+-  snow
+---
+Dry cheerful cricket
+chirping, keep the autumn gay...
+contemptuous of frost
