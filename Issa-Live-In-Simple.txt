@@ -1,0 +1,23 @@
+---
+title: Live In Simple Faith
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  cherry
+-  life
+-  image
+-  faith
+---
+Live in simple faith...
+just as this trusting cherry
+flowers, fades, and falls
+
+
+
+
+
