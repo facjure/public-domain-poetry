@@ -1,0 +1,20 @@
+---
+title: Dancing in My Silks
+author: Sono-jo  
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  money
+-  happy
+-  life
+-  dress
+---
+Dancing in my silks
+money tossed itself away...
+pretty, this paper dress!
+
+
