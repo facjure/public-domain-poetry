@@ -1,0 +1,20 @@
+---
+title: I Must Turn Over
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  haiku
+-  cricket
+-  funny
+-  life
+---
+I must turn over...
+beware of local earthquakes
+bedfellow cricket!
+
+
