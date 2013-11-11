@@ -1,0 +1,18 @@
+---
+title: Winter Rain Deepens
+author: Roka
+curator: Ata
+country: Japan
+year: 16th/17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  grave
+-  sad
+-  life
+-  lyric
+---
+Winter rain deepens
+lichened letters on my grave...
+and my old sadness
