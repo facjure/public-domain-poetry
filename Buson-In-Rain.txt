@@ -1,0 +1,19 @@
+---
+title: In Rain
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  beach
+-  image
+-  lyric
+-  life
+---
+At Furue in rain
+gray water and gray sand...
+picture without lines
+ 
