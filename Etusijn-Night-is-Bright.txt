@@ -1,0 +1,18 @@
+---
+title: Night is Bright with Stars
+author: Etusijn
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  woman
+-  life
+-  love
+-  light
+---
+Night is bright with stars
+... silly woman, whimpering:
+shall I light the lamp? 
