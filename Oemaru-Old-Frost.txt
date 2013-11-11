@@ -1,0 +1,19 @@
+---
+title: Old Frost
+author: Oemaru
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  winder
+-  flower
+-  life
+---
+Do your worst, old frost
+you can no longer wound me...
+last chrysanthemum!
+
