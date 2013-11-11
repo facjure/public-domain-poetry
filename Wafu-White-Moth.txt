@@ -1,0 +1,19 @@
+---
+title: White-Moth
+author: Wafu
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  soul
+-  lyric
+-  flight
+---
+White-moth, flutter off:
+fly back into my breast now
+quickly, my own soul!
+
