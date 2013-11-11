@@ -1,0 +1,19 @@
+---
+title: Sorry Tom-Cat
+author: Shiko
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  sad
+-  fight
+-  image
+-  nature
+---
+Oh sorry tom-cat
+bigger blacker knights of love
+have knocked you out!
+
