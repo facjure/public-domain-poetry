@@ -1,0 +1,19 @@
+---
+title: While I Turned My Head
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  mist
+-  image
+-  lyric
+-  travel
+---
+While I turned my head
+that traveler I'd just passed...
+melted into mist
+
