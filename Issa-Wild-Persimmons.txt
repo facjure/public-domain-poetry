@@ -1,0 +1,19 @@
+---
+title: Wild Persimmons
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  mother 
+-  food
+-  funny
+-  life
+---
+Nice: wild persimmons...
+and notice now the mother
+eat the bitter parts
+
