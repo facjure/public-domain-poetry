@@ -1,0 +1,19 @@
+---
+title: Before Boiled Chestnuts
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  Buddha
+-  happy
+-  life
+---
+Before boiled chestnuts
+cross-legged lad is squatting...
+carved wooden Buddha
+
