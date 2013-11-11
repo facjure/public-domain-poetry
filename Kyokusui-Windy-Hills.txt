@@ -1,0 +1,19 @@
+---
+title: Windy Hills
+author: Kyokusui
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  horses
+-  storm
+-  nature
+-  confusion
+---
+From dark windy hills
+voices driving weary horses...
+shouting of the storm
+
