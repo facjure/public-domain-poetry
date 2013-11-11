@@ -1,6 +1,6 @@
 ---
 title: Intermezzo no. 55
-author:  Gustavo Adolpho Becquer
+author: Gustavo Adolpho Becquer
 curator: Ata
 country: Spain
 year: 19th century
