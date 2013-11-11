@@ -1,0 +1,19 @@
+---
+title: So Enviable
+author: Shiko
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  death
+-  strange
+---
+So enviable...
+maple-leaves most glorious
+contemplating death
+
