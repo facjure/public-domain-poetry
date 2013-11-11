@@ -1,0 +1,19 @@
+---
+title: The Orphan Speaks
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  children
+-  lyric
+-  meditative
+-  new year
+---
+The orphan speaks:
+the year-end party.. I am 
+envious of scolded children
+
