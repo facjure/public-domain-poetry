@@ -1,0 +1,18 @@
+---
+title: Rainy-Month
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  sleep
+-  age
+-  life
+---
+Rainy-month, dripping
+on and on as I lie abed...
+ah, old man's memories!
