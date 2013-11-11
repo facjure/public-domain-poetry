@@ -1,0 +1,20 @@
+---
+title: Descending Seaward
+author: Kyokusui
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  night
+-  mountain
+-  sea
+---
+Descending seaward
+far-off mountain waterfall...
+winter nights are still
+
+
