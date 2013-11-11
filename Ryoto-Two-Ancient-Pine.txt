@@ -1,0 +1,18 @@
+---
+title: Two Ancient Pine-trees
+author: Ryoto
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  hands
+-  green
+---
+Two ancient pine-trees...
+a pair of gnarled and sturdy hands
+with ten green fingers
