@@ -1,0 +1,18 @@
+---
+title: Deepen, Drop, and Die
+author: Ryusui
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  earth
+-  image
+-  lyric
+---
+Deepen, drop, and die
+many-hued chrysanthemums...
+one black earth for all
