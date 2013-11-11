@@ -1,0 +1,19 @@
+---
+title: Sighs are Air and they Go Into the Air
+author: Gustavo Adolfo Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  sea
+-  meditative
+-  love
+-  woman
+---
+Sighs are air and go to the air.
+Tears are water and go to the sea.
+Tell me, woman: when love is forgotten,
+Do you know where it goes?
