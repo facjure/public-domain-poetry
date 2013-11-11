@@ -1,0 +1,18 @@
+---
+title: Snowy Morning 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  crow
+-  celebratory
+-  time
+-  beauty
+---
+This snowy morning
+that black crow I hate so much...
+but he's beautiful!
