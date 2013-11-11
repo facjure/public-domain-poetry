@@ -1,0 +1,18 @@
+---
+title: Untitled
+author: Seira
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  snow
+-  wind
+-  lyric
+-  meditative
+---
+Look at the candle!
+What a hungry wind it is...
+hunting in the snow!
