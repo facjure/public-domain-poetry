@@ -7,14 +7,12 @@ year:
 book: 
 gender: 
 tags: 
--  fish  
 -  haiku
+-  money
 -  lyric
--  snow
--  narrative
+-  meditative 
+-  funny
 ---
-Call him back! Ah no, 
-he's blown from sight already...
-fish-peddler in the snow
-
-
+On jolly new year's day
+my last year's bills drop in
+to pay their compliments
