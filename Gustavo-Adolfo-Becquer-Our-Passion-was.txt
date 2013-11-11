@@ -1,0 +1,24 @@
+---
+title: Our Passion was a Tragic Sketch
+author: Gustavo Adolfo Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  time
+-  crying
+-  love
+-  meditative
+---
+Our passion was a tragic sketch
+In whose absurd fable
+Comedy and drama confused
+Caused laughs and crying.
+
+But the worst in that history
+Was that at the end of the day
+Tears and laughs played for her
+And for me only tears.
