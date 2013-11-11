@@ -1,0 +1,20 @@
+---
+title: Heavy Leaf
+author: Boncho
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  metaphor
+-  silence
+---
+See... the heavy leaf
+on the silent windless day...
+fall of its own will
+
+
