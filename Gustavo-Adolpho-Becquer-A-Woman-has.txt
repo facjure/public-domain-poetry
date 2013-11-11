@@ -1,0 +1,24 @@
+---
+title: A Woman has Poisoned My Soul
+author: Gustavo Adolpho Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  love
+-  meditative
+-  lyric
+-  philosophical
+-  life
+---
+A woman has poisoned my soul,
+Another one has poisoned my body;
+None of them came to look for me,
+I don't complain for none of them.
+
+As the world is round, the world rotates.
+If tomorrow, rotating, this poison
+Does poison in turn, who can accuse me?,
+Can I give more than I was given?
