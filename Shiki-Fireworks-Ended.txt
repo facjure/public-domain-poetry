@@ -1,0 +1,19 @@
+---
+title: Fireworks Ended
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  dark
+-  image
+-  life
+---
+Fireworks ended and
+spectators gone away... 
+ah, how vast and dark!
+ 
