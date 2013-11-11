@@ -1,0 +1,19 @@
+---
+title: Untitled
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male 
+tags: 
+-  simile
+-  haiku
+-  life
+-  image
+-  metaphor
+---
+Now the swinging bridge 
+is quieted with creepers...
+like our tendrilled life 
+
