@@ -1,0 +1,19 @@
+---
+title: White Chrysanthemum
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  scissors
+-  nature
+-  beauty
+---
+White Chrysanthemum...
+before that perfect flower
+scissors hesitate 
+
