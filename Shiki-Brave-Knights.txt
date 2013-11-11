@@ -1,0 +1,18 @@
+---
+title: Brave Knights
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  snow
+-  image
+-  nature
+-  neck
+---
+Eleven brave knights
+canter through the whirling snow...
+not one bends his neck
