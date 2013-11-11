@@ -7,13 +7,14 @@ year:
 book: 
 gender: 
 tags: 
+-  fish  
 -  haiku
--  gray
--  November
--  image
--  nature
+-  lyric
+-  snow
+-  narrative
 ---
-Gray moor, unmarred
-by any path... a single branch...
-a bird...November
+Call him back! Ah no, 
+he's blown from sight already...
+fish-peddler in the snow
+
 
