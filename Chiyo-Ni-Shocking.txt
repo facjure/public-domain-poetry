@@ -1,0 +1,18 @@
+---
+title: Shocking 
+author: Chiyo-Ni
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: female
+tags: 
+-  haiku
+-  image
+-  nature
+-  flower
+-  fingernail
+---
+Shocking...the red of
+lacquered fingernails against
+a white chrysanthemum 
