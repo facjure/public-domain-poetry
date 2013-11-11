@@ -1,0 +1,21 @@
+---
+title: Death-Song
+author: Rippo
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  haiku
+-  snow
+-  cherry
+-  meditative
+---
+Death-Song:
+three loveliest things: moonlight...
+cherry-bloom... Now I go
+seeking silent snow
+
+
