@@ -1,0 +1,19 @@
+---
+title: I Wasn't Surprised at Your Forgetfulness
+author: Gustavo Adolpho Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  time
+-  lyric
+-  love
+-  philosophical
+-  life
+---
+I wasn't surprised at your forgetfulness!
+Although I admired much more your affection of past days,
+Because what in me it's worth something,
+That you could never suspect it.
