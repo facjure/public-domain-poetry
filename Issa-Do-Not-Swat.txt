@@ -1,0 +1,20 @@
+---
+title: Do Not Swat Them
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flies
+-  image
+-  metaphor
+-  life
+---
+Oh do not swat them...
+unhappy flies forever
+wringing their thin hands
+
+
