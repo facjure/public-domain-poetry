@@ -1,0 +1,20 @@
+---
+title: Come and See the Burglar
+author: Sokan
+curator: Ata
+country: Japan
+year: 15th/16th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  son
+-  theft
+-  life
+-  sad
+---
+Torches! Come and see
+the burglar I have captured...
+Oh! My eldest son!
+
+
