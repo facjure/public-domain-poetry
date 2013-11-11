@@ -1,0 +1,21 @@
+---
+title: You Say You Have a Heart
+author: Gustavo Aldofo Becquer 
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  love
+-  meditative
+-  addressee 
+-  machine
+---
+You say you have a heart,
+And you just tell it because you feel its beats;
+That is not heart, it's just a machine
+That at the same time it moves it makes a noise.
+
+
