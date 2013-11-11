@@ -1,0 +1,19 @@
+---
+title: Snow-Viewing
+author: Katsuri
+curator: Ata
+country: Japan
+year: 
+book: 
+gender: 
+tags: 
+-  haiku
+-  lyric
+-  nature
+-  white
+-  meditative 
+---
+Going snow-viewing
+one by one the walkers vanish
+whitely falling veils
+
