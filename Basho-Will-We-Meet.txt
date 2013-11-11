@@ -1,0 +1,19 @@
+---
+title: Will We Meet Again
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flower
+-  grave
+-  butterfly
+-  nature
+---
+Will we meet again
+here at our flowering grave...
+two white butterflies?
+
