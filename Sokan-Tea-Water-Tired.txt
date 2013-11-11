@@ -1,0 +1,18 @@
+---
+title: Tea-Water Tired
+author: Sokan
+curator: Ata
+country: Japan
+year: 15th/16th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  hat
+-  snow
+-  nature
+-  image
+---
+Tea-water, tired
+waiting while we watched the snow...
+froze itself a hat
