@@ -1,0 +1,19 @@
+---
+title: Lonely Umbrella
+author: Yaha
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  snow
+-  time
+---
+Lonely umbrella
+passing the house at twilight...
+first snow falling soft
+
