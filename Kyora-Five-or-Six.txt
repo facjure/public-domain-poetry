@@ -1,0 +1,19 @@
+---
+title: Five or Six of Us 
+author: Kyora
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  nature
+-  image
+-  willow
+-  life
+---
+Five or six of us
+remain, huddled together..
+bent old willow-trees
+
