@@ -1,0 +1,19 @@
+---
+title: The Sea Darkening
+author: Basho 
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  flight
+-  ducks
+-  lyric
+-  image
+---
+The sea darkening...
+oh voices of the wild ducks
+crying, whirling, white
+
