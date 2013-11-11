@@ -1,0 +1,18 @@
+---
+title: When I Heard
+author: Kito
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  twilight
+-  wind
+-  lyric
+-  image
+---
+But when I halted 
+on the windy street at twilight...
+snow struck against me
