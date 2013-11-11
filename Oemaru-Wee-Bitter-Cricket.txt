@@ -1,0 +1,19 @@
+---
+title: Wee Bitter Cricket
+author: Oemaru
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  sun
+-  time
+-  confused
+-  laugh
+---
+Wee bitter cricket
+crying all this sunny day...
+or is he laughing?
+
