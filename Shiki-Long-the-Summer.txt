@@ -1,0 +1,18 @@
+---
+title: Long the Summer Day
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  time
+-  haiku
+-  image
+-  life
+-  ocean
+---
+Long the summer day...
+patterns on the ocean sand...
+our idle footprints
