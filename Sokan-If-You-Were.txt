@@ -1,0 +1,18 @@
+---
+title: If You Were Silent
+author: Sokan
+curator: Ata
+country: Japan
+year: 15th/16th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  sky
+-  autumn
+-  nature
+-  snow
+---
+If you were silent
+flight of herons on dark sky...
+oh! Autumn snowflakes!
