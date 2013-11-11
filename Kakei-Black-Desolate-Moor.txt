@@ -1,0 +1,19 @@
+---
+title: Black Desolate Moor
+author: Kakei
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  Buddha
+-  haiku
+-  lyric
+-  life
+-  thunder
+---
+Black desolate moor...
+I bow before the Buddha
+lighted in thunder
+
