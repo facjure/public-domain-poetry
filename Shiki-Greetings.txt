@@ -1,0 +1,19 @@
+---
+title: Greetings
+author: Shiki
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  new year
+-  nature
+-  lyric
+-  plum
+---
+I gave the greetings
+of the bright new year... as though 
+I need a plum-branch
+
