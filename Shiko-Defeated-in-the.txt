@@ -1,0 +1,19 @@
+---
+title: Defeated in the Fray
+author: Shiko
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  love
+-  fight
+-  mouse
+-  cat
+---
+Defeated in the fray
+by bigger battlers for love...
+tom-cat seeks a mouse
+
