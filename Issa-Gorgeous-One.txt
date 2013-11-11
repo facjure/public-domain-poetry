@@ -1,0 +1,19 @@
+---
+title: Gorgeous One
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  sleep
+-  life
+-  chestnut
+---
+What a gorgeous one
+that fat sleep huge old chestnut
+I could not get at...
+
