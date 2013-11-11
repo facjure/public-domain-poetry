@@ -1,0 +1,19 @@
+---
+title: Tom-Cat Lover
+author: Taigi
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  love
+-  metaphor
+-  image
+-  funny
+---
+Rash tom-cat lover...
+careless even of that rice
+stuck in your whiskers
+
