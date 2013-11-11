@@ -1,0 +1,19 @@
+---
+title: For a Glance, the World
+author: Gustavo Adolpho Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  kiss
+-  love
+-  genial
+-  meditative 
+---
+For a glance: the world;
+For a smile: the heavens;
+For a kiss I don't know
+What I would give for a kiss!
