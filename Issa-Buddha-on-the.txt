@@ -1,0 +1,19 @@
+---
+title: Buddha on the Hill
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  funny
+-  nose
+-  winter
+---
+Buddha on the hill...
+from your holy nose indeed
+hangs an icicle 
+
