@@ -1,19 +1,19 @@
 ---
 title: Untitled
-author: Basho
+author: Basho 
 curator: Ata
 country: Japan
-year: 17th century
+year: 17th century 
 book: 
-gender: male 
+gender: male
 tags: 
--  simile
 -  haiku
+-  grass
 -  life
 -  image
--  metaphor
+-  memory
 ---
-Now the swinging bridge 
-is quieted with creepers...
-like our tendrilled life 
+Here, where a thousand
+captains swore grand conquest...
+tall grass their monument
 
