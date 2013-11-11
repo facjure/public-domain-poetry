@@ -1,0 +1,18 @@
+---
+title: Lines of Rain
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  mouse
+-  walking
+-  nature
+-  funny
+---
+Slanting lines of rain...
+on the dusty Samisen
+a mouse is trotting
