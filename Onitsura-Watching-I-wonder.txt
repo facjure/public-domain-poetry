@@ -1,0 +1,19 @@
+---
+title: Watching, I wonder
+author: Onitsura
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  moon
+-  ars poetica
+-  lyric
+-  quill
+---
+Watching, I wonder
+what poet could put down his
+quill... a pluperfect moon!
+
