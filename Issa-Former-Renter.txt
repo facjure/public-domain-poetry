@@ -1,0 +1,19 @@
+---
+title: Former Renter
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  money
+-  life
+-  sad
+-  cold
+---
+Oh, former renter
+I know it all, all... down to
+the very cold you felt
+
