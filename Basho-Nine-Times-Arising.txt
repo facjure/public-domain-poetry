@@ -1,0 +1,19 @@
+---
+title: Nine Times Arising
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  time
+-  midnight
+-  haiku
+-  lyric
+-  moon
+---
+Nine times arising 
+to see the moon...whose solemn
+pace marks only midnight yet
+
