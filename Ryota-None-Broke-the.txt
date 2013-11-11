@@ -1,0 +1,18 @@
+---
+title: None Broke the Silence
+author: Ryota 
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  lyric
+-  image
+-  nature
+-  flower
+---
+None broke the silence...
+nor visitor nor host... nor
+white chrysanthemum
