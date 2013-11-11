@@ -1,0 +1,19 @@
+---
+title: First Winter Rain
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  monkey
+-  funny
+-  happy
+-  sad
+---
+Cold first winter rain...
+poor monkey, you too could use
+a little woven cape 
+
