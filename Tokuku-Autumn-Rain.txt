@@ -1,0 +1,19 @@
+---
+title: Autumn Rain
+author: Tokuku
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  moon
+-  nature
+-  image
+-  hands
+---
+Chilling autumn rain...
+the moon, too bright for showers,
+slips from their fingers 
+
