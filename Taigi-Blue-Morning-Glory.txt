@@ -1,0 +1,19 @@
+---
+title: Blue Morning-Glory
+author: Taigi
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  time
+-  nature
+-  lyric
+-  season
+---
+Now in the late autumn
+look, on my old rubbish-heap...
+blue morning-glory
+
