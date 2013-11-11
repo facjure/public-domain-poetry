@@ -1,0 +1,19 @@
+---
+title: Sad Autumn 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  sad
+-  autumn 
+-  bird
+-  nature
+---
+Now in sad autumn 
+as I take my 
+darkening path...
+a solitary bird
