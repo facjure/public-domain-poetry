@@ -1,0 +1,19 @@
+---
+title: Visiting the Graves
+author: Issa 
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  dog
+-  life
+-  death
+-  walking
+---
+Visiting the graves...
+trotting on to show the way...
+old family dog
+
