@@ -1,0 +1,18 @@
+---
+title: Crossing It Alone
+author: Taigi
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender:  male
+tags: 
+-  haiku
+-  moon
+-  lyric
+-  walking
+-  meditative
+---
+Crossing it alone
+in cold moonlight... the brittle 
+bridge echoes my footsteps
