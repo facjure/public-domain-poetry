@@ -1,0 +1,19 @@
+---
+title: Moon So Bright
+author: Etsujin
+curator: Ata
+country: Japan
+year: 17th/18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  nature
+-  love
+-  light
+---
+Moon so bright for my love!
+Oh, hear the farmer by that light...
+flailing his lovely rice!
+
