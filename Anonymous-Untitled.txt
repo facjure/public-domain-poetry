@@ -8,11 +8,12 @@ book:
 gender: 
 tags: 
 -  haiku
--  rain
--  bird
--  nature
+-  gray
+-  November
 -  image
+-  nature
 ---
-Gray marsh, black cloud
-flapping away in autumn rain
-last old slow heron
+Gray moor, unmarred
+by any path... a single branch...
+a bird...November
+
