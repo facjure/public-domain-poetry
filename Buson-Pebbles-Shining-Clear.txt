@@ -1,0 +1,19 @@
+---
+title: Pebbles Shining Clear
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  water
+-  fish
+-  time
+-  image
+---
+Pebbles shining clear, 
+and clear six silent fishes...
+deep autumn water
+
