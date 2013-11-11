@@ -1,0 +1,18 @@
+---
+title: Yellow Autumn Moon
+author: Issa
+curator: Ata
+country: Japan
+year: 18th/19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  funny
+-  scarecrow
+-  image
+-  life
+---
+Yellow autumn moon...
+unimpressed the scarecrow stands
+simply looking bored
