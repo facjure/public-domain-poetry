@@ -1,0 +1,18 @@
+---
+title: Carven Gods Long Gone
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  leaves
+-  haiku
+-  nature
+-  temple
+-  image
+---
+Carven gods long gone...
+dead leaves alone foregather
+on the temple porch
