@@ -1,19 +1,18 @@
 ---
 title: Untitled
 author: Anonymous
-curator: 
+curator: Ata
 country: Japan
 year: 
 book: 
 gender: 
 tags: 
 -  haiku
--  mouth
--  frog
--  happy
--  nature
+-  candle
+-  cricket
+-  image
+-  life
 ---
-Friend, that open mouth
-revelas your whole interior...
-silly hollow frog!
-
+A single cricket
+chirps, chirps, chirps, and is still...my
+candle sinks and dies 
