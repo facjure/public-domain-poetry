@@ -1,0 +1,18 @@
+---
+title: No Oil 
+author: Basho
+curator: Ata
+country: Japan
+year: 17th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  haiku
+-  moon
+-  sleep
+-  ars poetica
+---
+No oil to read by...
+I am off to bed but ah!...
+my moonlit pillow
