@@ -1,0 +1,19 @@
+---
+title: Winter Rain
+author: Shisei-jo
+curator: Ata
+country: Japan
+year: 19th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  umbrella
+-  walking
+-  uplifting
+-  lyric
+---
+Windy winter rain...
+my silly big umbrella
+tries walking backward
+
