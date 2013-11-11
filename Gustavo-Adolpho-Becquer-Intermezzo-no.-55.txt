@@ -1,0 +1,24 @@
+---
+title: Intermezzo no. 55
+author:  Gustavo Adolpho Becquer
+curator: Ata
+country: Spain
+year: 19th century
+book: 
+gender: male
+tags: 
+-  lyric
+-  love
+-  crying
+-  meditative
+-  grief
+---
+Often when two are parting,
+Each grasps a hand as friend;
+And then begins a weeping
+And a sighing without end.
+
+We did not sigh when parting;
+No tears between us fell;
+The weeping and the sighing
+Came after our farewell.
