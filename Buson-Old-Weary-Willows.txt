@@ -1,0 +1,19 @@
+---
+title: Old Weary Willows
+author: Buson
+curator: Ata
+country: Japan
+year: 18th century
+book: 
+gender: male
+tags: 
+-  haiku
+-  image
+-  road
+-  lyric
+-  you
+---
+Old weary willows...
+I thought how long the road would be
+when you went away
+
