@@ -8,11 +8,12 @@ book:
 gender: 
 tags: 
 -  haiku
--  money
+-  nature
+-  wind
+-  meditative
 -  lyric
--  meditative 
--  funny
 ---
-On jolly new year's day
-my last year's bills drop in
-to pay their compliments
+Death-song: leaf alone,
+fluttering alas, leaf alone, fluttering...
+floating down the wind 
+
