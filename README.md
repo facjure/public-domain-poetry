@@ -1,10 +1,12 @@
 # Poetroid - Discover Poetry Together
 
-There are tens of thousands of poems in the public domain, yet no single repository. Let's build one.
+There are tens of thousands of poems in the public domain, and yet no single repository for humans and machines.
 
-## Spec
+Let's build one.
 
-Poems are written in plain text in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) format to preserve foreign & special characters.
+## Overview
+
+Poems are written in plain text in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) format to preserve foreign & special characters across machines.
 
 ```
 Every time I say "joy," joyous thing, 
@@ -13,7 +15,7 @@ for you are the joy of all joyous beauty
 and the joy of all joyous and beautiful pleasures,
 ```
 
-Metadata will be associated with [YAML](http://en.wikipedia.org/wiki/YAML), another plain text format, for storing tags and addititonal info on the poem. These metadata inform the nature of poem for further analysis by humans or machines. 
+Metadata will be written inline for storing tags and semantic analysis. This metadata inform the reader of the poem for further analysis by humans or machines. 
 
 ```
 ---
@@ -30,12 +32,15 @@ tags:
 ```
 
 Note the `---` before and after the metadata. 
+
 Filenames are saved as `last-name-title-first-five-words.txt`
 
-If the format changes, which should occur rarely, to something ike [edn](https://github.com/edn-format/edn), then the format must be compatible with YAML, to upgrade the old poems to new.
+The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a human readable format.
+ 
+This format might soon change to [edn](https://github.com/edn-format/edn), at which point, old poems will automatically be upgraded.
 
-The format, the poems, the metadata, and their revisions are protected in git forever for free so no one can break in.
-
+The format, the poems, the metadata, and all their revisions are protected in git forever and available for free so no one can break in.
+ 
 ## Example
 
 ```
@@ -71,27 +76,23 @@ if my heart does not rest in the midst of your joy.
 
 ```
 
-## Poetroid Platform
+## Platform
 
-Poetroid is a platform built to search, discover, and share poetry together. 
+Poetroid is a platform, currently in active development, built to search, discover, and share poetry together. It's written entirely in [Clojure](http://clojure.org/) and [Clojurescript](https://github.com/clojure/clojurescript) and can hence, run on any virtual machine like android, mac, or pc, or any modern browser like firefox, safari, and chrome. In short, it's built for web, mobile, and print.
 
-It's written entirely in [Clojure](http://clojure.org/) and [Clojurescript](https://github.com/clojure/clojurescript) and can hence, run on any virtual machine like android, mac, or pc, or any modern browser like firefox, safari, and chrome. In short, it's built for web, mobile, and print (more on this later).
+Once a larger repository of poems are curated, they will be fed into our [ai](http://en.wikipedia.org/wiki/Artificial_intelligence) engine running on the cloud, clustered and distributed across nodes, where each node analyzes, transforms, and writes a taxonomy of poetry built by artists and poets.
 
-Once a large repository of poems are entered, they will be fed into our [ai](http://en.wikipedia.org/wiki/Artificial_intelligence) engine, poetroid, running on the cloud, clustered and distributed across nodes, where each node analyzes, transforms, and writes a taxonomy of poetry built by artists and poets.
-
-An early prototype, showcasing the poems with a simple search engine (no ai) exists [here](http://poetroid.com/). Petroid shows a poem per page, line endings saved, aligned typographically to thne size of your screen. There's also an in-line, markdown based editor with live preview available to curators and educators. They can edit a poem in the above raw format, save, and view the updated poem on the site in 30 seconds or less. 
+An early prototype (no ai server), showcasing the poems with a basic search exists [here](http://poetroid.com/). It shows a poem per page, line endings saved, aligned typographically to the size of your screen. Tags and metada can be clicked naturally to discover similar poems based on curator's metadata. An in-line, [markdown](http://daringfireball.net/projects/markdown/) based editor with live preview is also available to approved curators to enable them to edit and save a poem from any device. 
 
 An early version of this app, written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), is available on request.
 
-## How to become a Curator
-
-If you're interested in becoming a curator, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account.
-
-## Status & Roadmap
+## Roadmap
 
 The repo and the poetroid platform is currently in *research & development*.
 
-An early poems were curated by humans. Currently, we're writing web crawlers to scrape poems from the public domain. The alpha will launch on Kickstarter in early 2014.
+An early set of poems were curated by hand. Web crawlers we built are now busy scraping the rest from the public domain. 
+
+An alpha will launch on Kickstarter, early 2014.
 
 ## Resources
 
@@ -102,11 +103,13 @@ An early poems were curated by humans. Currently, we're writing web crawlers to 
 
 - [Priyatam Mudivarti](www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com), 
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
-- Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship attack.
+- Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer who wants to move literature forward, and interested to join, fork us, send a pull request.
+If you're a developer and want to move literature forward, fork us, add new poems, send a pull request.
 
-If you're a poet, publisher, or educator, help us in creating the world's largest open platform for poetry.
+If you're a poet, publisher, or educator, or simply somone interested in poetry, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account.
+
+Help us, please, to create the world's largest open platform for poetry on the public domain, and beyond.
 
 ## Copyright & License
 
