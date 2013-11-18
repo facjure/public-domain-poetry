@@ -1,19 +1,17 @@
-## Discover Poetry, Read Anywhere, Curate Poems Together
+# Poetroid - Discover Poetry Together
 
-### Content
+Poems are taken from the [public domain](http://www.gutenberg.org) and written in plain text in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) format to preserve foreign & special characters in its original form, and [YAML](http://en.wikipedia.org/wiki/YAML), another plain text format for storing tags, and meta data.
 
-All poems are from the [public domain](http://www.gutenberg.org), written in Plain Text (UTF-8) + [YAML](http://en.wikipedia.org/wiki/YAML) for meta data using [Prose.io](http://www.prose.io) to create, edit, and view version history.
+Once collected, these poems will be fed to our search engine, complete with analysis and custom typography, ready to be viewed from any browser, device, mobile or tablet—no app required—for users to read, curate, and dicover poetry together.
 
-To become a curator, request access by sending an email to priyatam@facjure.com and signup for a free github account. Login to prose.io, select 'Facjure' organization on the right hand panel, select 'poems' project.
+— 
 
-### Curators:
+Currently in *alpha*.
 
-1. Ata Moharreri, [Managing Editor](http://www.massreview.org/editors) of The Massachusetts Review
-2. Nicholas Rattner, [Poetry Editor](http://www.uglyducklingpresse.org/about/people/nick-rattner/) of Ugly Duckling Presse.
+If you're interested in becoming a curator, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account.
 
-### Developers:
+—
 
-1. Priyatam Mudivarti
-2. Sreeharsha Mudivarti
+Curated by Ata Moharreri, poet, teacher, and former managing editor of The Massachusetts Review(http://www.massreview.org/editors). Built by Priyatam Mudivarti, writer, software engineer, and founder of [Facjure LLC](http://www.facjure.com), with help from our friends and family.
 
-Built using [Frozen Pie](https://github.com/Facjure/frozen-pie), by [Facjure LLC](http://www.facjure.com).
+[Poetroid](http://poetroid.com/)
