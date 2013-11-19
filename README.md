@@ -15,7 +15,7 @@ for you are the joy of all joyous beauty
 and the joy of all joyous and beautiful pleasures,
 ```
 
-Metadata will be written inline for storing tags and semantic analysis. This metadata inform the reader of the poem for further analysis by humans or machines. 
+Metadata will be written inline for storing tags and semantic analysis to inform humans and machines with more data for further analysis. 
 
 ```
 ---
@@ -80,13 +80,11 @@ if my heart does not rest in the midst of your joy.
 
 Poetroid is a platform, currently in active development, built to search, discover, and share poetry together. It's written entirely in [Clojure](http://clojure.org/) and [Clojurescript](https://github.com/clojure/clojurescript) and can hence, run on any virtual machine like android, mac, or pc, or any modern browser like firefox, safari, and chrome. In short, it's built for web, mobile, and print.
 
-Once a larger repository of poems are curated, they will be fed into our [ai](http://en.wikipedia.org/wiki/Artificial_intelligence) engine running on the cloud, clustered and distributed across nodes, where each node analyzes, transforms, and writes a taxonomy of poetry built by artists and poets.
+Once a larger repository of poems exist they will be fed into our [ai](http://en.wikipedia.org/wiki/Artificial_intelligence) engine running on the cloud, clustered and distributed across nodes, where each node analyzes, transforms, and writes a taxonomy of poetry built by artists and poets. An early prototype (no ai server), showcasing the poems with a basic search exists [here](http://poetroid.com/). It shows a poem per page, line endings saved, aligned typographically to the size of your screen. Tags and metada can be clicked naturally to discover similar poems' metadata. An in-line, [markdown](http://daringfireball.net/projects/markdown/) based editor with live preview, inspired from [Medium](https://medium.com/), is also available to approved curators.
 
-An early prototype (no ai server), showcasing the poems with a basic search exists [here](http://poetroid.com/). It shows a poem per page, line endings saved, aligned typographically to the size of your screen. Tags and metada can be clicked naturally to discover similar poems based on curator's metadata. An in-line, [markdown](http://daringfireball.net/projects/markdown/) based editor with live preview is also available to approved curators to enable them to edit and save a poem from any device. 
+## Status, Roadmap
 
-An early version of this app, written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), is available on request.
-
-## Roadmap
+Previous versions of this app (now arhived), written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), are available on request.
 
 The repo and the poetroid platform is currently in *research & development*.
 
@@ -107,10 +105,14 @@ An alpha will launch on Kickstarter, early 2014.
 
 If you're a developer and want to move literature forward, fork us, add new poems, send a pull request.
 
-If you're a poet, publisher, or educator, or simply somone interested in poetry, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account.
+If you're a poet, publisher, or educator, or student interested in poetry, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account. We will help you get up and running.
 
-Help us, please, to create the world's largest open platform for poetry on the public domain, and beyond.
+Help us, please, to create the world's largest open platform for poetry from the public domain and *beyond*.
 
 ## Copyright & License
 
-Poetroid is built by Facjure LLC, released under the Opensource Eclipse Plugin License v 1.0. Your use of this repo is subject to terms and conditions on the license.
+Copyright (c) Facjure LLC. All rights reserved.
+ 
+The use and distribution terms for this software are covered by [Eclipse Plugin License v 1.0]((http://opensource.org/licenses/eclipse-1.0.php)), which can be found in the file epl-v10.html at the root of this distribution.
+
+By using this software in any fashion, you are agreeing to be bound by the terms of this license. You must not remove this notice, or any other, from this software.
