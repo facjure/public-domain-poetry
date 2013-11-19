@@ -1,4 +1,4 @@
-# Poetroid-Poems - Curate Poems Together
+# Curate Poems Together
 
 Thousands of poems in the public domain lay scattered, burried in sites, yet we don't have a single library for humans or machines.
 
@@ -85,19 +85,13 @@ Poetroid is built using an open-source platform to discover poetry together. Cur
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
-## Status, Roadmap
+## Past, Present, and Future
 
-An early prototype (without the platform), showcasing the poems with a basic search exists [here](http://poetroid.com/). After querying for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact to fit the shape of your screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, [Markdown](http://daringfireball.net/projects/markdown/) based editor with live preview, inspired from [Medium](https://medium.com/), is also available to approved curators.
+Past versions of this app were written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), now archived, and available on request.
 
-The first two thousand poems were curated by hand.
+Currently, a prototype (without the platform), showcasing two thousand poems with a basic search exists [here](http://poetroid.com/). When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, [Markdown](http://daringfireball.net/projects/markdown/) based editor with live preview, inspired from [Medium](https://medium.com/), is also available to approved curators.
 
-The rest will be worked in conjunction with web crawlers, poets, and admirers of poetry, like you.
-
-An alpha of Poetroid with additional *petadata*, will launch on Kickstarter, beginning 2014.
-
-## History
-
-Previous versions of this app were written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), now archived, and available on request.
+In the future web crawlers in conjunction with poets, students, and admirers of poetry, like you can help us expand the library, to help us build Poetroid, together.
 
 ## Resources
 
