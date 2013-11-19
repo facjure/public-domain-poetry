@@ -81,7 +81,7 @@ if my heart does not rest in the midst of your joy.
 
 ## Poetrod-Platform
 
-Poetroid is built using an open-source platform to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified [Api](http://en.wikipedia.org/wiki/Application_programming_interface).
+Poetroid is built using an open-source platform to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified language, written in [Clojure](http://clojure.org).
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
