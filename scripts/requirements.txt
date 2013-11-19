@@ -1,0 +1,6 @@
+markdown
+PyYaml
+pystache
+beautifulsoup4
+pytest
+
