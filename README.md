@@ -91,7 +91,7 @@ Past versions of this app were written in [Python](http://www.python.org/) and [
 
 Currently, a prototype (without the platform), showcasing two thousand poems with a basic search exists [here](http://poetroid.com/). When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, [Markdown](http://daringfireball.net/projects/markdown/) based editor with live preview, inspired from [Medium](https://medium.com/), is also available to approved curators.
 
-In the future web crawlers in conjunction with poets, students, and admirers of poetry, like you can help us expand the library, to help us build Poetroid, together.
+The Future will include web crawlers in conjunction with poets, students, and publishers helping us to build the world's largest open poetry library, together.
 
 ## Resources
 
