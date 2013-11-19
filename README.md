@@ -98,9 +98,9 @@ For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer [fork](https://help.github.com/articles/fork-a-repo), add new poems, send a [pull](https://help.github.com/articles/using-pull-requests) request.
+If you're a developer,[fork](https://help.github.com/articles/fork-a-repo), add new poems, and send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
-If you're a scholar, student, publisher, interested in curating poetry for the web and print, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running.
+If you're a scholar, student, publisher, interested in curating poetry for the web and print, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running with scripts, editors, and even a browser interface.
 
 ## Copyright & License
 
