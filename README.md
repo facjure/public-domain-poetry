@@ -1,14 +1,14 @@
 # Curate Poems Together
 
-Thousands of poems in the public domain lay scattered, burried in sites, yet we don't have a single library for humans or machines.
+Thousands of poems in the public domain are burried in sites, without easy access, yet we don't have a single library for humans or machines.
 
 Let's build one.
 
 ## Overview
 
-To restore poems, we must write them in a new format, one that can be read by humans and machines alike.
+To restore poems, we need a new format, one that can be read by humans and machines alike.
 
-Poems will be written in plain text in notepad (pc) or textedit (mac) or (insert your favorite plain text editor) and saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8). Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
+[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by every editor: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and every other text editor allow saving files in Plain Text in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) encoding. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
 
 
 ```
@@ -40,7 +40,7 @@ Filenames are saved as `last-name-title-first-five-words.txt`
 
 The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a human readable format.
 
-This format may change soon to [edn](https://github.com/edn-format/edn), in which case old poems will  be upgraded, automatically.
+This format may change soon to [edn](https://github.com/edn-format/edn), and old poems will be upgraded, automatically.
 
 This format, the poems, their metadata, and all their revisions are protected in (git)hub, for free, forever.
 
@@ -79,11 +79,11 @@ if my heart does not rest in the midst of your joy.
 
 ```
 
+The platform will include scripts to help scholars, students, publishers, and developers working together to build an open poetry library for the web and print, together.
+
 ## Poetrod-Platform
 
-Poetroid is built using an open-source platform to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified language, written in [Clojure](http://clojure.org).
-
-The platform will include web crawlers in conjunction with poets, students, and publishers helping us to build the world's largest open poetry library, together.
+Poetroid, an opensource platform written in [Clojure](www.clojure.org), is built to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified language, a unified api, and analytics.
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
@@ -98,11 +98,9 @@ For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer and want to move literature forward, [fork](https://help.github.com/articles/fork-a-repo), add new poems, send a [pull](https://help.github.com/articles/using-pull-requests) request.
+If you're a developer [fork](https://help.github.com/articles/fork-a-repo), add new poems, send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
-If you're a student, poet, publisher, or an educator interested in poetry, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account.
-
-We'll help you get up and running.
+If you're a scholar, student, publisher, interested in curating poetry for the web and print, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running.
 
 ## Copyright & License
 
