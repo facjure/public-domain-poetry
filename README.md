@@ -1,6 +1,6 @@
 # Curate Poems Together
 
-Thousands of poems in the public domain are burried in sites, without easy access, yet we don't have a single library for humans or machines.
+Thousands of poems in the public domain are burried in sites, yet we don't have a central library for humans or machines.
 
 Let's build one.
 
@@ -79,11 +79,11 @@ if my heart does not rest in the midst of your joy.
 
 ```
 
-The platform will include scripts to help scholars, students, publishers, and developers working together to build an open poetry library for the web and print, together.
+This library will include scripts to help scholars, students, publishers, and developers working together to build an open poetry library for print and web, together.
 
 ## Poetrod-Platform
 
-Poetroid, an opensource platform written in [Clojure](www.clojure.org), is built to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified language, a unified api, and analytics.
+Poetroid, an opensource platform written in [Clojure](www.clojure.org), is built to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface).
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
@@ -100,7 +100,7 @@ For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
 If you're a developer,[fork](https://help.github.com/articles/fork-a-repo), add new poems, and send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
-If you're a scholar, student, publisher, interested in curating poetry for the web and print, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running with scripts, editors, and even a browser interface.
+If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running with scripts, editors, and even a browser interface.
 
 ## Copyright & License
 
