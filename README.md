@@ -6,9 +6,9 @@ Let's build one.
 
 ## Overview
 
-To restore poems, we need a new format, one that can be read by humans and machines alike.
+To restore poems, we need a new format that can be read by humans and machines alike.
 
-[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by every editor: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and every other text editor allow saving files in Plain Text in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) encoding. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
+[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is an excellent format supported by most editors by default: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and others, as long as they're saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) 'encoding'--a setting available as options in the 'Save As' file-dialog. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
 
 
 ```
