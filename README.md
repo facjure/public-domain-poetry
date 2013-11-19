@@ -83,7 +83,7 @@ This library will include scripts to help scholars, students, publishers, and de
 
 ## Poetrod-Platform
 
-Poetroid, an opensource platform written in [Clojure](www.clojure.org), is built to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface).
+Poetroid, an open platform written in [Clojure](www.clojure.org), is built to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface).
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
