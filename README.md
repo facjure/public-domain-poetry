@@ -96,19 +96,17 @@ In the future web crawlers in conjunction with poets, students, and admirers of 
 ## Resources
 
 - [Project Gutenberg](http://www.gutenberg.org)
-— [Public Domain Poetry](http://www.public-domain-poetry.com)
+- [Public Domain Poetry](http://www.public-domain-poetry.com)
 
 ## Contributers
 
-- [Priyatam Mudivarti](www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com),
+- [Priyatam Mudivarti](www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer and want to move literature forward, fork us, add new poems in the prescribed format, send a pull request.
+If you're a developer and want to move literature forward, [fork](https://help.github.com/articles/fork-a-repo), add new poems, send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
 If you're a student, poet, publisher, or an educator interested in poetry, request access by sending an email to priyatam@facjure.com and signup for a free [github](https://github.com/) account. We will help you get up and running.
-
-Help us, let's create the world's largest open platform for poetry from the public domain.
 
 ## Copyright & License
 
