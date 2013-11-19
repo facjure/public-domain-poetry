@@ -83,15 +83,9 @@ if my heart does not rest in the midst of your joy.
 
 Poetroid is built using an open-source platform to discover poetry together. Currently in *research & development*, this platform will bring together web, print, and mobile distribution of public domain poetry in a unified language, written in [Clojure](http://clojure.org).
 
+The platform will include web crawlers in conjunction with poets, students, and publishers helping us to build the world's largest open poetry library, together.
+
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
-
-## Past, Present, and Future
-
-Past versions of this app were written in [Python](http://www.python.org/) and [Javascript](http://en.wikipedia.org/wiki/JavaScript), now archived, and available on request.
-
-Currently, a prototype (without the platform), showcasing two thousand poems with a basic search exists [here](http://poetroid.com/). When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, [Markdown](http://daringfireball.net/projects/markdown/) based editor with live preview, inspired from [Medium](https://medium.com/), is also available to approved curators.
-
-The Future will include web crawlers in conjunction with poets, students, and publishers helping us to build the world's largest open poetry library, together.
 
 ## Resources
 
