@@ -1,6 +1,6 @@
 # Curate Poems Together
 
-Thousands of poems in the public domain are buried in websites. Humans, even machines, can't search or discover them as a central library.
+Thousands of poems in the public domain are buried in websites. Humans, even machines, can't discover them in a central library.
 
 Let's build one.
 
