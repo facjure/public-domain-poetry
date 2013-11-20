@@ -87,9 +87,9 @@ Currently in *research & development*.
 
 This work is being done in parallel to Poetroid, an open platform to discover poetry together with a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface) for web, mobile, and print.
 
-Yes.
+A basic prototype (without the platform), showcasing two thousand poems exists [here](http://www.poetroid.com). It is being used internally by our editors and continuous integration of content, code, design, on the fly.
 
-A prototype (without the platform), showcasing two thousand poems with a basic search exists [here](www.poetroid.com). When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, Markdown based editor with live preview, inspired from Medium, is also available to approved curators.
+When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, Markdown based editor with live preview, inspired from Medium, is also available to approved curators.
 
 For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
