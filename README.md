@@ -81,11 +81,9 @@ This library will include scripts to help scholars, students, and publishers wor
 
 ## Status and Roadmap
 
-Currently in *research & development*. 
+Currently in *research & development*.
 
-A early prototype, showcasing two thousand poems, is being used internally by our editors. When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, Markdown based editor with live preview, inspired from Medium, is also available to approved curators.
-
-This work is being done in parallel to [Poetroid](http://www.poetroid.com), an open platform to discover poetry together with a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface) for web, mobile, and print.
+A early prototype of an application that uses this data, is being used internally by our editors to build [poetroid](https://github.com/Facjure/poetroid), an open platform to discover poetry together.
 
 ## Resources
 
