@@ -1,6 +1,6 @@
 # Curate Poems Together
 
-Thousands of poems in the public domain are buried in websites. Humans, even machines, can't discover them in a central library.
+Thousands of poems in the public domain are buried in libraries, archaic websites, journals gone out of print. We have no access from one place, no open library.
 
 Let's build one.
 
@@ -38,11 +38,9 @@ Note the `---` before and after the metadata.
 
 Filenames are saved as `last-name-title-first-five-words.txt`
 
-The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a human readable format.
+The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a human readable format. This format may change to [edn](https://github.com/edn-format/edn), and old poems will be upgraded, automatically.
 
-This format may change soon to [edn](https://github.com/edn-format/edn), and old poems will be upgraded, automatically.
-
-This format, the poems, their metadata, and all their revisions are protected in (git)hub, for free, forever.
+Poems, metadata, and all the revisions are protected in (git)hub, for free, forever.
 
 ## Example
 
@@ -79,19 +77,15 @@ if my heart does not rest in the midst of your joy.
 
 ```
 
-This library will include scripts to help scholars, students, publishers, and developers working together to build an open poetry library for print and web, together.
+This library will include scripts to help scholars, students, and publishers working together to build an open library for print and web, together.
 
 ## Status and Roadmap
 
 Currently in *research & development*. 
 
-This work is being done in parallel to Poetroid, an open platform to discover poetry together with a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface) for web, mobile, and print.
+A early prototype, showcasing two thousand poems, is being used internally by our editors. When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, Markdown based editor with live preview, inspired from Medium, is also available to approved curators.
 
-A basic prototype (without the platform), showcasing two thousand poems exists [here](http://www.poetroid.com). It is being used internally by our editors and continuous integration of content, code, design, on the fly.
-
-When a poet searches for a poem by title or author, the page shows the restored poem, aligned typographically, line endings intact, to fit the shape of their screen. Tags and metadata can be clicked naturally to discover similar poems' metadata. An in-line, Markdown based editor with live preview, inspired from Medium, is also available to approved curators.
-
-For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
+This work is being done in parallel to [Poetroid](http://www.poetroid.com), an open platform to discover poetry together with a unified [api](http://en.wikipedia.org/wiki/Application_programming_interface) for web, mobile, and print.
 
 ## Resources
 
@@ -106,7 +100,7 @@ For more information, visit [Poetroid](http://poetroid.com/#/page/about.md).
 
 If you're a developer,[fork](https://help.github.com/articles/fork-a-repo), add new poems, and send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
-If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com, and signup for a free [github](https://github.com/) account. We'll help you get up and running with scripts, editors, and even a browser interface.
+If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com. We'll help you get up and running with scripts, editors, and even a browser interface.
 
 ## Copyright & License
 
