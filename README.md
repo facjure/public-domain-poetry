@@ -6,7 +6,7 @@ Let's build one.
 
 ## Overview
 
-Three parts: format, metadata, scripts
+Three parts: format, metadata, scripts.
 
 1. To restore poems, we need a new format that can be read by humans and machines alike.
 2. To curate poems, we need a way to add metadata, inline, which can be read by humans and machines.
@@ -14,7 +14,7 @@ Three parts: format, metadata, scripts
 
 ### Poem format
 
-[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by all editors by default: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and others. Files must be saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) 'encoding'--a setting available as options in the 'Save As' file-dialog. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
+[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by all editors by default: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and others. Files must be saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) 'encoding'-- a setting available as options in the 'save as' file-dialog. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
 
 ```
 Every time I say "joy," joyous thing,
@@ -129,9 +129,9 @@ For a webapp to search and view existing poems, visit [poetroid](https://github.
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer,[fork](https://help.github.com/articles/fork-a-repo) and want to add new poems, then send a [pull](https://help.github.com/articles/using-pull-requests) request.
+If you're a developer, [fork](https://help.github.com/articles/fork-a-repo), add new poems, then send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
-If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com. We'll help you get up and running with scripts, editors, and even a browser interface.
+If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com. We'll help you get up and running.
 
 ## Copyright & License
 
