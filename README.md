@@ -1,6 +1,6 @@
 # Restore Poems Together
 
-Thousands of poems in the public domain are buried in school libraries, archaic websites, journals gone out of print. Some companies fool us by building apps, websites&emdash;we don't need them. We need a free, unified access to poetry as an open library.
+Thousands of poems in the public domain are buried in school libraries, archaic websites, journals gone out of print. We don't have a free, unified access. An open library.
 
 Let's build one.
 
