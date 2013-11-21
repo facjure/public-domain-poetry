@@ -112,7 +112,7 @@ This library will include python scripts to help scholars, students, and publish
 
 ## Status and Roadmap
 
-Currently ~2000 poems were hand-curated, by editors at Facjure.
+Currently, ~2000 poems were hand-curated by editors at Facjure.
 
 Web scrappers are being written that will curate ~50,000 poems, soon.
 
