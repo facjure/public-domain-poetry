@@ -1,6 +1,6 @@
 # Restore Poems Together
 
-Thousands of poems in the public domain are buried in school libraries, archaic websites, journals gone out of print. We don't have a free, unified access. An open library.
+Thousands of poems in the public domain live buried in school libraries, archaic websites, journals gone out of print. We don't have free, unified access. An open library.
 
 Let's build one.
 
@@ -9,12 +9,12 @@ Let's build one.
 Three parts: format, metadata, scripts
 
 1. To restore poems, we need a new format that can be read by humans and machines alike.
-2. To curate poems we need a way to add metadata, inline, that can be read by humans and machines.
-3. Scripts provide scholars, students, and educators a way to research, find, read, and print them.
+2. To curate poems, we need a way to add metadata, inline, which can be read by humans and machines.
+3. Scripts provide scholars, students, and educators a way to research, find, read, and print poems.
 
 ### Poem format
 
-[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by all editors by default: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and others They must be saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) 'encoding'--a setting available as options in the 'Save As' file-dialog. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
+[Plain Text](http://en.wikipedia.org/wiki/Plain_text) is still an excellent format supported by all editors by default: notepad, textedit, [iAWriter](http://www.iawriter.com/mac/), and others. Files must be saved in [UTF-8](http://en.wikipedia.org/wiki/UTF-8) 'encoding'--a setting available as options in the 'Save As' file-dialog. Saving a file in UTF-8 is a necessary, important step to preserve foreign-language characters across machines.
 
 ```
 Every time I say "joy," joyous thing,
@@ -25,9 +25,9 @@ and the joy of all joyous and beautiful pleasures,
 
 ### Metadata
 
-The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a human readable format. This format may change to [edn](https://github.com/edn-format/edn), and old poems will be upgraded, automatically.
+The current format for metdata is [YAML](http://en.wikipedia.org/wiki/YAML), a humanly readable format. This format may change to [edn](https://github.com/edn-format/edn), and old poems will be upgraded, automatically.
 
-Metadata will be curated *inline*, above the poem, for storing metadata and tags, to inform humans and machines with semantic data for further analysis.
+Metadata will be curated *inline*, above the poem, for storing metadata and tags, to inform humans and machines of semantic data for further analysis.
 
 ```
 ---
@@ -45,7 +45,7 @@ tags:
 
 Note the `---` before and after the metadata.
 
-Filenames are saved as `last-name-title-first-five-words.txt`
+Filenames are saved as `last-name-title-first-five-words-of-poem.txt`
 
 Poems, metadata, and all the revisions are protected in (git)hub, for free, forever.
 
@@ -108,13 +108,13 @@ See the bent head and arms folded over the breast, the Female I see.
 
 ### Scripts
 
-This library will include python scripts to help scholars, students, and publishers research on poetry.
+This library will include python scripts to help scholars, students, and publishers research poetry. 
 
 ## Status and Roadmap
 
-Currently ~2000 poems were curated by hand, by editors at Facjure.
+Currently ~2000 poems were hand-curated, by editors at Facjure.
 
-Web scrappers are being written that will curate ~50,000 poems soon.
+Web scrappers are being written that will curate ~50,000 poems, soon.
 
 For a webapp to search and view existing poems, visit [poetroid](https://github.com/Facjure/poetroid), an open platform to discover poetry together.
 
@@ -129,7 +129,7 @@ For a webapp to search and view existing poems, visit [poetroid](https://github.
 - Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer,[fork](https://help.github.com/articles/fork-a-repo), add new poems, and send a [pull](https://help.github.com/articles/using-pull-requests) request.
+If you're a developer,[fork](https://help.github.com/articles/fork-a-repo) and want to add new poems, then send a [pull](https://help.github.com/articles/using-pull-requests) request.
 
 If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com. We'll help you get up and running with scripts, editors, and even a browser interface.
 
