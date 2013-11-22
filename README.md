@@ -126,7 +126,7 @@ For a webapp to search and view existing poems, visit [poetroid](https://github.
 ## Contributers
 
 - Priyatam Mudivarti: fiction writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
-- Ata Moharreri: poet, teacher, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
+- Ata Moharreri: poet, professor, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
 If you're a developer, [fork](https://help.github.com/articles/fork-a-repo), add new poems, then send a [pull](https://help.github.com/articles/using-pull-requests) request.
