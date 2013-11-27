@@ -1,6 +1,6 @@
 # Restore Poems Together
 
-Thousands of poems in the public domain live buried in school libraries, archaic websites, journals gone out of print. We don't have free, unified access. An open library.
+Thousands of poems in the public domain live buried in school libraries, archaic websites, journals gone out of print. We don't have a free, unified access. An open library.
 
 Let's build one.
 
@@ -9,8 +9,8 @@ Let's build one.
 Three parts: format, metadata, scripts.
 
 1. To restore poems, we need a new format that can be read by humans and machines alike.
-2. To curate poems, we need a way to add metadata, inline, which can be read by humans and machines.
-3. Scripts provide scholars, students, and educators a way to research, find, read, and print poems.
+2. To curate poems, we need a way to add metadata, inline, read by humans and machines.
+3. Scripts provide researchers a way to analyze, find, view, and print poems.
 
 ### Poem format
 
@@ -108,13 +108,13 @@ See the bent head and arms folded over the breast, the Female I see.
 
 ### Scripts
 
-This library will include python scripts to help scholars, students, and publishers research poetry. 
+This library will include python scripts to help scholars, students, educators, and publishers research poetry, from the comfort of their pc, mac, or browser. 
 
 ## Status and Roadmap
 
-Currently, ~2000 poems were hand-curated by editors at Facjure.
+Currently, ~2000 poems are hand-curated by editors at Facjure.
 
-Web scrappers are being written that will curate ~50,000 poems, soon.
+Soon, scrappers will extract ~50000 poems.
 
 For a webapp to search and view existing poems, visit [poetroid](https://github.com/Facjure/poetroid), an open platform to discover poetry together.
 
