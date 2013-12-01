@@ -1,0 +1,21 @@
+---
+title: I.
+book: Black Riders and Other Lines
+type: lyric
+author:  Stephen Crane
+curator: Ata Moharerri
+period: 19th century
+country: America
+tags:
+- philosophical
+- sea
+- wind
+- dark
+---
+
+Black Riders came from the sea.
+There was clang and clang of spear and shield,
+And clash and clash of hoof and heel,
+Wild shouts and the wave of hair
+In the rush upon the wind:
+Thus the ride of Sin.
