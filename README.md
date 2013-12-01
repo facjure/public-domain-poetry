@@ -34,7 +34,7 @@ Metadata will be curated *inline*, above the poem, for storing metadata and tags
 title: Untitled
 type: Sonnet
 author: Guitton D'Arezzo
-curator: Ata Moharerri
+curator: Ata Moharreri
 period: 1230-1294
 country: Italy
 tags:
