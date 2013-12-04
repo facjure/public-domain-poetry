@@ -1,35 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: Owls
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  strange
- -  mystical
- -  eyes
- -  inspired
 ---
 
-Beneath the shades of sombre yews,
-The silent owls sit ranged in rows,
-Like ancient idols, strangely pose,
-And darting fiery eyes, they muse.
+Under black yew-trees, in the shade,
+The owls have kept themselves apart;
+Like strange divinities, they dart
+The red eye, as they meditate.
 
-Immovable, they sit and gaze,
-Until the melancholy hour,
-At which the darknesses devour
-The faded sunset's slanting rays.
+They stand like statues, silent, straight
+Up to the melancholy time
+When, shouldering the sun aside,
+Darkness establishes his state.
 
-Their attitude, instructs the wise,
-That he—within this world—who flies
-From tumult and from merriment;
+They teach the sage a lesson here,
+That in the world he ought to fear
+All movement, uproar, turbulence;
 
-The man allured by a passing face,
-For ever bears the chastisement
-Of having wished to change his place.
+But, drunk on shadows, our strange race
+Carries within the punishment
+Of having yearned for change of place.
