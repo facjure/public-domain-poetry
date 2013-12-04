@@ -1,38 +1,23 @@
 ---
-author: Walt Whitman
-gender: male
-title: from Leaves of Grass
-curator: Ata
-year: 19th century
-country: America
-tags:
- -  love
- -  beach
- -  mother
- -  love
- -  universe
- -  stars
- -  meditative
- -  future
- -  fish
- -  water
- -  cosmic
- -  universal
- -  language
- -  civilization
+author: Walt Whitman 
+title: On The Beach At Night, Alone
 ---
+
 On the beach at night alone,
-As the old mother sways her to and fro singing her husky song,
-As I watch the bright stars shining, I think a thought of the clef of the universes and of the future.
+As the old mother sways her to and fro, singing her husky song,
+As I watch the bright stars shining--I think a thought of the clef of
+the universes, and of the future.
 
 A vast similitude interlocks all,
-All spheres, grown, ungrown, small, large, suns, moons, planets,
-All distances of place however wide,
-All distances of time, all inanimate forms,
-All souls, all living bodies though they be ever so different, or in different worlds,
-All gaseous, watery, vegetable, mineral processes, the fishes, the brutes,
-All nations, colors, barbarisms, civilizations, languages,
-All identities that have existed or may exist on this globe, or any globe,
-All lives and deaths, all of the past, present, future,
-This vast similitude spans them, and always has spann'd,
-And shall forever span them and compactly hold and enclose them.
+All spheres, grown, ungrown, small, large, suns, moons, planets, comets, asteroids,
+All the substances of the same, and all that is spiritual upon the same,
+All distances of place, however wide,
+All distances of time--all inanimate forms,
+All Souls--all living bodies, though they be ever so different, or in different worlds,
+All gaseous, watery, vegetable, mineral processes--the fishes, the brutes,
+All men and women--me also;
+All nations, colors, barbarisms, civilizations, languages;
+All identities that have existed, or may exist, on this globe, or any globe;
+All lives and deaths--all of the past, present, future;
+This vast similitude spans them, and always has spann'd, and shall
+forever span them, and compactly hold them, and enclose them.
