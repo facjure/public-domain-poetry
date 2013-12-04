@@ -1,24 +1,11 @@
 ---
-author: Rupert Brooke
-gender: male
+author: Rupert Brooke 
 title: Dead Men's Love
-curator: Ata
-year: 20th century
-country: England
-tags:
- -  lyric
- -  time
- -  dark imagery
- -  surreal
- -  death
- -  love
- -  ars poetic
- -  strange
 ---
 
 There was a damned successful Poet;
 There was a Woman like the Sun.
-And they were dead.  They did not know it.
+And they were dead. They did not know it.
 They did not know their time was done.
 They did not know his hymns
 Were silence; and her limbs,
@@ -37,7 +24,7 @@ To breast and lip and arm.
 So knee to knee they sped again,
 And laugh to laugh they ran, I'm told,
 Across the streets of Hell . . .
-                                 And then
+ And then
 They suddenly felt the wind blow cold,
 And knew, so closely pressed,
 Chill air on lip and breast,
