@@ -1,19 +1,59 @@
 ---
-author: Walter De La Mare
-gender: male
+author: Walter De La Mare 
 title: The Witch
-curator: Ata
-year: 19th/20th century
-country: England
-tags:
- -  supernatural
- -  eyes
- -  dead
- -  church
- -  dark imagery
- -  witch
 ---
-All of these dead were stirring
-Each unto each did call,
-"A witch, a witch is sleeping
-Under the churchyard wall."
+
+ Weary went the old Witch,
+ Weary of her pack,
+ She sat her down by the churchyard wall,
+ And jerked it off her back.
+
+ The cord brake, yes, the cord brake,
+ Just where the dead did lie,
+ And Charms and Spells and Sorceries
+ Spilled out beneath the sky.
+
+ Weary was the old Witch;
+ She rested her old eyes
+ From the lantern-fruited yew trees,
+ And the scarlet of the skies;
+
+ And out the dead came stumbling,
+ From every rift and crack,
+ Silent as moss, and plundered
+ The gaping pack.
+
+ They wish them, three times over,
+ Away they skip full soon:
+ Bat and Mole and Leveret,
+ Under the rising moon;
+
+ Owl and Newt and Nightjar:
+ They take their shapes and creep,
+ Silent as churchyard lichen,
+ While she squats asleep.
+
+ All of these dead were stirring:
+ Each unto each did call,
+ 'A Witch, a Witch is sleeping
+ Under the churchyard wall;
+
+ 'A Witch, a Witch is sleeping....'
+ The shrillness ebbed away;
+ And up the way-worn moon clomb bright,
+ Hard on the track of day.
+
+ She shone, high, wan and silvery;
+ Day's colours paled and died:
+ And, save the mute and creeping worm,
+ Nought else was there beside.
+
+ Names may be writ; and mounds rise;
+ Purporting, Here be bones:
+ But empty is that churchyard
+ Of all save stones.
+
+ Owl and Newt and Nightjar,
+ Leveret, Bat and Mole
+ Haunt and call in the twilight,
+ Where she slept, poor soul.
