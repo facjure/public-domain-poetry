@@ -1,34 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
-title: Mists and Rains
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  night
- -  time
- -  mystic
+author: Charles Baudelaire 
+title: Mists And Rains
 ---
 
-The last of Autumn and Winter—steeped in haze,
-The sleepy seasons! you, I love and praise,
-Because around my heart and brain you wind
-A misty, curving-sheet and a nebulous shrine.
+Autumn's last days, winters and mud-soaked spring
+I praise the stupefaction that you bring
+By so enveloping my heart and brain
+In shroud of vapours, tomb of mist and rain.
 
-On that great plain, where frigid blasts abound,
-Where through the nights, so long, the vane whirls round,
-My soul, more free than in the springtime soft,
-Will stretch her raven wings and soar above,
+In this great flatness where the chill winds course,
+Where through the nights the weather-cock grows hoarse,
+My soul, more than in springtime's tepid sky,
+Will open out her raven's wings to fly.
 
-Unto a heart with gloomy things replete,
-On which remain the frosts of former Times,
-The pallid seasons, mistress of our climes
+O blankest seasons, queens of all my praise,
+Nothing is sweet to the funereal breast
+That has been steeped in frost and wintriness
 
-As your pale shadows—nothing is so sweet,
-Unless it be, on a moonless night in-twain,
-On some chance couch to soothe to sleep our Pain.
+But the continuous face of your pale shades
+- Except we two, where moonlight never creeps
+Daring in bed to put our griefs to sleep.
