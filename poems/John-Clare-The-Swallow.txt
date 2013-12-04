@@ -1,0 +1,14 @@
+---
+author: John Clare 
+title: The Swallow
+---
+
+ Swift goes the sooty swallow o'er the heath,
+ Swifter than skims the cloud-rack of the skies;
+ As swiftly flies its shadow underneath,
+ And on his wing the twittering sunbeam lies,
+ As bright as water glitters in the eyes
+ Of those it passes; 'tis a pretty thing,
+ The ornament of meadows and clear skies:
+ With dingy breast and narrow pointed wing,
+ Its daily twittering is a song to Spring.
