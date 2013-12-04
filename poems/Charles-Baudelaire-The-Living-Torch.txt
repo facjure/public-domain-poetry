@@ -1,38 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: The Living Torch
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  diamond
- -  eyes
- -  sonnet
- -  God
- -  beauty
- -  stars
- -  sky
- -  inspired
 ---
 
-They stand before me now, those eyes that shine,
-No doubt inspired by an Angel wise;
-They stand, those God-like brothers that are mine,
-And pour their diamond fires in my eyes.
+They march ahead, those brilliant Eyes in you
+A master Angel doubtless magnetized;
+They march, those holy twins, my brothers too,
+Raising a gem-like flame within my eyes.
 
-From all transgressions, from all snares, they save,
-Towards the Path of Joy they guide my ways;
-They are my servants, and I am their slave;
-And all my soul, this living torch obeys.
+From all the snares and deadly sins they save
+Me, and they lead my steps in Beauty's way;
+They are my servants, yet I am their slave;
+This living torch makes all my heart obey.
 
-You charming Eyes—you have those mystic beams,
-Of candles, burning in full day; the sun
-Awakes, but kills not their fantastic gleams:
+Fair eyes, you glimmer with the secret rays
+Of tapers lit at noon; in growing red
+The sun does not put out their mystic blaze;
 
-You sing the Awakening, they the dark oblivion;
-The Awakening of my spirit you proclaim,
-Stars— no sun can ever kill your flame!
+You sing Awakening, they praise the Dead;
+You march and wake with song this soul of mine,
+Stars of a flame the sun can not outshine!
