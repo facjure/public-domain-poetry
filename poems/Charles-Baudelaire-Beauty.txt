@@ -1,34 +1,25 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: Beauty
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  self
- -  ars poetica
- -  sonnet
- -  sphinx
 ---
 
-I am lovely, mortals, like a dream of stone,
-And my bosom, where each one gets bruised in turn,
-To inspire the love of a poet is prone,
-Like matter eternally silent and stern.
 
-As an unfathomed sphinx, enthroned by the Nile,
-My heart, a swan's whiteness with granite combines,
-And I hate every movement, displacing the lines,
-And never I weep and never I smile.
+Am as lovely as a dream in stone,
+And this my heart where each finds death in turn,
+Inspires the poet with a love as lone
+As clay eternal and as taciturn.
 
-The poets in front of mine attitudes fine
-(Which the proudest of monuments seem to implant),
-To studies profound all their moments assign,
+Swan-white of heart, a sphinx no mortal knows,
+My throne is in the heaven's azure deep;
+I hate all movements that disturb my pose,
+I smile not ever, neither do I weep.
 
-For I have all these docile swains to enchant—
-Two mirrors, which Beauty in all things ignite:
-My eyes, my large eyes, of eternal Light!
+Before my monumental attitudes,
+That breathe a soul into the plastic arts,
+My poets pray in austere studious moods,
+
+For I, to fold enchantment round their hearts,
+Have pools of light where beauty flames and dies,
+The placid mirrors of my luminous eyes.
+
+
