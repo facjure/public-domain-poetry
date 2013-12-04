@@ -1,38 +1,28 @@
 ---
-author: Eugene Field
-gender: male
+author: Eugene Field 
 title: Norse Lullaby
-curator: Ata
-year: 19th Century
-country: America
-tags:
- -  lyric
- -  modern
- -  sky
- -  child
- -  warrior
- -  sleep
- -  king
 ---
 
 The sky is dark and the hills are white
 As the storm-king speeds from the north to-night,
 And this is the song the storm-king sings,
 As over the world his cloak he flings:
-  "Sleep, sleep, little one, sleep;"
+"Sleep, sleep, little one, sleep;"
 He rustles his wings and gruffly sings:
-  "Sleep, little one, sleep."
+"Sleep, little one, sleep."
+
 On yonder mountain-side a vine
 Clings at the foot of a mother pine;
 The tree bends over the trembling thing,
 And only the vine can hear her sing:
-  "Sleep, sleep, little one, sleep;
+"Sleep, sleep, little one, sleep;
 What shall you fear when I am here?
-  Sleep, little one, sleep."
+Sleep, little one, sleep."
+
 The king may sing in his bitter flight,
 The tree may croon to the vine to-night,
 But the little snowflake at my breast
-Likes the song I sing the best,—
-  Sleep, sleep, little one, sleep;
-Weary you are, next to my heart
-  Sleep, little one, sleep.
+Liketh the song I sing the best,--
+Sleep, sleep, little one, sleep;
+Weary thou art, anext my heart
+Sleep, little one, sleep.
