@@ -1,0 +1,13 @@
+---
+author: William Butler Yeats 
+title: Swift's Epitaph
+---
+
+Swift has sailed into his rest;
+Savage indignation there
+Cannot lacerate his breast.
+Imitate him if you dare,
+World-besotted traveller; he
+Served human liberty.
+
+
