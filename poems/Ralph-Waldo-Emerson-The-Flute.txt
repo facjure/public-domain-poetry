@@ -1,0 +1,11 @@
+---
+author: Ralph Waldo Emerson 
+title: The Flute
+---
+
+FROM HILALI
+
+Hark, what, now loud, now low, the pining flute complains,
+Without tongue, yellow-cheeked, full of winds that wail and sigh;
+Saying, Sweetheart! the old mystery remains,--
+If I am I; thou, thou; or thou art I?
