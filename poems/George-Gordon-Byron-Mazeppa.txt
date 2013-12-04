@@ -1,0 +1,968 @@
+---
+author: George Gordon Byron 
+title: Mazeppa
+---
+
+	Introduction To Mazeppa
+
+	Mazeppa, a legend of the Russian Ukraine, or frontier region, is based on the passage in Voltaire's Charles XII. prefixed as the "Advertisement" to the poem. Voltaire seems to have known very little about the man or his history, and Byron, though he draws largely on his imagination, was content to take his substratum of fact from Voltaire. The "true story of Mazeppa" is worth re-telling for its own sake, and lends a fresh interest and vitality to the legend. Ivan Stepanovitch Mazeppa (or Mazepa), born about the year 1645, was of Cossack origin, but appears to have belonged, by descent or creation, to the lesser nobility of the semi-Polish Volhynia. He began life (1660) as a page of honour in the Court of King John Casimir V. of Poland, where he studied Latin, and acquired the tongue and pen of eloquent statesmanship. Banished from the court on account of a quarrel, he withdrew to his mother's estate in Volhynia, and there, to beguile the time, made love to the wife of a neighbouring magnate, the pane or Lord Falbowski. The intrigue was discovered, and to avenge his wrongs the outraged husband caused Mazeppa to be stripped to the skin, and bound to his own steed. The horse, lashed into madness, and terror-stricken by the discharge of a pistol, started off at a gallop, and rushing "thorough bush, thorough briar," carried his torn and bleeding rider into the courtyard of his own mansion!
+
+	With regard to the sequel or issue of this episode, history is silent, but when the curtain rises again (A.D. 1674) Mazeppa is discovered in the character of writer-general or foreign secretary to Peter Dorosh�nko, hetman or president of the Western Ukraine, on the hither side of the Dni�per. From the service of Dorosh�nko, who came to an untimely end, he passed by a series of accidents into the employ of his rival, Samo�lovitch, hetman of the Eastern Ukraine, and, as his secretary or envoy, continued to attract the notice and to conciliate the good will of the (regent) Tzarina Sophia and her eminent boyard, Prince Basil Golitsyn. A time came (1687) when it served the interests of Russia to degrade Samo�lovitch, and raise Mazeppa to the post of hetman, and thenceforward, for twenty years and more, he held something like a regal sway over the whole of the Ukraine (a fertile "no-man's land," watered by the Dni�per and its tributaries), openly the loyal and zealous ally of his neighbour and suzerain, Peter the Great.
+
+	How far this allegiance was genuine, or whether a secret preference for Poland, the land of his adoption, or a long-concealed impatience of Muscovite suzerainty would in any case have urged him to revolt, must remain doubtful, but it is certain that the immediate cause of a final reversal of the allegiance and a break with the Tsar was a second and still more fateful affaire du coeur. The hetman was upwards of sixty years of age, but, even so, he fell in love with his god-daughter, Matr�na, who, in spite of difference of age and ecclesiastical kinship, not only returned his love, but, to escape the upbraidings and persecution of her mother, took refuge under his roof. Mazeppa sent the girl back to her home, but, as his love-letters testify, continued to woo her with the tenderest and most passionate solicitings; and, although she finally yielded to force majeure and married another suitor, her parents nursed their revenge, and endeavoured to embroil the hetman with the Tsar. For a time their machinations failed, and Matr�na's father, Kotch�bey, together with his friend Iskra, were executed with the Tsar's assent and approbation. Before long, however, Mazeppa, who had been for some time past in secret correspondence with the Swedes, signalized his defection from Peter by offering his services first to Stanislaus of Poland, and afterwards to Charles XII. of Sweden, who was meditating the invasion of Russia.
+
+	"Pultowa's day," July 8, 1709, was the last of Mazeppa's power and influence, and in the following year (March 31, 1710), "he died of old age, perhaps of a broken heart," at V�rnitza, a village near Bender, on the Dniester, whither he had accompanied the vanquished and fugitive Charles.
+
+	Such was Mazeppa, a man destined to pass through the crowded scenes of history, and to take his stand among the greater heroes of romance. His deeds of daring, his intrigues and his treachery, have been and still are sung by the wandering minstrels of the Ukraine. His story has passed into literature. His ride forms the subject of an Orientale (1829) by Victor Hugo, who treats Byron's theme symbolically; and the romance of his old age, his love for his god-daughter Matr�na, with its tragical issue, the judicial murder of Kotch�bey and Iskra, are celebrated by the "Russian Byron" Pushkin, in his poem Poltava. He forms the subject of a novel, Iwan Wizigin, by Bulgarin, 1830, and of tragedies by I. Slowacki, 1840, and Rudolph von Gottschall. From literature Mazeppa has passed into art in the "symphonic poem" of Franz Lizt (1857); and, yet again, pour comble de gloire, Mazeppa, or The Wild Horse of Tartary, is the title of a "romantic drama," first played at the Royal Amphitheatre, Westminster Bridge, on Easter Monday, 1831; and revived at Astley's Theatre, when Adah Isaacs Menken appeared as "Mazeppa," October 3, 1864. (Peter the Great, by Eugene Schuyler, 1884, ii. 115, seq.; Le Fils de Pierre Le Grand, Mazeppa, etc., by Viscount E. Melchior de Vog��, Paris, 1884; Peter the Great, by Oscar Browning, 1899, pp. 219-229.)
+
+	Of the composition of Mazeppa we know nothing, except that on September 24, 1818, "it was still to finish" (Letters, 1900, iv. 264). It was published together with an Ode (Venice: An Ode) and A Fragment (see Letters, 1899, iii. Appendix IV. pp. 446-453), June 28, 1819.
+
+	Notices of Mazeppa appeared in Blackwood's Edinburgh Magazine, July, 1819, vol. v. p. 429 (for John Gilpin and Mazeppa, by William Maginn, vide ibid., pp. 434-439); the Monthly Review, July, 1819, vol. 89, pp. 309-321; and the Eclectic Review, August, 1819, vol. xii. pp. 147-156.
+
+
+
+
+	Advertisement.
+
+
+	"Celui qui remplissait alors cette place �tait un gentilhomme Polonais, nomin� Mazeppa, n� dans le palatinat de Podolie: il avait �t� �lev� page de Jean Casimir, et avait pris � sa cour quelque teinture des belles-lettres. Une intrigue qu'il eut dans sa jeunesse avec la femme d'un gentilhomme Polonais ayant �t� d�couverte, le mari le fit lier tout nu sur un cheval farouche, et le laissa aller en cet �tat. Le cheval, qui �tait du pays de l'Ukraine, y retourna, et y porta Mazeppa, demi-mort de fatigue et de faim. Quelques paysans le secoururent: il resta longtems parmi eux, et se signala dans plusieurs courses contre les Tartares. La sup�riorit� de ses lumi�res lui donna une grande consid�ration parmi les Cosaques: sa r�putation s'augmentant de jour en jour, obligea le Czar � le faire Prince de l'Ukraine." - Voltaire, Hist. de Charles XII., 1772, p. 205.
+
+	"Le roi, fuyant et poursuivi, eut son cheval tu� sous lui; le Colonel Gieta, bless�, et perdant tout son sang, lui donna le sien. Ainsi on remit deux fois � cheval, dans la fuite,[br] ce conqu�rant qui n'avait pu y monter pendant la bataille." - p. 222.
+
+	"Le roi alla par un autre chemin avec quelques cavaliers. Le carrosse, o� il �tait, rompit dans la marche; on le remit � cheval. Pour comble de disgr�ce, il s'�gara pendant la nuit dans un bois; l�, son courage ne pouvant plus suppl�er, � ses forces �puis�es, les douleurs de sa blessure devenues plus insupportables par la fatigue, son cheval �tant tomb� de lassitude, il se coucha quelques heures au pied d'un arbre, en danger d'�tre surpris � tout moment par les vainqueurs, qui le cherchaient de tous c�t�s." - p. 224.
+
+
+
+
+I.
+
+'Twas after dread Pultowa's day,[248]
+When Fortune left the royal Swede -
+Around a slaughtered army lay,
+No more to combat and to bleed.
+The power and glory of the war,
+Faithless as their vain votaries, men,
+Had passed to the triumphant Czar,
+And Moscow's walls were safe again -
+Until a day more dark and drear,[249]
+And a more memorable year,
+Should give to slaughter and to shame
+A mightier host and haughtier name;
+A greater wreck, a deeper fall,
+A shock to one - a thunderbolt to all.
+
+II.
+
+Such was the hazard of the die;
+The wounded Charles was taught to fly[250]
+By day and night through field and flood,
+Stained with his own and subjects' blood;
+For thousands fell that flight to aid:
+And not a voice was heard to upbraid
+Ambition in his humbled hour,
+When Truth had nought to dread from Power.
+His horse was slain, and Gieta gave
+His own - and died the Russians' slave.
+This, too, sinks after many a league
+Of well-sustained, but vain fatigue;
+And in the depth of forests darkling,
+The watch-fires in the distance sparkling -
+The beacons of surrounding foes -
+A King must lay his limbs at length.
+Are these the laurels and repose
+For which the nations strain their strength?
+They laid him by a savage tree,[251]
+In outworn Nature's agony;
+His wounds were stiff, his limbs were stark;
+The heavy hour was chill and dark;
+The fever in his blood forbade
+A transient slumber's fitful aid:
+And thus it was; but yet through all,
+Kinglike the monarch bore his fall,
+And made, in this extreme of ill,
+His pangs the vassals of his will:
+All silent and subdued were they.
+As once the nations round him lay.
+
+III.
+
+A band of chiefs! - alas! how few,
+Since but the fleeting of a day
+Had thinned it; but this wreck was true
+And chivalrous: upon the clay
+Each sate him down, all sad and mute,
+Beside his monarch and his steed;
+For danger levels man and brute,
+And all are fellows in their need.
+Among the rest, Mazeppa made[252]
+His pillow in an old oak's shade -
+Himself as rough, and scarce less old,
+The Ukraine's Hetman, calm and bold;
+But first, outspent with this long course,
+The Cossack prince rubbed down his horse,
+And made for him a leafy bed,
+And smoothed his fetlocks and his mane,
+And slacked his girth, and stripped his rein,
+And joyed to see how well he fed;
+For until now he had the dread
+His wearied courser might refuse
+To browse beneath the midnight dews:
+But he was hardy as his lord,
+And little cared for bed and board;
+But spirited and docile too,
+Whate'er was to be done, would do.
+Shaggy and swift, and strong of limb,
+All Tartar-like he carried him;
+Obeyed his voice, and came to call,
+And knew him in the midst of all:
+Though thousands were around, - and Night,
+Without a star, pursued her flight, -
+That steed from sunset until dawn
+His chief would follow like a fawn.
+
+
+IV.
+
+This done, Mazeppa spread his cloak,
+And laid his lance beneath his oak,
+Felt if his arms in order good
+The long day's march had well withstood -
+If still the powder filled the pan,
+And flints unloosened kept their lock -
+His sabre's hilt and scabbard felt,
+And whether they had chafed his belt;
+And next the venerable man,
+From out his havresack and can,
+Prepared and spread his slender stock;
+And to the Monarch and his men
+The whole or portion offered then
+With far less of inquietude
+Than courtiers at a banquet would.
+And Charles of this his slender share
+With smiles partook a moment there,
+To force of cheer a greater show,
+And seem above both wounds and woe; -
+And then he said - "Of all our band,
+Though firm of heart and strong of hand,
+In skirmish, march, or forage, none
+Can less have said or more have done
+Than thee, Mazeppa! On the earth
+So fit a pair had never birth,
+Since Alexander's days till now,
+As thy Bucephalus and thou:
+All Scythia's fame to thine should yield
+For pricking on o'er flood and field."
+Mazeppa answered - "Ill betide
+The school wherein I learned to ride!"
+Quoth Charles - "Old Hetman, wherefore so,
+Since thou hast learned the art so well?"
+Mazeppa said - "'Twere long to tell;
+And we have many a league to go,
+With every now and then a blow,
+And ten to one at least the foe,
+Before our steeds may graze at ease,
+Beyond the swift Borysthenes:[253]
+And, Sire, your limbs have need of rest,
+And I will be the sentinel
+Of this your troop." - "But I request,"
+Said Sweden's monarch, "thou wilt tell
+This tale of thine, and I may reap,
+Perchance, from this the boon of sleep;
+For at this moment from my eyes
+The hope of present slumber flies."
+
+"Well, Sire, with such a hope, I'll track
+My seventy years of memory back:
+I think 'twas in my twentieth spring, -
+Aye 'twas, - when Casimir was king[254] -
+John Casimir, - I was his page
+Six summers, in my earlier age:[255]
+A learn�d monarch, faith! was he,
+And most unlike your Majesty;
+He made no wars, and did not gain
+New realms to lose them back again;
+And (save debates in Warsaw's diet)
+He reigned in most unseemly quiet;
+Not that he had no cares to vex;
+He loved the Muses and the Sex;[256]
+And sometimes these so froward are,
+They made him wish himself at war;
+But soon his wrath being o'er, he took
+Another mistress - or new book:
+And then he gave prodigious fetes -
+All Warsaw gathered round his gates
+To gaze upon his splendid court,
+And dames, and chiefs, of princely port.
+He was the Polish Solomon,
+So sung his poets, all but one,
+Who, being unpensioned, made a satire,
+And boasted that he could not flatter.
+It was a court of jousts and mimes,
+Where every courtier tried at rhymes;
+Even I for once produced some verses,
+And signed my odes 'Despairing Thyrsis.'
+There was a certain Palatine,[257]
+A Count of far and high descent,
+Rich as a salt or silver mine;[258]
+And he was proud, ye may divine,
+As if from Heaven he had been sent;
+He had such wealth in blood and ore
+As few could match beneath the throne;
+And he would gaze upon his store,
+And o'er his pedigree would pore,
+Until by some confusion led,
+Which almost looked like want of head,
+He thought their merits were his own.
+His wife was not of this opinion;
+His junior she by thirty years,
+Grew daily tired of his dominion;
+And, after wishes, hopes, and fears,
+To Virtue a few farewell tears,
+A restless dream or two - some glances
+At Warsaw's youth - some songs, and dances,
+Awaited but the usual chances,
+Those happy accidents which render
+The coldest dames so very tender,
+To deck her Count with titles given,
+'Tis said, as passports into Heaven;
+But, strange to say, they rarely boast
+Of these, who have deserved them most.
+
+V.
+
+"I was a goodly stripling then;
+At seventy years I so may say,
+That there were few, or boys or men,
+Who, in my dawning time of day,
+Of vassal or of knight's degree,
+Could vie in vanities with me;
+For I had strength - youth - gaiety,
+A port, not like to this ye see,
+But smooth, as all is rugged now;
+For Time, and Care, and War, have ploughed
+My very soul from out my brow;
+And thus I should be disavowed
+By all my kind and kin, could they
+Compare my day and yesterday;
+This change was wrought, too, long ere age
+Had ta'en my features for his page:
+With years, ye know, have not declined
+My strength - my courage - or my mind,
+Or at this hour I should not be
+Telling old tales beneath a tree,
+With starless skies my canopy.
+But let me on: Theresa's[259] form -
+Methinks it glides before me now,
+Between me and yon chestnut's bough,
+The memory is so quick and warm;
+And yet I find no words to tell
+The shape of her I loved so well:
+She had the Asiatic eye,
+Such as our Turkish neighbourhood
+Hath mingled with our Polish blood,
+Dark as above us is the sky;
+But through it stole a tender light,
+Like the first moonrise of midnight;
+Large, dark, and swimming in the stream,
+Which seemed to melt to its own beam;
+All love, half languor, and half fire,
+Like saints that at the stake expire,
+And lift their raptured looks on high,
+As though it were a joy to die.[bs]
+A brow like a midsummer lake,
+Transparent with the sun therein,
+When waves no murmur dare to make,
+And heaven beholds her face within.
+A cheek and lip - but why proceed?
+I loved her then, I love her still;
+And such as I am, love indeed
+In fierce extremes - in good and ill.
+But still we love even in our rage,
+And haunted to our very age
+With the vain shadow of the past, -
+As is Mazeppa to the last.
+
+VI.
+
+"We met - we gazed - I saw, and sighed;
+She did not speak, and yet replied;
+There are ten thousand tones and signs
+We hear and see, but none defines -
+Involuntary sparks of thought,
+Which strike from out the heart o'erwrought,
+And form a strange intelligence,
+Alike mysterious and intense,
+Which link the burning chain that binds,
+Without their will, young hearts and minds;
+Conveying, as the electric[260] wire,
+We know not how, the absorbing fire.
+I saw, and sighed - in silence wept,
+And still reluctant distance kept,
+Until I was made known to her,
+And we might then and there confer
+Without suspicion - then, even then,
+I longed, and was resolved to speak;
+But on my lips they died again,
+The accents tremulous and weak,
+Until one hour. - There is a game,
+A frivolous and foolish play,
+Wherewith we while away the day;
+It is - I have forgot the name -
+And we to this, it seems, were set,
+By some strange chance, which I forget:
+I recked not if I won or lost,
+It was enough for me to be
+So near to hear, and oh! to see
+The being whom I loved the most.
+I watched her as a sentinel,
+(May ours this dark night watch as well!)
+Until I saw, and thus it was,
+That she was pensive, nor perceived
+Her occupation, nor was grieved
+Nor glad to lose or gain; but still
+Played on for hours, as if her will
+Yet bound her to the place, though not
+That hers might be the winning lot[bt].
+Then through my brain the thought did pass,
+Even as a flash of lightning there,
+That there was something in her air
+Which would not doom me to despair;
+And on the thought my words broke forth,
+All incoherent as they were;
+Their eloquence was little worth,
+But yet she listened - 'tis enough -
+Who listens once will listen twice;
+Her heart, be sure, is not of ice -
+And one refusal no rebuff.
+
+VII.
+
+"I loved, and was beloved again -
+They tell me, Sire, you never knew
+Those gentle frailties; if 'tis true,
+I shorten all my joy or pain;
+To you 'twould seem absurd as vain;
+But all men are not born to reign,
+Or o'er their passions, or as you
+Thus o'er themselves and nations too.
+I am - or rather was - a Prince,
+A chief of thousands, and could lead
+Them on where each would foremost bleed;
+But could not o'er myself evince
+The like control - But to resume:
+I loved, and was beloved again;
+In sooth, it is a happy doom,
+But yet where happiest ends in pain. -
+We met in secret, and the hour
+Which led me to that lady's bower
+Was fiery Expectation's dower.
+My days and nights were nothing - all
+Except that hour which doth recall,
+In the long lapse from youth to age,
+No other like itself: I'd give
+The Ukraine back again to live
+It o'er once more, and be a page,
+The happy page, who was the lord
+Of one soft heart, and his own sword,
+And had no other gem nor wealth,
+Save Nature's gift of Youth and Health.
+We met in secret - doubly sweet[261],
+Some say, they find it so to meet;
+I know not that - I would have given
+My life but to have called her mine
+In the full view of Earth and Heaven;
+For I did oft and long repine
+That we could only meet by stealth.
+
+VIII.
+
+"For lovers there are many eyes,
+And such there were on us; the Devil
+On such occasions should be civil -
+The Devil! - I'm loth to do him wrong,
+It might be some untoward saint,
+Who would not be at rest too long,
+But to his pious bile gave vent -
+But one fair night, some lurking spies
+Surprised and seized us both.
+The Count was something more than wroth -
+I was unarmed; but if in steel,
+All cap-�-pie from head to heel,
+What 'gainst their numbers could I do?
+'Twas near his castle, far away
+From city or from succour near,
+And almost on the break of day;
+I did not think to see another,
+My moments seemed reduced to few;
+And with one prayer to Mary Mother,
+And, it may be, a saint or two,
+As I resigned me to my fate,
+They led me to the castle gate:
+Theresa's doom I never knew,
+Our lot was henceforth separate.
+An angry man, ye may opine,
+Was he, the proud Count Palatine;
+And he had reason good to be,
+But he was most enraged lest such
+An accident should chance to touch
+Upon his future pedigree;
+Nor less amazed, that such a blot
+His noble 'scutcheon should have got,
+While he was highest of his line;
+Because unto himself he seemed
+The first of men, nor less he deemed
+In others' eyes, and most in mine.
+'Sdeath! with a page - perchance a king
+Had reconciled him to the thing;
+But with a stripling of a page -
+I felt - but cannot paint his rage.
+
+IX.
+
+"'Bring forth the horse!' - the horse was brought!
+In truth, he was a noble steed,
+A Tartar of the Ukraine breed,
+Who looked as though the speed of thought
+Were in his limbs; but he was wild,
+Wild as the wild deer, and untaught,
+With spur and bridle undefiled -
+'Twas but a day he had been caught;
+And snorting, with erected mane,
+And struggling fiercely, but in vain,
+In the full foam of wrath and dread
+To me the desert-born was led:
+They bound me on, that menial throng,
+Upon his back with many a thong;
+They loosed him with a sudden lash -
+Away! - away! - and on we dash! -
+Torrents less rapid and less rash.
+
+X.
+
+"Away! - away! - My breath was gone,
+I saw not where he hurried on:
+'Twas scarcely yet the break of day,
+And on he foamed - away! - away!
+The last of human sounds which rose,
+As I was darted from my foes,
+Was the wild shout of savage laughter,
+Which on the wind came roaring after
+A moment from that rabble rout:
+With sudden wrath I wrenched my head,
+And snapped the cord, which to the mane
+Had bound my neck in lieu of rein,
+And, writhing half my form about,
+Howled back my curse; but 'midst the tread,
+The thunder of my courser's speed,
+Perchance they did not hear nor heed:
+It vexes me - for I would fain
+Have paid their insult back again.
+I paid it well in after days:
+There is not of that castle gate,
+Its drawbridge and portcullis' weight,
+Stone - bar - moat - bridge - or barrier left;
+Nor of its fields a blade of grass,
+Save what grows on a ridge of wall,
+Where stood the hearth-stone of the hall;
+And many a time ye there might pass,
+Nor dream that e'er the fortress was.
+I saw its turrets in a blaze,
+Their crackling battlements all cleft,
+And the hot lead pour down like rain
+From off the scorched and blackening roof,
+Whose thickness was not vengeance-proof.
+They little thought that day of pain,
+When launched, as on the lightning's flash,
+They bade me to destruction dash,
+That one day I should come again,
+With twice five thousand horse, to thank
+The Count for his uncourteous ride.
+They played me then a bitter prank,
+When, with the wild horse for my guide,
+They bound me to his foaming flank:
+At length I played them one as frank -
+For Time at last sets all things even -
+And if we do but watch the hour,
+There never yet was human power
+Which could evade, if unforgiven,
+The patient search and vigil long
+Of him who treasures up a wrong.
+
+XI.
+
+"Away! - away! - my steed and I,
+Upon the pinions of the wind!
+All human dwellings left behind,
+We sped like meteors through the sky,
+When with its crackling sound the night[262]
+Is chequered with the Northern light.
+Town - village - none were on our track,
+But a wild plain of far extent,
+And bounded by a forest black[263];
+And, save the scarce seen battlement
+On distant heights of some strong hold,
+Against the Tartars built of old,
+No trace of man. The year before
+A Turkish army had marched o'er;
+And where the Spahi's hoof hath trod,
+The verdure flies the bloody sod:
+The sky was dull, and dim, and gray,
+And a low breeze crept moaning by -
+I could have answered with a sigh -
+But fast we fled, - away! - away! -
+And I could neither sigh nor pray;
+And my cold sweat-drops fell like rain
+Upon the courser's bristling mane;
+But, snorting still with rage and fear,
+He flew upon his far career:
+At times I almost thought, indeed,
+He must have slackened in his speed;
+But no - my bound and slender frame
+Was nothing to his angry might,
+And merely like a spur became:
+Each motion which I made to free
+My swoln limbs from their agony
+Increased his fury and affright:
+I tried my voice, - 'twas faint and low -
+But yet he swerved as from a blow;
+And, starting to each accent, sprang
+As from a sudden trumpet's clang:
+Meantime my cords were wet with gore,
+Which, oozing through my limbs, ran o'er;
+And in my tongue the thirst became
+A something fierier far than flame.
+
+XII.
+
+"We neared the wild wood - 'twas so wide,
+I saw no bounds on either side:
+'Twas studded with old sturdy trees,
+That bent not to the roughest breeze
+Which howls down from Siberia's waste,
+And strips the forest in its haste, -
+But these were few and far between,
+Set thick with shrubs more young and green,
+Luxuriant with their annual leaves,
+Ere strown by those autumnal eyes
+That nip the forest's foliage dead,
+Discoloured with a lifeless red[bu],
+Which stands thereon like stiffened gore
+Upon the slain when battle's o'er;
+And some long winter's night hath shed
+Its frost o'er every tombless head -
+So cold and stark - the raven's beak
+May peck unpierced each frozen cheek:
+'Twas a wild waste of underwood,
+And here and there a chestnut stood,
+The strong oak, and the hardy pine;
+But far apart - and well it were,
+Or else a different lot were mine -
+The boughs gave way, and did not tear
+My limbs; and I found strength to bear
+My wounds, already scarred with cold;
+My bonds forbade to loose my hold.
+We rustled through the leaves like wind, -
+Left shrubs, and trees, and wolves behind;
+By night I heard them on the track,
+Their troop came hard upon our back,
+With their long gallop, which can tire
+The hound's deep hate, and hunter's fire:
+Where'er we flew they followed on,
+Nor left us with the morning sun;
+Behind I saw them, scarce a rood,
+At day-break winding through the wood,
+And through the night had heard their feet
+Their stealing, rustling step repeat.
+Oh! how I wished for spear or sword,
+At least to die amidst the horde,
+And perish - if it must be so -
+At bay, destroying many a foe!
+When first my courser's race begun,
+I wished the goal already won;
+But now I doubted strength and speed:
+Vain doubt! his swift and savage breed
+Had nerved him like the mountain-roe -
+Nor faster falls the blinding snow
+Which whelms the peasant near the door
+Whose threshold he shall cross no more,
+Bewildered with the dazzling blast,
+Than through the forest-paths he passed -
+Untired, untamed, and worse than wild -
+All furious as a favoured child
+Balked of its wish; or - fiercer still -
+A woman piqued - who has her will!
+
+XIII.
+
+"The wood was passed; 'twas more than noon,
+But chill the air, although in June;
+Or it might be my veins ran cold -
+Prolonged endurance tames the bold;
+And I was then not what I seem,
+But headlong as a wintry stream,
+And wore my feelings out before
+I well could count their causes o'er:
+And what with fury, fear, and wrath,
+The tortures which beset my path -
+Cold - hunger - sorrow - shame - distress -
+Thus bound in Nature's nakedness;
+Sprung from a race whose rising blood
+When stirred beyond its calmer mood,
+And trodden hard upon, is like
+The rattle-snake's, in act to strike -
+What marvel if this worn-out trunk
+Beneath its woes a moment sunk?[264]
+The earth gave way, the skies rolled round,
+I seemed to sink upon the ground;
+But erred - for I was fastly bound.
+My heart turned sick, my brain grew sore,
+And throbbed awhile, then beat no more:
+The skies spun like a mighty wheel;
+I saw the trees like drunkards reel,
+And a slight flash sprang o'er my eyes,
+Which saw no farther. He who dies
+Can die no more than then I died,
+O'ertortured by that ghastly ride.[265]
+I felt the blackness come and go,
+And strove to wake; but could not make
+My senses climb up from below:
+I felt as on a plank at sea,
+When all the waves that dash o'er thee,
+At the same time upheave and whelm,
+And hurl thee towards a desert realm.
+My undulating life was as
+The fancied lights that flitting pass
+Our shut eyes in deep midnight, when
+Fever begins upon the brain;
+But soon it passed, with little pain,
+But a confusion worse than such:
+I own that I should deem it much,
+Dying, to feel the same again;
+And yet I do suppose we must
+Feel far more ere we turn to dust!
+No matter! I have bared my brow
+Full in Death's face - before - and now.
+
+XIV.
+
+"My thoughts came back. Where was I? Cold,
+And numb, and giddy: pulse by pulse
+Life reassumed its lingering hold,
+And throb by throb, - till grown a pang
+Which for a moment would convulse,
+My blood reflowed, though thick and chill;
+My ear with uncouth noises rang,
+My heart began once more to thrill;
+My sight returned, though dim; alas!
+And thickened, as it were, with glass.
+Methought the dash of waves was nigh;
+There was a gleam too of the sky, 580
+Studded with stars; - it is no dream;
+The wild horse swims the wilder stream!
+The bright broad river's gushing tide
+Sweeps, winding onward, far and wide,
+And we are half-way, struggling o'er
+To yon unknown and silent shore.
+The waters broke my hollow trance,
+And with a temporary strength
+My stiffened limbs were rebaptized.
+My courser's broad breast proudly braves, 590
+And dashes off the ascending waves,
+And onward we advance!
+We reach the slippery shore at length,
+A haven I but little prized,
+For all behind was dark and drear,
+And all before was night and fear.
+How many hours of night or day[266]
+In those suspended pangs I lay,
+I could not tell; I scarcely knew
+If this were human breath I drew.
+
+XV.
+
+"With glossy skin, and dripping mane,
+And reeling limbs, and reeking flank,
+The wild steed's sinewy nerves still strain
+Up the repelling bank.
+We gain the top: a boundless plain
+Spreads through the shadow of the night,
+And onward, onward, onward - seems,
+Like precipices in our dreams,[267]
+To stretch beyond the sight;
+And here and there a speck of white, 610
+Or scattered spot of dusky green,
+In masses broke into the light,
+As rose the moon upon my right:
+But nought distinctly seen
+In the dim waste would indicate
+The omen of a cottage gate;
+No twinkling taper from afar
+Stood like a hospitable star;
+Not even an ignis-fatuus rose[268]
+To make him merry with my woes: 620
+That very cheat had cheered me then!
+Although detected, welcome still,
+Reminding me, through every ill,
+Of the abodes of men.
+
+XVI.
+
+"Onward we went - but slack and slow;
+His savage force at length o'erspent,
+The drooping courser, faint and low,
+All feebly foaming went:
+A sickly infant had had power
+To guide him forward in that hour! 630
+But, useless all to me,
+His new-born tameness nought availed -
+My limbs were bound; my force had failed,
+Perchance, had they been free.
+With feeble effort still I tried
+To rend the bonds so starkly tied,
+But still it was in vain;
+My limbs were only wrung the more,
+And soon the idle strife gave o'er,
+Which but prolonged their pain. 640
+The dizzy race seemed almost done,
+Although no goal was nearly won:
+Some streaks announced the coming sun -
+How slow, alas! he came!
+Methought that mist of dawning gray
+Would never dapple into day,
+How heavily it rolled away!
+Before the eastern flame
+Rose crimson, and deposed the stars,
+And called the radiance from their cars,[bv] 650
+And filled the earth, from his deep throne,
+With lonely lustre, all his own.
+
+XVII.
+
+"Uprose the sun; the mists were curled
+Back from the solitary world
+Which lay around - behind - before.
+What booted it to traverse o'er
+Plain - forest - river? Man nor brute,
+Nor dint of hoof, nor print of foot,
+Lay in the wild luxuriant soil -
+No sign of travel, none of toil - 660
+The very air was mute:
+And not an insect's shrill small horn,[269]
+Nor matin bird's new voice was borne
+From herb nor thicket. Many a werst,
+Panting as if his heart would burst,
+The weary brute still staggered on;
+And still we were - or seemed - alone:
+At length, while reeling on our way,
+Methought I heard a courser neigh,
+From out yon tuft of blackening firs. 670
+Is it the wind those branches stirs?[270]
+No, no! from out the forest prance
+A trampling troop; I see them come!
+In one vast squadron they advance!
+I strove to cry - my lips were dumb!
+The steeds rush on in plunging pride;
+But where are they the reins to guide?
+A thousand horse, and none to ride!
+With flowing tail, and flying mane,
+Wide nostrils never stretched by pain, 680
+Mouths bloodless to the bit or rein,
+And feet that iron never shod,
+And flanks unscarred by spur or rod,
+A thousand horse, the wild, the free,
+Like waves that follow o'er the sea,
+Came thickly thundering on,
+As if our faint approach to meet!
+The sight re-nerved my courser's feet,
+A moment staggering, feebly fleet,
+A moment, with a faint low neigh, 690
+He answered, and then fell!
+With gasps and glazing eyes he lay,
+And reeking limbs immoveable,
+His first and last career is done!
+On came the troop - they saw him stoop,
+They saw me strangely bound along
+His back with many a bloody thong.
+They stop - they start - they snuff the air,
+Gallop a moment here and there,
+Approach, retire, wheel round and round,
+Then plunging back with sudden bound,
+Headed by one black mighty steed,
+Who seemed the Patriarch of his breed,
+Without a single speck or hair
+Of white upon his shaggy hide;
+They snort - they foam - neigh - swerve aside,
+And backward to the forest fly,
+By instinct, from a human eye.
+They left me there to my despair,
+Linked to the dead and stiffening wretch, 710
+Whose lifeless limbs beneath me stretch,
+Relieved from that unwonted weight,
+From whence I could not extricate
+Nor him nor me - and there we lay,
+The dying on the dead!
+I little deemed another day
+Would see my houseless, helpless head.
+
+"And there from morn to twilight bound,
+I felt the heavy hours toil round,
+With just enough of life to see 720
+My last of suns go down on me,
+In hopeless certainty of, mind,
+That makes us feel at length resigned
+To that which our foreboding years
+Present the worst and last of fears:
+Inevitable - even a boon,
+Nor more unkind for coming soon,
+Yet shunned and dreaded with such care,
+As if it only were a snare
+That Prudence might escape: 730
+At times both wished for and implored,
+At times sought with self-pointed sword,
+Yet still a dark and hideous close
+To even intolerable woes,
+And welcome in no shape.
+And, strange to say, the sons of pleasure,
+They who have revelled beyond measure
+In beauty, wassail, wine, and treasure,
+Die calm, or calmer, oft than he
+Whose heritage was Misery. 740
+For he who hath in turn run through
+All that was beautiful and new,
+Hath nought to hope, and nought to leave;
+And, save the future, (which is viewed
+Not quite as men are base or good,
+But as their nerves may be endued,)
+With nought perhaps to grieve:
+The wretch still hopes his woes must end,
+And Death, whom he should deem his friend,
+Appears, to his distempered eyes, 750
+Arrived to rob him of his prize,
+The tree of his new Paradise.
+To-morrow would have given him all,
+Repaid his pangs, repaired his fall;
+To-morrow would have been the first
+Of days no more deplored or curst,
+But bright, and long, and beckoning years,
+Seen dazzling through the mist of tears,
+Guerdon of many a painful hour;
+To-morrow would have given him power 760
+To rule - to shine - to smite - to save -
+And must it dawn upon his grave?
+
+XVIII.
+
+"The sun was sinking - still I lay
+Chained to the chill and stiffening steed!
+I thought to mingle there our clay;[271]
+And my dim eyes of death had need,
+No hope arose of being freed.
+I cast my last looks up the sky,
+And there between me and the sun[272]
+I saw the expecting raven fly, 770
+Who scarce would wait till both should die,
+Ere his repast begun;[273]
+He flew, and perched, then flew once more,
+And each time nearer than before;
+I saw his wing through twilight flit,
+And once so near me he alit
+I could have smote, but lacked the strength;
+But the slight motion of my hand,
+And feeble scratching of the sand,
+The exerted throat's faint struggling noise, 780
+Which scarcely could be called a voice,
+Together scared him off at length.
+I know no more - my latest dream
+Is something of a lovely star
+Which fixed my dull eyes from afar,
+And went and came with wandering beam,
+And of the cold - dull - swimming - dense
+Sensation of recurring sense,
+And then subsiding back to death,
+And then again a little breath, 790
+A little thrill - a short suspense,
+An icy sickness curdling o'er
+My heart, and sparks that crossed my brain -
+A gasp - a throb - a start of pain,
+A sigh - and nothing more.
+
+XIX.
+
+"I woke - where was I? - Do I see
+A human face look down on me?
+And doth a roof above me close?
+Do these limbs on a couch repose?
+Is this a chamber where I lie?
+And is it mortal yon bright eye,
+That watches me with gentle glance?
+I closed my own again once more,
+As doubtful that my former trance
+Could not as yet be o'er.
+A slender girl, long-haired, and tall,
+Sate watching by the cottage wall.
+The sparkle of her eye I caught,
+Even with my first return of thought;
+For ever and anon she threw 810
+A prying, pitying glance on me
+With her black eyes so wild and free:
+I gazed, and gazed, until I knew
+No vision it could be, -
+But that I lived, and was released
+From adding to the vulture's feast:
+And when the Cossack maid beheld
+My heavy eyes at length unsealed,
+She smiled - and I essayed to speak,
+But failed - and she approached, and made 820
+With lip and finger signs that said,
+I must not strive as yet to break
+The silence, till my strength should be
+Enough to leave my accents free;
+And then her hand on mine she laid,
+And smoothed the pillow for my head,
+And stole along on tiptoe tread,
+And gently oped the door, and spake
+In whispers - ne'er was voice so sweet![274]
+Even music followed her light feet. 830
+But those she called were not awake,
+And she went forth; but, ere she passed,
+Another look on me she cast,
+Another sign she made, to say,
+That I had nought to fear, that all
+Were near, at my command or call,
+And she would not delay
+Her due return: - while she was gone,
+Methought I felt too much alone.
+
+XX.
+
+"She came with mother and with sire - 840
+What need of more? - I will not tire
+With long recital of the rest,
+Since I became the Cossack's guest.
+They found me senseless on the plain,
+They bore me to the nearest hut,
+They brought me into life again -
+Me - one day o'er their realm to reign!
+Thus the vain fool who strove to glut
+His rage, refining on my pain,
+Sent me forth to the wilderness, 850
+Bound - naked - bleeding - and alone,
+To pass the desert to a throne, -
+What mortal his own doom may guess?
+Let none despond, let none despair!
+To-morrow the Borysthenes
+May see our coursers graze at ease
+Upon his Turkish bank, - and never
+Had I such welcome for a river
+As I shall yield when safely there.[275]
+Comrades, good night!" - The Hetman threw 860
+His length beneath the oak-tree shade,
+With leafy couch already made -
+A bed nor comfortless nor new
+To him, who took his rest whene'er
+The hour arrived, no matter where:
+His eyes the hastening slumbers steep.
+And if ye marvel Charles forgot
+To thank his tale, he wondered not, -
+The King had been an hour asleep!
+
