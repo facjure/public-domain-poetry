@@ -1,24 +1,13 @@
 ---
-author: Walt Whitman
-gender: male
-title: from Leaves of Grass
-curator: Ata
-year: 19th century
-country: America
-tags:
- -  love
- -  California
- -  Oregon
- -  Puget Sound
- -  pastoral
- -  sea
- -  America
- -  nature
- -  beauty
- -  Western
+author: Walt Whitman 
+title: A Promise To California
 ---
+
 A promise to California,
-Or inland to the great pastoral Plains, and on to Puget sound and Oregon;
-Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love,
-For I know very well that I and robust love belong among you, inland, and along the Western sea;
-For these States tend inland and toward the Western sea, and I will also.
+Also to the great Pastoral Plains, and for Oregon:
+Sojourning east a while longer, soon I travel toward you, to remain,
+to teach robust American love;
+For I know very well that I and robust love belong among you, inland,
+and along the Western Sea;
+For These States tend inland, and toward the Western Sea--and I will
+also.
