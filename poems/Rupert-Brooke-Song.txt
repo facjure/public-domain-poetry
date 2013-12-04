@@ -1,45 +1,14 @@
 ---
-author: Rupert Brooke
-gender: male
+author: Rupert Brooke 
 title: Song
-curator: Ata
-year: 20th century
-country: England
-tags:
- -  lyric
- -  sonnet
- -  dark imagery
- -  surreal
- -  death
- -  love
- -  river
- -  blood
- -  strange
 ---
 
-"Oh! Love," they said, "is King of Kings,
-And Triumph is his crown.
-Earth fades in flame before his wings,
-And Sun and Moon bow down." —
-But that, I knew, would never do;
-And Heaven is all too high.
-So whenever I meet a Queen, I said,
-I will not catch her eye.
+The way of love was thus.
+He was born one winter morn
+With hands delicious,
+And it was well with us.
 
-"Oh! Love," they said, and "Love," they said,
-"The gift of Love is this;
-A crown of thorns about thy head,
-And vinegar to thy kiss!" —
-But Tragedy is not for me;
-And I'm content to be gay.
-So whenever I spied a Tragic Lady,
-I went another way.
-
-And so I never feared to see
-You wander down the street,
-Or come across the fields to me
-On ordinary feet.
-For what they'd never told me of,
-And what I never knew;
-It was that all the time, my love,
-Love would be merely you.
+Love came our quiet way,
+Lit pride in us, and died in us,
+All in a winter's day.
+There is no more to say.
