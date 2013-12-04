@@ -1,20 +1,8 @@
 ---
+author: William Blake 
 title: The Echoing Green
-author: William Blake
-curator: NCR
-country: England
-year: 1794
-gender: male
-type: Duple Meter
-tags:
-- nature
-- cycles
-- youth
-- age
-- play
-- music
-
 ---
+
 The sun does arise,
 And make happy the skies;
 The merry bells ring
@@ -22,9 +10,9 @@ To welcome the Spring;
 The skylark and thrush,
 The birds of the bush,
 Sing louder around
-To the bells’ cheerful sound;
+To the bells' cheerful sound;
 While our sports shall be seen
-On the echoing green.
+On the echoing Green.
 
 Old John, with white hair,
 Does laugh away care,
@@ -32,10 +20,10 @@ Sitting under the oak,
 Among the old folk.
 They laugh at our play,
 And soon they all say,
-‘Such, such were the joys
-When we all—girls and boys—
+"Such, such were the joys
+When we all--girls and boys--
 In our youth-time were seen
-On the echoing green.’
+On the echoing Green."
 
 Till the little ones, weary,
 No more can be merry:
