@@ -1,36 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
-title: The Death of the Poor
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  life
- -  hope
- -  day
- -  hands
- -  heaven
+author: Charles Baudelaire 
+title: The Death Of The Poor
 ---
 
-It is Death that consoles— yes, and causes our lives;
-It is the goal of this Life— and of Hope the sole ray,
-Which like a strong potion enlivens and gives
-Us the strength to plod on to the end of the day.
+It is death that consoles and allows us to live.
+Alas! that life's end should be all of our hope;
+It goes to our heads like a powerful drink,
+And gives us the heart to walk into the dark;
 
-And all through the tempest, the frost and the snows,
-It is the shimmering light on our black sky-line;
-It is the famous inn which the guide-book shows,
-Whereat one can eat, and sleep, and recline;
+Through storm and through snow, through the frost at our feet,
+It's the pulsating beacon at limit of sight,
+The illustrious inn* that's described in the book,
+Where we'll sit ourselves down, and will eat and will sleep;
 
-It is an angel that holds in his magic hands
-The sleep, which ecstatic dream commands,
-Who remakes up the beds of the naked and poor;
+It's an Angel who holds in his magical grip
+Our peace, and the gift of magnificent dreams,
+And who makes up the bed of the poor and the bare;
 
-It is the fame of the gods, it is the granary blest,
-It is the purse of the poor, and his birth-place of rest,
-To the unknown Heavens, it is the wide-open door.
+It's the glory of gods, it's the mystical loft,
+It's the purse of the poor and their true native land,
+It's the porch looking out on mysterious skies!
