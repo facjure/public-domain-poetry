@@ -1,36 +1,17 @@
 ---
+author: Edgar Lee Masters 
 title: Ollie McGee
-author: Edgar Lee Masters
-curator: NCR
-country: USA
-year: early 20th Century
-book: The New Poetry
-gender: male
-tags:
- -  Spoon River Anthology
- -  abuse
- -  fatigue
- -  cruelty
- -  youth
- -  death
- -  beauty
- -  age
- -  wrinkled
- -  heart
- -  time
- -  revenge
-
-
 ---
 
-HAVE you seen walking through the village
-A man with downcast eyes and haggard face?
+Have you seen walking through the village
+A Man with downcast eyes and haggard face?
 That is my husband who, by secret cruelty
 Never to be told, robbed me of my youth and my beauty;
-Till at last, wrinkled and with yellow teeth,	        5
+Till at last, wrinkled and with yellow teeth,
 And with broken pride and shameful humility,
 I sank into the grave.
-But what think you gnaws at my husband’s heart?
+But what think you gnaws at my husband's heart?
 The face of what I was, the face of what he made me!
-These are driving him to the place where I lie.	        10
+These are driving him to the place where I lie.
 In death, therefore, I am avenged.
+
