@@ -1,22 +1,10 @@
 ---
-author: Walt Whitman
-gender: male
-title: from Leaves of Grass
-curator: Ata
-year: 19th century
-country: America
-tags:
- -  death
- -  life
- -  self
- -  soul
- -  ars poetica
- -  meditative
- -  ghost
- -  apparition
+author: Walt Whitman 
+title: Pensive And Faltering
 ---
+
 Pensive and faltering,
-The words the Dead I write,
-For living are the Dead,
+The words, the dead, I write;
+For living are the Dead;
 (Haply the only living, only real,
-And I the apparition, I the spectre.)
+And I the apparition - I the spectre.)
