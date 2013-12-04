@@ -1,0 +1,16 @@
+---
+author: Jacob Bigelow 
+title: Adven� Mendici.
+---
+
+	 Hark, hark, the dogs do bark,
+	 The beggars have come to town;
+	 Some in rags and some in jags,
+	 And some in velvet gowns.
+
+	En! cum canum latratu,
+	Et multo ululatu;
+	Veniunt mendici repentes,
+	Egeni, pannosi,
+	Squalentes, exosi,
+	Vel sericas togas gerentes.
