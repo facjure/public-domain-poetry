@@ -1,0 +1,11 @@
+---
+author: Charles Hamilton Musgrove 
+title: Immutability.
+---
+
+The sun must rise, the sun must set,
+Nor ever change in plan may be,
+Though dawn to stricken wretch may bring
+The hempen rope and gallows tree,
+And eventide to happy bride
+Love's crown of love in Arcady.
