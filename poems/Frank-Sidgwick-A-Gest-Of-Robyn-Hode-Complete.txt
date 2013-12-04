@@ -1,0 +1,3123 @@
+---
+author: Frank Sidgwick 
+title: A Gest Of Robyn Hode (Complete)
+---
+
+'Rebus huius Roberti gestis tota Britannia in cantibus utitur.'
+--MAJOR.
+
+
+The Text.--There are seven texts of the Gest, to be distinguished as
+follows:--
+
+(i.) begins 'Here begynneth a gest of Robyn Hode'; an undated printed fragment preserved with other early pieces in a volume in the Advocates' Library, Edinburgh. It was reprinted in 1827 by David Laing, who then supposed it to be from the press of Chepman and Myllar, Edinburgh printers of the early sixteenth century; but he afterwards had reason to doubt this opinion. It is now attributed to Jan van Doesborch, a printer from Antwerp. The extent of this fragment is indicated below. Internal evidence (collected by Child, iii. 40) shows it to be an older text than
+
+(ii.) 'Here begynneth a lytell geste of Robyn hode'--so runs the title-page; at the head of the poem are added the words--'and his meyne [= meinie, company], And of the proude Sheryfe of Notyngham.' The colophon runs 'Explycit. kynge Edwarde and Robyn hode and Lytell Johan Enprented at London in fletestrete at the sygne of the sone By Wynken de Worde.' This also is undated, and Child says it 'may be anywhere from 1492 to 1534.' Recent bibliographical research shows that Wynkyn de Worde moved to Fleet Street at the end of the year 1500, which gives the downward limit; and as the printer died in 1584, the Lytell Geste must be placed between those dates.[1] The text is complete save for two lines (7.1 and 339.1), which have also dropped from the other early texts. The only known copy is in the Cambridge University Library.
+
+(iii., iv. and v.) Three mutilated printed fragments, containing about thirty-five, seventy, and fifteen stanzas respectively, preserved amongst the Douce fragments in the Bodleian (the last presented by J. O. Halliwell-Phillipps). The first was lent to Ritson in or before 1790 by Farmer, who thought it to be Rastell's printing; in Ritson's second edition (1836) he says he gave it to Douce, and states without reason that it is of de Worde's printing 'probably in 1489.'
+
+(vi.) A mery geste of Robyn Hoode, etc., a quarto preserved in the British Museum, not dated, but printed 'at London vpon the thre Crane wharfe by wyllyam Copland,' who printed there about 1560. This edition also contains 'a newe playe for to be played in Maye games, very plesaunte and full of pastyme.'
+
+(vii.) A Merry Iest of Robin Hood, etc., printed at London for Edward White; no date, but perhaps the 'pastorall plesant commedie' entered to White in the Stationers' Registers, May 14, 1594. There is a copy of this in the Bodleian, and another was in the Huth Library.
+
+
+The Text here given is mainly the Wynkyn de Worde text, except where the earlier Edinburgh fragment is available; the stanzas which the latter preserves are here numbered 1.-83.3, 113.4-124.1, 127.4-133.2, 136.4-208.3, and 314.2-349.3, omitting 2.2,3 and 7.1. A few variations are recorded in the footnotes, it being unnecessary in the present edition to do more than refer to Child's laborious collation of all the above texts.
+
+The spelling of the old texts is retained with very few exceptions. The reason for this is that although the original texts were printed in the sixteenth century, the language is of the fifteenth, and a number of Middle English forms remain; these are pointed out by Child, iii. 40, and elaborately classified by W. H. Clawson, The Gest of Robin Hood, 4-5. A possible alternative was to treat the Gest on the plan adopted for fifteenth-century texts by E. K. Chambers and the present editor in Early English Lyrics (1907); but in that book the editors were mostly concerned with texts printed from manuscript, whereas here there is good reason to suspect the existence of a text or texts previous to those now available. For the sounded e (�) I have mostly followed Child.
+
+The Gest is not a single ballad, but a conglomeration of several, forming a short epic. Ballads representing its component parts are not now extant; although on the other hand there are later ballads founded on certain episodes in the Gest. The compiler availed himself of incidents from other traditional sources, but he produced a singularly original tale.
+
+The word gest, now almost obsolete, is derived through Old French from the Latin gesta, 'deeds' or 'exploits.' But as the word was particularly applied to 'exploits as narrated or recited,' there came into use a secondary meaning--that of 'a story or romantic tale in verse,' or 'a metrical chronicle.' The latter meaning is doubtless intended in the title of the Gest of Robyn Hode. A further corruption may be noticed even in the titles of the later texts as given above; Copland adds the word 'mery,' which thirty years later causes White to print a 'Merry Jest.'
+
+I have kept the original divisions of the story into eight 'fyttes,' but it falls more naturally into three main sections, in each of which a complete story is narrated. These may he distinguished thus:--
+
+1. Robin Hood and the Knight.
+(Fyttes First, Second, and Fourth.)
+
+2. Robin Hood, Little John, and the Sheriff of Nottingham.
+(Fyttes Third, Fifth, and Sixth.)
+
+3. Robin Hood and King Edward.
+(Fyttes Seventh and Eighth.)
+
+An argument and general notes are prefixed to each fytte.
+
+[Footnote 1: Mr. Charles Sayle puts it 'before 1519' in his catalogue of the early printed books in the University Library.]
+
+
+ A Gest Of Robyn Hode THE FIRST FYTTE (1-81)
+
+Argument.--Robin Hood refuses to dine until he finds some guest to provide money for his entertainment. He sends Little John and all his men to bring in any earl, baron, abbot, or knight, to dine with him. They find a knight, and feast him beneath the greenwood tree: but when Robin demands payment, the knight turns out to be in sorry plight, for he has sold all his goods to save his son. On the security of Our Lady, Robin lends him four hundred pounds, and gives him a livery, a horse, a palfrey, boots, spurs, etc., and Little John as squire.
+
+Robin's unwillingness to dine until he has a guest appears to be a parody of King Arthur's custom of refusing dinner until he has had an adventure. (See Child, i. 257, note [].) The offer of the Virgin as security for a loan is apparently derived from a well-known miracle of Mary, in which a Christian, wishing to borrow money of a Jew, takes him to a church and makes him lay his hand on a statue of the Virgin and Child, praying that, if he fails to return the money on the day fixed to the lender, but gives it to the statue, Christ will return it to the Jew. This miracle eventually takes place, but is attributed rather to the Virgin than to her Son. (See Child, iii. 52.)
+
+
+THE FIRST FYTTE
+
+1.
+Lythe and listin, gentilmen,
+That be of frebore blode;
+I shall you tel of a gode yeman,
+His name was Robyn Hode.
+
+2.
+Robyn was a prude outlaw,
+Whyles he walked on grounde;
+So curteyse an outlaw as he was one
+Was never non yfounde.
+
+3.
+Robyn stode in Bernesdale,
+And lenyd hym to a tre;
+And bi him stode Litell Johnn,
+A gode yeman was he.
+
+4.
+And alsoo dyd gode Scarlok,
+And Much, the miller's son;
+There was none ynch of his bodi
+But it was worth a grome.
+
+5.
+Than bespake Lytell Johnn
+All untoo Robyn Hode:
+'Maister, and ye wolde dyne betyme
+It wolde doo you moche gode.'
+
+6.
+Than bespake hym gode Robyn:
+'To dyne have I noo lust,
+Till that I have som bolde baron,
+Or som unkouth gest.
+
+7.
+... ... ...
+'That may pay for the best,
+Or some knyght or som squyer
+That dwelleth here bi west.'
+
+8.
+A gode maner than had Robyn:
+In londe where that he were,
+Every day or he wold dyne
+Thre messis wolde he here.
+
+9.
+The one in the worship of the Fader,
+And another of the Holy Gost,
+The thirde was of Our dere Lady
+That he loved allther moste.
+
+10.
+Robyn loved Oure dere Lady;
+For dout of dydly synne,
+Wolde he never do compani harme
+That any woman was in.
+
+11.
+'Maistar,' than sayde Lytil Johnn,
+'And we our borde shal sprede,
+Tell us wheeler that we shall go
+And what life that we shall lede.
+
+12.
+'Where we shall take, where we shall leve,
+Where we shall abide behynde;
+Where we shall robbe, where we shall reve,
+Where we shall bete and bynde.'
+
+13.
+'Thereof no force,' than sayde Robyn;
+'We shall do well inowe;
+But loke ye do no husbonde harme
+That tilleth with his ploughe.
+
+14.
+'No more ye shall no gode yeman
+That walketh by grene-wode shawe;
+Ne no knyght ne no squyer
+That wol be a gode felawe.
+
+15.
+'These bisshoppes and these archebishoppes,
+Ye shall them bete and bynde;
+The hye sherif of Notyingham,
+Hym holde ye in your mynde.'
+
+16.
+'This worde shalbe holde,' sayde Lytell Johnn,
+'And this lesson we shall lere;
+It is fer dayes; God sende us a gest,
+That we were at our dynere.'
+
+17.
+'Take thy gode bowe in thy honde,' sayde Robyn;
+'Late Much wende with thee;
+And so shal Willyam Scarlok,
+And no man abyde with me.
+
+18.
+'And walke up to the Saylis
+And so to Watlinge Strete,
+And wayte after some unkuth gest,
+Up chaunce ye may them mete.
+
+19.
+'Be he erle, or ani baron,
+Abbot, or ani knyght,
+Bringhe hym to lodge to me;
+His dyner shall be dight.'
+
+20.
+They wente up to the Saylis,
+These yemen all three;
+They loked est, they loked weest,
+They myght no man see.
+
+21.
+But as they loked in to Bernysdale,
+Bi a dern� strete,
+Than came a knyght ridinghe;
+Full sone they gan hym mete.
+
+22.
+All dreri was his semblaunce,
+And lytell was his pryde;
+His one fote in the styrop stode,
+That othere wavyd beside.
+
+23.
+His hode hanged in his iyn two;
+He rode in symple aray;
+A soriar man than he was one
+Rode never in somer day.
+
+24.
+Litell Johnn was full curteyes,
+And sette hym on his kne:
+'Welcome be ye, gentyll knyght,
+Welcom ar ye to me.
+
+25.
+'Welcom be thou to gren� wode,
+Hend� knyght and fre;
+My maister hath abiden you fastinge,
+Syr, al these our�s thre.'
+
+26.
+'Who is thy maister?' sayde the knyght;
+Johnn sayde, 'Robyn Hode';
+'He is a gode yoman,' sayde the knyght,
+'Of hym I have herde moche gode.
+
+27.
+'I graunte,' he sayde, 'with you to wende,
+My bretherne, all in fere;
+My purpos was to have dyned to day
+At Blith or Dancastere.'
+
+28.
+Furth than went this gentyl knight,
+With a carefull chere;
+The teris oute of his iyen ran,
+And fell downe by his lere.
+
+29.
+They brought him to the lodg�-dore;
+Whan Robyn gan hym see,
+Full curtesly dyd of his hode
+And sette hym on his knee.
+
+30.
+'Welcome, sir knight,' than sayde Robyn,
+'Welcome art thou to me;
+I have abyden you fastinge, sir,
+All these ouris thre.'
+
+31.
+Than answered the gentyll knight,
+With word�s fayre and fre:
+'God thee save, goode Robyn,
+And all thy fayre meyn�.'
+
+32.
+They wasshed togeder and wyped bothe,
+And sette to theyr dynere;
+Brede and wyne they had right ynoughe,
+And noumbles of the dere.
+
+33.
+Swannes and fessauntes they had full gode,
+And foules of the ryvere;
+There fayled none so litell a birde
+That ever was bred on bryre.
+
+34.
+'Do gladly, sir knight,' sayde Robyn;
+'Gramarcy, sir,' sayde he;
+'Suche a dinere had I nat
+Of all these wekys thre.
+
+35.
+'If I come ageyne, Robyn,
+Here by thys contr�,
+As gode a dyner I shall thee make
+As thou haest made to me.'
+
+36.
+'Gramarcy, knyght,' sayde Robyn;
+'My dyner whan that I it have,
+I was never so gredy, by dere worthy God,
+My dyner for to crave.
+
+37.
+'But pay or ye wende,' sayde Robyn;
+'Me thynketh it is gode ryght;
+It was never the maner, by dere worthi God,
+A yoman to pay for a knyght.'
+
+38.
+'I have nought in my coffers,' saide the knyght,
+'That I may prefer for shame':
+'Litell John, go loke,' sayde Robyn,
+'Ne let not for no blame.
+
+39.
+'Tel me truth,' than saide Robyn,
+'So God have parte of thee':
+'I have no more but ten shelynges,' sayde the knyght,
+'So God have parte of me.'
+
+40.
+'If thou have no more,' sayde Robyn,
+'I woll nat one peny;
+And yf thou have nede of any more,
+More shall I lend the.
+
+41.
+'Go nowe furth, Littell Johnn,
+The truth tell thou me;
+If there be no more but ten shelinges,
+No peny that I se.'
+
+42.
+Lyttell Johnn sprede downe hys mantell
+Full fayre upon the grounde,
+And there he fonde in the knyght�s cofer
+But even halfe a pounde.
+
+43.
+Littell Johnn let it lye full styll,
+And went to hys maysteer full lowe;
+'What tydynges, Johnn?' sayde Robyn;
+'Sir, the knyght is true inowe.'
+
+44.
+'Fyll of the best wine,' sayde Robyn,
+'The knyght shall begynne;
+Moche wonder thinketh me
+Thy clothynge is so thinne.
+
+45.
+'Tell me one worde,' sayde Robyn,
+'And counsel shal it be;
+I trowe thou wert made a knyght of force,
+Or ellys of yemanry.
+
+46.
+'Or ellys thou hast been a sori husbande,
+And lyved in stroke and strife;
+An okerer, or ellis a lechoure,' sayde Robyn,
+'Wyth wronge hast led thy lyfe.'
+
+47.
+'I am none of those,' sayde the knyght,
+'By God that mad� me;
+An hundred wynter here before
+Myn auncetres knyghtes have be.
+
+48.
+'But oft it hath befal, Robyn,
+A man hath be disgrate;
+But God that sitteth in heven above
+May amende his state.
+
+49.
+'Withyn this two yere, Robyne,' he sayde,
+'My neghbours well it knowe,
+Foure hundred pounde of gode money
+Ful well than myght I spende.
+
+50.
+'Nowe have I no gode,' saide the knyght,
+'God hath shapen suche an ende,
+But my chyldren and my wyfe,
+Tyll God yt may amende.'
+
+51.
+'In what maner,' than sayde Robyn,
+'Hast thou lorne thy rychesse?'
+'For my greate foly,' he sayde,
+'And for my kynd�nesse.
+
+52.
+'I hade a sone, forsoth, Robyn,
+That shulde have ben myn ayre,
+Whanne he was twenty wynter olde,
+In felde wolde just full fayre.
+
+53.
+'He slewe a knyght of Lancashire,
+And a squyer bolde;
+For to save him in his ryght
+My godes beth sette and solde.
+
+54.
+'My londes beth sette to wedde, Robyn,
+Untyll a certayn day,
+To a ryche abbot here besyde
+Of Seynt Mari Abbey.'
+
+55.
+'What is the som?' sayde Robyn;
+'Trouth than tell thou me.'
+'Sir,' he sayde, 'foure hundred pounde;
+The abbot told it to me.'
+
+56.
+'Nowe and thou lese thy lond,' sayde Robyn,
+'What shall fall of thee?'
+'Hastely I wol me buske,' sayd the knyght,
+'Over the salt� see,
+
+57.
+'And se where Criste was quyke and dede,
+On the mount of Calver�;
+Fare wel, frende, and have gode day;
+It may no better be.'
+
+58.
+Teris fell out of hys iyen two;
+He wolde have gone hys way;
+'Farewel, frende, and have gode day,
+I ne have no more to pay.'
+
+59.
+'Where be thy frend�s?' sayde Robyn:
+'Syr, never one wol me knowe;
+While I was rych ynowe at home
+Great boste than wolde they blowe.
+
+60.
+'And nowe they renne away fro me,
+As bestis on a rowe;
+They take no more hede of me
+Thanne they had me never sawe.'
+
+61.
+For ruthe thanne wept Litell Johnn,
+Scarlok and Much in fere;
+'Fyl of the best wyne,' sayde Robyn,
+'For here is a symple chere.
+
+62.
+'Hast thou any frende,' sayde Robyn,
+'Thy borrowe that wold� be?'
+'I have none,' than sayde the knyght,
+'But God that dyed on tree.'
+
+63.
+'Do away thy japis,' than sayde Robyn,
+'Thereof wol I right none;
+Wenest thou I wolde have God to borowe,
+Peter, Poule, or Johnn?
+
+64.
+'Nay, by hym that me made,
+And shope both sonne and mone,
+Fynde me a better borowe,' sayde Robyn,
+'Or money getest thou none.'
+
+65.
+'I have none other,' sayde the knyght,
+'The sothe for to say,
+But yf yt be Our dere Lady;
+She fayled me never or thys day.'
+
+66.
+'By dere worthy God,' sayde Robyn,
+'To seche all Englonde thorowe,
+Yet fonde I never to my pay
+A moche better borowe.
+
+67.
+'Come nowe furth, Litell Johnn,
+And go to my tresour�,
+And bringe me foure hundred pound,
+And loke well tolde it be.'
+
+68.
+Furth than went Litell Johnn,
+And Scarlok went before;
+He tolde oute foure hundred pounde
+By eight and twenty score.
+
+69.
+'Is thys well tolde?' sayde lytell Much;
+Johnn sayde: 'What greveth thee?
+It is almus to helpe a gentyll knyght
+That is fal in povert�.
+
+70.
+'Master,' than sayde Lityll John,
+'His clothinge is full thynne;
+Ye must gyve the knight a lyveray,
+To lappe his body therein.
+
+71.
+'For ye have scarlet and grene, mayster,
+And many a rich aray;
+Ther is no marchaunt in mery Englond
+So ryche, I dare well say.'
+
+72.
+'Take hym thre yerdes of every colour,
+And loke well mete that it be.'
+Lytell Johnn toke none other mesure
+But his bow�-tree.
+
+73.
+And at every handfull that he met
+He lep�d fot�s three;
+'What devylles drapar,' sayd litell Much,
+'Thynkest thou for to be?'
+
+74.
+Scarlok stode full stil and loughe,
+And sayd, 'By God Almyght,
+Johnn may gyve hym gode mesure,
+For it costeth hym but lyght.'
+
+75.
+'Mayster,' than said Litell Johnn
+To gentill Robyn Hode,
+'Ye must give the knight a hors
+To lede home al this gode.'
+
+76.
+'Take him a gray coursar,' sayde Robyn,
+'And a saydle newe;
+He is Oure Ladye's messangere;
+God graunt that he be true.'
+
+77.
+'And a gode palfray,' sayde lytell Much,
+'To mayntene hym in his right';
+'And a peyre of bot�s,' sayde Scarlok,
+'For he is a gentyll knight.'
+
+78.
+'What shalt thou gyve him, Litell John?'
+'Sir, a peyre of gilt sporis clene,
+To pray for all this company;
+God bringe hym oute of tene.'
+
+79.
+'Whan shal mi day be,' said the knight,
+'Sir, and your wyll be?'
+'This day twelve moneth,' saide Robyn,
+'Under this grene-wode tre.
+
+80.
+'It were great sham�,' said Robyn,
+'A knight alone to ryde,
+Without� squyre, yoman, or page,
+To walk� by his syde.
+
+81.
+'I shal thee lende Litell Johnn, my man,
+For he shalbe thy knave;
+In a yeman's stede he may thee stande,
+If thou greate ned� have.'
+
+
+[Annotations:
+1.1: 'Lythe and listin,' hearken and listen: a very common opening.
+1.2: 'frebore,' free-born.
+2.2,3: 'Whyles . . . outlaw': supplied from the Wynkyn de Worde text.
+4.4: i.e., worthy of a groom, or young man.
+5.3: 'and,' if.
+6.4: 'unkouth,' unknown.
+7.1: Wanting in all versions.
+7.3: 'som,' supplied from Wynken de Worde's text.
+8.4: 'messis,' masses.
+9.4: 'allther moste,' most of all.
+10.2: 'dout,' fear.
+12.3: 'reve,' pillage.
+13.1: 'no force,' no matter.
+16.2: 'lere,' learn.
+16.3: 'fer dayes,' late in the day: 'gest,' exploit.
+18.1: The Sayles, a small part of the manor of Pontefract.
+18.2: Watling Street = the great North Road.
+18.4: 'Up chaunce,' in case.
+19.4: 'dight,' prepared.
+21.2: 'dern� strete,' hidden or obscure path.
+23.1: 'iyn,' eyes.
+25.2: 'Hend�,' noble.
+27.2: 'in fere,' in company.
+28.2: 'carefull chere,' sorrowful face.
+28.4: 'lere,' cheek.
+31.4: 'meyn�,' company.
+32.4: 'noumbles,' entrails.
+34.1: 'Do gladly' = make yourself at home; a hospitable expression. Cp. 103.1 and 232.1.
+37.1: 'or ye wende,' before you go.
+38.4: 'let not,' leave nothing undone.
+39.2,4: 'have parte of,' perhaps means 'protect,' or 'take my part.'
+45.3: This refers to 'distraint of knighthood,' instituted in 1224, compelling military tenants to receive knighthood or pay a composition.
+46.3: 'okerer,' usurer.
+48.2: 'disgrate,' unfortunate.
+49.4: From the rhyme it is obvious the verses have here been confused, especially as all copies print 50.3 before 50.2.
+52.4: 'just,' joust, tilt.
+53.4, 54.1: 'beth' (in another version 'both'), are.
+54.1: 'sette to wedde,' put in pledge.
+56.1: 'lese,' lose.
+57.1: 'quyke' = quick, alive.
+59.4: 'blowe,' utter.
+60.2: 'on a rowe,' in file.
+61.1: 'ruthe,' pity.
+61.4: 'chere,' entertainment.
+62.2: 'borrowe,' security.
+64.2: 'shope,' shaped.
+65.4: 'or,' before.
+66.3: 'pay,' liking.
+72.2: 'mete,' measured. So 73.1 'met' = measured.
+74.1: 'loughe,' laughed.
+78.4: 'tene,' trouble.
+81.2: 'knave,' servant.
+81.3: i.e., he shall stand for thee instead of a yeoman.]
+
+
+A Gest Of Robyn Hode THE SECOND FYTTE (82-143)
+
+Argument.--The knight goes to York to pay down his four hundred pounds to the abbot of St. Mary Abbey, who has retained the services of the high justice of England 'with cloth and fee,' an offence defined as conspiracy by statutes of the first three Edwards. The knight, pretending he has not brought the money, requests an extension of time; but the abbot will not hear of it, and is supported in his refusal by the justice: the knight's lands will be forfeited. The justice advises the abbot (117, etc.) to give the knight a sum to 'make a release' and prevent subsequent legal difficulties. The knight brings the matter to an end by paying down the four hundred pounds, saying that had the abbot been more courteous, he should have had interest on the loan.
+
+The knight returns to his home in Wyresdale, and saves up the sum to be repaid to Robin Hood. As he sets out for Barnsdale with a goodly company, he finds a great wrestling-match taking place at Wentbridge,[1] which delays him a while.
+
+The word 'frembde' (138.3) is now obsolete except in Scots and north-country dialect, and is spelled in various ways. It occurs more than once in Chaucer, and twice in Sidney's Arcadia. 'Fremit,' the common Scots form, may be found in Burns. More recently, it appears in books of Westmoreland, Cumberland, or Northumberland dialect. Cp. Mrs. Gaskell, Sylvia's Lovers: 'There's a fremd man i' t' house.' It means 'foreign' or 'strange.'
+
+[Footnote 2: Wentbridge is mentioned in Robin Hood and the Potter, 6.1. The river Went is the northern boundary of Barnsdale.]
+
+
+THE SECOND FYTTE
+
+82.
+Now is the knight gone on his way;
+This game hym thought full gode;
+Whanne he loked on Bern�sdale
+He blessyd Robyn Hode.
+
+83.
+And whanne he thought on Bernysdale,
+On Scarlok, Much and Johnn
+He blyssyd them for the best company
+That ever he in come.
+
+84.
+Then spake that gentyll knyght,
+To Lytel Johan gan he saye,
+'To-morrowe I must to Yorke toune,
+To Saynt Mary abbay.
+
+85.
+'And to the abbot of that place
+Foure hondred pounde I must pay;
+And but I be there upon this nyght
+My londe is lost for ay.'
+
+86.
+The abbot sayd to his covent,
+There he stode on grounde,
+'This day twelfe moneth came there a knyght
+And borowed foure hondred pounde.
+
+87.
+['He borowed four hondred pounde]
+Upon all his lond� fre;
+But he come this ylk� day
+Disherited shall he be.'
+
+88.
+'It is full erely,' sayd the pryoure,
+The day is not yet ferre gone;
+I had lever to pay an hondred pounde,
+And lay downe anone.
+
+89.
+'The knyght is ferre beyonde the see,
+In Englonde is his ryght,
+And suffreth honger and colde
+And many a sory nyght.
+
+90.
+'It were grete pyt�,' said the pryoure,
+'So to have his londe;
+And ye be so lyght of your consyence,
+Ye do to hym moch wronge.'
+
+91.
+'Thou arte ever in my berde,' sayd the abbot,
+'By God and Saynt Rycharde';
+With that cam in a fat-heded monke,
+The heygh selerer.
+
+92.
+'He is dede or hanged,' sayd the monke,
+'By God that bought me dere,
+And we shall have to spende in this place
+Foure hondred pounde by yere.'
+
+93.
+The abbot and the hy selerer
+Stert� forthe full bolde,
+The highe justyce of Englonde
+The abbot there dyde holde.
+
+94.
+The hye justyce and many mo
+Had take in to theyr honde
+Holy all the knyght�s det,
+To put that knyght to wronge.
+
+95.
+They demed the knyght wonder sore,
+The abbot and his meyn�:
+'But he come this ylk� day
+Dysheryte shall he be.'
+
+96.
+'He wyll not come yet,' sayd the justyce,
+'I dare well undertake';
+But in sorowe tym� for them all
+The knight came to the gate.
+
+97.
+Than bespake that gentyll knyght
+Untyll his meyn�:
+'Now put on your symple wedes
+That ye brought fro the see.'
+
+98.
+[They put on their symple wedes,]
+They came to the gates anone;
+The porter was redy hymselfe
+And welcomed them everychone.
+
+99.
+'Welcome, syr knyght,' sayd the porter,
+'My lorde to mete is he,
+And so is many a gentyll man,
+For the love of thee.'
+
+100.
+The porter swore a full grete othe:
+'By God that mad� me,
+Here be the best coresed hors
+That ever yet sawe I me.
+
+101.
+'Lede them in to the stable,' he sayd,
+'That eased myght they be';
+'They shall not come therin,' sayd the knyght,
+'By God that dyed on a tre.'
+
+102.
+Lord�s were to mete isette
+In that abbotes hall;
+The knyght went forth and kneled down,
+And salved them grete and small.
+
+103.
+'Do gladly, syr abbot,' sayd the knyght,
+'I am come to holde my day.'
+The fyrst word that the abbot spake,
+'Hast thou brought my pay?'
+
+104.
+'Not one peny,' sayd the knyght,
+'By God that mak�d me.'
+'Thou art a shrewed dettour,' sayd the abbot;
+'Syr justyce, drynke to me.
+
+105.
+'What doost thou here,' sayd the abbot,
+'But thou haddest brought thy pay?'
+'For God,' than sayd the knyght,
+'To pray of a lenger daye.'
+
+106.
+'Thy daye is broke,' sayd the justyce,
+'Lond� getest thou none.'
+'Now, good syr justyce, be my frende
+And fende me of my fone!'
+
+107.
+'I am holde with the abbot,' sayd the justyce,
+'Both with cloth and fee.'
+'Now, good syr sheryf, be my frende!'
+'Nay, for God,' sayd he.
+
+108.
+'Now, good syr abbot, be my frende,
+For thy curteys�,
+And holde my lond�s in thy honde
+Tyll I have made the gree!
+
+109.
+'And I wyll be thy true servaunte,
+And trewely serve the,
+Tyll ye have foure hondred pounde
+Of money good and free.'
+
+110.
+The abbot sware a full grete othe,
+'By God that dyed on a tree,
+Get the lond� where thou may,
+For thou getest none of me.'
+
+111.
+'By dere worthy God,' then sayd the knyght,
+'That all this world� wrought,
+But I have my londe agayne,
+Full dere it shall be bought.
+
+112.
+'God, that was of a mayden borne,
+Leve us well to spede!
+For it is good to assay a frende
+Or that a man have nede.'
+
+113.
+The abbot lothely on hym gan loke,
+And vylaynesly hym gan call;
+'Out,' he sayd, 'thou false knyght,
+Spede thee out of my hall!'
+
+114.
+'Thou lyest,' then sayd the gentyll knyght,
+'Abbot, in thy hal;
+False knyght was I never,
+By God that made us all.'
+
+115.
+Up then stode that gentyll knyght,
+To the abbot sayd he,
+'To suffre a knyght to knele so longe,
+Thou canst no curteysye.
+
+116.
+'In joust�s and in tournement
+Full ferre than have I be,
+And put myself as ferre in prees
+As ony that ever I se.'
+
+117.
+'What wyll ye gyve more,' sayd the justyce,
+'And the knyght shall make a releyse?
+And ell�s dare I safly swere
+Ye holde never your londe in pees.'
+
+118.
+'An hondred pounde,' sayd the abbot;
+The justice sayd, 'Gyve hym two';
+'Nay, be God,' sayd the knyght,
+'Yit gete ye it not so.
+
+119.
+'Though ye wolde gyve a thousand more,
+Yet were ye never the nere;
+Shal there never be myn heyre
+Abbot, justice, ne frere.'
+
+120.
+He stert hym to a borde anone,
+Tyll a table rounde,
+And there he shoke oute of a bagge
+Even four hundred pound.
+
+121.
+'Have here thi golde, sir abbot,' saide the knight,
+'Which that thou lentest me;
+Had thou ben curtes at my comynge,
+Rewarded shuldest thou have be.'
+
+122.
+The abbot sat styll, and ete no more,
+For all his ryall fare;
+He cast his hede on his shulder,
+And fast began to stare.
+
+123.
+'Take me my golde agayne,' saide the abbot,
+'Sir justice, that I toke thee.'
+'Not a peni,' said the justice,
+'Bi God, that dyed on tree.'
+
+124.
+'Sir abbot, and ye men of lawe,
+Now have I holde my daye:
+Now shall I have my londe agayne,
+For ought that you can saye.'
+
+125.
+The knyght stert out of the dore,
+Awaye was all his care,
+And on he put his good clothynge,
+The other he lefte there.
+
+126.
+He wente hym forth full mery syngynge,
+As men have tolde in tale;
+His lady met hym at the gate,
+At home in Verysdale.
+
+127.
+'Welcome, my lorde,' sayd his lady;
+'Syr, lost is all your good?'
+'Be mery, dame,' sayd the knyght,
+'And pray for Robyn Hode,
+
+128.
+'That ever his soul� be in blysse:
+He holpe me out of tene;
+Ne had be his kynd�nesse,
+Beggers had we bene.
+
+129.
+'The abbot and I accorded ben,
+He is served of his pay;
+The god yoman lent it me
+As I cam by the way.'
+
+130.
+This knight than dwelled fayre at home,
+The soth� for to saye,
+Tyll he had gete four hundred pound,
+Al redy for to pay.
+
+131.
+He purveyed him an hundred bowes,
+The stryng�s well ydyght,
+An hundred shefe of arowes gode,
+The hedys burneshed full bryght;
+
+132.
+And every arowe an ell� longe,
+With pecok well idyght,
+Inocked all with whyte silver;
+It was a semely syght.
+
+133.
+He purveyed him an hondreth men,
+Well harnessed in that stede,
+And hym selfe in that same sete,
+And clothed in whyte and rede.
+
+134.
+He bare a launsgay in his honde,
+And a man ledde his male,
+And reden with a lyght songe
+Unto Bernysdale.
+
+135.
+But as he went at a brydge ther was a wrastelyng,
+And there taryed was he,
+And there was all the best yemen
+Of all the west countree.
+
+136.
+A full fayre game there was up set,
+A whyte bulle up i-pyght,
+A grete courser, with sadle and brydil,
+With golde burnyssht full bryght.
+
+137.
+A payre of gloves, a rede golde rynge,
+A pype of wyne, in fay;
+What man that bereth hym best i-wys
+The pryce shall bere away.
+
+138.
+There was a yoman in that place,
+And best worthy was he,
+And for he was ferre and frembde bested,
+Slayne he shulde have be.
+
+139.
+The knight had ruthe of this yoman,
+In plac� where that he stode;
+He sayde that yoman shulde have no harme,
+For love of Robyn Hode.
+
+140.
+The knyght presed in to the place,
+An hundreth folowed hym [free],
+With bowes bent and arowes sharpe,
+For to shende that companye.
+
+141.
+They shulderd all and made hym rome,
+To wete what he wolde say;
+He took the yeman bi the hande,
+And gave hym al the play.
+
+142.
+He gave hym five marke for his wyne,
+There it lay on the molde,
+And bad it shulde be set a broche,
+Drynk� who so wolde.
+
+143.
+Thus longe taried this gentyll knyght,
+Tyll that play was done;
+So long abode Robyn fastinge
+Thre hour�s after the none.
+
+
+[Annotations:
+83.4: From here to 118.3 the Edinburgh fragment is wanting.
+86.1: 'covent' = convent.
+87.1: Wanting: supplied by Ritson.
+87.3: 'But,' unless: 'ylk�,' same.
+88.3: 'lever,' rather.
+91.4: 'selerer' cellarer or steward.
+92.2: 'bought,' ransomed.
+93.3: 'highe,' supplied from Copland's edition.
+95.1: 'demed,' judged.
+95.4: 'dysheryte,' dispossessed; cf. 87.4.
+98.: Wanting in all editions: supplied by Ritson.
+100.3: 'coresed,' perhaps = coursed; i.e. a horse used in tourneys, a courser, or charger.
+102.4: 'salved,' greeted.
+103.1: See 34.1.
+104.3: 'shrewed,' cursed.
+105.2: 'But,' unless. So 111.3
+106.4: 'fone,' foes.
+107.1,2: 'retained by presents of cloth and money.' --Child.
+108.4: 'made the gree,' paid my dues. (Old French gre, Latin gratum.)
+112.2: 'Leve,' grant.
+112.4: 'Or that,' before that. The proverb is a favourite in Middle English: see Early English Lyrics, CXI.
+116.3: 'as ferre in prees,' in as thick a part of the fight.
+118.4: From here to 124.1 the Edinburgh fragment is available.
+119.2: 'nere,' nearer. Cp. Robin Hood and the Potter, 46.3.
+123.2: 'toke,' gave.
+126.4: 'Verysdale,' Wyresdale or Wyersdale.
+127.4: The Edinburgh fragment is again available as far as 133.2.
+128.2: 'tene,' trouble.
+131.2: 'ydyght,' fitted.
+132.3: 'Inocked' = i-nocked, notched.
+133.1,2: The latter halves of these lines are torn away in the Edinburgh fragment. The Cambridge text is resumed at 133.3.
+133.2: 'stede,' place.
+134.1: 'launsgay,' javelin.
+134.2: 'male,' baggage. Cp. 374.1.
+135.1: So the Cambridge text: Child suggests '? But at Wentbrydge ther was.' See Argument.
+136.2: 'i-pyght,' put.
+136.4: Edinburgh fragment again.
+138.3: 'frembde bested,' in the position of a foreigner or stranger. See fore-note.
+140.2: 'free,' supplied from the 'fere,' misprinted in the Cambridge text. Copland, 'in fere.'
+140.4: 'shende,' put to rout.
+141.1: 'rome,' room.]
+
+
+A Gest Of Robyn Hode - The Third Fytte (144-204)
+
+Argument.--The narrative of the knight's loan is for the moment dropped, in order to relate a gest of Little John, who is now (81.2) the knight's 'knave' or squire. Going forth 'upon a mery day,' Little John shoots with such skill that he attracts the attention of the Sheriff of Nottingham (who is here and elsewhere the type of Robin Hood's enemies), and enters his service for a year under the name of Reynold Greenleaf. While the sheriff is hunting, Little John fights his servants, robs his treasure-house, and escapes back to Robin Hood with 'three hundred pound and more.' He then bethinks him of a shrewd wile, and inveigles the sheriff to leave his hunting in order to see a right fair hart and seven score of deer, which turn out to be Robin and his men. Robin Hood exacts an oath of the sheriff, equivalent to an armistice; and he returns home, having had his fill of the greenwood.
+
+
+THE THIRD FYTTE
+
+144.
+Lyth and lystyn, gentilmen,
+All that now be here;
+Of Litell Johnn, that was the knight�s man,
+Goode myrth ye shall here.
+
+145.
+It was upon a mery day
+That yonge men wolde go shete;
+Lytell Johnn fet his bowe anone,
+And sayde he wolde them mete.
+
+146.
+Thre tymes Litell Johnn shet aboute,
+And alwey he slet the wande;
+The proud� sherif of Notingham
+By the mark�s can stande.
+
+147.
+The sherif swore a full greate othe:
+'By hym that dyede on a tre,
+This man is the best arschere
+That ever yet sawe I me.
+
+148.
+'Say me nowe, wight yonge man,
+What is nowe thy name?
+In what countr� were thou borne,
+And where is thy wonynge wane?'
+
+149.
+'In Holdernes, sir, I was borne,
+I-wys al of my dame;
+Men cal me Reynolde Gren�lef
+Whan I am at home.'
+
+150.
+'Sey me, Reynolde Gren�lefe,
+Wolde thou dwell with me?
+And every yere I woll thee gyve
+Twenty marke to thy fee.'
+
+151.
+'I have a maister,' sayde Litell Johnn,
+'A curteys knight is he;
+May ye lev� gete of hym,
+The better may it be.'
+
+152.
+The sherif gate Litell John
+Twelve moneth�s of the knight;
+Therefore he gave him right anone
+A gode hors and a wight.
+
+153.
+Nowe is Litell John the sherifes man,
+God lende us well to spede!
+But alwey thought Lytell John
+To quyte hym wele his mede.
+
+154.
+'Nowe so God me helpe,' sayde Litell John,
+'And by my true leutye,
+I shall be the worst servaunt to hym
+That ever yet had he.'
+
+155.
+It fell upon a Wednesday
+The sherif on huntynge was gone,
+And Litel John lay in his bed,
+And was foriete at home.
+
+156.
+Therfore he was fastinge
+Til it was past the none;
+'Gode sir stuarde, I pray to thee,
+Gyve me my dynere,' saide Litell John.
+
+157.
+'It is longe for Gren�lefe
+Fastinge thus for to be;
+Therfor I pray thee, sir stuarde,
+Mi dyner gif me.'
+
+158.
+'Shalt thou never ete ne drynke' saide the stuarde,
+'Tyll my lorde be come to towne.'
+'I make myn avowe to God,' saide Litell John,
+'I had lever to crake thy crowne.'
+
+159.
+The boteler was full uncurteys,
+There he stode on flore;
+He start to the botery
+And shet fast the dore.
+
+160.
+Lytell Johnn gave the boteler suche a tap
+His backe went nere in two;
+Though he lived an hundred ier,
+The wors shuld he go.
+
+161.
+He sporned the dore with his fote;
+It went open wel and fyne;
+And there he made large lyveray,
+Bothe of ale and of wyne.
+
+162.
+'Sith ye wol nat dyne,' sayde Litell John,
+'I shall gyve you to drinke;
+And though ye lyve an hundred wynter,
+On Lytel Johnn ye shall thinke.'
+
+163.
+Litell John ete, and Litel John drank,
+The while that he wolde;
+The sherife had in his kechyn a coke,
+A stoute man and a bolde.
+
+164.
+'I make myn avowe to God,' said the coke,
+'Thou arte a shrewde hynde
+In ani hous for to dwel,
+For to aske thus to dyne.'
+
+165.
+And there he lent Litell John
+God� strokis thre;
+'I make myn avowe to God,' sayde Lytell John,
+'These strokis lyked well me.
+
+166.
+'Thou arte a bolde man and hardy,
+And so thinketh me;
+And or I pas fro this place
+Assayed better shalt thou be.'
+
+167.
+Lytell Johnn drew a ful gode sworde,
+The coke took another in hande;
+They thought no thynge for to fle,
+But stifly for to stande.
+
+168.
+There they faught sore togedere
+Two myl� way and well more;
+Myght nether other harme done,
+The mountnaunce of an owre.
+
+169.
+'I make myn avowe to God,' sayde Litell Johnn,
+'And by my true lewt�;
+Thou art one of the best sworde-men
+That ever yit sawe I me.
+
+170.
+'Cowdest thou shote as well in a bowe,
+To grene wode thou shuldest with me,
+And two times in the yere thy clothinge
+Chaunged shuld� be;
+
+171.
+'And every yere of Robyn Hode
+Twenty merke to thy fe.'
+'Put up thy swerde,' saide the coke,
+'And felowes woll we be.'
+
+172.
+Thanne he fet to Lytell Johnn
+The nowmbles of a do,
+Gode brede, and full gode wyne;
+They ete and drank theretoo.
+
+173.
+And when they had dronkyn well,
+Theyre trouthes togeder they plight
+That they wolde be with Robyn
+That ylk� sam� nyght.
+
+174.
+They dyd them to the tresoure-hows,
+As fast as they myght gone;
+The lokkes, that were of full gode stele,
+They brake them everichone.
+
+175.
+They toke away the silver vessell,
+And all that thei might get;
+Pecis, masars, ne sponis,
+Wolde thei not forget.
+
+176.
+Also they toke the god� pens,
+Thre hundred pounde and more,
+And did them streyte to Robyn Hode,
+Under the grene wode hore.
+
+177.
+'God thee save, my dere mayster,
+And Criste thee save and se!'
+And thanne sayde Robyn to Litell Johnn,
+'Welcome myght thou be.
+
+178.
+'Also be that fayre yeman
+Thou bryngest there with thee;
+What tydyng�s fro Notyngham?
+Lytill Johnn, tell thou me.'
+
+179.
+'Well thee gretith the proude sheryf,
+And sendeth thee here by me
+His coke and his silver vessell,
+And thre hundred pounde and thre.'
+
+180.
+'I make myne avowe to God,' sayde Robyn,
+'And to the Trenyt�,
+It was never by his gode wyll
+This gode is come to me.'
+
+181.
+Lytyll Johnn there hym bethought
+On a shrewde wyle;
+Fyve myle in the forest he ran,
+Hym happ�d all his wyll.
+
+182.
+Than he met the proude sheref,
+Huntynge with houndes and horne;
+Lytell Johnn coude of curtesye,
+And knelyd hym beforne.
+
+183.
+'God thee save, my dere mayster,
+Ande Criste thee save and se!'
+'Reynolde Grenelefe,' sayde the shryef,
+'Where hast thou nowe be?'
+
+184.
+'I have be in this forest;
+A fayre syght can I se;
+It was one of the fayrest syghtes
+That ever yet sawe I me.
+
+185.
+'Yonder I sawe a ryght fayre harte,
+His coloure is of grene;
+Seven score of dere upon a herde
+Be with hym all bydene.
+
+186.
+'Their tyndes are so sharp, maister,
+Of sexty, and well mo,
+That I durst not shote for drede,
+Lest they wolde me slo.'
+
+187.
+'I make myn avowe to God,' sayde the shyref,
+'That syght wolde I fayne se.'
+'Buske you thyderwarde, my dere mayster,
+Anone, and wende with me.'
+
+188.
+The sherif rode, and Litell Johnn
+Of fote he was full smerte,
+And whane they came before Robyn,
+'Lo, sir, here is the mayster-herte.'
+
+189.
+Still stode the proude sherief,
+A sory man was he;
+'Wo the worthe, Raynolde Grenelefe,
+Thou hast betrayed nowe me.'
+
+190.
+'I make myn avowe to God,' sayde Litell Johnn,
+'Mayster, ye be to blame;
+I was mysserved of my dynere
+When I was with you at home.'
+
+191.
+Sone he was to souper sette,
+And served well with silver white,
+And when the sherif sawe his vessell,
+For sorowe he myght nat ete.
+
+192.
+'Make glad chere,' sayde Robyn Hode,
+'Sherif, for charit�,
+And for the love of Litill Johnn
+Thy lyfe I graunt to thee.'
+
+193.
+Whan they had soup�d well,
+The day was al gone;
+Robyn commaunded Litell Johnn
+To drawe of his hosen and his shone;
+
+194.
+His kirtell, and his cote of pie,
+That was fured well and fine,
+And toke hym a grene mantel,
+To lap his body therein.
+
+195.
+Robyn commaundyd his wight yonge men,
+Under the grene-wode tree,
+They shulde lye in that same sute
+That the sherif myght them see.
+
+196.
+All nyght lay the proude sherif
+In his breche and in his schert;
+No wonder it was, in grene wode,
+Though his syd�s gan to smerte.
+
+197.
+'Make glad chere,' sayde Robyn Hode,
+'Sheref, for charit�;
+For this is our ordre i-wys
+Under the grene-wode tree.'
+
+198.
+'This is harder order,' sayde the sherief,
+'Than any ankir or frere;
+For all the golde in mery Englonde
+I wolde nat longe dwell her.'
+
+199.
+'All this twelve monthes,' sayde Robin,
+'Thou shalt dwell with me;
+I shall thee tech�, proude sherif,
+An outlawe for to be.'
+
+200.
+'Or I be here another nyght,' sayde the sherif,
+'Robyn, nowe pray I thee,
+Smyte of min hede rather to-morrowe,
+And I forgyve it thee.
+
+201.
+'Lat me go,' than sayde the sherif,
+'For saynt� charit�,
+And I woll be the best� frende
+That ever yet had ye.'
+
+202.
+'Thou shalt swere me an othe,' sayde Robyn,
+'On my bright bronde;
+Shalt thou never awayte me scathe
+By water ne by lande.
+
+203.
+'And if thou fynde any of my men,
+By nyght or by day,
+Upon thyn oth� thou shalt swere
+To helpe them that thou may.'
+
+204.
+Now hath the sherif sworne his othe,
+And home he began to gone;
+He was as full of gren�-wode
+As ever was hepe of stone.
+
+
+[Annotations:
+145.2: 'shete,' shoot.
+145.3: 'fet,' fetched.
+148.1: 'wight,' strong, active.
+148.4: 'wonynge wane': both words mean dwelling or habitation.
+153.4: To give him his full reward.
+154.2: 'leutye,' loyalty.
+155.4: 'foriete,' forgotten.
+160.4: 'go' = walk.
+161.3: 'lyveray,' purveyance.
+168.2: 'Two myl� way' = the time it takes to go two miles. See Early English Lyrics, cxxvi. 55, and note.
+168.4: 'mountnaunce,' duration.
+172.2: 'nowmbles,' entrails: cf. 32.4.
+175.3: 'Pecis,' cups; 'masars,' bowls.
+177.2: Cf. Child Waters, 2.2 (First Series, p. 37).
+183.2: See 177.2 and note.
+183.3: 'shryef' may be a misprint, but 'shreeve' is another spelling of 'sheriff.'
+185.4: 'bydene,' together.
+186.1: 'tyndes' = tynes, forks of the antlers.
+186.4: 'slo,' slay.
+194.3: 'toke,' gave.
+198.2: 'ankir,' anchorite, hermit.
+200.1: 'Or,' ere.
+202.3: 'awayte me scathe,' lie in wait to do me harm.
+204.4: i.e. as ever a hip (berry of the wild rose) is of its stone.]
+
+
+A Gest Of Robyn Hode - THE FOURTH FYTTE (205-280)
+
+Argument.--Robin Hood will not dine until he has 'his pay,' and he therefore sends Little John with Much and Scarlok to wait for an 'unketh gest.' They capture a monk of St. Mary Abbey, and Robin Hood makes him disgorge eight hundred pounds. The monk, we are told, was on his way to London to take proceedings against the knight.
+
+In due course the knight, who was left at the end of the second fytte at the wrestling-match, arrives to pay his debt to Robin Hood; who, however, refuses to receive it, saying that Our Lady had discharged the loan already.
+
+The admirable, na�vely-told episode of Our Lady's method of repaying money lent on her security, is not without parallels, some of which Child points out (III. 53-4).
+
+
+THE FOURTH FYTTE
+
+205.
+The sherif dwelled in Notingham;
+He was fayne he was agone;
+And Robyn and his mery men
+Went to wode anone.
+
+206.
+'Go we to dyner,' sayde Littell Johnn;
+Robyn Hode sayde, 'Nay;
+For I drede Our Lady be wroth with me,
+For she sent me nat my pay.'
+
+207.
+'Have no doute, maister,' sayde Litell Johnn;
+'Yet is nat the sonne at rest;
+For I dare say, and savely swere.
+The knight is true and truste.'
+
+208.
+'Take thy bowe in thy hande,' sayde Robyn,
+'Late Much wende with thee,
+And so shal Wyllyam Scarlok,
+And no man abyde with me.
+
+209.
+'And walke up under the Sayles,
+And to Watlynge-strete,
+And wayte after some unketh gest;
+Up chaunce ye may them mete.
+
+210.
+'Whether he be messengere,
+Or a man that myrth�s can,
+Of my good he shall have some,
+Yf he be a por� man.'
+
+211.
+Forth then stert Lytel Johan,
+Half in tray and tene,
+And gyrde hym with a full good swerde,
+Under a mantel of grene.
+
+212.
+They went up to the Sayles,
+These yemen all thre;
+They loked est, they loked west,
+They myght no man se.
+
+213.
+But as they loked in Bernysdale,
+By the hy� waye,
+Than were they ware of two blacke monkes,
+Eche on a good palferay.
+
+214.
+Then bespake Lytell Johan,
+To Much he gan say,
+'I dare lay my lyfe to wedde,
+That these monkes have brought our pay.
+
+215.
+'Make glad chere,' sayd Lytell Johan,
+'And frese your bowes of ewe,
+And loke your hertes be seker and sad,
+Your strynges trusty and trewe.
+
+216.
+'The monke hath two and fifty men,
+And seven somers full stronge;
+There rydeth no bysshop in this londe
+So ryally, I understond.
+
+217.
+'Brethern,' sayd Lytell Johan,
+'Here are no more but we thre;
+But we bryng� them to dyner,
+Our mayster dare we not se.
+
+218.
+'Bende your bowes,' sayd Lytell Johan,
+'Make all yon prese to stonde;
+The formost monke, his lyfe and his deth
+Is clos�d in my honde.
+
+219.
+'Abyde, chorle monke,' sayd Lytell Johan,
+'No ferther that thou gone;
+Yf thou doost, by dere worthy God,
+Thy deth is in my honde.
+
+220.
+'And evyll thryfte on thy hede,' sayd Lytell Johan,
+'Ryght under thy hatt�'s bonde,
+For thou hast made our mayster wroth,
+He is fastynge so longe.'
+
+221.
+'Who is your mayster?' sayd the monke.
+Lytell Johan sayd, 'Robyn Hode.'
+'He is a stronge thefe,' sayd the monke,
+'Of hym herd I never good.'
+
+222.
+'Thou lyest,' than sayd Lytell Johan,
+'And that shall rew� thee;
+He is a yeman of the forest,
+To dyne he hath bod� thee.'
+
+223.
+Much was redy with a bolte,
+Redly and anone,
+He set the monke to-fore the brest,
+To the grounde that he can gone.
+
+224.
+Of two and fyfty wyght yonge yemen,
+There abode not one,
+Saf a lytell page and a grome,
+To lede the somers with Lytel Johan.
+
+225.
+They brought the monke to the lodg�-dore,
+Whether he were loth or lefe,
+For to speke with Robyn Hode,
+Maugre in theyr tethe.
+
+226.
+Robyn dyde adowne his hode,
+The monke whan that he se;
+The monke was not so curteyse,
+His hode then let he be.
+
+227.
+'He is a chorle, mayster, by dere worthy God,'
+Than sayd Lytell Johan.
+'Thereof no force,' sayd Robyn,
+'For curteysy can he none.
+
+228.
+'How many men,' sayd Robyn,
+'Had this monke, Johan?'
+'Fyfty and two whan that we met,
+But many of them be gone.'
+
+229.
+'Let blowe a horne,' sayd Robyn,
+'That felaushyp may us knowe.'
+Seven score of wyght yemen,
+Came pryckynge on a rowe.
+
+230.
+And everych of them a good mantell
+Of scarlet and of raye;
+All they came to good Robyn,
+To wyte what he wolde say.
+
+231.
+They made the monke to wasshe and wype,
+And syt at his denere.
+Robyn Hode and Lytell Johan
+They served him both in fere.
+
+232.
+'Do gladly, monke,' sayd Robyn.
+'Gramercy, syr,' sayd he.
+'Where is your abbay, whan ye are at home,
+And who is your avow�?'
+
+233.
+'Saynt Mary abbay,' sayd the monke,
+'Though I be symple here.'
+'In what offyce?' said Robyn:
+'Syr, the hye selerer.'
+
+234.
+'Ye be the more welcome,' sayd Robyn,
+'So ever mote I the!
+Fyll of the best wyne,' sayd Robyn,
+'This monke shall drynke to me.
+
+235.
+'But I have grete mervayle,' sayd Robyn,
+'Of all this long� day;
+I drede Our Lady be wroth with me,
+She sent me not my pay.'
+
+236.
+'Have no doute, mayster,' sayd Lytell Johan,
+'Ye have no nede, I saye;
+This monke hath brought it, I dare well swere,
+For he is of her abbay.'
+
+237.
+'And she was a borowe,' sayd Robyn,
+'Betwene a knyght and me,
+Of a lytell money that I hym lent,
+Under the grene-wode tree.
+
+238.
+'And yf thou hast that sylver ibrought,
+I pray thee let me se;
+And I shall help� thee eftsones,
+Yf thou have nede to me.'
+
+239.
+The monke swore a full grete othe,
+With a sory chere,
+'Of the borowehode thou spekest to me,
+Herde I never ere.'
+
+240.
+'I make myn avowe to God,' sayd Robyn,
+'Monke, thou art to blame;
+For God is holde a ryghtwys man,
+And so is his dame.
+
+241.
+'Thou toldest with thyn own� tonge,
+Thou may not say nay,
+How thou arte her servaunt,
+And servest her every day.
+
+242.
+'And thou art made her messengere,
+My money for to pay;
+Therefore I cun the mor� thanke
+Thou arte come at thy day.
+
+243.
+'What is in your cofers?' sayd Robyn,
+'Trewe than tell thou me.'
+'Syr,' he sayd, 'twenty marke,
+Al so mote I the.'
+
+244.
+'Yf there be no more,' sayd Robyn,
+'I wyll not one peny;
+Yf thou hast myster of ony more,
+Syr, more I shall lende to thee.
+
+245.
+'And yf I fynd� more,' sayd Robyn,
+'I-wys thou shalte it forgone;
+For of thy spendynge-sylver, monke,
+Thereof wyll I ryght none.
+
+246.
+'Go nowe forthe, Lytell Johan,
+And the trouth tell thou me;
+If there be no more but twenty marke,
+No peny that I se.'
+
+247.
+Lytell Johan spred his mantell downe,
+As he had done before,
+And he tolde out of the monk�s male
+Eyght hondred pounde and more.
+
+248.
+Lytell Johan let it lye full styll,
+And went to his mayster in hast;
+'Syr,' he sayd, 'the monke is trewe ynowe,
+Our Lady hath doubled your cast.'
+
+249.
+'I make myn avowe to God,' sayd Robyn--
+'Monke, what tolde I thee?--
+Our Lady is the trewest woman
+That ever yet founde I me.
+
+250.
+'By dere worthy God,' sayd Robyn,
+'To seche all Englond thorowe,
+Yet founde I never to my pay
+A moche better borowe.
+
+251.
+'Fyll of the best wyne, and do hym drynke,' sayd Robyn,
+'And grete well thy lady hende,
+And yf she have nede to Robyn Hode,
+A frende she shall hym fynde.
+
+252.
+'And yf she nedeth ony more sylver,
+Come thou agayne to me,
+And, by this token she hath me sent,
+She shall have such thre.'
+
+253.
+The monke was goynge to London ward,
+There to hold grete mote,
+The knyght that rode so hye on hors,
+To brynge hym under fote.
+
+254.
+'Whether be ye away?' sayd Robyn.
+'Syr, to maners in this londe,
+To reken with our reves,
+That have done moch wronge.'
+
+255.
+'Come now forth, Lytell Johan,
+And harken to my tale;
+A better yemen I knowe none,
+To seke a monk�s male.'
+
+256.
+'How moch is in yonder other corser?' sayd Robyn,
+'The soth must we see.'
+'By Our Lady,' than sayd the monke,
+'That were no curteysye,
+
+257.
+'To bydde a man to dyner,
+And syth hym bete and bynde.'
+'It is our olde maner,' sayd Robyn,
+'To leve but lytell behynde.'
+
+258.
+The monke toke the hors with spore,
+No lenger wolde he abyde:
+'Ask� to drynke,' than sayd Robyn,
+'Or that ye forther ryde.'
+
+259.
+'Nay, for God,' than sayd the monke,
+'Me reweth I cam so nere;
+For better chepe I myght have dyned
+In Blythe or in Dankestere.'
+
+260.
+'Grete well your abbot,' sayd Robyn,
+'And your pryour, I you pray,
+And byd hym send me such a monke
+To dyner every day.'
+
+261.
+Now lete we that monke be styll,
+And speke we of that knyght:
+Yet he came to holde his day,
+Whyle that it was lyght.
+
+262.
+He dyde him streyt to Bernysdale,
+Under the grene-wode tre,
+And he founde there Robyn Hode,
+And all his mery meyn�.
+
+263.
+The knyght lyght doune of his good palfray,
+Robyn whan he gan see;
+So curteysly he dyde adoune his hode,
+And set hym on his knee.
+
+264.
+'God the sav�, Robyn Hode,
+And all this company!'
+'Welcome be thou, gentyll knyght,
+And ryght welcome to me.'
+
+265.
+Than bespake hym Robyn Hode,
+To that knyght so fre;
+'What nede dryveth thee to grene-wode?
+I praye thee, syr knyght, tell me.
+
+266.
+'And welcome be thou, gentyll knyght,
+Why hast thou be so longe?'
+'For the abbot and the hye justyce
+Wolde have had my londe.'
+
+267.
+'Hast thou thy londe agayne?' sayd Robyn;
+'Treuth than tell thou me.'
+'Ye, for God,' sayd the knyght,
+'And that thanke I God and thee.
+
+268.
+'But take no grefe, that I have be so longe;
+I came by a wrastelynge,
+And there I holpe a pore yeman,
+With wronge was put behynde.'
+
+269.
+'Nay, for God,' sayd Robyn,
+'Syr knyght, that thanke I thee;
+What man that helpeth a good yeman,
+His frende than wyll I be.'
+
+270.
+'Have here foure hondred pounde,' than sayd the knyght,
+'The whiche ye lent to me;
+And here is also twenty marke
+For your curteysy.'
+
+271.
+'Nay, for God,' than sayd Robyn,
+'Thou broke it well for ay;
+For Our Lady, by her hye selerer,
+Hath sent to me my pay.
+
+272.
+'And yf I toke it i-twyse,
+A shame it were to me;
+But trewely, gentyll knyght,
+Welcome arte thou to me.'
+
+273.
+Whan Robyn had tolde his tale,
+He leugh and had good chere:
+'By my trouthe,' then sayd the knyght,
+'Your money is redy here.'
+
+274.
+'Broke it well,' said Robyn,
+'Thou gentyll knyght so fre;
+And welcome be thou, gentyll knyght,
+Under my trystell-tre.
+
+275.
+'But what shall these bow�s do?' sayd Robyn,
+'And these arowes ifedred fre?'
+'By God,' than sayd the knyght,
+'A pore present to thee.'
+
+276.
+'Come now forth, Lytell Johan,
+And go to my treasur�,
+And brynge me there foure hondred pounde,
+The monke over-tolde it me.
+
+277.
+'Have here foure hondred pounde,
+Thou gentyll knyght and trewe,
+And bye hors and havnes good,
+And gylte thy spores all newe.
+
+278.
+'And yf thou fayle ony spendynge,
+Com to Robyn Hode,
+And by my trouth thou shalt none fayle,
+The whyles I have any good.
+
+279.
+'And broke well thy foure hondred pound,
+Whiche I lent to the,
+And make thy selfe no more so bare,
+By the counsell of me.'
+
+280.
+Thus than holpe hym good Robyn,
+The knyght all of his care:
+God, that syt in heven hye,
+Graunte us well to fare!
+
+
+[Annotations:
+208., 209.: A repetition of 17 and 18.
+211.2: 'tray and tene,' grief and vexation.
+213.: i.e. Benedictines.
+214.3: 'wedde,' wager.
+215.2: 'frese' occurs nowhere else, and its meaning is unknown.
+215.3: 'seker and sad,' resolute and staunch.
+216.2: 'somers' = sumpters, pack-horses.
+218.2: 'prese,' crowd.
+225.2: 'lefe,' pleased, willing.
+225.4: 'Maugre,' in spite of.
+227.3: 'no force,' no matter.
+229.2: 'felaushyp' = our fellows.
+230.2: 'raye,' striped cloth.
+232.4: 'avow�,' patron.
+234.2: A common form of asseveration = 'upon my life'; 'the' = thrive. Cf. 243.4.
+237.1: 'borowe,' security.
+239.2: 'chere,' countenance.
+243.4: See 234.2 and note.
+244.3: 'myster,' need.
+247.3: 'male,' trunk. See 134.2 and 374.1.
+250.3: 'pay,' liking.
+251.2: 'hende,' gracious.
+253.2: 'mote,' meeting.
+254.3: 'reves,' bailiffs.
+256.1: 'corser,' coffer (?).
+271.2: 'broke,' enjoy. Cf. 274.3 and 279.3.
+273.2: 'leugh,' laughed.
+275.2: 'ifedred,' feathered.]
+
+
+A Gest Of Robyn Hode - The Fifth Fytte (281-316)
+
+Argument.--The story now returns to the Sheriff of Nottingham, and relates how he offered a prize for the best archer in the north. Robin Hood, hearing of this match, determines to go to it, and to test the sheriff's faith to his oath (see the Third Fytte, stt. 202-4). Robin wins the prize, and is starting home to the greenwood, when the sheriff recognises and attacks him, but is beaten off by a shower of arrows. Robin and his men retire, shooting as they go, until they come to a castle. Here dwells the knight to whom Robin had lent the money--'Sir Richard at the Lee.' He takes in Robin and his men, and defies the sheriff; Robin, he says, shall spend forty days with him.
+
+This fytte is no doubt based on some single lost ballad of a shooting-match at which Robin was victorious, and at which the Sheriff of Nottingham attempted in vain to arrest him. But the compiler of the Gest has carefully linked it to the preceding fyttes by such references as Robin's determination to try the sheriff's faith (st. 287), which is made clear in stt. 296-8; and the identification of the knight whose castle protects Robin and his men with the knight to whom the money had been lent (stt. 310-312).
+
+
+THE FIFTH FYTTE
+
+281.
+Now hath the knyght his leve i-take,
+And wente hym on his way;
+Robyn Hode and his mery men
+Dwelled styll full many a day.
+
+282.
+Lyth and listen, gentil men,
+And herken what I shall say,
+How the proud sheryfe of Notyngham
+Dyde crye a full fayre play;
+
+283.
+That all the best archers of the north
+Sholde come upon a day,
+And he that shoteth allther best
+The game shall bere away.
+
+284.
+He that shoteth allther best,
+Furthest fayre and lowe,
+At a payre of fynly buttes,
+Under the grene wode shawe,
+
+285.
+A ryght good arowe he shall have,
+The shaft of sylver whyte,
+The hede and feders of ryche rede golde,
+In Englond is none lyke.
+
+286.
+This than herde good Robyn
+Under his trystell-tre:
+'Make you redy, ye wyght yonge men;
+That shotynge wyll I se.
+
+287.
+'Buske you, my mery yonge men;
+Ye shall go with me;
+And I wyll wete the shryv�s fayth,
+Trewe and yf he be.'
+
+288.
+Whan they had theyr bowes i-bent,
+Theyr takles fedred fre,
+Seven score of wyght yonge men
+Stode by Robyn's kne.
+
+289.
+Whan they cam to Notyngham,
+The buttes were fayre and longe;
+Many was the bolde archere
+That shoted with bow�s stronge.
+
+290.
+'There shall but syx shote with me;
+The other shal kepe my hevede,
+And stand� with good bow�s bent,
+That I be not desceyved.'
+
+291.
+The fourth outlawe his bowe gan bende,
+And that was Robyn Hode,
+And that behelde the proud sheryfe,
+All by the but as he stode.
+
+292.
+Thry�s Robyn shot about,
+And alway he slist the wand,
+And so dyde good Gylberte
+With the whyt� hande.
+
+293.
+Lytell Johan and good Scatheloke
+Were archers good and fre;
+Lytell Much and good Reynolde,
+The worste wolde they not be.
+
+294.
+Whan they had shot aboute,
+These archours fayre and good,
+Evermore was the best,
+For soth, Robyn Hode.
+
+295.
+Hym was delyvred the good arowe,
+For best worthy was he;
+He toke the yeft so curteysly;
+To gren�-wode wolde he.
+
+296.
+They cryed out on Robyn Hode,
+And grete horn�s gan they blowe:
+'Wo worth the, treason!' sayd Robyn,
+'Full evyl thou art to knowe.
+
+297.
+'And wo be thou, thou proud� sheryf,
+Thus gladdynge thy gest!
+Other wyse thou behot� me
+In yonder wylde forest.
+
+298.
+'But had I thee in gren�-wode,
+Under my trystell-tre,
+Thou sholdest leve me a better wedde
+Than thy trewe lewt�.'
+
+299.
+Full many a bow� there was bent,
+And arow�s let they glyde;
+Many a kyrtell there was rent,
+And hurt many a syde.
+
+300.
+The outlawes shot was so stronge
+That no man might them dryve,
+And the proud sheryf�s men,
+They fled away full blyve.
+
+301.
+Robyn sawe the busshement to-broke,
+In grene wode he wolde have be;
+Many an arowe there was shot
+Amonge that company.
+
+302.
+Lytell Johan was hurte full sore,
+With an arowe in his kne,
+That he myght neyther go nor ryde;
+It was full grete pyt�.
+
+303.
+'Mayster,' then sayd Lytell Johan,
+'If ever thou lovedst me,
+And for that ylk� lord�s love
+That dyed upon a tre,
+
+304.
+'And for the medes of my servyce,
+That I have serv�d thee,
+Lete never the proud� sheryf
+Alyve now fynd� me.
+
+305.
+'But take out thy brown� swerde,
+And smyte all of my hede,
+And gyve me wound�s depe and wyde;
+No lyfe on me be lefte.'
+
+306.
+'I wolde not that,' sayd Robyn,
+'Johan, that thou were slawe,
+For all the golde in mery Englonde,
+Though it lay now on a rawe.'
+
+307.
+'God forbede,' sayd Lytell Much,
+'That dyed on a tre,
+That thou sholdest, Lytell Johan,
+Parte our company.'
+
+308.
+Up he toke hym on his backe,
+And bare hym well a myle;
+Many a tyme he layd him downe,
+And shot another whyle.
+
+309.
+Then was there a fayre castell,
+A lytell within the wode;
+Double-dyched it was about,
+And walled, by the rode.
+
+310.
+And there dwelled that gentyll knyght,
+Syr Rychard at the Lee,
+That Robyn had lent his good,
+Under the grene-wode tree.
+
+311.
+In he toke good Robyn,
+And all his company:
+'Welcome be thou, Robyn Hode,
+Welcome arte thou to me;
+
+312.
+'And moche I thanke thee of thy comfort,
+And of thy curteysye,
+And of thy gret� kynd�nesse,
+Under the grene-wode tre.
+
+313.
+'I love no man in all this worlde
+So much as I do thee;
+For all the proud sheryf of Notyngham,
+Ryght here shalt thou be.
+
+314.
+'Shyt the gates, and drawe the brydge,
+And let no man come in,
+And arme you well, and make you redy,
+And to the walles ye wynne.
+
+315.
+'For one thynge, Robyn, I the behote;
+I swere by Saynt Quyntyne,
+These forty dayes thou wonnest with me,
+To soupe, ete, and dyne.'
+
+316.
+Bordes were layde, and clothes were spredde,
+Redely and anone;
+Robyn Hode and his mery men
+To mete can they gone.
+
+
+[Annotations:
+282.4: 'dyde' = caused to: cf. 'do you to wit.' --Gummere.
+283.3: 'allther best,' best of all: cp. 9.4.
+284.3: 'fynly,' goodly.
+287.3: 'wete,' know.
+287.4: 'and yf' = [*]
+288.2: 'fedred fre,' fully feathered.
+290.2: 'hevede' = head, i.e. life.
+292.2: 'slist,' sliced, split.
+295.3: 'yeft,' gift, prize.
+297.3: 'behot�,' didst promise.
+298.3: 'wedde,' forfeit.
+298.4: 'lewt�,' loyalty, faith.
+300.4: 'blyve,' quickly.
+301.1: 'busshement,' ambuscade: 'to-broke,' broken up.
+304.1: 'medes,' wages.
+306.4: 'on a rawe,' in a row; cf. 60.2.
+315.1: 'behote,' promise; cf. 297.3.
+315.3: 'wonnest,' dwellest.]
+
+
+A Gest Of Robyn Hode - The Sixth Fytte (317-353)
+
+Argument.--The Sheriff of Nottingham secures the assistance of the High Sheriff, and besets the knight's castle, accusing him of harbouring the king's enemies. The knight bids him appeal to the king, saying he will 'avow' (i.e. make good or justify) all he has done, on the pledge of all his lands. The sheriffs raise the siege and go to London, where the king says he will be at Nottingham in two weeks and will capture both the knight and Robin Hood. The sheriff returns home to get together a band of archers to assist the king; but meanwhile Robin has escaped to the greenwood. However, the sheriff lies in wait for the knight, captures him and takes him bound to Nottingham. The knight's lady rides to Robin and begs him to save her lord; whereupon Robin and his men hasten to Nottingham, kill the sheriff, release the knight, and carry him off to the greenwood.
+
+The latter episode--of Robin's release, at the request of his wife, of a knight taken captive by the sheriff--comes probably from a separate ballad: Robin Hood rescuing Three Squires tells a similar story. This the compiler of the Gest has apparently woven in with the story of the previous fyttes, though he has not done so very thoroughly (e.g., the inconsistency of Robin's question to the knight's wife, 'What man hath your lord i-take?' with his knowledge of the knight's defiance of the sheriff). The compiler has also neatly prepared the way for the introduction of the seventh and eighth fyttes by the knight's appeal to the king; but, having done so, he has apparently forgotten the king's undertaking to come to Nottingham, and has allowed the sheriff to anticipate that plan and capture the knight without assistance.
+
+
+THE SIXTH FYTTE
+
+317.
+Lythe and lysten, gentylmen,
+And herkyn to your songe;
+Howe the proud� shyref of Notyngham,
+And men of armys stronge,
+
+318.
+Full fast cam to the hy� shyref,
+The contr� up to route,
+And they besette the knyght�s castell,
+The wall�s all aboute.
+
+319.
+The proud� shyref loude gan crye,
+And sayde, 'Thou traytour knight,
+Thou kepest here the kynges enemys,
+Agaynst the lawe and right.'
+
+320.
+'Syr, I wyll avowe that I have done,
+The dedys that here be dyght,
+Upon all the land�s that I have,
+As I am a trew� knyght.
+
+321.
+'Wende furth, sirs, on your way,
+And do no more to me
+Tyll ye wyt oure kyng�s wille,
+What he wyll say to thee.'
+
+322.
+The shyref thus had his answere,
+Without any lesynge;
+Forth he yede to London towne,
+All for to tel our kinge.
+
+323.
+Ther he telde him of that knight,
+And eke of Robyn Hode,
+And also of the bolde archars,
+That were soo noble and gode.
+
+324.
+'He wyll avowe that he hath done,
+To mayntene the outlawes stronge;
+He wyll be lorde, and set you at nought,
+In all the northe londe.'
+
+325.
+'I wil be at Notyngham,' sayde our kynge,
+'Within this fourteennyght,
+And take I wyll Robyn Hode
+And so I wyll that knight.
+
+326.
+'Go nowe home, shyref,' sayde our kynge,
+'And do as I byd thee;
+And ordeyn gode archers ynowe,
+Of all the wyde contr�.'
+
+327.
+The shyref had his leve i-take,
+And went hym on his way;
+And Robyn Hode to gren� wode,
+Upon a certen day.
+
+328.
+And Lytel John was hole of the arowe
+That shot was in his kne,
+And dyd hym streyght to Robyn Hode,
+Under the grene wode tree.
+
+329.
+Robyn Hode walked in the forest,
+Under the levys grene;
+The proud shyref of Notyngham
+Thereof he had grete tene.
+
+330.
+The shyref there fayled of Robyn Hode,
+He myght not have his pray;
+Than he awayted this gentyll knyght,
+Bothe by nyght and day.
+
+331.
+Ever he wayted the gentyll knyght,
+Syr Richarde at the Lee,
+As he went on haukynge by the ryver-syde
+And lete his hauk�s flee.
+
+332.
+Toke he there this gentyll knight,
+With men of armys stronge,
+And led hym to Notynghamwarde,
+Bounde bothe fote and hande.
+
+333.
+The sheref sware a full grete othe,
+Bi him that dyed on rode,
+He had lever than an hundred pound
+That he had Robyn Hode.
+
+334.
+This harde the knyght�s wyfe,
+A fayr lady and a free;
+She set hir on a gode palfrey,
+To grene wode anone rode she.
+
+335.
+Whanne she cam in the forest,
+Under the grene wode tree,
+Fonde she there Robyn Hode,
+And all his fayre men�.
+
+336.
+'God thee sav�, gode Robyn,
+And all thy company;
+For Our der� Ladyes sake,
+A bon� graunte thou me.
+
+337.
+'Late never my wedded lorde
+Shamefully slayne be;
+He is fast bowne to Notinghamwarde,
+For the love of thee.'
+
+338.
+Anone than saide goode Robyn
+To that lady so fre,
+'What man hath your lorde ytake?'
+['The proude shirife,' than sayd she.
+
+339.
+'You may them overtake, Robyn,]
+For soth as I thee say;
+He is nat yet thre myl�s
+Passed on his way.'
+
+340.
+Up than sterte gode Robyn,
+As man that had ben wode:
+'Buske you, my mery men,
+For hym that dyed on rode.
+
+341.
+'And he that this sorowe forsaketh,
+By hym that dyed on tre,
+Shall he never in gren� wode
+No lenger dwel with me.'
+
+342.
+Sone there were gode bow�s bent,
+Mo than seven score;
+Hedge ne dyche spared they none
+That was them before.
+
+343.
+'I make myn avowe to God,' sayde Robyn,
+'The sherif wolde I fayne see;
+And if I may him take,
+I-quyt then shall he be.'
+
+344.
+And when they came to Notingham,
+They walked in the strete;
+And with the proud� sherif i-wys
+Son� can they mete.
+
+345.
+'Abyde, thou proud� sherif,' he sayde,
+'Abyde, and speke with me;
+Of some tidinges of oure kinge
+I wolde fayne here of thee.
+
+346.
+'This seven yere, by dere worthy God,
+Ne yede I this fast on fote;
+I make myn avowe to God, thou proud� sherif,
+It is not for thy gode.'
+
+347.
+Robyn bent a full goode bowe,
+An arrowe he drowe at wyll;
+He hit so the proud� sherife
+Upon the grounde he lay full still.
+
+348.
+And or he myght up aryse,
+On his fete to stonde,
+He smote of the sherifs hede
+With his bright� bronde.
+
+349.
+'Lye thou there, thou proud� sherife;
+Evyll mote thou cheve!
+There myght no man to thee truste
+The whyles thou were a lyve.'
+
+350.
+His men drewe out theyr bryght swerdes,
+That were so sharpe and kene,
+And layde on the sheryves men,
+And dryved them downe bydene.
+
+351.
+Robyn stert to that knyght,
+And cut a two his bonde,
+And toke hym in his hand a bowe,
+And bad hym by hym stonde.
+
+352.
+'Leve thy hors thee behynde,
+And lerne for to renne;
+Thou shalt with me to gren� wode,
+Through myr�, mosse, and fenne.
+
+353.
+'Thou shalt with me to gren� wode,
+Without ony leasynge,
+Tyll that I have gete us grace
+Of Edwarde, our comly kynge.'
+
+
+[Annotations:
+320.2: 'dyght,' concerted.
+322.3: 'yede,' went.
+326.3: 'ordeyn,' levy, summon.
+328.: See st. 302.
+329.4: 'tene,' anger. 'Thereof' means 'of Robin's escape.'
+333.3: 'lever,' rather.
+334.1: 'harde,' = heard.
+336.4: 'bone,' boon.
+338.4, 339.1: supplied from later versions.
+340.2: 'wode,' mad.
+346.2: 'this' = thus.
+348.1: 'And or' = ere.
+349.2: 'cheve,' gain, win.
+350.4: 'bydene,' one after another.
+351.3: 'toke,' gave.]
+
+
+A Gest Of Robyn Hode - The Seventh Fytte (354-417)
+
+Argument.--The king, coming with a great array to Nottingham to take Robin Hood and the knight, and finding nothing but a great scarcity of deer, is wondrous wroth, and promises the knight's lands to any one who will bring him his head. For half a year the king has no news of Robin; at length, at the suggestion of a forester, he disguises himself as an abbot and five of his men as monks, and goes into the greenwood. He is met and stopped by Robin Hood, gives up forty pounds to him, and alleges he is a messenger from the king. Thereupon Robin entertains him and his men on the king's own deer, and the outlaws hold an archery competition, Robin smiting those that miss. At his last shot, Robin himself misses, and asks the abbot to smite him in his turn. The abbot gives him such a buffet that Robin is nearly felled; on looking more closely, he recognises the king, of whom he and his men ask pardon on their knees. The king grants it, on condition that they will enter his service. Robin agrees, but reserves the right to return to the greenwood if he mislikes the court.
+
+This fytte is based on the story, extremely common and essentially popular, especially in England, of a meeting between a king in disguise and one of his subjects. Doubtless there was a ballad of Robin Hood and the king; but the only one we possess, The King's Disguise and Friendship with Robin Hood, is a late and a loose paraphrase of this fytte and the next. The commonest stories and ballads of this type in English are The King and the Barker (i.e. Tanner), King Edward the Fourth and the Tanner of Tamworth, King James and the Tinker, and King Henry II. and the Miller of Mansfield. Usually the point of the story is the lack of ceremony displayed by the subject, and the royal good-humour and largesse of the king.
+
+There is only an arbitrary division between Fyttes VII. and VIII.; and one or two other points will be discussed in introducing the next and last fytte.
+
+
+THE SEVENTH FYTTE
+
+354.
+The kynge came to Notynghame,
+With knyght�s in grete araye,
+For to take that gentyll knyght
+And Robyn Hode, and yf he may.
+
+355.
+He ask�d men of that countr�
+After Robyn Hode,
+And after that gentyll knyght,
+That was so bolde and stout.
+
+356.
+Whan they had tolde hym the case
+Our kynge understode ther tale,
+And seased in his honde
+The knyght�s lond�s all.
+
+357.
+All the passe of Lancasshyre
+He went both ferre and nere,
+Tyll he came to Plomton Parke;
+He faylyd many of his dere.
+
+358.
+There our kynge was wont to se
+Herd�s many one,
+He coud unneth fynde one dere,
+That bare ony good home.
+
+359.
+The kynge was wonder wroth withall,
+And swore by the Trynyt�,
+'I wolde I had Robyn Hode,
+With eyen I myght hym se.
+
+360.
+'And he that wolde smyte of the knyght�s hede,
+And brynge it to me,
+He shall have the knyght�s londes,
+Syr Rycharde at the Le.
+
+361.
+'I gyve it hym with my charter,
+And sele it with my honde,
+To have and holde for ever more,
+In all mery Englonde.'
+
+362.
+Than bespake a fayre olde knyght,
+That was treue in his fay:
+'A, my leeg� lorde the kynge,
+One worde I shall you say.
+
+363.
+'There is no man in this countr�
+May have the knyght�s londes,
+Whyle Robyn Hode may ryde or gone,
+And bere a bowe in his hondes,
+
+364.
+'That he ne shall lese his hede,
+That is the best ball in his hode:
+Give it no man, my lorde the kynge,
+That ye wyll any good.'
+
+365.
+Half a yere dwelled our comly kynge
+In Notyngham, and well more;
+Coude he not here of Robyn Hode,
+In what countr� that he were.
+
+366.
+But alway went good Robyn
+By halke and eke by hyll,
+And alway slewe the kyng�s dere,
+And welt them at his wyll.
+
+367.
+Than bespake a proude fostere,
+That stode by our kyng�s kne:
+'Yf ye wyll see good Robyn,
+Ye must do after me.
+
+368.
+'Take fyve of the best knyghtes
+That be in your lede,
+And walke downe by yon abbay,
+And gete you monk�s wede.
+
+369.
+'And I wyll be your ledes-man,
+And lede you the way,
+And or ye come to Notyngham,
+Myn hede then dare I lay,
+
+370.
+'That ye shall mete with good Robyn,
+On lyve yf that he be;
+Or ye come to Notyngham,
+With eyen ye shall hym se.'
+
+371.
+Full hastely our kynge was dyght,
+were his knyght�s fyve,
+Everych of them in monk�s wede,
+And hasted them thyder blyve.
+
+372.
+Our kynge was grete above his cole,
+A brode hat on his crowne,
+Ryght as he were abbot-lyke,
+They rode up into the towne.
+
+373.
+Styf bot�s our kynge had on,
+Forsoth as I you say;
+He rode syngynge to gren� wode;
+The covent was clothed in graye.
+
+374.
+His male-hors and his grete somers
+Folowed our kynge behynde,
+Tyll they came to grene wode,
+A myle under the lynde.
+
+375.
+There they met with good Robyn,
+Stondynge on the waye,
+And so dyde many a bolde archere,
+For soth as I you say.
+
+376.
+Robyn toke the kyng�s hors,
+Hastely in that stede,
+And sayd, 'Syr abbot, by your leve,
+A whyle ye must abyde.
+
+377.
+'We be yemen of this foreste,
+Under the grene-wode tre;
+We lyve by our kyng�s dere,
+Other shyft have not we.
+
+378.
+'And ye have chyrches and rent�s both,
+And gold full grete plent�;
+Gyve us some of your spendynge,
+For saynt charyt�.'
+
+379.
+Than bespake our cumly kynge,
+Anone than sayd he;
+'I brought no more to grene-wode
+But forty pounde with me.
+
+380.
+'I have layne at Notyngham,
+This fourtynyght with our kynge,
+And spent I have full moche good
+On many a grete lordynge.
+
+381.
+'And I have but forty pounde,
+No more than have I me:
+But if I had an hondred pounde,
+I wolde vouch it safe on thee.'
+
+382.
+Robyn toke the forty pounde,
+And departed it in two partye;
+Halfendell he gave his mery men,
+And bad them mery to be.
+
+383.
+Full curteysly Robyn gan say;
+'Syr, have this for your spendyng;
+We shall mete another day';
+'Gramercy,' than sayd our kynge.
+
+384.
+'But well thee greteth Edwarde our kynge,
+And sent to thee his seale,
+And byddeth thee com to Notyngham,
+Both to mete and mele.'
+
+385.
+He toke out the brode targe,
+And sone he lete hym se;
+Robyn coud his courteysy,
+And set hym on his kne.
+
+386.
+'I love no man in all the worlde
+So well as I do my kynge;
+Welcome is my lord�s seale;
+And, monke, for thy tydynge,
+
+387.
+'Syr abbot, for thy tydynges,
+To day thou shalt dyne with me,
+For the love of my kynge,
+Under my trystell-tre.'
+
+388.
+Forth he lad our comly kynge,
+Full fayre by the honde;
+Many a dere there was slayne,
+And full fast dyghtande.
+
+389.
+Robyn toke a full grete home,
+And loude he gan blowe;
+Seven score of wyght yonge men
+Came redy on a rowe.
+
+390.
+All they kneled on theyr kne,
+Full fayre before Robyn:
+The kynge sayd hymselfe untyll,
+And swore by Saynt Austyn,
+
+391.
+'Here is a wonder semely sight;
+Me thynketh, by Godd�s pyne,
+His men are more at his byddynge
+Then my men be at myn.'
+
+392.
+Full hastely was theyr dyner i-dyght,
+And therto gan they gone;
+They served our kynge with all theyr myght,
+Both Robyn and Lytell Johan.
+
+393.
+Anone before our kynge was set
+The fatt� venyson,
+The good whyte brede, the good rede wyne,
+And therto the fyne ale and browne.
+
+394.
+'Make good chere,' said Robyn,
+'Abbot, for charyt�;
+And for this ylk� tydynge,
+Blyssed mote thou be.
+
+395.
+'Now shalte thou se what lyfe we lede,
+Or thou hens wende;
+Than thou may enfourme our kynge,
+Whan ye togyder lende.'
+
+396.
+Up they stert� all in hast,
+Theyr bowes were smartly bent;
+Our kynge was never so sore agast,
+He wende to have be shente.
+
+397.
+Two yerdes there were up set,
+Thereto gan they gange;
+By fyfty pase, our kynge sayd,
+The merk�s were to longe.
+
+398.
+On every syde a rose-garlonde,
+They shot under the lyne:
+'Who so fayleth of the rose-garlonde,' sayd Robyn,
+'His takyll he shall tyne,
+
+399.
+'And yelde it to his mayster,
+Be it never so fyne;
+For no man wyll I spare,
+So drynke I ale or wyne;
+
+400.
+'And bere a buffet on his hede,
+I-wys ryght all bare':
+And all that fell in Robyns lote,
+He smote them wonder sare.
+
+401.
+Twyse Robyn shot aboute,
+And ever he cleved the wande,
+And so dyde good Gylberte
+With the Whyt� Hande.
+
+402.
+Lytell Johan and good Scathelocke,
+For nothynge wolde they spare;
+When they fayled of the garlonde,
+Robyn smote them full sore.
+
+403.
+At the last shot that Robyn shot,
+For all his frend�s fare,
+Yet he fayled of the garlonde
+Thre fyngers and mare.
+
+404.
+Than bespake good Gylberte,
+And thus he gan say;
+'Mayster,' he sayd, 'your takyll is lost;
+Stande forth and take your pay.'
+
+405.
+'If it be so,' sayd Robyn,
+'That may no better be,
+Syr abbot, I delyver thee myn arowe,
+I pray thee, syr, serve thou me.'
+
+406.
+'It falleth not for myn ordre,' sayd our kynge,
+'Robyn, by thy leve,
+For to smyte no good yeman,
+For doute I sholde hym greve.'
+
+407.
+'Smyte on boldely,' sayd Robyn,
+'I give thee larg� leve':
+Anone our kynge, with that worde,
+He folde up his sleve,
+
+408.
+And sych a buffet he gave Robyn,
+To grounde he yede full nere:
+'I make myn avowe to God,' sayd Robyn,
+'Thou arte a stalworthe frere.
+
+409.
+'There is pith in thyn arme,' sayd Robyn,
+'I trowe thou canst well shete.'
+Thus our kynge and Robyn Hode
+Togeder gan they mete.
+
+410.
+Robyn behelde our comly kynge
+Wystly in the face,
+So dyde Syr Rycharde at the Le,
+And kneled downe in that place.
+
+411.
+And so dyde all the wylde outlawes,
+Whan they se them knele:
+'My lorde the kynge of Englonde,
+Now I knowe you well.'
+
+412.
+'Mercy then, Robyn,' sayd our kynge,
+'Under your trystyll-tre,
+Of thy goodnesse and thy grace,
+For my men and me!'
+
+413.
+'Yes, for God,' sayd Robyn,
+'And also God me save,
+I aske mercy, my lorde the kynge,
+And for my men I crave.'
+
+414.
+'Yes, for God,' than sayd our kynge,
+'And therto sent I me,
+With that thou leve the gren�-wode
+And all thy company;
+
+415.
+'And come home, syr, to my courte,
+And there dwell with me.'
+'I make myn avowe to God,' sayd Robyn,
+'And ryght so shall it be.
+
+416.
+'I wyll come to your courte,
+Your servyse for to se,
+And brynge with me of my men
+Seven score and thre.
+
+417.
+'But me lyke well your servyse,
+I wyll come agayne full soone,
+And shote at the donn� dere,
+As I am wonte to done.'
+
+
+[Annotations:
+354.4: 'and yf' = if.
+357.3: Plumpton Park is said by Camden in his Britannia to be in Cumberland, east of Inglewood.
+358.3: 'unneth,' scarcely.
+364.2: 'The ball in the hood' is a very early colloquialism for the head.
+366.2: 'halke,' hiding-place.
+366.4: 'welt,' disposed of.
+367.1: 'fostere,' forester.
+371.1: 'dyght,' dressed.
+372.1: 'cote' = cowl; here, however, not the hood, but the frock of a monk.
+373.4: 'covent' = convent (as in 'Covent Garden'), company of monks.
+374.1: 'male-hors,' pack-horse; 'somers,' sumpter-horses.
+374.4: 'lynde,' trees.
+382.3: 'Halfendell' = halfen deal (which survives in Somerset dialect), the half portion: deal, as in 'a great deal' = dole, or that which is dealt.
+385.1: 'brode targe,' broad charter. Cf. a 'braid letter.'
+388.4: 'dyghtande' (intended for a past participle), made ready.
+389.4: 'on a row': cf. 306.4.
+391.2: 'pyne,' passion.
+394.3: 'ylke,' same.
+395.2: 'Or' = ere.
+395.4: 'lende,' dwell.
+397.4: 'merkes,' distances between the 'yerdes' or rods.
+398.4: i.e. his arrow he shall lose.
+408.2: 'yede,' went.
+410.2: 'Wystly,' observantly, closely.
+414.2: 'sent' = assent.
+414.3: 'With that,' provided that, on condition that.
+417.1: 'But,' unless.
+417.3: 'donne,' dun.]
+
+
+A Gest Of Robyn Hode - The Eighth Fytte (418-456)
+
+Argument.--For a jest, the king disguises himself and his men once more, this time in Lincoln green, which he purchases off Robin Hood. The whole party proceeds to Nottingham, where the appearance of so many green mantles causes a general flight of the inhabitants. The king, however, reveals himself, and after a feast, pardons the knight.
+
+Robin dwells in the king's court for fifteen months, at the end of which time he has spent much money, and has lost all his men except Little John and Scathlock. He therefore begs the king's leave to go on a pilgrimage to a shrine of St. Mary Magdalen in Barnsdale, and the king consents, but allows him only seven nights' absence. Robin comes to the greenwood, and shoots a great hart; and on blowing his horn, seven score yeomen come and welcome him back, and he dwells two-and-twenty years in the greenwood. In the end he was betrayed by his kinswoman, the Prioress of Kirkesly Abbey, and her lover, Sir Roger of Doncaster.
+
+It has been suggested (by Professor Brandl) that the episode of the king's disguise in green is an intentional variation of the episode in the Third Fytte, where the Sheriff of Nottingham is forced to wrap himself in a green mantle. In any case it is probable that most of this Eighth Fytte is the work of the compiler of the Gest; possibly even the delightful verses (stt. 445-6) in which the joy of greenwood life overcomes Robin.
+
+One could wish the Gest ended with st. 450; but it is clear that the compiler knew of a ballad which narrated the death of Robin Hood, no doubt an earlier version of the Robin Hood's Death of the Percy Folio, a ballad unfortunately incomplete (see p. 140).
+
+Every famous outlaw of English tradition visits the king's court sooner or later, and makes peace with the king; but Robin's independence was too dear to him--and to the ballad-singers whose ideal he was--to allow him to go to the king voluntarily. Therefore the king must come to Robin; and here the compiler, perhaps, saw his opportunity to introduce the king-in-disguise theme, and so evolved the two last fyttes of the Gest.
+
+
+THE EIGHTH FYTTE
+
+418.
+'Haste thou ony grene cloth,' sayd our kynge,
+'That thou wylte sell nowe to me?'
+'Ye, for God,' sayd Robyn,
+'Thyrty yerdes and three.'
+
+419.
+'Robyn,' sayd our kynge,
+'Now pray I thee,
+Sell me some of that cloth
+To me and my meyn�.'
+
+420.
+'Yes, for God,' then sayd Robyn,
+'Or elles I were a fole;
+Another day ye wyll me clothe,
+I trowe, ayenst the Yole.'
+
+421.
+The kynge kest of his col� then,
+A grene garment he dyde on,
+And every knyght also, i-wys,
+Another had full sone.
+
+422.
+When they were clothed in Lyncolne grene,
+They keste away theyr graye.
+'Now we shall to Notyngham,'
+All thus our kynge gan say.
+
+423.
+They bente theyr bowes, and forth they went,
+Shotynge all in fere,
+Towarde the towne of Notyngham,
+Outlawes as they were.
+
+424.
+Our kynge and Robyn rode togyder,
+For soth as I you say;
+And they shote plucke-buffet,
+As they went by the way.
+
+425.
+And many a buffet our kynge wan
+Of Robyn Hode that day,
+And nothynge spared good Robyn
+Our kynge in his pay.
+
+426.
+'So God me help�,' sayd our kynge,
+'Thy game is nought to lere;
+I sholde not get a shote of thee,
+Though I shote all this yere.'
+
+427.
+All the people of Notyngham
+They stode and behelde;
+They sawe nothynge but mantels of grene
+That covered all the felde.
+
+428.
+Than every man to other gan say,
+'I drede our kynge be slone;
+Come Robyn Hode to the towne, i-wys
+On lyve he lefte never one.'
+
+429.
+Full hast�ly they began to fle,
+Both yemen and knaves,
+And olde wyves that myght evyll goo,
+They hypp�d on theyr staves.
+
+430.
+The kynge loughe full fast,
+And commaunded theym agayne;
+When they se our comly kynge,
+I-wys they were full fayne.
+
+431.
+They ete and dranke, and made them glad,
+And sange with not�s hye;
+Than bespake our comly kynge
+To Syr Richarde at the Lee.
+
+432.
+He gave hym there his londe agayne,
+A good man he bad hym be;
+Robyn thanked our comly kynge,
+And set hym on his kne.
+
+433.
+Had Robyn dwelled in the kyng�s courte
+But twelve monethes and thre,
+That he had spent an hondred pounde,
+And all his menn�s fe.
+
+434.
+In every place where Robyn came
+Ever more he layde downe,
+Both for knyght�s and for squyres,
+To gete hym grete renowne.
+
+435.
+By than the yere was all agone
+He had no man but twayne,
+Lytell Johan and good Scathelocke,
+With hym all for to gone.
+
+436.
+Robyn sawe yonge men shote
+Full fayre upon a day;
+'Alas!' than sayd good Robyn,
+'My welthe is went away.
+
+437.
+'Somtyme I was an archere good,
+A styffe and eke a stronge;
+I was compted the best archere
+That was in mery Englonde.
+
+438.
+'Alas!' then sayd good Robyn,
+'Alas and well a woo!
+Yf I dwele lenger with the kynge,
+Sorowe wyll me sloo.'
+
+439.
+Forth than went Robyn Hode
+Tyll he came to our kynge:
+'My lorde the kynge of Englonde,
+Graunte me myn askynge.
+
+440.
+'I made a chapell in Bernysdale,
+That semely is to se,
+It is of Mary Magdaleyne,
+And thereto wolde I be.
+
+441.
+'I myght never in this seven nyght
+No tyme to slepe ne wynke,
+Nother all these seven dayes
+Nother ete ne drynke.
+
+442.
+'Me longeth sore to Bernysdale,
+I may not be therfro;
+Barefote and wolwarde I have hyght
+Thyder for to go.'
+
+443.
+'Yf it be so,' than sayd our kynge,
+'It may no better be;
+Seven nyght I gyve thee leve,
+No lengre, to dwell fro me.'
+
+444.
+'Gramercy, lorde,' then sayd Robyn,
+And set hym on his kne;
+He toke his leve full courteysly,
+To grene wode then went he.
+
+445.
+When he came to grene wode,
+In a mery mornynge,
+There he herde the not�s small
+Of byrd�s mery syngynge.
+
+446.
+'It is ferre gone,' sayd Robyn,
+'That I was last here;
+Me lyste a lytell for to shote
+At the donn� dere.'
+
+447.
+Robyn slewe a full grete harte;
+His horne than gan he blow,
+That all the outlawes of that forest
+That horne coud they knowe,
+
+448.
+And gadred them togyder,
+In a lytell throwe.
+Seven score of wyght yonge men
+Came redy on a rowe,
+
+449.
+And fayre dyde of theyr hodes,
+And set them on theyr kne:
+'Welcome,' they sayd, 'our der� mayster,
+Under this grene-wode tre.'
+
+450.
+Robyn dwelled in gren� wode
+Twenty yere and two;
+For all drede of Edwarde our kynge,
+Agayne wolde he not goo.
+
+451.
+Yet he was begyled, i-wys,
+Through a wycked woman,
+The pryoresse of Kyrk�sly,
+That nye was of hys kynne:
+
+452.
+For the love of a knyght,
+Syr Roger of Donkesly,
+That was her own� speciall;
+Full evyll mote they the!
+
+453.
+They toke togyder theyr counsell
+Robyn Hood for to sle,
+And how they myght best do that dede,
+His banis for to be.
+
+454.
+Than bespake good Robyn,
+In place where as he stode,
+'Tomorow I muste to Kyrk�sly,
+Craftely to be leten blode.'
+
+455.
+Syr Roger of Donkestere
+By the pryoresse he lay,
+And there they betrayed good Robyn Hode,
+Through theyr fals� playe.
+
+456.
+Cryst have mercy on his soul,
+That dy�d on the rode!
+For he was a good outlawe,
+And dyde pore men moch gode.
+
+
+[Annotations:
+421.1: 'kest of' = cast off: 'col�,' frock (cp. 372.1).
+423.1: 'bente,' took.
+423.2: 'in fere,' in company.
+424.3: 'plucke-buffet,' the game of giving one another alternate buffets, as described in stt. 403-9. In the Romance of Richard Coeur de Lion, Richard even kills his opponent at this 'game.' 'Shote plucke-buffet' implies that the buffeting was punishment for missing the mark at shooting.
+428.2: 'slone,' slain.
+429.4: 'hypped,' hopped.
+433.4: 'fe,' pay.
+434.2: 'layde downe,' spent, laid out.
+438.4: 'sloo,' slay.
+442.3: 'wolwarde,' with wool against skin, i.e. with a sheepskin turned inwards: 'hyght,' promised, vowed.
+446.3: 'Me lyste,' I should like.
+446.4: 'donne,' dun (cf. 417.3).
+448.2: 'throwe,' space of time.
+448.4: See 306.4, etc.
+452.3: 'speciall,' lover.
+452.4: Cp. 234.2, 349.2.
+453.4: 'banis,' murderers.]
+
+
