@@ -1,38 +1,29 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: Spleen
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  strange
- -  rain
- -  moon
- -  ars poetica
- -  cat
- -  ghost
- -  queen
 ---
 
-The rainy moon of all the world is weary,
-And from its urn a gloomy cold pours down,
-Upon the pallid inmates of the mortuary,
-And on the neighboring outskirts of the town.
+When low and heavy sky weighs like a lid
+Upon the spirit moaning in ennui,
+And when, spanning the circle of the world,
+It pours a black day sadder than our nights;
 
-My wasted cat, in searching for a litter,
-Bestirs its mangy paws from post to post;
-(A poet's soul that wanders in the gutter,
-With the jaded voice of a shivering ghost).
+When earth is changed into a sweaty cell,
+In which Hope, captured, like a frantic bat,
+Batters the walls with her enfeebled wing,
+Striking her head against the rotting beams;
 
-The smoking pine-log, while the drone laments,
-Accompanies the wheezy pendulum,
-The while amidst a haze of dirty scents,
+When steady rain trailing its giant train
+Descends on us like heavy prison bars,
+And when a silent multitude of spiders
+Spins its disgusting threads deep in our brains,
 
-—Those fatal remnants of a sick man's room—
-The gallant knave of hearts and queen of spades
-Relate their ancient sexual escapades.
+Bells all at once jump out with all their force,
+And hurl about a mad cacophony
+As if they were those lost and homeless souls
+Who send a dogged whining to the skies.
+
+And long corteges minus drum or tone
+Deploy morosely through my being: Hope
+The conquered, moans, and tyrant Anguish gloats
+In my bowed skull he fixed his black flag.
