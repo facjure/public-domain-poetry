@@ -1,37 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: The Ghost
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  beauty
- -  eye
- -  kiss
- -  night
- -  moon
- -  strange
 ---
 
-Just like an angel with evil eye,
-I will return to you silently,
-Upon your gazebo I'll alight,
-With falling shadows of the night.
+Softly as brown-eyed Angels rove
+I will return to thy alcove,
+And glide upon the night to thee,
+Treading the shadows silently.
 
-With you, my brownie, I'll commune,
-And give you kisses as cold as the moon,
-And with a serpent's moist embrace,
-I'll crawl around your resting-place.
+And I will give to thee, my own,
+Kisses as icy as the moon,
+And the caresses of a snake
+Cold gliding in the thorny brake.
 
-And when the livid morning falls,
-You'll find alone the empty walls,
-And till the evening, cold it'll be.
+And when returns the livid morn
+Thou shalt find all my place forlorn
+And chilly, till the falling night.
 
-As others with their tenderness,
-Upon your life and youthfulness,
-I'll reign alone with dread over you.
+Others would rule by tenderness
+Over thy life and youthfulness,
+But I would conquer thee by fright!
