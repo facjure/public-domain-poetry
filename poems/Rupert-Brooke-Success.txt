@@ -1,17 +1,6 @@
 ---
-author: Rupert Brooke
-gender: male
+author: Rupert Brooke 
 title: Success
-curator: Ata
-year: 20th century
-country: England
-tags:
- -  lyric
- -  sonnet
- -  death
- -  love
- -  dark
- -  loneliness
 ---
 
 I think if you had loved me when I wanted;
@@ -22,7 +11,7 @@ Flushed suddenly; the white godhead in new fear
 Intolerably so struggling, and so shamed;
 Most holy and far, if you'd come all too near,
 If earth had seen Earth's lordliest wild limbs tamed,
-Shaken, and trapped, and shivering, for MY touch —
+Shaken, and trapped, and shivering, for MY touch,
 Myself should I have slain? or that foul you?
 But this the strange gods, who had given so much,
 To have seen and known you, this they might not do.
