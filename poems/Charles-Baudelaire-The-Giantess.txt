@@ -1,36 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: The Giantess
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  self
- -  ars poetica
- -  sonnet
- -  strange
- -  nature
- -  eyes
 ---
 
-I should've loved, when Heaven conceived
-Each day, some child abnormal and obscene,
-Beside a maiden giantess to have lived,
-Like a luxurious cat at the feet of a queen;
+In times when madcap Nature in her verve
+Conceived each day a hatch of monstrous spawn,
+I might have lived near some young giantess,
+Like a voluptuous cat before a queen
 
-To see her body flowering with her soul,
-And grow, unchained, in awe-inspiring art,
-Within the mists across her eyes that stole
-To divine the fires entombed within her heart.
+To watch her body tlower with her soul,
+And grow up freely in her dreadful play;
+To guess about a passion's sombre tlame
+Bom in the mists that swim within her eyes.
 
-And many times to scramble over her mighty limbs,
-And climb the slopes of her enormous knees,
-Or in summer when the scorching sunlight streams
+At leisure to explore her mighty forms;
+To climb the slopes of her enormous knees,
+And sometimes, when the summer's tainted suns
 
-Across the country, to recline at ease,
-And slumber in the shadow of her breast
-Like an hamlet beneath the mountain-crest.
+Had lain her out across the countryside,
+To drowse in nonchalance below her breast,
+Like a calm village in the mountain's shade.
