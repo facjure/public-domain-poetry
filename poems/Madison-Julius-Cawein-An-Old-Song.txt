@@ -1,0 +1,21 @@
+---
+author: Madison Julius Cawein 
+title: An Old Song
+---
+
+ It's Oh, for the hills, where the wind's some one
+ With a vagabond foot that follows!
+ And a cheer-up hand that he claps upon
+ Your arm with the hearty words, "Come on!
+ We'll soon be out of the hollows,
+ My heart!
+ We'll soon be out of the hollows!"
+
+ It's Oh, for the songs, where the hope's some one
+ With a renegade foot that doubles!
+ And a kindly look that he turns upon
+ Your face with the friendly laugh, "Come on!
+ We'll soon be out of the troubles,
+ My heart!
+ We'll soon be out of the troubles!"
+
