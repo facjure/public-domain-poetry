@@ -1,47 +1,44 @@
 ---
+author: William Blake 
 title: A Cradle Song
-author: William Blake
-curator: NCR
-country: England
-year: 1789
-book: Songs of Experience
-gender: male
-tags:
- -  infant
- -  beauty
- -  bright
- -  song
- -  sorrow
- -  sleep
- -  weep
- -  sweetness
- -  desire
- -  smile
- -  children
- -  softness
- -  cunning
- -  heart
- -  light
- -  cradle
- -  baby
-
 ---
-Sleep, sleep, beauty bright,
-Dreaming in the joys of night;
-Sleep, sleep; in thy sleep
-Little sorrows sit and weep.
+
+Sweet dreams, form a shade
+O'er my lovely infant's head!
+Sweet dreams of pleasant streams
+By happy, silent, moony beams!
+
+Sweet Sleep, with soft down
+Weave thy brows an infant crown!
+Sweet Sleep, angel mild,
+Hover o'er my happy child!
+
+Sweet smiles, in the night
+Hover over my delight!
+Sweet smiles, mother's smiles,
+All the livelong night beguiles.
+
+Sweet moans, dovelike sighs,
+Chase not slumber from thy eyes!
+Sweet moans, sweeter smiles,
+All the dovelike moans beguiles.
+
+Sleep, sleep, happy child!
+All creation slept and smiled.
+Sleep, sleep, happy sleep,
+While o'er thee thy mother weep.
 
 Sweet babe, in thy face
-Soft desires I can trace,
-Secret joys and secret smiles,
-Little pretty infant wiles.
+Holy image I can trace;
+Sweet babe, once like thee
+Thy Maker lay, and wept for me:
 
-As thy softest limbs I feel,
-Smiles as of the morning steal
-O’er thy cheek, and o’er thy breast
-Where thy little heart doth rest.
+Wept for me, for thee, for all,
+When He was an infant small.
+Thou His image ever see,
+Heavenly face that smiles on thee!
 
-O the cunning wiles that creep
-In thy little heart asleep!
-When thy little heart doth wake,
-Then the dreadful light shall break.
+Smiles on thee, on me, on all,
+Who became an infant small;
+Infant smiles are His own smiles;
+Heaven and earth to peace beguiles.
