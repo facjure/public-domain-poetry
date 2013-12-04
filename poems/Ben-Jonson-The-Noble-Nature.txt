@@ -1,29 +1,16 @@
 ---
-author: Ben Jonson
-gender: male
+author: Ben Jonson 
 title: The Noble Nature
-curator: Ata
-year: 16th/17th century
-country: England
-tags:
- -  nature
- -  time
- -  May
- -  tree
- -  oak
- -  children poetry
- -  night
- -  light
- -  life
-
 ---
+
 It is not growing like a tree
-In bulk doth make man better be;
-Or standing long an oak, three hundred year
-To fall a log at last, dry, bald, and sear
+in bulk, doth make Man better be;
+or standing long an oak three hundred year,
+to fall a log at last, dry, bald, and sere;
+
 A lily of a day
-Is fairer far in May,
-Although it fall and die that night,—
-It was the plant and flower of light.
-In small proportions we just beauties see;
-And in short measures life may perfect be.
+is fairer in May,
+although it fall and die that night-
+It was the plant and flower of Light.
+In small proportions we just beauties see:
+and in short measures life may perfect be.
