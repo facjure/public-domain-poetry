@@ -1,0 +1,1144 @@
+---
+author: George Gordon Byron 
+title: Beppo: A Venetian Story.
+---
+
+Rosalind. Farewell, Monsieur Traveller; Look, you lisp, and wear strange suits: disable all the benefits of your own country; be out of love with your Nativity, and almost chide God for making you that countenance you are; or I will scarce think you have swam in a Gondola.
+
+As You Like It, act iv, sc. I, lines 33-35.
+
+Annotation of the Commentators.
+That is, been at Venice, which was much visited by the young English gentlemen of those times, and was then what Paris is now - the seat of all dissoluteness. - S. A.[191]
+
+[The initials S. A. (Samuel Ayscough) are not attached to this note, but to another note on the same page (see Dramatic Works of William Shakspeare, 1807, i. 242).]
+
+
+
+
+Introduction To Beppo
+
+
+BEPPO was written in the autumn (September 6 - October 12, Letters, 1900, iv. 172) of 1817, whilst Byron was still engaged on the additional stanzas of the Fourth Canto of Childe Harold. His new poem, as he admitted from the first, was "after the excellent manner" of John Hookham Frere's jeu d'esprit, known as Whistlecraft (Prospectus and Specimen of an intended National Work by William and Robert Whistlecraft, London, 1818[192]), which must have reached him in the summer of 1817. Whether he divined the identity of "Whistlecraft" from the first, or whether his guess was an after-thought, he did not hesitate to take the water and shoot ahead of his unsuspecting rival. It was a case of plagiarism in excelsis, and the superiority of the imitation to the original must be set down to the genius of the plagiary, unaided by any profound study of Italian literature, or an acquaintance at first hand with the parents and inspirers of Whistlecraft.
+
+It is possible that he had read and forgotten some specimens of Pulci's Morgante Maggiore, which J. H. Merivale had printed in the Monthly Magazine for 1806-1807, vol. xxi. pp. 304, 510, etc., and it is certain that he was familiar with his Orlando in Roncesvalles, published in 1814. He distinctly states that he had not seen W. S. Rose's[193] translation of Casti's Animali Parlanti (first edition [anonymous], 1816), but, according to Pryse Gordon (Personal Memoirs, ii. 328), he had read the original. If we may trust Ugo Foscolo (see "Narrative and Romantic Poems of the Italians" in the Quart. Rev., April, 1819, vol. xxi. pp. 486-526), there is some evidence that Byron had read Forteguerri's Ricciardetto (translated in 1819 by Sylvester (Douglas) Lord Glenbervie, and again, by John Herman Merivale, under the title of The Two First Cantos of Richardetto, 1820), but the parallel which he adduces (vide post, p. 166) is not very striking or convincing.
+
+On the other hand, after the poem was completed (March 25, 1818), he was under the impression that "Berni was the original of all ... the father of that kind [i.e. the mock-heroic] of writing;" but there is nothing to show whether he had or had not read the rifacimento of Orlando's Innamorato, or the more distinctively Bernesque Capitoli. Two years later (see Letter to Murray, February 21, 1820, Letters, 1900, iv. 407; and "Advertisement" to Morgante Maggiore) he had discovered that "Pulci was the parent of Whistlecraft, and the precursor and model of Berni," but, in 1817, he was only at the commencement of his studies. A time came long before the "year or two" of his promise (March 25, 1818) when he had learned to simulate the vera imago of the Italian Muse, and was able not only to surpass his "immediate model," but to rival his model's forerunners and inspirers. In the meanwhile a tale based on a "Venetian anecdote" (perhaps an "episode" in the history of Colonel Fitzgerald and the Marchesa Castiglione, - see Letter to Moore, December 26, 1816, Letters, 1900, iv. 26) lent itself to "the excellent manner of Mr. Whistlecraft," and would show "the knowing ones," that is, Murray's advisers, Gifford, Croker, Frere, etc., that "he could write cheerfully," and "would repel the charge of monotony and mannerism."
+
+Eckermann, mindful of Goethe's hint that Byron had too much empeiria (an excess of mondanit� - a this-worldliness), found it hard to read Beppo after Macbeth. "I felt," he says, "the predominance of a nefarious, empirical world, with which the mind which introduced it to us has in a certain measure associated itself" (Conversations of Goethe, etc., 1874, p. 175). But Beppo must be taken at its own valuation. It is A Venetian Story, and the action takes place behind the scenes of "a comedy of Goldoni." A less subtle but a more apposite criticism may be borrowed from "Lord Byron's Combolio" (sic), Blackwood's Edinburgh Magazine, 1822, xi. 162-165.
+
+"The story that's in it
+May be told in a minute;
+But par parenth�se chatting,
+On this thing and that thing,
+Keeps the shuttlecock flying,
+And attention from dying."
+
+Beppo, a Venetian Story (xcv. stanzas) was published February 28, 1818; and a fifth edition, consisting of xcix. stanzas, was issued May 4, 1818.
+
+Jeffrey, writing in the Edinburgh Review (February, 1818, vol. xxix. pp. 302-310), is unconcerned with regard to Whistlecraft, or any earlier model, but observes "that the nearest approach to it [Beppo] is to be found in some of the tales and lighter pieces of Prior - a few stanzas here and there among the trash and burlesque of Peter Pindar, and in several passages of Mr. Moore, and the author of the facetious miscellany entitled the Twopenny Post Bag."
+
+Other notices, of a less appreciative kind, appeared in the Monthly Review, March, 1818, vol. 85, pp. 285-290; and in the Eclectic Review, N.S., June, 1818, vol. ix. pp. 555-557.
+
+
+
+
+
+
+Beppo.[194]
+
+I.
+
+'Tis known, at least it should be, that throughout
+All countries of the Catholic persuasion,[195]
+Some weeks before Shrove Tuesday comes about,
+The People take their fill of recreation,
+And buy repentance, ere they grow devout,
+However high their rank, or low their station,
+With fiddling, feasting, dancing, drinking, masquing,
+And other things which may be had for asking.
+
+II.
+
+The moment night with dusky mantle covers
+The skies (and the more duskily the better),
+The Time less liked by husbands than by lovers
+Begins, and Prudery flings aside her fetter;
+And Gaiety on restless tiptoe hovers,
+Giggling with all the gallants who beset her;
+And there are songs and quavers, roaring, humming,
+Guitars, and every other sort of strumming.[196]
+
+
+III.
+
+And there are dresses splendid, but fantastical,
+Masks of all times and nations, Turks and Jews,
+And harlequins and clowns, with feats gymnastical,
+Greeks, Romans, Yankee-doodles, and Hindoos;
+All kinds of dress, except the ecclesiastical,
+All people, as their fancies hit, may choose,
+But no one in these parts may quiz the Clergy, -
+Therefore take heed, ye Freethinkers! I charge ye.
+
+IV.
+
+You'd better walk about begirt with briars,
+Instead of coat and smallclothes, than put on
+A single stitch reflecting upon friars,
+Although you swore it only was in fun;
+They'd haul you o'er the coals, and stir the fires
+Of Phlegethon with every mother's son,
+Nor say one mass to cool the cauldron's bubble
+That boiled your bones, unless you paid them double.
+
+V.
+
+But saving this, you may put on whate'er
+You like by way of doublet, cape, or cloak,
+Such as in Monmouth-street, or in Rag Fair,
+Would rig you out in seriousness or joke;
+And even in Italy such places are,
+With prettier name in softer accents spoke,
+For, bating Covent Garden, I can hit on
+No place that's called "Piazza" in Great Britain.[197]
+
+
+
+VI.
+
+This feast is named the Carnival, which being
+Interpreted, implies "farewell to flesh:"
+So called, because the name and thing agreeing,
+Through Lent they live on fish both salt and fresh.
+But why they usher Lent with so much glee in,
+Is more than I can tell, although I guess
+'Tis as we take a glass with friends at parting,
+In the Stage-Coach or Packet, just at starting.
+
+VII.
+
+And thus they bid farewell to carnal dishes,
+And solid meats, and highly spiced ragouts,
+To live for forty days on ill-dressed fishes,
+Because they have no sauces to their stews;
+A thing which causes many "poohs" and "pishes,"
+And several oaths (which would not suit the Muse),
+From travellers accustomed from a boy
+To eat their salmon, at the least, with soy;
+
+VIII.
+
+And therefore humbly I would recommend
+"The curious in fish-sauce," before they cross
+The sea, to bid their cook, or wife, or friend,
+Walk or ride to the Strand, and buy in gross
+(Or if set out beforehand, these may send
+By any means least liable to loss),
+Ketchup, Soy, Chili-vinegar, and Harvey,
+Or, by the Lord! a Lent will well nigh starve ye;
+
+IX.
+
+That is to say, if your religion's Roman,
+And you at Rome would do as Romans do,
+According to the proverb, - although no man,
+If foreign, is obliged to fast; and you,
+If Protestant, or sickly, or a woman,
+Would rather dine in sin on a ragout -
+Dine and be d - d! I don't mean to be coarse,
+But that's the penalty, to say no worse.
+
+X.
+
+Of all the places where the Carnival
+Was most facetious in the days of yore,
+For dance, and song, and serenade, and ball,
+And Masque, and Mime, and Mystery, and more
+Than I have time to tell now, or at all,
+Venice the bell from every city bore, -
+And at the moment when I fix my story,
+That sea-born city was in all her glory.
+
+XI.
+
+They've pretty faces yet, those same Venetians,
+Black eyes, arched brows, and sweet expressions still;
+Such as of old were copied from the Grecians,
+In ancient arts by moderns mimicked ill;
+And like so many Venuses of Titian's[198]
+(The best's at Florence - see it, if ye will,)
+They look when leaning over the balcony,
+Or stepped from out a picture by Giorgione,[199]
+
+XII.
+
+Whose tints are Truth and Beauty at their best;
+And when you to Manfrini's palace go,[200]
+That picture (howsoever fine the rest)
+Is loveliest to my mind of all the show;
+It may perhaps be also to your zest,
+And that's the cause I rhyme upon it so:
+Tis but a portrait of his Son, and Wife,
+And self; but such a Woman! Love in life![201]
+
+XIII.
+
+Love in full life and length, not love ideal,
+No, nor ideal beauty, that fine name,
+But something better still, so very real,
+That the sweet Model must have been the same;
+A thing that you would purchase, beg, or steal,
+Wer't not impossible, besides a shame:
+The face recalls some face, as 'twere with pain,
+You once have seen, but ne'er will see again;
+
+XIV.
+
+One of those forms which flit by us, when we
+Are young, and fix our eyes on every face;
+And, oh! the Loveliness at times we see
+In momentary gliding, the soft grace,
+The Youth, the Bloom, the Beauty which agree,
+In many a nameless being we retrace,
+Whose course and home we knew not, nor shall know,
+Like the lost Pleiad[202] seen no more below.
+
+XV.
+
+I said that like a picture by Giorgione
+Venetian women were, and so they are,
+Particularly seen from a balcony,
+(For beauty's sometimes best set off afar)
+And there, just like a heroine of Goldoni,[202A]
+They peep from out the blind, or o'er the bar;
+And truth to say, they're mostly very pretty,
+And rather like to show it, more's the pity!
+
+XVI.
+
+For glances beget ogles, ogles sighs,
+Sighs wishes, wishes words, and words a letter,
+Which flies on wings of light-heeled Mercuries,
+Who do such things because they know no better;
+And then, God knows what mischief may arise,
+When Love links two young people in one fetter,
+Vile assignations, and adulterous beds,
+Elopements, broken vows, and hearts, and heads.
+
+XVII.
+
+Shakspeare described the sex in Desdemona
+As very fair, but yet suspect in fame,[202B]
+And to this day from Venice to Verona
+Such matters may be probably the same,
+Except that since those times was never known a
+Husband whom mere suspicion could inflame
+To suffocate a wife no more than twenty,
+Because she had a "Cavalier Servente."[203]
+
+XVIII.
+
+Their jealousy (if they are ever jealous)
+Is of a fair complexion altogether,
+Not like that sooty devil of Othello's,
+Which smothers women in a bed of feather,
+But worthier of these much more jolly fellows,
+When weary of the matrimonial tether
+His head for such a wife no mortal bothers,
+But takes at once another, or another's.
+
+XIX.
+
+Didst ever see a Gondola? For fear
+You should not, I'll describe it you exactly:
+'Tis a long covered boat that's common here,
+Carved at the prow, built lightly, but compactly,
+Rowed by two rowers, each call'd "Gondolier,"
+It glides along the water looking blackly,
+Just like a coffin clapt in a canoe,
+Where none can make out what you say or do.
+
+XX.
+
+And up and down the long canals they go,
+And under the Rialto[204] shoot along,
+By night and day, all paces, swift or slow,
+And round the theatres, a sable throng,
+They wait in their dusk livery of woe, -
+But not to them do woeful things belong,
+For sometimes they contain a deal of fun,
+Like mourning coaches when the funeral's done.
+
+XXI.
+
+But to my story. - 'Twas some years ago,
+It may be thirty, forty, more or less,
+The Carnival was at its height, and so
+Were all kinds of buffoonery and dress;
+A certain lady went to see the show,
+Her real name I know not, nor can guess,
+And so we'll call her Laura, if you please,
+Because it slips into my verse with ease.
+
+XXII.
+
+She was not old, nor young, nor at the years
+Which certain people call a "certain age,"[205]
+Which yet the most uncertain age appears,
+Because I never heard, nor could engage
+A person yet by prayers, or bribes, or tears,
+To name, define by speech, or write on page,
+The period meant precisely by that word, -
+Which surely is exceedingly absurd.
+
+XXIII.
+
+Laura was blooming still, had made the best
+Of Time, and Time returned the compliment,
+And treated her genteelly, so that, dressed,
+She looked extremely well where'er she went;
+A pretty woman is a welcome guest,
+And Laura's brow a frown had rarely bent;
+Indeed, she shone all smiles, and seemed to flatter
+Mankind with her black eyes for looking at her.
+
+XXIV.
+
+She was a married woman; 'tis convenient,
+Because in Christian countries 'tis a rule
+To view their little slips with eyes more lenient;
+Whereas if single ladies play the fool,
+(Unless within the period intervenient
+A well-timed wedding makes the scandal cool)
+I don't know how they ever can get over it,
+Except they manage never to discover it.
+
+XXV.
+
+Her husband sailed upon the Adriatic,
+And made some voyages, too, in other seas,
+And when he lay in Quarantine for pratique[206]
+(A forty days' precaution 'gainst disease),
+His wife would mount, at times, her highest attic,
+For thence she could discern the ship with ease:
+He was a merchant trading to Aleppo,
+His name Giuseppe, called more briefly, Beppo.[207]
+
+XXVI.
+
+He was a man as dusky as a Spaniard,
+Sunburnt with travel, yet a portly figure;
+Though coloured, as it were, within a tanyard,
+He was a person both of sense and vigour -
+A better seaman never yet did man yard;
+And she, although her manners showed no rigour,
+Was deemed a woman of the strictest principle,
+So much as to be thought almost invincible.[208]
+
+XXVII.
+
+But several years elapsed since they had met;
+Some people thought the ship was lost, and some
+That he had somehow blundered into debt,
+And did not like the thought of steering home;
+And there were several offered any bet,
+Or that he would, or that he would not come;
+For most men (till by losing rendered sager)
+Will back their own opinions with a wager.
+
+XXVIII.
+
+'Tis said that their last parting was pathetic,
+As partings often are, or ought to be,
+And their presentiment was quite prophetic,
+That they should never more each other see,
+(A sort of morbid feeling, half poetic,
+Which I have known occur in two or three,)
+When kneeling on the shore upon her sad knee
+He left this Adriatic Ariadne.
+
+XXIX.
+
+And Laura waited long, and wept a little,
+And thought of wearing weeds, as well she might;
+She almost lost all appetite for victual,
+And could not sleep with ease alone at night;
+She deemed the window-frames and shutters brittle
+Against a daring housebreaker or sprite,
+And so she thought it prudent to connect her
+With a vice-husband, chiefly to protect her.
+
+XXX.
+
+She chose, (and what is there they will not choose,
+If only you will but oppose their choice?)
+Till Beppo should return from his long cruise,
+And bid once more her faithful heart rejoice,
+A man some women like, and yet abuse -
+A Coxcomb was he by the public voice;
+A Count of wealth, they said as well as quality,
+And in his pleasures of great liberality.[bk]
+
+XXXI.
+
+And then he was a Count, and then he knew
+Music, and dancing, fiddling, French and Tuscan;
+The last not easy, be it known to you,
+For few Italians speak the right Etruscan.
+He was a critic upon operas, too,
+And knew all niceties of sock and buskin;
+And no Venetian audience could endure a
+Song, scene, or air, when he cried "seccatura!"[209]
+
+XXXII.
+
+His "bravo" was decisive, for that sound
+Hushed "Academie" sighed in silent awe;
+The fiddlers trembled as he looked around,
+For fear of some false note's detected flaw;
+The "Prima Donna's" tuneful heart would bound,
+Dreading the deep damnation of his "Bah!"
+Soprano, Basso, even the Contra-Alto,
+Wished him five fathom under the Rialto.
+
+XXXIII.
+
+He patronised the Improvisatori,
+Nay, could himself extemporise some stanzas,
+Wrote rhymes, sang songs, could also tell a story,
+Sold pictures, and was skilful in the dance as
+Italians can be, though in this their glory
+Must surely yield the palm to that which France has;
+In short, he was a perfect Cavaliero,
+And to his very valet seemed a hero.[210]
+
+XXXIV.
+
+Then he was faithful too, as well as amorous;
+So that no sort of female could complain,
+Although they're now and then a little clamorous,
+He never put the pretty souls in pain;
+His heart was one of those which most enamour us,
+Wax to receive, and marble to retain:
+He was a lover of the good old school,
+Who still become more constant as they cool.
+
+XXXV.
+
+No wonder such accomplishments should turn
+A female head, however sage and steady -
+With scarce a hope that Beppo could return,
+In law he was almost as good as dead, he
+Nor sent, nor wrote, nor showed the least concern,
+And she had waited several years already:
+And really if a man won't let us know
+That he's alive, he's dead - or should be so.
+
+XXXVI.
+
+Besides, within the Alps, to every woman,
+(Although, God knows, it is a grievous sin,)
+'Tis, I may say, permitted to have two men;
+I can't tell who first brought the custom in,
+But "Cavalier Serventes" are quite common,
+And no one notices or cares a pin;
+An we may call this (not to say the worst)
+A second marriage which corrupts the first.
+
+XXXVII.
+
+The word was formerly a "Cicisbeo,"[211]
+But that is now grown vulgar and indecent;
+The Spaniards call the person a "Cortejo,"[212]
+For the same mode subsists in Spain, though recent;
+In short it reaches from the Po to Teio,
+And may perhaps at last be o'er the sea sent:
+But Heaven preserve Old England from such courses!
+Or what becomes of damage and divorces?
+
+XXXVIII.[213]
+
+However, I still think, with all due deference
+To the fair single part of the creation,
+That married ladies should preserve the preference
+In t�te � t�te or general conversation -
+And this I say without peculiar reference
+To England, France, or any other nation -
+Because they know the world, and are at ease,
+And being natural, naturally please.
+
+XXXIX.
+
+'Tis true, your budding Miss is very charming,
+But shy and awkward at first coming out,
+So much alarmed, that she is quite alarming,
+All Giggle, Blush; half Pertness, and half Pout;
+And glancing at Mamma, for fear there's harm in
+What you, she, it, or they, may be about:
+The Nursery still lisps out in all they utter -
+Besides, they always smell of bread and butter.[214]
+
+XL.
+
+But "Cavalier Servente" is the phrase
+Used in politest circles to express
+This supernumerary slave, who stays
+Close to the lady as a part of dress,
+Her word the only law which he obeys.
+His is no sinecure, as you may guess;
+Coach, servants, gondola, he goes to call,
+And carries fan and tippet, gloves and shawl.
+
+XLI.
+
+With all its sinful doings, I must say,
+That Italy's a pleasant place to me,
+Who love to see the Sun shine every day,
+And vines (not nailed to walls) from tree to tree
+Festooned, much like the back scene of a play,
+Or melodrame, which people flock to see,
+When the first act is ended by a dance
+In vineyards copied from the South of France.
+
+XLII.
+
+I like on Autumn evenings to ride out,
+Without being forced to bid my groom be sure
+My cloak is round his middle strapped about,
+Because the skies are not the most secure;
+I know too that, if stopped upon my route,
+Where the green alleys windingly allure,
+Reeling with grapes red wagons choke the way, -
+In England 'twould be dung, dust, or a dray.
+
+XLIII.
+
+I also like to dine on becaficas,
+To see the Sun set, sure he'll rise to-morrow,
+Not through a misty morning twinkling weak as
+A drunken man's dead eye in maudlin sorrow,
+But with all Heaven t'himself; the day will break as
+Beauteous as cloudless, nor be forced to borrow
+That sort of farthing candlelight which glimmers
+Where reeking London's smoky cauldron simmers.
+
+XLIV.
+
+I love the language, that soft bastard Latin,[215]
+Which melts like kisses from a female mouth,
+And sounds as if it should be writ on satin,[216]
+With syllables which breathe of the sweet South,
+And gentle liquids gliding all so pat in,
+That not a single accent seems uncouth,
+Like our harsh northern whistling, grunting guttural,
+Which we're obliged to hiss, and spit, and sputter all.
+
+XLV.
+
+I like the women too (forgive my folly!),
+From the rich peasant cheek of ruddy bronze,[bl]
+And large black eyes that flash on you a volley
+Of rays that say a thousand things at once,
+To the high Dama's brow, more melancholy,
+But clear, and with a wild and liquid glance,
+Heart on her lips, and soul within her eyes,
+Soft as her clime, and sunny as her skies.[bm]
+
+XLVI.
+
+Eve of the land which still is Paradise!
+Italian Beauty didst thou not inspire
+Raphael,[217] who died in thy embrace, and vies
+With all we know of Heaven, or can desire,
+In what he hath bequeathed us? - in what guise,
+Though flashing from the fervour of the Lyre,
+Would words describe thy past and present glow,
+While yet Canova[218] can create below?[219]
+
+XLVII.
+
+"England! with all thy faults I love thee still,"[220]
+I said at Calais, and have not forgot it;
+I like to speak and lucubrate my fill;
+I like the government (but that is not it);
+I like the freedom of the press and quill;
+I like the Habeas Corpus (when we've got it);
+I like a Parliamentary debate,
+Particularly when 'tis not too late;
+
+XLVIII.
+
+I like the taxes, when they're not too many;
+I like a seacoal fire, when not too dear;
+I like a beef-steak, too, as well as any;
+Have no objection to a pot of beer;
+I like the weather, - when it is not rainy,
+That is, I like two months of every year.
+And so God save the Regent, Church, and King!
+Which means that I like all and every thing.
+
+XLIX.
+
+Our standing army, and disbanded seamen,
+Poor's rate, Reform, my own, the nation's debt,
+Our little riots just to show we're free men,
+Our trifling bankruptcies in the Gazette,
+Our cloudy climate, and our chilly women,
+All these I can forgive, and those forget,
+And greatly venerate our recent glories,
+And wish they were not owing to the Tories.
+
+L.
+
+But to my tale of Laura, - for I find
+Digression is a sin, that by degrees
+Becomes exceeding tedious to my mind,
+And, therefore, may the reader too displease -
+The gentle reader, who may wax unkind,
+And caring little for the Author's ease,
+Insist on knowing what he means - a hard
+And hapless situation for a Bard.
+
+LI.
+
+Oh! that I had the art of easy writing
+What should be easy reading! could I scale
+Parnassus, where the Muses sit inditing
+Those pretty poems never known to fail,
+How quickly would I print (the world delighting)
+A Grecian, Syrian,[221] or Assyrian tale;
+And sell you, mixed with western Sentimentalism,
+Some samples of the finest Orientalism.
+
+LII.
+
+But I am but a nameless sort of person,
+(A broken Dandy[222] lately on my travels)
+And take for rhyme, to hook my rambling verse on,
+The first that Walker's Lexicon unravels,
+And when I can't find that, I put a worse on,
+Not caring as I ought for critics' cavils;
+I've half a mind to tumble down to prose,
+But verse is more in fashion - so here goes!
+
+LIII.
+
+The Count and Laura made their new arrangement,
+Which lasted, as arrangements sometimes do,
+For half a dozen years without estrangement;
+They had their little differences, too;
+Those jealous whiffs, which never any change meant;
+In such affairs there probably are few
+Who have not had this pouting sort of squabble,
+From sinners of high station to the rabble.
+
+LIV.
+
+But, on the whole, they were a happy pair,
+As happy as unlawful love could make them;
+The gentleman was fond, the lady fair,
+Their chains so slight, 'twas not worth while to break them:
+The World beheld them with indulgent air;
+The pious only wished "the Devil take them!"
+He took them not; he very often waits,
+And leaves old sinners to be young ones' baits.
+
+LV.
+
+But they were young: Oh! what without our Youth
+Would Love be! What would Youth be without Love!
+Youth lends its joy, and sweetness, vigour, truth,
+Heart, soul, and all that seems as from above;
+But, languishing with years, it grows uncouth -
+One of few things Experience don't improve;
+Which is, perhaps, the reason why old fellows
+Are always so preposterously jealous.
+
+LVI.
+
+It was the Carnival, as I have said
+Some six and thirty stanzas back, and so
+Laura the usual preparations made,
+Which you do when your mind's made up to go
+To-night to Mrs. Boehm's masquerade,[223]
+Spectator, or Partaker in the show;
+The only difference known between the cases
+Is - here, we have six weeks of "varnished faces."
+
+
+LVII.
+
+Laura, when dressed, was (as I sang before)
+A pretty woman as was ever seen,
+Fresh as the Angel o'er a new inn door,
+Or frontispiece of a new Magazine,[224]
+With all the fashions which the last month wore,
+Coloured, and silver paper leaved between
+That and the title-page, for fear the Press
+Should soil with parts of speech the parts of dress.
+
+LVIII.
+
+They went to the Ridotto;[225] 'tis a hall
+Where People dance, and sup, and dance again;
+Its proper name, perhaps, were a masqued ball,
+But that's of no importance to my strain;
+'Tis (on a smaller scale) like our Vauxhall,
+Excepting that it can't be spoilt by rain;
+The company is "mixed" (the phrase I quote is
+As much as saying, they're below your notice);
+
+LIX.
+
+For a "mixed company" implies that, save
+Yourself and friends, and half a hundred more,
+Whom you may bow to without looking grave,
+The rest are but a vulgar set, the Bore
+Of public places, where they basely brave
+The fashionable stare of twenty score
+Of well-bred persons, called "The World;" but I,
+Although I know them, really don't know why.
+
+LX.
+
+This is the case in England; at least was
+During the dynasty of Dandies, now
+Perchance succeeded by some other class
+Of imitated Imitators: - how[bn]
+Irreparably soon decline, alas!
+The Demagogues of fashion: all below
+Is frail; how easily the world is lost
+By Love, or War, and, now and then, - by Frost!
+
+LXI.
+
+Crushed was Napoleon by the northern Thor,
+Who knocked his army down with icy hammer,
+Stopped by the Elements[226] - like a Whaler - or
+A blundering novice in his new French grammar;
+Good cause had he to doubt the chance of war,
+And as for Fortune - but I dare not d - n her,
+Because, were I to ponder to Infinity,
+The more I should believe in her Divinity.[227]
+
+LXII.
+
+She rules the present, past, and all to be yet,
+She gives us luck in lotteries, love, and marriage;
+I cannot say that she's done much for me yet;
+Not that I mean her bounties to disparage,
+We've not yet closed accounts, and we shall see yet
+How much she'll make amends for past miscarriage;
+Meantime the Goddess I'll no more importune,
+Unless to thank her when she's made my fortune.
+
+LXIII.
+
+To turn, - and to return; - the Devil take it!
+This story slips for ever through my fingers,
+Because, just as the stanza likes to make it,
+It needs must be - and so it rather lingers;
+This form of verse began, I can't well break it,
+But must keep time and tune like public singers;
+But if I once get through my present measure,
+I'll take another when I'm next at leisure.
+
+LXIV.
+
+They went to the Ridotto ('tis a place
+To which I mean to go myself to-morrow,[228]
+Just to divert my thoughts a little space
+Because I'm rather hippish, and may borrow
+Some spirits, guessing at what kind of face
+May lurk beneath each mask; and as my sorrow
+Slackens its pace sometimes, I'll make, or find,
+Something shall leave it half an hour behind.)
+
+LXV.
+
+Now Laura moves along the joyous crowd,
+Smiles in her eyes, and simpers on her lips;
+To some she whispers, others speaks aloud;
+To some she curtsies, and to some she dips,
+Complains of warmth, and this complaint avowed,
+Her lover brings the lemonade, she sips;
+She then surveys, condemns, but pities still
+Her dearest friends for being dressed so ill.
+
+LXVI.
+
+One has false curls, another too much paint,
+A third - where did she buy that frightful turban?
+A fourth's so pale she fears she's going to faint,
+A fifth's look's vulgar, dowdyish, and suburban,
+A sixth's white silk has got a yellow taint,
+A seventh's thin muslin surely will be her bane,
+And lo! an eighth appears, - "I'll see no more!"
+For fear, like Banquo's kings, they reach a score.
+
+LXVII.
+
+Meantime, while she was thus at others gazing,
+Others were levelling their looks at her;
+She heard the men's half-whispered mode of praising
+And, till 'twas done, determined not to stir;
+The women only thought it quite amazing
+That, at her time of life, so many were
+Admirers still, - but "Men are so debased,
+Those brazen Creatures always suit their taste."
+
+LXVIII.
+
+For my part, now, I ne'er could understand
+Why naughty women - but I won't discuss
+A thing which is a scandal to the land,
+I only don't see why it should be thus;
+And if I were but in a gown and band,
+Just to entitle me to make a fuss,
+I'd preach on this till Wilberforce and Romilly
+Should quote in their next speeches from my homily.
+
+LXIX.
+
+While Laura thus was seen, and seeing, smiling,
+Talking, she knew not why, and cared not what,
+So that her female friends, with envy broiling,
+Beheld her airs, and triumph, and all that;
+And well-dressed males still kept before her filing,
+And passing bowed and mingled with her chat;
+More than the rest one person seemed to stare
+With pertinacity that's rather rare.
+
+LXX.
+
+He was a Turk, the colour of mahogany;
+And Laura saw him, and at first was glad,
+Because the Turks so much admire philogyny,[bo]
+Although their usage of their wives is sad;
+'Tis said they use no better than a dog any
+Poor woman, whom they purchase like a pad:
+They have a number, though they ne'er exhibit 'em,
+Four wives by law, and concubines "ad libitum."
+
+LXXI.
+
+They lock them up, and veil, and guard them daily,
+They scarcely can behold their male relations,
+So that their moments do not pass so gaily
+As is supposed the case with northern nations;
+Confinement, too, must make them look quite palely;
+And as the Turks abhor long conversations,
+Their days are either passed in doing nothing,
+Or bathing, nursing, making love, and clothing.
+
+LXXII.
+
+They cannot read, and so don't lisp in criticism;
+Nor write, and so they don't affect the Muse;
+Were never caught in epigram or witticism,
+Have no romances, sermons, plays, reviews, -
+In Harams learning soon would make a pretty schism,
+But luckily these Beauties are no "Blues;"
+No bustling Botherby[229] have they to show 'em
+"That charming passage in the last new poem:"
+
+
+LXXIII.
+
+No solemn, antique gentleman of rhyme,
+Who having angled all his life for Fame,
+And getting but a nibble at a time,
+Still fussily keeps fishing on, the same
+Small "Triton of the minnows," the sublime
+Of Mediocrity, the furious tame,
+The Echo's echo, usher of the school
+Of female wits, boy bards - in short, a fool!
+
+LXXIV.
+
+A stalking oracle of awful phrase,
+The approving "Good!" (by no means good in law)
+Humming like flies around the newest blaze,
+The bluest of bluebottles you e'er saw,
+Teasing with blame, excruciating with praise,
+Gorging the little fame he gets all raw,[bp]
+Translating tongues he knows not even by letter,
+And sweating plays so middling, bad were better.
+
+LXXV.
+
+One hates an author that's all author - fellows
+In foolscap uniforms turned up with ink,
+So very anxious, clever, fine, and jealous,
+One don't know what to say to them, or think,
+Unless to puff them with a pair of bellows;
+Of Coxcombry's worst coxcombs e'en the pink
+Are preferable to these shreds of paper,
+These unquenched snuffings of the midnight taper.
+
+LXXVI.
+
+Of these same we see several, and of others.
+Men of the world, who know the World like Men,
+Scott, Rogers, Moore, and all the better brothers,
+Who think of something else besides the pen;
+But for the children of the "Mighty Mother's,"
+The would-be wits, and can't-be gentlemen,
+I leave them to their daily "tea is ready,"[230]
+Smug coterie, and literary lady.
+
+LXXVII.
+
+The poor dear Mussulwomen whom I mention
+Have none of these instructive pleasant people,
+And one would seem to them a new invention,
+Unknown as bells within a Turkish steeple;
+I think 'twould almost be worth while to pension
+(Though best-sown projects very often reap ill)
+A missionary author - just to preach
+Our Christian usage of the parts of speech.
+
+LXXVIII.
+
+No Chemistry for them unfolds her gases,
+No Metaphysics are let loose in lectures,
+No Circulating Library amasses
+Religious novels, moral tales, and strictures
+Upon the living manners, as they pass us;
+No Exhibition glares with annual pictures;
+They stare not on the stars from out their attics,
+Nor deal (thank God for that!) in Mathematics.[231]
+
+LXXIX.
+
+Why I thank God for that is no great matter,
+I have my reasons, you no doubt suppose,
+And as, perhaps, they would not highly flatter,
+I'll keep them for my life (to come) in prose;
+I fear I have a little turn for Satire,
+And yet methinks the older that one grows
+Inclines us more to laugh than scold, though Laughter
+Leaves us so doubly serious shortly after.
+
+LXXX.[232]
+
+Oh, Mirth and Innocence! Oh, Milk and Water!
+Ye happy mixtures of more happy days!
+In these sad centuries of sin and slaughter,
+Abominable Man no more allays
+His thirst with such pure beverage. No matter,
+I love you both, and both shall have my praise:
+Oh, for old Saturn's reign of sugar-candy! - -
+Meantime I drink to your return in brandy.
+
+LXXXI.
+
+Our Laura's Turk still kept his eyes upon her,
+Less in the Mussulman than Christian way,
+Which seems to say, "Madam, I do you honour,
+And while I please to stare, you'll please to stay."
+Could staring win a woman, this had won her,
+But Laura could not thus be led astray;
+She had stood fire too long and well, to boggle
+Even at this Stranger's most outlandish ogle.
+
+LXXXII.
+
+The morning now was on the point of breaking,
+A turn of time at which I would advise
+Ladies who have been dancing, or partaking
+In any other kind of exercise,
+To make their preparations for forsaking
+The ball-room ere the Sun begins to rise,
+Because when once the lamps and candles fail,
+His blushes make them look a little pale.
+
+LXXXIII.
+
+I've seen some balls and revels in my time,
+And stayed them over for some silly reason,
+And then I looked (I hope it was no crime)
+To see what lady best stood out the season;
+And though I've seen some thousands in their prime
+Lovely and pleasing, and who still may please on,
+I never saw but one (the stars withdrawn)
+Whose bloom could after dancing dare the Dawn.
+
+LXXXIV.
+
+The name of this Aurora I'll not mention,
+Although I might, for she was nought to me
+More than that patent work of God's invention,
+A charming woman, whom we like to see;
+But writing names would merit reprehension,
+Yet if you like to find out this fair She,
+At the next London or Parisian ball
+You still may mark her cheek, out-blooming all.
+
+LXXXV.
+
+Laura, who knew it would not do at all
+To meet the daylight after seven hours' sitting
+Among three thousand people at a ball,
+To make her curtsey thought it right and fitting;
+The Count was at her elbow with her shawl,
+And they the room were on the point of quitting,
+When lo! those curs�d Gondoliers had got
+Just in the very place where they should not.
+
+LXXXVI.
+
+In this they're like our coachmen, and the cause
+Is much the same - the crowd, and pulling, hauling,
+With blasphemies enough to break their jaws,
+They make a never intermitted bawling.
+At home, our Bow-street gem'men keep the laws,
+And here a sentry stands within your calling;
+But for all that, there is a deal of swearing,
+And nauseous words past mentioning or bearing.
+
+LXXXVII.
+
+The Count and Laura found their boat at last,
+And homeward floated o'er the silent tide,
+Discussing all the dances gone and past;
+The dancers and their dresses, too, beside;
+Some little scandals eke; but all aghast
+(As to their palace-stairs the rowers glide)
+Sate Laura by the side of her adorer,[bq]
+When lo! the Mussulman was there before her!
+
+
+LXXXVIII.
+
+"Sir," said the Count, with brow exceeding grave,
+"Your unexpected presence here will make
+It necessary for myself to crave
+Its import? But perhaps 'tis a mistake;
+I hope it is so; and, at once to waive
+All compliment, I hope so for your sake;
+You understand my meaning, or you shall."
+"Sir," (quoth the Turk) "'tis no mistake at all:
+
+LXXXIX.
+
+"That Lady is my wife!" Much wonder paints
+The lady's changing cheek, as well it might;
+But where an Englishwoman sometimes faints,
+Italian females don't do so outright;
+They only call a little on their Saints,
+And then come to themselves, almost, or quite;
+Which saves much hartshorn, salts, and sprinkling faces,
+And cutting stays, as usual in such cases.
+
+XC.
+
+She said, - what could she say? Why, not a word;
+But the Count courteously invited in
+The Stranger, much appeased by what he heard:
+"Such things, perhaps, we'd best discuss within,"
+Said he; "don't let us make ourselves absurd
+In public, by a scene, nor raise a din,
+For then the chief and only satisfaction
+Will be much quizzing on the whole transaction."
+
+XCI.
+
+They entered, and for Coffee called - it came,
+A beverage for Turks and Christians both,
+Although the way they make it's not the same.
+Now Laura, much recovered, or less loth
+To speak, cries "Beppo! what's your pagan name?
+Bless me! your beard is of amazing growth!
+
+And how came you to keep away so long?
+Are you not sensible 'twas very wrong?
+
+XCII.
+
+"And are you really, truly, now a Turk?
+With any other women did you wive?
+Is't true they use their fingers for a fork?
+Well, that's the prettiest Shawl - as I'm alive!
+You'll give it me? They say you eat no pork.
+And how so many years did you contrive
+To - Bless me! did I ever? No, I never
+Saw a man grown so yellow! How's your liver?
+
+XCIII.
+
+"Beppo! that beard of yours becomes you not;
+It shall be shaved before you're a day older:
+Why do you wear it? Oh! I had forgot -
+Pray don't you think the weather here is colder?
+How do I look? You shan't stir from this spot
+In that queer dress, for fear that some beholder
+Should find you out, and make the story known.
+How short your hair is! Lord! how grey it's grown!"
+
+XCIV.
+
+What answer Beppo made to these demands
+Is more than I know. He was cast away
+About where Troy stood once, and nothing stands;
+Became a slave of course, and for his pay
+Had bread and bastinadoes, till some bands
+Of pirates landing in a neighbouring bay,
+He joined the rogues and prospered, and became
+A renegade of indifferent fame.
+
+XCV.
+
+But he grew rich, and with his riches grew so
+Keen the desire to see his home again,
+He thought himself in duty bound to do so,
+And not be always thieving on the main;
+Lonely he felt, at times, as Robin Crusoe,
+And so he hired a vessel come from Spain,
+Bound for Corfu: she was a fine polacca,
+Manned with twelve hands, and laden with tobacco.
+
+XCVI.
+
+Himself, and much (heaven knows how gotten!) cash,
+He then embarked, with risk of life and limb,
+And got clear off, although the attempt was rash;
+He said that Providence protected him -
+For my part, I say nothing - lest we clash
+In our opinions: - well - the ship was trim,
+Set sail, and kept her reckoning fairly on,
+Except three days of calm when off Cape Bonn.[233]
+
+XCVII.
+
+They reached the Island, he transferred his lading,
+And self and live stock to another bottom,
+And passed for a true Turkey-merchant, trading
+With goods of various names - but I've forgot 'em.
+However, he got off by this evading,
+Or else the people would perhaps have shot him;
+And thus at Venice landed to reclaim
+His wife, religion, house, and Christian name.
+
+XCVIII.
+
+His wife received, the Patriarch re-baptised him,
+(He made the Church a present, by the way;)
+He then threw off the garments which disguised him,
+And borrowed the Count's smallclothes for a day:
+His friends the more for his long absence prized him,
+Finding he'd wherewithal to make them gay,
+With dinners, where he oft became the laugh of them,
+For stories - but I don't believe the half of them.
+
+XCIX.
+
+Whate'er his youth had suffered, his old age
+With wealth and talking made him some amends;
+Though Laura sometimes put him in a rage,
+I've heard the Count and he were always friends.
+My pen is at the bottom of a page,
+Which being finished, here the story ends:
+'Tis to be wished it had been sooner done,
+But stories somehow lengthen when begun.
+
