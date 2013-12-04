@@ -8,9 +8,9 @@ Let's build one.
 
 Three parts: format, metadata, scripts.
 
-1. To restore poems, we need a new format that can be read by humans and machines alike.
-2. To curate poems, we need a way to add metadata, inline, read by humans and machines.
-3. Scripts provide researchers a way to analyze, find, view, and print poems.
+1. Restore poems with a new format: for humans and machines.
+2. Curate poems adding metadata, inline: humans and machines.
+3. Run scripts to find, see, and print poem, offline.
 
 ### Poem format
 
@@ -112,13 +112,13 @@ This library will include python scripts to help scholars, students, educators, 
 
 ## Status and Roadmap
 
-Currently, ~2000 poems are hand-curated by editors at Facjure.
+Currently hosts ~34000 poems, some hand-curated by editors at Facjure.
 
-Soon, scrappers will extract ~50000 poems.
-
-For a webapp to search and view existing poems, visit [poetroid](https://github.com/Facjure/poetroid), an open platform to discover poetry together.
+For a webapp to search and view existing poems, visit [poetroid](https://github.com/poetroid), an open platform to discover poetry together.
 
 ## Resources
+
+Thanks to the original sites that curated thousands of poems from the public domain: 
 
 - [Project Gutenberg](http://www.gutenberg.org)
 - [Public Domain Poetry](http://www.public-domain-poetry.com)
@@ -129,14 +129,10 @@ For a webapp to search and view existing poems, visit [poetroid](https://github.
 - Ata Moharreri: poet, professor, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 - Sreeharsha Mudivarti: musician, engineer, and survivor of a space ship crash.
 
-If you're a developer, [fork](https://help.github.com/articles/fork-a-repo), add new poems, then send a [pull](https://help.github.com/articles/using-pull-requests) request.
-
-If you're a scholar, student, or publisher interested in curating poetry, request access by sending an email to priyatam@facjure.com. We'll help you get up and running.
-
 ## Copyright & License
 
 Copyright (c) Facjure LLC. All rights reserved.
 
-The use and distribution terms for this software are covered by the opensource [Eclipse Plugin License v 1.0]((http://opensource.org/licenses/eclipse-1.0.php)), which can be found in the file LICENSE at the root of this distribution.
+Poems are available for free for personal or commerical use, provided this license is retained.
 
-By using this software in any fashion, you are agreeing to be bound by the terms of this license. You must not remove this notice, or any other, from this software.
+Scripts are available for free using Apache 2 Opensource License.
