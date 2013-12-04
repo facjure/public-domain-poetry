@@ -1,26 +1,54 @@
 ---
-author: William Morris
-gender: male
-title: The Tune of Seven Towers
-curator: Ata
-year: 19th century
-country: England
-tags:
- -  supernatural
- -  dark imagery
- -  ghost
- -  walking
- -  white
- -  moonlight
- -  flowers
- -  cold
- -  horror
- -  strange
- -  lyric
+author: William Morris 
+title: The Tune Of Seven Towers
 ---
+
+No one goes there now:
+For what is left to fetch away
+From the desolate battlements all arow,
+And the lead roof heavy and grey?
+Therefore, said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
 No one walks there now;
 Except in the white moonlight
-The white ghosts walk in a row,
-If one could see it, an awful sight.
-"Listen!" said Fair Yolande of the flowers,
-"This is the tune of Seven Towers."
+The white ghosts walk in a row;
+If one could see it, an awful sight,
+Listen! said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
+But none can see them now,
+Though they sit by the side of the moat,
+Feet half in the water, there in a row,
+Long hair in the wind afloat.
+Therefore, said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
+If any will go to it now,
+He must go to it all alone,
+Its gates will not open to any row
+Of glittering spears: will you go alone?
+Listen! said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
+By my love go there now,
+To fetch me my coif away,
+My coif and my kirtle, with pearls arow,
+Oliver, go to-day!
+Therefore, said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
+I am unhappy now,
+I cannot tell you why;
+If you go, the priests and I in a row
+Will pray that you may not die.
+Listen! said fair Yoland of the flowers,
+This is the tune of Seven Towers.
+
+If you will go for me now,
+I will kiss your mouth at last;
+ [She sayeth inwardly.]
+(The graves stand grey in a row.)
+Oliver, hold me fast!
+Therefore, said fair Yoland of the flowers,
+This is the tune of Seven Towers.
