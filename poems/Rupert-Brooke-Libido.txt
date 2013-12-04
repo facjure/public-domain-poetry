@@ -1,23 +1,9 @@
 ---
-author: Rupert Brooke
-gender: male
+author: Rupert Brooke 
 title: Libido
-curator: Ata
-year: 20th century
-country: England
-tags:
- -  lyric
- -  sonnet
- -  dark imagery
- -  surreal
- -  death
- -  love
- -  river
- -  blood
- -  strange
 ---
 
-How should I know?  The enormous wheels of will
+How should I know? The enormous wheels of will
 Drove me cold-eyed on tired and sleepless feet.
 Night was void arms and you a phantom still,
 And day your far light swaying down the street.
@@ -26,7 +12,7 @@ My throat was dry and my eyes hot to see.
 Your mouth so lying was most heaven in view,
 And your remembered smell most agony.
 
-Love wakens love!  I felt your hot wrist shiver
+Love wakens love! I felt your hot wrist shiver
 And suddenly the mad victory I planned
 Flashed real, in your burning bending head. . . .
 My conqueror's blood was cool as a deep river
