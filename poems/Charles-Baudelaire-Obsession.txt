@@ -1,38 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: Obsession
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  strange
- -  nature
- -  night
- -  dark
- -  crying
- -  sea
- -  stars
 ---
 
-Great forests, you alarm me like a mighty shrine;
-Like organ-tones you roar, and in our hearts of stone,
-Where ancient sobs vibrate, halls of endless pain!
-The answering echoes of your "De Profundis" moan.
+Great forests you frighten me, like vast cathedrals:
+You roar like an organ, and in our condemned souls,
+aisles of eternal mourning, where past death-rattles
+sound, the echo of your De Profundis rolls.
 
-I hate you, Ocean! hate your tumults and your throbs,
-My spirit finds them in himself. This bitter glee
-Of vanquished mortals, full of insults and of sobs,
-I hear it in the mighty laughter of the sea.
+I hate you, Ocean! My mind, in your tumultuous main,
+sees itself: I hear the vast laughter of your seas,
+the bitter laughter of defeated men,
+filled with the sound of sobs and blasphemies.
 
-Starless night! your loveliness my soul inhales,
-Without those starry rays which speak a language known,
-For I desire the dark, the naked and the lone.
+How you would please me without your stars, O Night!
+I know the language that their light employs!
+Since I search for darkness, nakedness, the Void!
 
-But even those darknesses themselves to me are veils,
-Where live—and, by the millions beneath my eyelids prance,
-Long, long departed Beings with familiar glance.
+But the shadows themselves seem, to my sight
+canvases, where thousands of lost beings, alive,
+and with a familiar gaze, leap from my eyes.
