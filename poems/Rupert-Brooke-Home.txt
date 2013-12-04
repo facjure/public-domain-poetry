@@ -1,18 +1,6 @@
 ---
-author: Rupert Brooke
-gender: male
+author: Rupert Brooke 
 title: Home
-curator: Ata
-year: 20th century
-country: England
-tags:
- -  love
- -  ghost
- -  fire
- -  lyric
- -  meditative
- -  insomnia
- -  sleep
 ---
 
 I came back late and tired last night
@@ -43,3 +31,4 @@ I lay and watched the lonely gloom;
 And watched the moonlight creep
 From wall to basin, round the room,
 All night I could not sleep.
+
