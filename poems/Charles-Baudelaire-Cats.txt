@@ -1,37 +1,22 @@
 ---
-author: Charles Baudelaire
-gender: male
+author: Charles Baudelaire 
 title: Cats
-translator: Cyril Scott
-curator: Ata
-year: 19th century
-country: France
-tags:
- -  lyric
- -  meditative
- -  sonnet
- -  beauty
- -  sphinx
- -  stars
- -  house
- -  inspired
- -  mystic
 ---
 
-All ardent lovers and all sages prize,
-—As ripening years incline upon their brows—
-The mild and mighty cats—pride of the house—
-That like unto them are indolent, stern and wise.
+Stiff scholars and the hody amorous
+Will in their ripeness equally admire
+Powerful, gende cats, pride of the house,
+Who, like them, love to sit around the fire.
 
-The friends of Learning and of Ecstasy,
-They search for silence and the horrors of gloom;
-The devil had used them for his steeds of Doom,
-Could he alone have bent their pride to slavery.
+Friends both of sciences and of l'amour,
+They seek the silent horror of the night;
+Erebus wants them for his funeral corps,
+But in their pride they'd never choose that fate.
 
-When musing, they display those outlines chaste,
-Of the great sphinxes—stretched over the sandy waste,
-That seem to sleep deep in a dream without end:
+They take in sleeping noble attitudes
+Great sphinxes in the desert solitudes,
+Who seem to be entranced by endless dreams;
 
-From out their loins a fountained furnace flies,
-And grains of sparkling gold, as fine as sand,
-Bestar the mystic pupils of their eyes.
+Within their potent loins are magic sparks,
+And flakes of gold, fine sand, are vaguely seen
+Behind their mystic eyes, gleaming like stars.
