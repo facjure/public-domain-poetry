@@ -1,0 +1,13 @@
+---
+author: Lewis Carroll 
+title: The Mock Turtle's Song
+---
+
+Beautiful soup, so rich and green,
+Waiting in a hot tureen!
+Who for such dainties would not stoop?
+Soup of the evening, beautiful Soup!
+
+Soup of the evening, beautiful Soup!
+Beau--ootiful Soo--oop! Beau--ootiful Soo--oop!
+Soo--oop of the e--e--evening, Beautiful, beautiful Sou
