@@ -1,18 +1,46 @@
 ---
-author: Walter De La Mare
-gender: male
-title: The Keys of Morning
-curator: Ata
-year: 19th/20th century
-country: England
-tags:
- -  supernatural
- -  eyes
- -  death
- -  sunshine
- -  dark imagery
+author: Walter De La Mare 
+title: The Keys Of Morning
 ---
-She slanted her small bead-brown eyes
-Across the empty street
-And saw Death softly watching her
+
+ While at her bedroom window once,
+Learning her task for school,
+ Little Louisa lonely sat
+In the morning clear and cool,
+ She slanted her small bead-brown eyes
+Across the empty street,
+ And saw Death softly watching her
 In the sunshine pale and sweet.
+ His was a long lean sallow face,
+He sat with half-shut eyes,
+ Like an old sailor in a ship
+Becalmed 'neath tropic skies.
+ Beside him in the dust he'd set
+His staff and shady hat;
+ These, peeping small, Louisa saw
+Quite clearly where she sat - 
+ The thinness of his coal-black locks,
+His hands so long and lean
+ They scarcely seemed to grasp at all
+The keys that hung between:
+ Both were of gold, but one was small,
+And with this last did he
+ Wag in the air, as if to say,
+'Come hither, child, to me!'
+
+ Louisa laid her lesson book
+On the cold window-sill;
+ And in the sleepy sunshine house
+Went softly down, until
+ She stood in the half-opened door,
+And peeped; but strange to say,
+ Where Death just now had sunning sat
+Only a shadow lay; - 
+ Just the tall chimney's round-topped cowl,
+And the small sun behind,
+ Had with its shadow in the dust
+Called sleepy Death to mind.
+ But most she thought how strange it was
+Two keys that he should bear,
+ And that, when beckoning, he should wag
+The littlest in the air.
