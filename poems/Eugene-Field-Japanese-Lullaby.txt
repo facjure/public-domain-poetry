@@ -1,39 +1,29 @@
 ---
-author: Eugene Field
-gender: male
+author: Eugene Field 
 title: Japanese Lullaby
-curator: Ata
-year: 19th Century
-country: America
-tags:
- -  lyric
- -  modern
- -  sky
- -  child
- -  sleep
- -  dreams
- -  love
- -  eyes
- -  birds
 ---
 
-Sleep, little pigeon, and fold your wings,—
-  Little blue pigeon with velvet eyes;
-Sleep to the singing of mother-bird swinging—
-  Swinging the nest where her little one lies.
-Far away from here, I see a star,—
-  Silvery star with a tinkling song;
-To the soft dew falling I hear it calling—
-  Calling and tinkling the night along.
-In through the window a moonbeam comes,—
-  Little gold moonbeam with misty wings;
-All silently creeping, it asks, "Is he sleeping—
-  Sleeping and dreaming while mother sings?"
+Sleep, little pigeon, and fold your wings,--
+Little blue pigeon with velvet eyes;
+Sleep to the singing of mother-bird swinging--
+Swinging the nest where her little one lies.
+
+Away out yonder I see a star,--
+Silvery star with a tinkling song;
+To the soft dew falling I hear it calling--
+Calling and tinkling the night along.
+
+In through the window a moonbeam comes,--
+Little gold moonbeam with misty wings;
+All silently creeping, it asks, "Is he sleeping--
+Sleeping and dreaming while mother sings?"
+
 Up from the sea there floats the sob
-  Of the waves that are breaking upon the shore,
-As though they were groaning in anguish, and moaning—
-  Bemoaning the ship that shall come no more.
-But sleep, little pigeon, and fold your wings,—
-  Little blue pigeon with mournful eyes;
-Am I not singing?—see, I am swinging—
-  Swinging the nest where my darling lies.
+Of the waves that are breaking upon the shore,
+As though they were groaning in anguish, and moaning--
+Bemoaning the ship that shall come no more.
+
+But sleep, little pigeon, and fold your wings,--
+Little blue pigeon with mournful eyes;
+Am I not singing?--see, I am swinging--
+Swinging the nest where my darling lies.
