@@ -1,32 +1,24 @@
 ---
-author: Eugene Field
-gender: male
+author: Eugene Field 
 title: To Mary Field French
-curator: Ata
-year: 19th Century
-country: America
-tags:
- -  lyric
- -  modern
- -  beauty
- -  mother
- -  children
- -  death
 ---
 
 A dying mother gave to you
-  Her child a many years ago;
+Her child a many years ago;
 How in your gracious love he grew,
-  You know, dear, patient heart, you know.
+You know, dear, patient heart, you know.
+
 The mother's child you fostered then
-  Salutes you now and bids you take
+Salutes you now and bids you take
 These little children of his pen
-  And love them for the author's sake.
+And love them for the author's sake.
+
 To you I dedicate this book,
-  And, as you read it line by line,
+And, as you read it line by line,
 Upon its faults as kindly look
-  As you have always looked on mine.
-Tardy the offering is and weak;—
-  Yet were I happy if I knew
+As you have always looked on mine.
+
+Tardy the offering is and weak;--
+Yet were I happy if I knew
 These children had the power to speak
-  My love and gratitude to you.
+My love and gratitude to you.
