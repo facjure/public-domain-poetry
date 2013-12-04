@@ -1,0 +1,8 @@
+---
+author: Robert Herrick 
+title: Delay.
+---
+
+Break off delay, since we but read of one
+That ever prospered by cunctation.
+
