@@ -1,0 +1,1579 @@
+---
+author: John Dryden 
+title: Annus Mirabilis:
+---
+
+The Year Of Wonders, 1666.
+
+An Historical Poem.
+
+
+
+An Account Of The Ensuing Poem, In A Letter To The Honourable Sir Robert Howard.
+
+
+Sir,--I am so many ways obliged to you, and so little able to return your favours, that, like those who owe too much, I can only live by getting further into your debt. You have not only been careful of my fortune, which was the effect of your nobleness, but you have been solicitous of my reputation, which is that of your kindness. It is not long since I gave you the trouble of perusing a play for me, and now, instead of an acknowledgment, I have given you a greater, in the correction of a poem. But since you are to bear this persecution, I will at least give you the encouragement of a martyr; you could never suffer in a nobler cause. For I have chosen the most heroic subject which any poet could desire: I have taken upon me to describe the motives, the beginning, progress, and successes, of a most just and necessary war; in it, the care, management, and prudence of our king; the conduct and valour of a royal admiral, and of two incomparable generals; the invincible courage of our captains and seamen; and three glorious victories, the result of all. After this I have, in the Fire, the most deplorable, but withal the greatest, argument that can be imagined: the destruction being so swift, so sudden, so vast and miserable, as nothing can parallel in story. The former part of this poem, relating to the war, is but a due expiation for my not having served my king and country in it. All gentlemen are almost obliged to it; and I know no reason we should give that advantage to the commonalty of England, to be foremost in brave actions, which the nobles of France would never suffer in their peasants. 
+I should not have written this but to a person who has been ever forward to appear in all employments, whither his honour and generosity have called him. The latter part of my poem, which describes the Fire, I owe, first to the piety and fatherly affection of our monarch to his suffering subjects; and, in the second place, to the courage, loyalty, and magnanimity of the city: both which were so conspicuous, that I wanted words to celebrate them as they deserve. I have called my poem Historical, not Epic, though both the actions and actors are as much heroic as any poem can contain. But since the action is not properly one, nor that accomplished in the last successes, I have judged it too bold a title for a few stanzas, which are little more in number than a single Iliad, or the longest of the �neids. For this reason (I mean not of length, but broken action, tied too severely to the laws of history) I am apt to agree with those who rank Lucan rather among historians in verse, than Epic poets: in whose room, if I am not deceived, Silius Italicus, though a worse writer, may more justly be admitted. I have chosen to write my poem in quatrains, or stanzas of four in alternate rhyme, because I have ever judged them more noble, and of greater dignity, both for the sound and number, than any other verse in use amongst us; in which I am sure I have your approbation. The learned languages have certainly a great advantage of us, in not being tied to the slavery of any rhyme; and were less constrained in the quantity of every syllable, which they might vary with spondees or dactyls, besides so many other helps of grammatical figures, for the lengthening or abbreviation of them, than the modern are in the close of that one syllable, which often confines, and more often corrupts, the sense of all the rest. 
+But in this necessity of our rhymes, I have always found the couplet verse most easy, though not so proper for this occasion: for there the work is sooner at an end, every two lines concluding the labour of the poet; but in quatrains he is to carry it further on, and not only so, but to bear along in his head the troublesome sense of four lines together. For those who write correctly in this kind must needs acknowledge, that the last line of the stanza is to be considered in the composition of the first. Neither can we give ourselves the liberty of making any part of a verse for the sake of rhyme, or concluding with a word which is not current English, or using the variety of female rhymes; all which our fathers practised: and for the female rhymes, they are still in use among other nations; with the Italian in every line, with the Spaniard promiscuously, with the French alternately; as those who have read the Alarique, the Pucelle, or any of their later poems, will agree with me. And besides this, they write in Alexandrius, or verses of six feet; such as amongst us is the old translation of Homer by Chapman: all which, by lengthening of their chain, makes the sphere of their activity the larger. I have dwelt too long upon the choice of my stanza, which you may remember is much better defended in the preface to Gondibert; and therefore I will hasten to acquaint you with my endeavours in the writing. In general, I will only say, I have never yet seen the description of any naval fight in the proper terms which are used at sea: and if there be any such, in another language, as that of Lucan in the third of his Pharsalia, yet I could not avail myself of it in the English; the terms of art in every tongue bearing more of the idiom of it than any other words. We hear indeed among our poets, of the thundering of guns, the smoke, the disorder, and the slaughter; but all these are common notions. And certainly, as those who, in a logical dispute, keep in general terms, would hide a fallacy; so those who do it in any poetical description, would veil their ignorance.
+
+Descriptas servare vices operumque colores,
+Cur ego, si nequeo ignoroque, Poeta salutor?
+
+For my own part, if I had little knowledge of the sea, yet I have thought it no shame to learn: and if I have made some few mistakes, it is only, as you can bear me witness, because I have wanted opportunity to correct them; the whole poem being first written, and now sent you from a place, where I have not so much as the converse of any seaman. Yet though the trouble I had in writing it was great, it was more than recompensed by the pleasure. I found myself so warm in celebrating the praises of military men, two such especially as the prince[1] and general, that it is no wonder if they inspired me with thoughts above my ordinary level. And I am well satisfied, that, as they are incomparably the best subject I ever had, excepting only the royal family, so also, that this I have written of them is much better than what I have performed on any other. I have been forced to help out other arguments; but this has been bountiful to me: they have been low and barren of praise, and I have exalted them, and made them fruitful; but here--Omnia sponte su� reddit justissima tellus. I have had a large, a fair, and a pleasant field; so fertile that, without my cultivating, it has given me two harvests in a summer, and in both oppressed the reaper. All other greatness in subjects is only counterfeit; it will not endure the test of danger; the greatness of arms is only real; other greatness burdens a nation with its weight, this supports it with its strength.
+And as it is the happiness of the age, so it is the peculiar goodness of the best of kings, that we may praise his subjects without offending him. Doubtless, it proceeds from a just confidence of his own virtue, which the lustre of no other can be so great as to darken in him; for the good or the valiant are never safely praised under a bad or a degenerate prince. But to return from this digression to a further account of my poem; I must crave leave to tell you, that as I have endeavoured to adorn it with noble thoughts, so much more to express those thoughts with elocution. The composition of all poems is, or ought to be, of wit; and wit in the poet, or wit-writing (if you will give me leave to use a school-distinction) is no other than the faculty of imagination in the writer, which, like a nimble spaniel, beats over and ranges through the field of memory, till it springs the quarry it hunted after: or, without metaphor, which searches over all the memory for the species or ideas of those things which it designs to represent. Wit written is that which is well designed, the happy result of thought, or product of imagination. But to proceed from wit, in the general notion of it, to the proper wit of an heroic or historical poem; I judge it chiefly to consist in the delightful imaging of persons, actions, passions, or things. 
+It is not the jerk or sting of an epigram, nor the seeming contradiction of a poor antithesis (the delight of an ill-judging audience in a play of rhyme) nor the jingle of a more poor Paronomasia; neither is it so much the morality of a grave sentence, affected by Lucan, but more sparingly used by Virgil; but it is some lively and apt description, dressed in such colours of speech, that it sets before your eyes the absent object, as perfectly, and more delightfully than nature. So then the first happiness of the poet's imagination is properly invention or finding of the thought; the second is fancy, or the variation, deriving or moulding of that thought, as the judgment represents it proper to the subject; the third is elocution, or the art of clothing and adorning that thought, so found and varied, in apt, significant, and sounding words: the quickness of the imagination is seen in the invention, the fertility in the fancy, and the accuracy in the expression. For the two first of these, Ovid is famous among the poets; for the latter, Virgil. Ovid images more often the movements and affections of the mind, either combating between two contrary passions, or extremely discomposed by one. His words therefore are the least part of his care; for he pictures nature in disorder, with which the study and choice of words is inconsistent. This is the proper wit of dialogue or discourse, and consequently of the drama, where all that is said is to be supposed the effect of sudden thought; which, though it excludes not the quickness of wit in repartees, yet admits not a too curious election of words, too frequent allusions, or use of tropes, or, in fine, anything that shows remoteness of thought or labour in the writer. On the other side, Virgil speaks not so often to us in the person of another, like Ovid, but in his own: he relates almost all things as from himself, and thereby gains more liberty than the other, to express his thoughts with all the graces of elocution, to write more figuratively, and to confess as well the labour as the force of his imagination.
+Though he describes his Dido well and naturally, in the violence of her passions, yet he must yield in that to the Myrrha, the Biblis, the Alth�a, of Ovid; for as great an admirer of him as I am, I must acknowledge, that if I see not more of their souls than I see of Dido's, at least I have a greater concernment for them: and that convinces me that Ovid has touched those tender strokes more delicately than Virgil could. But when action or persons are to be described, when any such image is to be set before us, how bold, how masterly are the strokes of Virgil! We see the objects he presents us with in their native figures, in their proper motions; but so we see them, as our own eyes could never have beheld them so beautiful in themselves. We see the soul of the poet, like that universal one of which he speaks, informing and moving through all his pictures:
+
+ --Totamque infusa per artus
+Mens agitat molem, et magno so corpore miscet.
+
+
+We behold him embellishing his images, as he makes Venus breathing beauty upon her son �neas.
+
+--lumenque juvent�
+Purpureum, et l�tos oculis affl�rat honores:
+Quale manus addunt ebori decus, aut ubi flavo
+Argentum Pariusve lapis circundatur auro.
+
+See his Tempest, his Funeral Sports, his Combat of Turnus and �neas: and in his Georgics, which I esteem the divinest part of all his writings, the Plague, the Country, the Battle of the Bulls, the Labour of the Bees, and those many other excellent images of nature, most of which are neither great in themselves, nor have any natural ornament to bear them up: but the words wherewith he describes them are so excellent that it might be well applied to him, which was said by Ovid, Materiam superabat opus: the very sound of his words has often somewhat that is connatural to the subject; and while we read him, we sit, as in a play, beholding the scenes of what he represents. To perform this, he made frequent use of tropes, which you know change the nature of a known word, by applying it to some other signification; and this is it which Horace means in his epistle to the Pisos:
+
+Dixeris egregi�, notum si callida verbum
+Reddiderit junctura novum--
+
+But I am sensible I have presumed too far to entertain you with a rude discourse of that art, which you both know so well, and put into practice with so much happiness. Yet before I leave Virgil, I must own the vanity to tell you, and by you the world, that he has been my master in this poem: I have followed him everywhere, I know not with what success, but I am sure with diligence enough: my images are many of them copied from him, and the rest are imitations of him. My expressions also are as near as the idioms of the two languages would admit of in translation. And this, sir, I have done with that boldness, for which I will stand accountable to any of our little critics, who, perhaps, are no better acquainted with him than I am. Upon your first perusal of this poem, you have taken notice of some words which I have innovated (if it be too bold for me to say refined) upon his Latin; which, as I offer not to introduce into English prose, so I hope they are neither improper, nor altogether inelegant in verse; and, in this, Horace will again defend me.
+
+Et nova, fictaque nuper, habebunt verba fidem, si
+Gr�co fonte cadunt, parc� detorta--
+
+The inference is exceeding plain: for if a Roman poet might have liberty to coin a word, supposing only that it was derived from the Greek, was put into a Latin termination, and that he used this liberty but seldom, and with modesty; how much more justly may I challenge that privilege to do it with the same prerequisites, from the best and most judicious of Latin writers! In some places, where either the fancy or the words were his, or any other's, I have noted it in the margin, that I might not seem a plagiary; in others I have neglected it, to avoid as well tediousness, as the affectation of doing it too often. Such descriptions or images well wrought, which I promise not for mine, are, as I have said, the adequate delight of heroic poesy; for they beget admiration, which is its proper object; as the images of the burlesque, which is contrary to this, by the same reason beget laughter: for the one shows nature beautified, as in the picture of a fair woman, which we all admire; the other shows her deformed, as in that of a lazar, or of a fool with distorted face and antique gestures, at which we cannot forbear to laugh, because it is a deviation from nature. But though the same images serve equally for the Epic poesy, and for the historic and panegyric, which are branches of it, yet a several sort of sculpture is to be used in them. If some of them are to be like those of Juvenal, Stantes in curribus �miliani, heroes drawn in their triumphal chariots, and in their full proportion; others are to be like that of Virgil, Spirantia mollius oera: there is somewhat more of softness and tenderness to be shown in them. You will soon find I write not this without concern. Some, who have seen a paper of verses, which I wrote last year to her Highness the Duchess, have accused them of that only thing I could defend in them. They said, I did humi serpere, that I wanted not only height of fancy, but dignity of words, to set it off. I might well answer with that of Horace, Nunc non erat his locus; I knew I addressed them to a lady, and accordingly I affected the softness of expression, and the smoothness of measure, rather than the height of thought; and in what I did endeavour, it is no vanity to say I have succeeded. I detest arrogance; but there is some difference betwixt that and a just defence. But I will not further bribe your candour, or the reader's. I leave them to speak for me; and, if they can, to make out that character, not pretending to a greater, which I have given them.
+
+And now, sir, it is time I should relieve you from the tedious length of this account. You have better and more profitable employment for your hours, and I wrong the public to detain you longer. In conclusion, I must leave my poem to you with all its faults, which I hope to find fewer in the printing by your emendations. I know you are not of the number of those, of whom the younger Pliny speaks; Nec sunt parum multi, qui carpere amicos suos judicium vocant: I am rather too secure of you on that side. Your candour in pardoning my errors may make you more remiss in correcting them; if you will not withal consider that they come into the world with your approbation, and through your hands. I beg from you the greatest favour you can confer upon an absent person, since I repose upon your management what is dearest to me, my fame and reputation; and therefore I hope it will stir you up to make my poem fairer by many of your blots; if not, you know the story of the gamester who married the rich man's daughter, and when her father denied the portion, christened all the children by his surname, that if, in conclusion, they must beg, they should do so by one name, as well as by the other. But since the reproach of my faults will light on you, it is but reason I should do you that justice to the readers, to let them know, that, if there be anything tolerable in this poem, they owe the argument to your choice, the writing to your encouragement, the correction to your judgment, and the care of it to your friendship, to which he must ever acknowledge himself to owe all things, who is, sir, the most obedient, and most faithful of your servants,
+
+JOHN DRYDEN.
+
+From Charlton in Wiltshire, Nov. 10, 1666.
+
+ * * * * *
+
+ In thriving arts long time had Holland grown,
+ Crouching at home and cruel when abroad:
+ Scarce leaving us the means to claim our own;
+ Our King they courted, and our merchants awed.
+
+ Trade, which, like blood, should circularly flow,
+ Stopp'd in their channels, found its freedom lost:
+ Thither the wealth of all the world did go,
+ And seem'd but shipwreck'd on so base a coast.
+
+ For them alone the heavens had kindly heat;
+ In eastern quarries ripening precious dew:
+ For them the Idum�an balm did sweat,
+ And in hot Ceylon spicy forests grew.
+
+ The sun but seem'd the labourer of the year;
+ Each waxing moon supplied her watery store,
+ To swell those tides, which from the line did bear
+ Their brimful vessels to the Belgian shore.
+
+ Thus mighty in her ships, stood Carthage long,
+ And swept the riches of the world from far;
+ Yet stoop'd to Rome, less wealthy, but more strong:
+ And this may prove our second Punic war.
+
+ What peace can be, where both to one pretend?
+ (But they more diligent, and we more strong)
+ Or if a peace, it soon must have an end;
+ For they would grow too powerful, were it long.
+
+ Behold two nations, then, engaged so far
+ That each seven years the fit must shake each land:
+ Where France will side to weaken us by war,
+ Who only can his vast designs withstand.
+
+ See how he feeds the Iberian with delays,
+ To render us his timely friendship vain:
+ And while his secret soul on Flanders preys,
+ He rocks the cradle of the babe of Spain.
+
+ Such deep designs of empire does he lay
+ O'er them, whose cause he seems to take in hand;
+ And prudently would make them lords at sea,
+ To whom with ease he can give laws by land.
+
+ This saw our King; and long within his breast
+ His pensive counsels balanced to and fro:
+ He grieved the land he freed should be oppress'd,
+ And he less for it than usurpers do.
+
+ His generous mind the fair ideas drew
+ Of fame and honour, which in dangers lay;
+ Where wealth, like fruit on precipices, grew,
+ Not to be gather'd but by birds of prey.
+
+ The loss and gain each fatally were great;
+ And still his subjects call'd aloud for war;
+ But peaceful kings, o'er martial people set,
+ Each, other's poise and counterbalance are.
+
+ He first survey'd the charge with careful eyes,
+ Which none but mighty monarchs could maintain;
+ Yet judged, like vapours that from limbecks rise,
+ It would in richer showers descend again.
+
+ At length resolved to assert the watery ball,
+ He in himself did whole Armadoes bring:
+ Him aged seamen might their master call,
+ And choose for general, were he not their king.
+
+ It seems as every ship their sovereign knows,
+ His awful summons they so soon obey;
+ So hear the scaly herd when Proteus blows,
+ And so to pasture follow through the sea.
+
+ To see this fleet upon the ocean move,
+ Angels drew wide the curtains of the skies;
+ And heaven, as if there wanted lights above,
+ For tapers made two glaring comets rise.
+
+ Whether they unctuous exhalations are,
+ Fired by the sun, or seeming so alone:
+ Or each some more remote and slippery star,
+ Which loses footing when to mortals shown.
+
+ Or one, that bright companion of the sun,
+ Whose glorious aspect seal'd our new-born king;
+ And now a round of greater years begun,
+ New influence from his walks of light did bring.
+
+ Victorious York did first with famed success,
+ To his known valour make the Dutch give place:
+ Thus Heaven our monarch's fortune did confess,
+ Beginning conquest from his royal race.
+
+ But since it was decreed, auspicious King,
+ In Britain's right that thou shouldst wed the main,
+ Heaven, as a gage, would cast some precious thing,
+ And therefore doom'd that Lawson[2] should be slain.
+
+ Lawson amongst the foremost met his fate,
+ Whom sea-green Sirens from the rocks lament;
+ Thus as an offering for the Grecian state,
+ He first was kill'd who first to battle went.
+
+ Their chief blown up in air, not waves, expired,
+ To which his pride presumed to give the law:
+ The Dutch confess'd Heaven present, and retired,
+ And all was Britain the wide ocean saw.
+
+ To nearest ports their shatter'd ships repair,
+ Where by our dreadful cannon they lay awed:
+ So reverently men quit the open air,
+ When thunder speaks the angry gods abroad.
+
+ And now approach'd their fleet from India, fraught
+ With all the riches of the rising sun:
+ And precious sand from southern climates brought,
+ The fatal regions where the war begun.
+
+ Like hunted castors, conscious of their store,
+ Their waylaid wealth to Norway's coasts they bring:
+ There first the north's cold bosom spices bore,
+ And winter brooded on the eastern spring.
+
+ By the rich scent we found our perfumed prey,
+ Which, flank'd with rocks, did close in covert lie;
+ And round about their murdering cannon lay,
+ At once to threaten and invite the eye.
+
+ Fiercer than cannon, and than rocks more hard,
+ The English undertake the unequal war:
+ Seven ships alone, by which the port is barr'd,
+ Besiege the Indies, and all Denmark dare.
+
+ These fight like husbands, but like lovers those:
+ These fain would keep, and those more fain enjoy:
+ And to such height their frantic passion grows,
+ That what both love, both hazard to destroy.
+
+ Amidst whole heaps of spices lights a ball,
+ And now their odours arm'd against them fly:
+ Some preciously by shatter'd porcelain fall,
+ And some by aromatic splinters die.
+
+ And though by tempests of the prize bereft,
+
+ In Heaven's inclemency some ease we find:
+ Our foes we vanquish'd by our valour left,
+ And only yielded to the seas and wind.
+
+ Nor wholly lost[3] we so deserved a prey;
+ For storms repenting part of it restored:
+ Which, as a tribute from the Baltic sea,
+ The British ocean sent her mighty lord.
+
+ Go, mortals, now; and vex yourselves in vain
+ For wealth, which so uncertainly must come:
+ When what was brought so far, and with such pain,
+ Was only kept to lose it nearer home.
+
+ The son, who twice three months on th' ocean tost,
+ Prepared to tell what he had pass'd before,
+ Now sees in English ships the Holland coast,
+ And parents' arms in vain stretch'd from the shore.
+
+ This careful husband had been long away,
+ Whom his chaste wife and little children mourn;
+ Who on their fingers learn'd to tell the day
+ On which their father promised to return.
+
+ Such are the proud designs of human kind,
+ And so we suffer shipwreck every where!
+ Alas, what port can such a pilot find,
+ Who in the night of fate must blindly steer!
+
+ The undistinguish'd seeds of good and ill,
+ Heaven, in his bosom, from our knowledge hides:
+ And draws them in contempt of human skill,
+ Which oft for friends mistaken foes provides.
+
+ Let Munster's prelate[4] ever be accurst,
+ In whom we seek the German faith in vain:
+ Alas, that he should teach the English first,
+ That fraud and avarice in the Church could reign!
+
+ Happy, who never trust a stranger's will,
+ Whose friendship's in his interest understood!
+ Since money given but tempts him to be ill,
+ When power is too remote to make him good.
+
+ Till now, alone the mighty nations strove;
+ The rest, at gaze, without the lists did stand:
+ And threatening France, placed like a painted Jove,
+ Kept idle thunder in his lifted hand.
+
+ That eunuch guardian of rich Holland's trade,
+ Who envies us what he wants power to enjoy;
+ Whose noiseful valour does no foe invade,
+ And weak assistance will his friends destroy.
+
+ Offended that we fought without his leave,
+ He takes this time his secret hate to show:
+ Which Charles does with a mind so calm receive,
+ As one that neither seeks nor shuns his foe.
+
+ With France, to aid the Dutch, the Danes unite:
+ France as their tyrant, Denmark as their slave,
+ But when with one three nations join to fight,
+ They silently confess that one more brave.
+
+ Lewis had chased the English from his shore;
+ But Charles the French as subjects does invite:
+ Would Heaven for each some Solomon restore,
+ Who, by their mercy, may decide their right!
+
+ Were subjects so but only by their choice,
+ And not from birth did forced dominion take,
+ Our prince alone would have the public voice;
+ And all his neighbours' realms would deserts make.
+
+ He without fear a dangerous war pursues,
+ Which without rashness he began before:
+ As honour made him first the danger choose,
+ So still he makes it good on virtue's score.
+
+ The doubled charge his subjects' love supplies,
+ Who, in that bounty, to themselves are kind:
+ So glad Egyptians see their Nilus rise,
+ And in his plenty their abundance find.
+
+ With equal power he does two chiefs[5] create,
+ Two such as each seem'd worthiest when alone;
+ Each able to sustain a nation's fate,
+ Since both had found a greater in their own.
+
+ Both great in courage, conduct, and in fame,
+ Yet neither envious of the other's praise;
+ Their duty, faith, and interest too the same,
+ Like mighty partners equally they raise.
+
+ The prince long time had courted fortune's love,
+ But once possess'd, did absolutely reign:
+ Thus with their Amazons the heroes strove,
+ And conquer'd first those beauties they would gain.
+
+ The Duke beheld, like Scipio, with disdain,
+ That Carthage, which he ruin'd, rise once more;
+ And shook aloft the fasces of the main,
+ To fright those slaves with what they felt before.
+
+ Together to the watery camp they haste,
+ Whom matrons passing to their children show:
+ Infants' first vows for them to heaven are cast,
+ And future people bless them as they go.
+
+ With them no riotous pomp, nor Asian train,
+ To infect a navy with their gaudy fears;
+ To make slow fights, and victories but vain:
+ But war severely like itself appears.
+
+ Diffusive of themselves, where'er they pass,
+ They make that warmth in others they expect;
+ Their valour works like bodies on a glass,
+ And does its image on their men project.
+
+ Our fleet divides, and straight the Dutch appear,
+ In number, and a famed commander, bold:
+ The narrow seas can scarce their navy bear,
+ Or crowded vessels can their soldiers hold.
+
+ The Duke, less numerous, but in courage more,
+ On wings of all the winds to combat flies:
+ His murdering guns a loud defiance roar,
+ And bloody crosses on his flag-staffs rise.
+
+ Both furl their sails, and strip them for the fight;
+ Their folded sheets dismiss the useless air:
+ The Elean plains could boast no nobler sight,
+ When struggling champions did their bodies bare.
+
+ Borne each by other in a distant line,
+ The sea-built forts in dreadful order move:
+ So vast the noise, as if not fleets did join,
+ But lands unfix'd, and floating nations strove.
+
+ Now pass'd, on either side they nimbly tack;
+ Both strive to intercept and guide the wind:
+ And, in its eye, more closely they come back,
+ To finish all the deaths they left behind.
+
+ On high-raised decks the haughty Belgians ride,
+ Beneath whose shade our humble frigates go:
+ Such port the elephant bears, and so defied
+ By the rhinoceros, her unequal foe.
+
+ And as the build, so different is the fight;
+ Their mounting shot is on our sails design'd:
+ Deep in their hulls our deadly bullets light,
+ And through the yielding planks a passage find.
+
+ Our dreaded admiral from far they threat,
+ Whose batter'd rigging their whole war receives:
+ All bare, like some old oak which tempests beat,
+ He stands, and sees below his scatter'd leaves.
+
+ Heroes of old, when wounded, shelter sought;
+ But he who meets all danger with disdain,
+ Even in their face his ship to anchor brought,
+ And steeple-high stood propt upon the main.
+
+ At this excess of courage, all amazed,
+ The foremost of his foes awhile withdraw:
+ With such respect in enter'd Rome they gazed,
+ Who on high chairs the god-like fathers saw.
+
+ And now, as where Patroclus' body lay,
+ Here Trojan chiefs advanced, and there the Greek
+ Ours o'er the Duke their pious wings display,
+ And theirs the noblest spoils of Britain seek.
+
+ Meantime his busy mariners he hastes,
+ His shatter'd sails with rigging to restore;
+ And willing pines ascend his broken masts,
+ Whose lofty heads rise higher than before.
+
+ Straight to the Dutch he turns his dreadful prow,
+ More fierce the important quarrel to decide:
+ Like swans, in long array his vessels show,
+ Whose crests advancing do the waves divide.
+
+ They charge, recharge, and all along the sea
+ They drive, and squander the huge Belgian fleet;
+ Berkeley[6] alone, who nearest danger lay,
+ Did a like fate with lost Creusa meet.
+
+ The night comes on, we eager to pursue
+ The combat still, and they ashamed to leave:
+ Till the last streaks of dying day withdrew,
+ And doubtful moonlight did our rage deceive.
+
+ In the English fleet each ship resounds with joy,
+ And loud applause of their great leader's fame:
+ In fiery dreams the Dutch they still destroy,
+ And, slumbering, smile at the imagined flame.
+
+ Not so the Holland fleet, who, tired and done,
+ Stretch'd on their decks like weary oxen lie;
+ Faint sweats all down their mighty members run;
+ Vast bulks which little souls but ill supply.
+
+ In dreams they fearful precipices tread:
+ Or, shipwreck'd, labour to some distant shore:
+ Or in dark churches walk among the dead;
+ They wake with horror, and dare sleep no more.
+
+ The morn they look on with unwilling eyes,
+ Till from their main-top joyful news they hear
+ Of ships, which by their mould bring new supplies,
+ And in their colours Belgian lions bear.
+
+ Our watchful general had discern'd from far
+ This mighty succour, which made glad the foe:
+ He sigh'd, but, like a father of the war,
+ His face spake hope, while deep his sorrows flow.
+
+ His wounded men he first sends off to shore,
+ Never till now unwilling to obey:
+ They, not their wounds, but want of strength deplore,
+ And think them happy who with him can stay.
+
+ Then to the rest, Rejoice, said he, to-day;
+ In you the fortune of Great Britain lies:
+ Among so brave a people, you are they
+ Whom Heaven has chose to fight for such a prize.
+
+ If number English courages could quell,
+ We should at first have shunn'd, not met, our foes,
+ Whose numerous sails the fearful only tell:
+ Courage from hearts and not from numbers grows.
+
+ He said, nor needed more to say: with haste
+ To their known stations cheerfully they go;
+ And all at once, disdaining to be last,
+ Solicit every gale to meet the foe.
+
+ Nor did the encouraged Belgians long delay,
+ But bold in others, not themselves, they stood:
+ So thick, our navy scarce could steer their way,
+ But seem'd to wander in a moving wood.
+
+ Our little fleet was now engaged so far,
+ That, like the sword-fish in the whale, they fought:
+ The combat only seem'd a civil war,
+ Till through their bowels we our passage wrought.
+
+ Never had valour, no not ours, before
+ Done aught like this upon the land or main,
+ Where not to be o'ercome was to do more
+ Than all the conquests former kings did gain.
+
+ The mighty ghosts of our great Harries rose,
+ And armed Edwards look'd with anxious eyes,
+ To see this fleet among unequal foes,
+ By which fate promised them their Charles should rise.
+
+ Meantime the Belgians tack upon our rear,
+ And raking chase-guns through our sterns they send:
+ Close by their fire ships, like jackals appear
+ Who on their lions for the prey attend.
+
+ Silent in smoke of cannon they come on:
+ Such vapours once did fiery Cacus[7] hide:
+ In these the height of pleased revenge is shown,
+ Who burn contented by another's side.
+
+ Sometimes from fighting squadrons of each fleet,
+ Deceived themselves, or to preserve some friend,
+ Two grappling �tnas on the ocean meet,
+ And English fires with Belgian flames contend.
+
+ Now at each tack our little fleet grows less;
+ And like maim'd fowl, swim lagging on the main:
+ Their greater loss their numbers scarce confess,
+ While they lose cheaper than the English gain.
+
+ Have you not seen, when, whistled from the fist,
+ Some falcon stoops at what her eye design'd,
+ And, with her eagerness the quarry miss'd,
+ Straight flies at check, and clips it down the wind.
+
+ The dastard crow that to the wood made wing,
+ And sees the groves no shelter can afford,
+ With her loud caws her craven kind does bring,
+ Who, safe in numbers, cuff the noble bird.
+
+ Among the Dutch thus Albemarle[8] did fare:
+ He could not conquer, and disdain'd to fly;
+ Past hope of safety, 'twas his latest care,
+ Like falling C�sar, decently to die.
+
+ Yet pity did his manly spirit move,
+ To see those perish who so well had fought;
+ And generously with his despair he strove,
+ Resolved to live till he their safety wrought.
+
+ Let other muses write his prosperous fate,
+ Of conquer'd nations tell, and kings restored;
+ But mine shall sing of his eclipsed estate,
+ Which, like the sun's, more wonders does afford.
+
+ He drew his mighty frigates all before,
+ On which the foe his fruitless force employs:
+ His weak ones deep into his rear he bore
+ Remote from guns, as sick men from the noise.
+
+ His fiery cannon did their passage guide,
+ And following smoke obscured them from the foe:
+ Thus Israel safe from the Egyptian's pride,
+ By flaming pillars, and by clouds did go.
+
+ Elsewhere the Belgian force we did defeat,
+ But here our courages did theirs subdue:
+ So Xenophon once led that famed retreat,
+ Which first the Asian empire overthrew.
+
+ The foe approach'd; and one for his bold sin
+ Was sunk; as he that touch'd the ark was slain:
+ The wild waves master'd him and suck'd him in,
+ And smiling eddies dimpled on the main.
+
+ This seen, the rest at awful distance stood:
+As if they had been there as servants set
+ To stay, or to go on, as he thought good,
+And not pursue, but wait on his retreat.
+
+ So Lybian huntsmen, on some sandy plain,
+ From shady coverts roused, the lion chase:
+ The kingly beast roars out with loud disdain,
+ And slowly moves, unknowing to give place.
+
+ But if some one approach to dare his force,
+ He swings his tail, and swiftly turns him round;
+ With one paw seizes on his trembling horse,
+ And with the other tears him to the ground.
+
+ Amidst these toils succeeds the balmy night;
+ Now hissing waters the quench'd guns restore;
+ And weary waves, withdrawing from the fight,
+ Lie lull'd and panting on the silent shore:
+
+ The moon shone clear on the becalmed flood,
+ Where, while her beams like glittering silver play,
+ Upon the deck our careful general stood,
+ And deeply mused on the succeeding day.
+
+ That happy sun, said he, will rise again,
+ Who twice victorious did our navy see:
+ And I alone must view him rise in vain,
+ Without one ray of all his star for me.
+
+ Yet like an English general will I die,
+ And all the ocean make my spacious grave:
+ Women and cowards on the land may lie;
+ The sea's a tomb that's proper for the brave.
+
+ Restless he pass'd the remnant of the night,
+ Till the fresh air proclaimed the morning nigh:
+ And burning ships, the martyrs of the fight,
+ With paler fires beheld the eastern sky.
+
+ But now, his stores of ammunition spent,
+ His naked valour is his only guard;
+ Rare thunders are from his dumb cannon sent,
+ And solitary guns are scarcely heard.
+
+ Thus far had fortune power, here forced to stay,
+ Nor longer durst with virtue be at strife:
+ This as a ransom Albemarle did pay,
+ For all the glories of so great a life.
+
+ For now brave Rupert from afar appears,
+ Whose waving streamers the glad general knows:
+ With full spread sails his eager navy steers,
+ And every ship in swift proportion grows.
+
+ The anxious prince had heard the cannon long,
+ And from that length of time dire omens drew
+ Of English overmatch'd, and Dutch too strong,
+ Who never fought three days, but to pursue.
+
+ Then, as an eagle, who, with pious care
+ Was beating widely on the wing for prey,
+ To her now silent eyrie does repair,
+ And finds her callow infants forced away:
+
+ Stung with her love, she stoops upon the plain,
+ The broken air loud whistling as she flies:
+ She stops and listens, and shoots forth again,
+ And guides her pinions by her young ones' cries.
+
+ With such kind passion hastes the prince to fight,
+ And spreads his flying canvas to the sound;
+ Him, whom no danger, were he there, could fright,
+ Now absent every little noise can wound.
+
+ As in a drought the thirsty creatures cry,
+ And gape upon the gather'd clouds for rain,
+ And first the martlet meets it in the sky,
+ And with wet wings joys all the feather'd train.
+
+ With such glad hearts did our despairing men
+ Salute the appearance of the prince's fleet;
+ And each ambitiously would claim the ken,
+ That with first eyes did distant safety meet.
+
+ The Dutch, who came like greedy hinds before,
+ To reap the harvest their ripe ears did yield,
+ Now look like those, when rolling thunders roar,
+ And sheets of lightning blast the standing field.
+
+ Full in the prince's passage, hills of sand,
+ And dangerous flats in secret ambush lay;
+ Where the false tides skim o'er the cover'd land,
+ And seamen with dissembled depths betray.
+
+ The wily Dutch, who, like fallen angels, fear'd
+ This new Messiah's coming, there did wait,
+ And round the verge their braving vessels steer'd,
+ To tempt his courage with so fair a bait.
+
+ But he, unmoved, contemns their idle threat,
+ Secure of fame whene'er he please to fight:
+ His cold experience tempers all his heat,
+ And inbred worth doth boasting valour slight.
+
+ Heroic virtue did his actions guide,
+ And he the substance, not the appearance chose
+ To rescue one such friend he took more pride,
+ Than to destroy whole thousands of such foes.
+
+ But when approach'd, in strict embraces bound,
+ Rupert and Albemarle together grow;
+ He joys to have his friend in safety found,
+ Which he to none but to that friend would owe.
+
+ The cheerful soldiers, with new stores supplied,
+ Now long to execute their spleenful will;
+ And, in revenge for those three days they tried,
+ Wish one, like Joshua's, when the sun stood still.
+
+ Thus reinforced, against the adverse fleet,
+ Still doubling ours, brave Rupert leads the way:
+ With the first blushes of the morn they meet,
+ And bring night back upon the new-born day.
+
+ His presence soon blows up the kindling fight,
+ And his loud guns speak thick like angry men:
+ It seem'd as slaughter had been breathed all night,
+ And Death new pointed his dull dart again.
+
+ The Dutch too well his mighty conduct knew,
+ And matchless courage since the former fight;
+ Whose navy like a stiff-stretch'd cord did show,
+ Till he bore in and bent them into flight.
+
+ The wind he shares, while half their fleet offends
+ His open side, and high above him shows:
+ Upon the rest at pleasure he descends,
+ And doubly harm'd he double harms bestows.
+
+ Behind the general mends his weary pace,
+ And sullenly to his revenge he sails:
+ So glides some trodden serpent on the grass,
+ And long behind his wounded volume trails.
+
+ The increasing sound is borne to either shore,
+ And for their stakes the throwing nations fear:
+ Their passions double with the cannons' roar,
+ And with warm wishes each man combats there.
+
+ Plied thick and close as when the fight begun,
+ Their huge unwieldy navy wastes away;
+ So sicken waning moons too near the sun,
+ And blunt their crescents on the edge of day.
+
+ And now reduced on equal terms to fight,
+ Their ships like wasted patrimonies show;
+ Where the thin scattering trees admit the light,
+ And shun each other's shadows as they grow.
+
+ The warlike prince had sever'd from the rest
+ Two giant ships, the pride of all the main;
+ Which with his one so vigorously he prest,
+ And flew so home they could not rise again.
+
+ Already batter'd, by his lee they lay,
+ In rain upon the passing winds they call:
+ The passing winds through their torn canvas play,
+ And flagging sails on heartless sailors fall.
+
+ Their open'd sides receive a gloomy light,
+ Dreadful as day let into shades below:
+ Without, grim Death rides barefaced in their sight,
+ And urges entering billows as they flow.
+
+ When one dire shot, the last they could supply,
+ Close by the board the prince's mainmast bore:
+ All three now helpless by each other lie,
+ And this offends not, and those fear no more.
+
+ So have I seen some fearful hare maintain
+ A course, till tired before the dog she lay:
+ Who, stretch'd behind her, pants upon the plain,
+ Past power to kill, as she to get away.
+
+ With his loll'd tongue he faintly licks his prey;
+ His warm breath blows her flix[9] up as she lies;
+ She trembling creeps upon the ground away,
+ And looks back to him with beseeching eyes.
+
+ The prince unjustly does his stars accuse,
+ Which hinder'd him to push his fortune on;
+ For what they to his courage did refuse,
+ By mortal valour never must be done.
+
+ This lucky hour the wise Batavian takes,
+ And warns his tatter'd fleet to follow home;
+ Proud to have so got off with equal stakes,
+ Where 'twas a triumph not to be o'ercome.
+
+ The general's force, as kept alive by fight,
+ Now not opposed, no longer can pursue:
+ Lasting till heaven had done his courage right;
+ When he had conquer'd he his weakness knew.
+
+ He casts a frown on the departing foe,
+ And sighs to see him quit the watery field:
+ His stern fix'd eyes no satisfaction show,
+ For all the glories which the fight did yield.
+
+ Though, as when fiends did miracles avow,
+ He stands confess'd e'en by the boastful Dutch:
+ He only does his conquest disavow,
+ And thinks too little what they found too much.
+
+ Return'd, he with the fleet resolved to stay;
+ No tender thoughts of home his heart divide;
+ Domestic joys and cares he puts away;
+ For realms are households which the great must guide.
+
+ As those who unripe veins in mines explore,
+ On the rich bed again the warm turf lay,
+ Till time digests the yet imperfect ore,
+ And know it will be gold another day:
+
+ So looks our monarch on this early fight,
+ Th' essay and rudiments of great success;
+ Which all-maturing time must bring to light,
+ While he, like Heaven, does each day's labour bless.
+
+ Heaven ended not the first or second day,
+ Yet each was perfect to the work design'd;
+ God and king's work, when they their work survey,
+ A passive aptness in all subjects find.
+
+ In burden'd vessels first, with speedy care,
+ His plenteous stores do seasoned timber send;
+ Thither the brawny carpenters repair,
+ And as the surgeons of maim'd ships attend.
+
+ With cord and canvas from rich Hamburgh sent,
+ His navy's molted wings he imps once more:
+ Tall Norway fir, their masts in battle spent,
+ And English oak, sprung leaks and planks restore.
+
+ All hands employ'd, the royal work grows warm:
+ Like labouring bees on a long summer's day,
+ Some sound the trumpet for the rest to swarm.
+ And some on bells of tasted lilies play.
+
+ With gluey wax some new foundations lay
+ Of virgin-combs, which from the roof are hung:
+ Some arm'd, within doors upon duty stay,
+ Or tend the sick, or educate the young.
+
+ So here some pick out bullets from the sides,
+ Some drive old oakum through each seam and rift:
+ Their left hand does the calking-iron guide,
+ The rattling mallet with the right they lift.
+
+ With boiling pitch another near at hand,
+ From friendly Sweden brought, the seams instops:
+ Which well paid o'er, the salt sea waves withstand,
+ And shakes them from the rising beak in drops.
+
+ Some the gall'd ropes with dauby marline bind,
+ Or sear-cloth masts with strong tarpaulin coats:
+ To try new shrouds one mounts into the wind,
+ And one below their ease or stiffness notes.
+
+ Our careful monarch stands in person by,
+ His new-cast cannons' firmness to explore:
+ The strength of big-corn'd powder loves to try,
+ And ball and cartridge sorts for every bore.
+
+ Each day brings fresh supplies of arms and men,
+ And ships which all last winter were abroad;
+ And such as fitted since the fight had been,
+ Or, new from stocks, were fallen into the road.
+
+ The goodly London in her gallant trim
+ (The Phoenix daughter of the vanish'd old).
+ Like a rich bride does to the ocean swim,
+ And on her shadow rides in floating gold.
+
+ Her flag aloft spread ruffling to the wind,
+ And sanguine streamers seem the flood to fire;
+ The weaver, charm'd with what his loom design'd,
+ Goes on to sea, and knows not to retire.
+
+ With roomy decks, her guns of mighty strength,
+ Whose low-laid mouths each mounting billow laves;
+ Deep in her draught, and warlike in her length,
+ She seems a sea-wasp flying on the waves.
+
+ This martial present, piously design'd,
+ The loyal city give their best-loved King:
+ And with a bounty ample as the wind,
+ Built, fitted, and maintain'd, to aid him bring.
+
+ By viewing Nature, Nature's handmaid, Art,
+ Makes mighty things from small beginnings grow:
+ Thus fishes first to shipping did impart,
+ Their tail the rudder, and their head the prow.
+
+ Some log perhaps upon the waters swam,
+ An useless drift, which, rudely cut within,
+ And, hollow'd, first a floating trough became,
+ And cross some rivulet passage did begin.
+
+ In shipping such as this, the Irish kern,
+ And untaught Indian, on the stream did glide:
+ Ere sharp-keel'd boats to stem the flood did learn,
+ Or fin-like oars did spread from either side.
+
+ Add but a sail, and Saturn so appear'd,
+ When from lost empire he to exile went,
+ And with the golden age to Tiber steer'd,
+ Where coin and commerce first he did invent.
+
+ Rude as their ships was navigation then;
+ No useful compass or meridian known;
+ Coasting, they kept the land within their ken,
+ And knew no North but when the Pole-star shone.
+
+ Of all who since have used the open sea,
+ Than the bold English none more fame have won:
+ Beyond the year, and out of heaven's high way,
+ They make discoveries where they see no sun.
+
+ But what so long in vain, and yet unknown,
+ By poor mankind's benighted wit is sought,
+ Shall in this age to Britain first be shown,
+ And hence be to admiring nations taught.
+
+ The ebbs of tides and their mysterious flow,
+ We, as art's elements, shall understand,
+ And as by line upon the ocean go,
+ Whose paths shall be familiar as the land.
+
+ Instructed ships shall sail to quick commerce,
+ By which remotest regions are allied;
+ Which makes one city of the universe,
+ Where some may gain, and all may be supplied.
+
+ Then we upon our globe's last verge shall go,
+ And view the ocean leaning on the sky:
+ From thence our rolling neighbours we shall know,
+ And on the lunar world securely pry.
+
+ This I foretell from your auspicious care,
+ Who great in search of God and nature grow;
+Who best your wise Creator's praise declare,
+ Since best to praise his works is best to know.
+
+ O truly royal! who behold the law
+ And rule of beings in your Maker's mind:
+ And thence, like limbecks, rich ideas draw,
+ To fit the levell'd use of human-kind.
+
+ But first the toils of war we must endure,
+ And from the injurious Dutch redeem the seas.
+ War makes the valiant of his right secure,
+ And gives up fraud to be chastised with ease.
+
+ Already were the Belgians on our coast,
+ Whose fleet more mighty every day became
+ By late success, which they did falsely boast,
+ And now by first appearing seem'd to claim.
+
+ Designing, subtle, diligent, and close,
+ They knew to manage war with wise delay:
+ Yet all those arts their vanity did cross,
+ And by their pride their prudence did betray.
+
+ Nor stay'd the English long; but, well supplied,
+ Appear as numerous as the insulting foe:
+ The combat now by courage must be tried,
+ And the success the braver nation show.
+
+ There was the Plymouth squadron now come in,
+ Which in the Straits last winter was abroad;
+ Which twice on Biscay's working bay had been,
+ And on the midland sea the French had awed.
+
+ Old expert Allen,[10] loyal all along,
+ Famed for his action on the Smyrna fleet:
+ And Holmes, whose name shall live in epic song,
+ While music numbers, or while verse has feet.
+
+ Holmes, the Achates of the general's fight;
+ Who first bewitch'd our eyes with Guinea gold;
+ As once old Cato in the Roman sight
+ The tempting fruits of Afric did unfold.
+
+ With him went Spragge, as bountiful as brave,
+ Whom his high courage to command had brought:
+ Harman, who did the twice-fired Harry save,
+ And in his burning ship undaunted fought.
+
+ Young Hollis, on a Muse by Mars begot,
+ Born, C�sar-like, to write and act great deeds:
+ Impatient to revenge his fatal shot,
+ His right hand doubly to his left succeeds.
+
+ Thousands were there in darker fame that dwell,
+ Whose deeds some nobler poem shall adorn:
+ And, though to me unknown, they sure fought well
+ Whom Rupert led, and who were British born.
+
+ Of every size an hundred fighting sail:
+ So vast the navy now at anchor rides,
+ That underneath it the press'd waters fail,
+ And with its weight it shoulders off the tides.
+
+ Now anchors weigh'd, the seamen shout so shrill,
+ That heaven and earth and the wide ocean rings:
+ A breeze from westward waits their sails to fill,
+ And rests in those high beds his downy wings.
+
+ The wary Dutch this gathering storm foresaw,
+ And durst not bide it on the English coast:
+ Behind their treacherous shallows they withdraw,
+ And there lay snares to catch the British host.
+
+ So the false spider, when her nets are spread,
+ Deep ambush'd in her silent den does lie:
+ And feels far off the trembling of her thread,
+ Whose filmy cord should bind the struggling fly.
+
+ Then if at last she find him fast beset,
+ She issues forth and runs along her loom:
+ She joys to touch the captive in her net,
+ And drags the little wretch in triumph home.
+
+ The Belgians hoped, that, with disorder'd haste,
+ Our deep-cut keels upon the sands might run:
+ Or, if with caution leisurely were past,
+ Their numerous gross might charge us one by one.
+
+ But with a fore-wind pushing them above,
+ And swelling tide that heaved them from below,
+ O'er the blind flats our warlike squadrons move,
+ And with spread sails to welcome battle go.
+
+ It seem'd as there the British Neptune stood,
+ With all his hosts of waters at command.
+ Beneath them to submit the officious flood;
+ And with his trident shoved them off the sand.
+
+ To the pale foes they suddenly draw near,
+ And summon them to unexpected fight:
+ They start like murderers when ghosts appear,
+ And draw their curtains in the dead of night.
+
+ Now van to van the foremost squadrons meet,
+ The midmost battles hastening up behind,
+ Who view far off the storm of falling sleet,
+ And hear their thunder rattling in the wind.
+
+ At length the adverse admirals appear;
+ The two bold champions of each country's right:
+ Their eyes describe the lists as they come near,
+ And draw the lines of death before they fight.
+
+ The distance judged for shot of every size,
+ The linstocks touch, the ponderous ball expires:
+The vigorous seaman every port-hole plies,
+ And adds his heart to every gun he fires!
+
+ Fierce was the fight on the proud Belgians' side,
+ For honour, which they seldom sought before!
+ But now they by their own vain boasts were tied,
+ And forced at least in show to prize it more.
+
+ But sharp remembrance on the English part,
+ And shame of being match'd by such a foe,
+ Rouse conscious virtue up in every heart,
+ And seeming to be stronger makes them so.
+
+ Nor long the Belgians could that fleet sustain,
+ Which did two generals' fates, and C�sar's bear:
+ Each several ship a victory did gain,
+ As Rupert or as Albemarle were there.
+
+ Their batter'd admiral too soon withdrew,
+ Unthank'd by ours for his unfinish'd fight;
+ But he the minds of his Dutch masters knew,
+ Who call'd that Providence which we call'd flight.
+
+ Never did men more joyfully obey,
+ Or sooner understood the sign to fly:
+ With such alacrity they bore away,
+ As if to praise them all the States stood by.
+
+ O famous leader[11] of the Belgian fleet,
+ Thy monument inscribed such praise shall wear,
+ As Varro, timely flying, once did meet,
+ Because he did not of his Rome despair.
+
+ Behold that navy, which a while before,
+ Provoked the tardy English close to fight,
+ Now draw their beaten vessels close to shore,
+ As larks lie, dared, to shun the hobby's flight.
+
+ Whoe'er would English monuments survey,
+ In other records may our courage know:
+ But let them hide the story of this day,
+ Whose fame was blemish'd by too base a foe.
+
+ Or if too busily they will inquire
+ Into a victory which we disdain;
+ Then let them know the Belgians did retire
+ Before the patron saint[12] of injured Spain.
+
+ Repenting England this revengeful day
+ To Philip's manes did an offering bring:
+ England, which first by leading them astray,
+ Hatch'd up rebellion to destroy her King.
+
+ Our fathers bent their baneful industry,
+ To check a, monarchy that slowly grew;
+ But did not France or Holland's fate foresee,
+ Whose rising power to swift dominion flew.
+
+ In fortune's empire blindly thus we go,
+ And wander after pathless destiny;
+ Whose dark resorts since prudence cannot know,
+ In vain it would provide for what shall be.
+
+ But whate'er English to the bless'd shall go,
+ And the fourth Harry or first Orange meet;
+ Find him disowning of a Bourbon foe,
+ And him detesting a Batavian fleet.
+
+ Now on their coasts our conquering navy rides,
+ Waylays their merchants, and their land besets:
+ Each day new wealth without their care provides;
+ They lie asleep with prizes in their nets.
+
+ So, close behind some promontory lie
+ The huge leviathans to attend their prey;
+ And give no chase, but swallow in the fry,
+ Which through their gaping jaws mistake the way.
+
+ Nor was this all: in ports and roads remote,
+ Destructive fires among whole fleets we send:
+ Triumphant flames upon the water float,
+ And out-bound ships at home their voyage end.
+
+ Those various squadrons variously design'd,
+ Each vessel freighted with a several load,
+ Each squadron waiting for a several wind,
+ All find but one, to burn them in the road.
+
+ Some bound for Guinea, golden sand to find,
+ Bore all the gauds the simple natives wear;
+ Some for the pride of Turkish courts design'd,
+ For folded turbans finest Holland bear.
+
+ Some English wool, vex'd in a Belgian loom,
+ And into cloth of spungy softness made,
+ Did into France, or colder Denmark, doom,
+ To ruin with worse ware our staple trade.
+
+ Our greedy seamen rummage every hold,
+ Smile on the booty of each wealthier chest;
+ And, as the priests who with their gods make bold,
+ Take what they like, and sacrifice the rest.
+
+ But ah! how insincere are all our joys!
+ Which, sent from heaven, like lightning make no stay;
+ Their palling taste the journey's length destroys,
+ Or grief, sent post, o'ertakes them on the way.
+
+ Swell'd with our late successes on the foe,
+ Which France and Holland wanted power to cross,
+ We urge an unseen fate to lay us low,
+ And feed their envious eyes with English loss.
+
+ Each element His dread command obeys,
+ Who makes or ruins with a smile or frown;
+ Who, as by one he did our nation raise,
+ So now he with another pulls us down.
+
+ Yet London, empress of the northern clime,
+ By an high fate thou greatly didst expire;
+ Great as the world's, which, at the death of time
+ Must fall, and rise a nobler frame by fire!
+
+ As when some dire usurper[13] Heaven provides,
+ To scourge his country with a lawless sway;
+ His birth perhaps some petty village hides,
+ And sets his cradle out of fortune's way.
+
+
+ Till fully ripe his swelling fate breaks out,
+ And hurries him to mighty mischiefs on:
+ His prince, surprised at first, no ill could doubt,
+ And wants the power to meet it when 'tis known.
+
+ Such was the rise of this prodigious fire,
+ Which, in mean buildings first obscurely bred,
+ From thence did soon to open streets aspire,
+ And straight to palaces and temples spread.
+
+ The diligence of trades and noiseful gain,
+ And luxury more late, asleep were laid:
+ All was the night's; and in her silent reign
+ No sound the rest of nature did invade.
+
+ In this deep quiet, from what source unknown,
+ Those seeds of fire their fatal birth disclose;
+ And first few scattering sparks about were blown,
+ Big with the flames that to our ruin rose.
+
+ Then in some close-pent room it crept along,
+ And, smouldering as it went, in silence fed;
+ Till the infant monster, with devouring strong,
+ Walk'd boldly upright with exalted head.
+
+ Now like some rich or mighty murderer,
+ Too great for prison, which he breaks with gold;
+ Who fresher for new mischiefs does appear,
+ And dares the world to tax him with the old:
+
+ So 'scapes the insulting fire his narrow jail,
+ And makes small outlets into open air:
+ There the fierce winds his tender force assail,
+ And beat him downward to his first repair.
+
+ The winds, like crafty courtesans, withheld
+ His flames from burning, but to blow them more:
+ And every fresh attempt he is repell'd
+ With faint denials weaker than before.
+
+ And now no longer letted[14] of his prey,
+ He leaps up at it with enraged desire:
+ O'erlooks the neighbours with a wide survey,
+ And nods at every house his threatening fire.
+
+ The ghosts of traitors from the bridge descend,
+ With bold fanatic spectres to rejoice:
+ About the fire into a dance they bend,
+ And sing their sabbath notes with feeble voice.
+
+ Our guardian angel saw them where they sate
+ Above the palace of our slumbering king:
+ He sigh'd, abandoning his charge to fate,
+ And, drooping, oft look'd back upon the wing.
+
+ At length the crackling noise and dreadful blaze
+ Call'd up some waking lover to the sight;
+ And long it was ere he the rest could raise,
+ Whose heavy eyelids yet were full of night.
+
+ The next to danger, hot pursued by fate,
+ Half-clothed, half-naked, hastily retire:
+ And frighted mothers strike their breasts too late,
+ For helpless infants left amidst the fire.
+
+ Their cries soon waken all the dwellers near;
+ Now murmuring noises rise in every street:
+ The more remote run stumbling with their fear,
+ And in the dark men jostle as they meet.
+
+ So weary bees in little cells repose;
+ But if night-robbers lift the well-stored hive,
+ An humming through their waxen city grows,
+ And out upon each other's wings they drive.
+
+ Now streets grow throng'd and busy as by day:
+ Some run for buckets to the hallow'd quire:
+ Some cut the pipes, and some the engines play;
+ And some more bold mount ladders to the fire.
+
+ In vain: for from the east a Belgian wind
+ His hostile breath through the dry rafters sent;
+ The flames impell'd soon left their foes behind,
+ And forward with a wanton fury went.
+
+ A quay of fire ran all along the shore,
+ And lighten'd all the river with a blaze:
+ The waken'd tides began again to roar,
+ And wondering fish in shining waters gaze.
+
+ Old father Thames raised up his reverend head,
+ But fear'd the fate of Simois would return:
+ Deep in his ooze he sought his sedgy bed,
+ And shrunk his waters back into his urn.
+
+ The fire, meantime, walks in a broader gross;
+ To either hand his wings he opens wide:
+ He wades the streets, and straight he reaches cross,
+ And plays his longing flames on the other side.
+
+ At first they warm, then scorch, and then they take;
+ Now with long necks from side to side they feed:
+ At length, grown strong, their mother-fire forsake,
+ And a new colony of flames succeed.
+
+ To every nobler portion of the town
+ The curling billows roll their restless tide:
+ In parties now they straggle up and down,
+ As armies, unopposed, for prey divide.
+
+ One mighty squadron with a side-wind sped,
+ Through narrow lanes his cumber'd fire does haste,
+ By powerful charms of gold and silver led,
+ The Lombard bankers and the 'Change to waste.
+
+ Another backward to the Tower would go,
+ And slowly eats his way against the wind:
+ But the main body of the marching foe
+ Against the imperial palace is design'd.
+
+ Now day appears, and with the day the King,
+ Whose early care had robb'd him of his rest:
+ Far off the cracks of falling houses ring,
+ And shrieks of subjects pierce his tender breast.
+
+ Near as he draws, thick harbingers of smoke
+ With gloomy pillars cover all the place;
+ Whose little intervals of night are broke
+ By sparks, that drive against his sacred face.
+
+ More than his guards, his sorrows made him known,
+ And pious tears, which down his cheeks did shower;
+ The wretched in his grief forgot their own;
+ So much the pity of a king has power.
+
+ He wept the flames of what he loved so well,
+ And what so well had merited his love:
+ For never prince in grace did more excel,
+ Or royal city more in duty strove.
+
+ Nor with an idle care did he behold:
+ Subjects may grieve, but monarchs must redress;
+ He cheers the fearful, and commends the bold,
+ And makes despairers hope for good success.
+
+ Himself directs what first is to be done,
+ And orders all the succours which they bring,
+ The helpful and the good about him run,
+ And form an army worthy such a king.
+
+ He sees the dire contagion spread so fast,
+ That, where it seizes, all relief is vain:
+ And therefore must unwillingly lay waste
+ That country, which would else the foe maintain.
+
+ The powder blows up all before the fire:
+ The amaz�d flames stand gather'd on a heap;
+ And from the precipice's brink retire,
+ Afraid to venture on so large a leap.
+
+ Thus fighting fires a while themselves consume,
+ But straight, like Turks forced on to win or die,
+ They first lay tender bridges of their fume,
+ And o'er the breach in unctuous vapours fly.
+
+ Part stay for passage, till a gust of wind
+ Ships o'er their forces in a shining sheet:
+ Part creeping under ground their journey blind,
+ And climbing from below their fellows meet.
+
+ Thus to some desert plain, or old woodside,
+ Dire night-hags come from far to dance their round;
+ And o'er broad rivers on their fiends they ride,
+ Or sweep in clouds above the blasted ground.
+
+ No help avails: for hydra-like, the fire
+ Lifts up his hundred heads to aim his way;
+ And scarce the wealthy can one half retire,
+ Before he rushes in to share the prey.
+
+ The rich grow suppliant, and the poor grow proud;
+ Those offer mighty gain, and these ask more:
+ So void of pity is the ignoble crowd,
+ When others' ruin may increase their store.
+
+ As those who live by shores with joy behold
+ Some wealthy vessel split or stranded nigh;
+ And from the rocks leap down for shipwreck'd gold,
+ And seek the tempests which the others fly:
+
+ So these but wait the owners' last despair,
+ And what's permitted to the flames invade;
+ Even from their jaws they hungry morsels tear,
+ And on their backs the spoils of Vulcan lade.
+
+ The days were all in this lost labour spent;
+ And when the weary king gave place to night,
+ His beams he to his royal brother lent,
+ And so shone still in his reflective light.
+
+ Night came, but without darkness or repose,--
+ A dismal picture of the general doom,
+ Where souls, distracted when the trumpet blows,
+ And half unready, with their bodies come.
+
+ Those who have homes, when home they do repair,
+ To a last lodging call their wandering friends:
+ Their short uneasy sleeps are broke with care,
+ To look how near their own destruction tends.
+
+ Those who have none, sit round where once it was,
+ And with full eyes each wonted room require;
+ Haunting the yet warm ashes of the place,
+ As murder'd men walk where they did expire.
+
+ Some stir up coals, and watch the vestal fire,
+ Others in vain from sight of ruin run;
+ And, while through burning labyrinths they retire,
+ With loathing eyes repeat what they would shun.
+
+ The most in fields like herded beasts lie down,
+ To dews obnoxious on the grassy floor;
+ And while their babes in sleep their sorrows drown,
+ Sad parents watch the remnants of their store.
+
+ While by the motion of the flames they guess
+ What streets are burning now, and what are near;
+ An infant waking to the paps would press,
+ And meets, instead of milk, a falling tear.
+
+ No thought can ease them but their sovereign's care,
+ Whose praise the afflicted as their comfort sing:
+ Even those whom want might drive to just despair,
+ Think life a blessing under such a king.
+
+ Meantime he sadly suffers in their grief,
+ Out-weeps an hermit, and out-prays a saint:
+ All the long night he studies their relief,
+ How they may be supplied, and he may want.
+
+ O God, said he, thou patron of my days,
+ Guide of my youth in exile and distress!
+ Who me, unfriended, brought'st by wondrous ways,
+ The kingdom of my fathers to possess:
+
+ Be thou my judge, with what unwearied care
+ I since have labour'd for my people's good;
+ To bind the bruises of a civil war,
+ And stop the issues of their wasting blood.
+
+ Thou who hast taught me to forgive the ill,
+ And recompense, as friends, the good misled;
+ If mercy be a precept of thy will,
+ Return that mercy on thy servant's head.
+
+ Or if my heedless youth has stepp'd astray,
+ Too soon forgetful of thy gracious hand;
+ On me alone thy just displeasure lay,
+ But take thy judgments from this mourning land.
+
+ We all have sinn'd, and thou hast laid us low,
+ As humble earth from whence at first we came:
+ Like flying shades before the clouds we show,
+ And shrink like parchment in consuming flame.
+
+ O let it be enough what thou hast done;
+ When spotted Deaths ran arm'd through every street,
+ With poison'd darts which not the good could shun,
+ The speedy could out-fly, or valiant meet.
+
+ The living few, and frequent funerals then,
+ Proclaim'd thy wrath on this forsaken place;
+ And now those few who are return'd again,
+ Thy searching judgments to their dwellings trace.
+
+ O pass not, Lord, an absolute decree,
+ Or bind thy sentence unconditional!
+ But in thy sentence our remorse foresee,
+ And in that foresight this thy doom recall.
+
+ Thy threatenings, Lord, as thine thou mayst revoke:
+ But if immutable and fix'd they stand,
+ Continue still thyself to give the stroke,
+ And let not foreign foes oppress thy land.
+
+ The Eternal heard, and from the heavenly quire
+ Chose out the cherub with the flaming sword;
+ And bade him swiftly drive the approaching fire
+ From where our naval magazines were stored.
+
+ The blessed minister his wings display'd,
+ And like a shooting star he cleft the night:
+ He charged the flames, and those that disobey'd
+ He lash'd to duty with his sword of light.
+
+ The fugitive flames chastised went forth to prey
+ On pious structures, by our fathers rear'd;
+ By which to heaven they did affect the way,
+ Ere faith in churchmen without works was heard.
+
+ The wanting orphans saw, with watery eyes,
+ Their founder's charity in dust laid low;
+ And sent to God their ever-answered cries,
+ For He protects the poor, who made them so.
+
+ Nor could thy fabric, Paul's, defend thee long,
+ Though thou wert sacred to thy Maker's praise:
+ Though made immortal by a poet's song;
+ And poets' songs the Theban walls could raise.
+
+ The daring flames peep'd in, and saw from far
+ The awful beauties of the sacred quire:
+ But since it was profaned by civil war,
+ Heaven thought it fit to have it purged by fire.
+
+ Now down the narrow streets it swiftly came,
+ And widely opening did on both sides prey:
+ This benefit we sadly owe the flame,
+ If only ruin must enlarge our way.
+
+ And now four days the sun had seen our woes:
+ Four nights the moon beheld the incessant fire:
+ It seem'd as if the stars more sickly rose,
+ And farther from the feverish north retire.
+
+ In th' empyrean heaven, the bless'd abode,
+ The Thrones and the Dominions prostrate lie,
+ Not daring to behold their angry God;
+ And a hush'd silence damps the tuneful sky.
+
+ At length the Almighty cast a pitying eye,
+ And mercy softly touch'd his melting breast:
+ He saw the town's one half in rubbish lie,
+ And eager flames drive on to storm the rest.
+
+ An hollow crystal pyramid he takes,
+ In firmamental waters dipt above;
+ Of it a broad extinguisher he makes,
+ And hoods the flames that to their quarry drove.
+
+ The vanquish'd fires withdraw from every place,
+ Or, full with feeding, sink into a sleep:
+ Each household genius shows again his face,
+ And from the hearths the little Lares creep.
+
+ Our King this more than natural change beholds;
+ With sober joy his heart and eyes abound:
+ To the All-good his lifted hands he folds,
+ And thanks him low on his redeemed ground.
+
+ As when sharp frosts had long constrain'd the earth,
+ A kindly thaw unlocks it with mild rain;
+ And first the tender blade peeps up to birth,
+ And straight the green fields laugh with promised grain:
+
+ By such degrees the spreading gladness grew
+ In every heart which fear had froze before:
+ The standing streets with so much joy they view,
+ That with less grief the perish'd they deplore.
+
+ The father of the people open'd wide
+ His stores, and all the poor with plenty fed:
+ Thus God's anointed God's own place supplied,
+ And fill'd the empty with his daily bread.
+
+ This royal bounty brought its own reward,
+ And in their minds so deep did print the sense,
+ That if their ruins sadly they regard,
+ 'Tis but with fear the sight might drive him thence.
+
+ But so may he live long, that town to sway,
+ Which by his auspice they will nobler make,
+ As he will hatch their ashes by his stay,
+ And not their humble ruins now forsake.
+
+ They have not lost their loyalty by fire;
+ Nor is their courage or their wealth so low,
+ That from his wars they poorly would retire,
+ Or beg the pity of a vanquish'd foe.
+
+ Not with more constancy the Jews of old,
+ By Cyrus from rewarded exile sent,
+ Their royal city did in dust behold,
+ Or with more vigour to rebuild it went.
+
+ The utmost malice of their stars is past,
+ And two dire comets, which have scourged the town,
+ In their own plague and fire have breathed the last,
+ Or dimly in their sinking sockets frown.
+
+ Now frequent trines the happier lights among,
+ And high-raised Jove, from his dark prison freed,
+ Those weights took off that on his planet hung,
+ Will gloriously the new-laid work succeed.
+
+ Methinks already from this chemic flame,
+ I see a city of more precious mould:
+ Rich as the town which gives the Indies name,
+ With silver paved, and all divine with gold.
+
+ Already labouring with a mighty fate,
+ She shakes the rubbish from her mounting brow,
+ And seems to have renew'd her charter's date,
+ Which Heaven will to the death of time allow.
+
+ More great than human now, and more august,
+ Now deified she from her fires does rise:
+ Her widening streets on new foundations trust,
+ And opening into larger parts she flies.
+
+ Before, she like some shepherdess did show,
+ Who sat to bathe her by a river's side;
+ Not answering to her fame, but rude and low,
+ Nor taught the beauteous arts of modern pride.
+
+ Now, like a maiden queen, she will behold,
+ From her high turrets, hourly suitors come;
+ The East with incense, and the West with gold,
+ Will stand, like suppliants, to receive her doom!
+
+ The silver Thames, her own domestic flood,
+ Shall bear her vessels like a sweeping train;
+ And often wind, as of his mistress proud,
+ With longing eyes to meet her face again.
+
+ The wealthy Tagus, and the wealthier Rhine,
+ The glory of their towns no more shall boast;
+ And Seine, that would with Belgian rivers join,
+ Shall find her lustre stain'd, and traffic lost.
+
+ The venturous merchant who design'd more far,
+ And touches on our hospitable shore,
+ Charm'd with the splendour of this northern star,
+ Shall here unlade him, and depart no more.
+
+ Our powerful navy shall no longer meet,
+ The wealth of France or Holland to invade;
+ The beauty of this town without a fleet,
+ From all the world shall vindicate her trade.
+
+ And while this famed emporium we prepare,
+ The British ocean shall such triumphs boast,
+ That those, who now disdain our trade to share,
+Shall rob like pirates on our wealthy coast.
+
+ Already we have conquer'd half the war,
+ And the less dangerous part is left behind:
+ Our trouble now is but to make them dare,
+ And not so great to vanquish as to find.
+
+ Thus to the Eastern wealth through storms we go,
+ But now, the Cape once doubled, fear no more;
+ A constant trade-wind will securely blow,
+ And gently lay us on the spicy shore.
+
