@@ -36,10 +36,10 @@ Thanks to the original sites that curated thousands of poems from the public dom
 
 - [Project Gutenberg](http://www.gutenberg.org)
 - [Public Domain Poetry](http://www.public-domain-poetry.com)
+- [Priyatam Mudivarti](http://www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
+- [Sreeharsha Mudivarti](http://lexical.foobar.systems/): musician, programmer, and survivor of a space ship crash.
 
-- Priyatam Mudivarti: writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
-- Sreeharsha Mudivarti: musician, programmer, and survivor of a space ship crash.
-- Ata Moharreri: poet, professor, and former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
+- Ata Moharreri: former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 
 ## Copyright & License
 
