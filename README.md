@@ -37,8 +37,7 @@ Thanks to the original sites that curated thousands of poems from the public dom
 - [Project Gutenberg](http://www.gutenberg.org)
 - [Public Domain Poetry](http://www.public-domain-poetry.com)
 - [Priyatam Mudivarti](http://www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
-- [Sreeharsha Mudivarti](http://lexical.foobar.systems/): musician, programmer, and survivor of a space ship crash.
-
+- [Sreeharsha Mudivarti](http://lexical.foobar.systems/): musician, programmer, and survivor of a space ship crash
 - Ata Moharreri: former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
 
 ## Copyright & License
@@ -47,4 +46,4 @@ Copyright (c) Facjure LLC. All rights reserved.
 
 Poems are available for free for personal or commerical use, provided [Zendown's](https://github.com/poetroid/zendown/blob/master/LICENSE) BSD-style license is retained.
 
-Scripts are available for free using Apache 2 Opensource License.
+Scripts are available for free using [Apache License](https://github.com/poetroid/public-domain/blob/master/LICENSE).
