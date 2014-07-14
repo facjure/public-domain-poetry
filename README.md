@@ -6,44 +6,29 @@ Let's build one.
 
 ## Overview
 
-Three parts: format, metadata, scripts.
+Poems are restored with [Zenup](https://github.com/facjure/zenup), an open format for prose and poetry.
 
-1. Restore poems with a new format: for humans and machines.
-2. Curate poems adding metadata, inline: humans and machines.
-3. Run scripts to find, see, and print poem, offline.
+Accompanied Python scripts provide a convenient way to read, evaluate, and print the results of a poem or a directory of poems.
 
-### Poem format
-
-See [Zendown](https://github.com/poetroid/zendown).
-
-## Scripts
-
-Scripts provide a convenient way to read, evaluate, and print the results of a single, or a directory of poems.
-
-They require Python 2.7.x and pip to manage dependencies. Detailed installation instructions
-are beyond the scope of this document. However if you're a web developer and have a mac, get
-[brew](http://brew.sh/), and run `brew install python` and you're ready to go.
-
-If you're on linux you already know what to do.
+Scripts require Python 2.7.x.
 
 ## Status
 
-40k poems available in this git repo. However future poems will be curated in [Elasticsearch](http://elasticsearch.org/) for better scalability, and realtime performance characteristics.
+40,000 poems are available in this git repo. However future poems will be curated in [Elasticsearch](http://elasticsearch.org/) for better scalability.
 
-## Contributers
+## Credit
 
-Thanks to the original sites that curated thousands of poems from the public domain:
+Thanks to the original sites that hosted thousands of public domain poetry:
 
 - [Project Gutenberg](http://www.gutenberg.org)
 - [Public Domain Poetry](http://www.public-domain-poetry.com)
-- [Priyatam Mudivarti](http://www.priyatam.com): writer, engineer, and founder of [Facjure LLC](http://www.facjure.com)
-- [Sreeharsha Mudivarti](http://lexical.foobar.systems/): musician, programmer, and survivor of a space ship crash
-- Ata Moharreri: former managing editor of [The Massachusetts Review](http://www.massreview.org/editors)
+
+Special thanks to Ata Moharreri, former managing editor of [The Massachusetts Review](http://www.massreview.org/editors) for curating the initial [1500 poems](https://github.com/facjure/poetroid-prototype).
 
 ## Copyright & License
 
 Copyright (c) Facjure LLC. All rights reserved.
 
-Poems are available for free for personal or commerical use, provided [Zendown's](https://github.com/poetroid/zendown/blob/master/LICENSE) BSD-style license is retained.
+Poems are available for free for personal or commercial use, provided [Zenup](https://github.com/facjure/zenup/blob/master/LICENSE) BSD-style license is retained.
 
-Scripts are available for free using [Apache License](https://github.com/poetroid/public-domain/blob/master/LICENSE).
+Scripts are available for free using [Apache License](https://github.com/facjure/public-domain-poetry/blob/master/LICENSE).
